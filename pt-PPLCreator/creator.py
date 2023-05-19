@@ -133,6 +133,7 @@ def create_from_template(DATA_FILE, TEMPLATE_FOLDER, OUTPUT_FOLDER):
         "Recipient",
         "Extra",
         "ATC_EXTRA",
+        "SPOR_EN",
     ]
 
     # create temp_folder:

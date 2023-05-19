@@ -7,11 +7,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002296)
@@ -23,11 +24,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002296)
@@ -39,11 +41,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -55,11 +58,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -71,11 +75,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -87,11 +92,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -103,11 +109,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -119,11 +126,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+//* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+* manufacturedDoseForm = $200000000004#100000073652 "Syrup"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -135,11 +143,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+//* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+* manufacturedDoseForm = $200000000004#100000073657 "Effervescent granules"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -151,11 +160,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -167,11 +177,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -183,11 +194,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -199,11 +211,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -215,11 +228,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004124)
@@ -231,11 +245,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -247,11 +262,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073650 "Granules for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -263,11 +279,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -279,11 +296,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -295,11 +313,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -311,11 +330,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -327,11 +347,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -343,11 +364,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001258)
@@ -359,11 +381,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -375,11 +398,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -391,11 +415,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -407,11 +432,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -423,11 +449,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -439,11 +466,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -455,11 +483,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -471,11 +500,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -487,11 +517,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100001202)
@@ -503,11 +534,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -519,11 +551,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -535,11 +568,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001258)
@@ -551,11 +585,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -567,11 +602,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -583,11 +619,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -599,11 +636,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -615,11 +653,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100043221)
@@ -631,11 +670,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -647,11 +687,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -663,11 +704,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -679,11 +721,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -695,11 +738,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -711,11 +755,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -727,11 +772,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+//* manufacturedDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+* manufacturedDoseForm = $200000000004#100000073642 "Oral drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -743,11 +789,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -759,11 +806,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -775,11 +823,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -791,11 +840,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -807,11 +857,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100019614)
@@ -823,11 +874,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100019614)
@@ -839,11 +891,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+//* manufacturedDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+* manufacturedDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Aplicação"
+* unitOfPresentation = $200000000014#200000002163 "Actuation"
+//* unitOfPresentation = $200000000014#100000110756 "Aplicação"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -855,11 +908,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+//* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+* manufacturedDoseForm = $200000000004#100000073759 "Eye drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100005605)
@@ -871,11 +925,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -887,11 +942,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -903,11 +959,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -919,11 +976,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -935,11 +993,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -951,11 +1010,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -967,11 +1027,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -983,11 +1044,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073650 "Granules for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -999,11 +1061,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002296)
@@ -1015,11 +1078,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073874 "Implante"
+//* manufacturedDoseForm = $200000000004#100000073874 "Implante"
+* manufacturedDoseForm = $200000000004#100000073874 "Implant"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110756 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000235)
@@ -1031,11 +1095,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -1047,11 +1112,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -1063,11 +1129,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+//* manufacturedDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+* manufacturedDoseForm = $200000000004#100000073835 "Nebuliser solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100001209)
@@ -1079,11 +1146,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+//* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+* manufacturedDoseForm = $200000000004#100000073769 "Transdermal system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -1095,11 +1163,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+* manufacturedDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -1111,11 +1180,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -1127,11 +1197,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001258)
@@ -1143,11 +1214,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+//* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+* manufacturedDoseForm = $200000000004#100000073654 "Dispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004124)
@@ -1159,11 +1231,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -1175,11 +1248,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002336)
@@ -1191,11 +1265,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002336)
@@ -1207,11 +1282,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+//* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+* manufacturedDoseForm = $200000000004#100000073657 "Effervescent granules"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -1223,11 +1299,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -1239,11 +1316,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -1255,11 +1333,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009505)
@@ -1271,11 +1350,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009505)
@@ -1287,11 +1367,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -1303,11 +1384,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009492)
@@ -1319,11 +1401,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -1335,11 +1418,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000760)
@@ -1351,11 +1435,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000760)
@@ -1367,11 +1452,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044004)
@@ -1383,11 +1469,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044004)
@@ -1399,11 +1486,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009492)
@@ -1415,11 +1503,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100015070)
@@ -1431,11 +1520,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -1447,11 +1537,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -1463,11 +1554,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005560)
@@ -1479,11 +1571,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -1495,11 +1588,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100032008)
@@ -1511,11 +1605,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100032008)
@@ -1527,11 +1622,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100011241)
@@ -1543,11 +1639,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002296)
@@ -1559,11 +1656,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073650 "Granules for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004481)
@@ -1575,11 +1673,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073874 "Implante"
+//* manufacturedDoseForm = $200000000004#100000073874 "Implante"
+* manufacturedDoseForm = $200000000004#100000073874 "Implant"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110756 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000235)
@@ -1591,11 +1690,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004481)
@@ -1607,11 +1707,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -1623,11 +1724,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100011241)
@@ -1639,11 +1741,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -1655,11 +1758,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100005213)
@@ -1671,11 +1775,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -1687,11 +1792,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002336)
@@ -1703,11 +1809,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -1719,11 +1826,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -1735,11 +1843,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+//* manufacturedDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+* manufacturedDoseForm = $200000000004#100000073642 "Oral drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -1751,11 +1860,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -1767,11 +1877,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000345)
@@ -1783,11 +1894,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000345)
@@ -1799,11 +1911,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+* manufacturedDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -1815,11 +1928,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+* manufacturedDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -1831,11 +1945,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073859 "Pó para solução para perfusão"
+//* manufacturedDoseForm = $200000000004#100000073859 "Pó para solução para perfusão"
+* manufacturedDoseForm = $200000000004#100000073859 "Powder for solution for infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -1847,11 +1962,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -1863,11 +1979,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Cartucho"
+* unitOfPresentation = $200000000014#0 "None"
+//* unitOfPresentation = $200000000014#100000110662 "Cartucho"
 
 
 *  manufacturer = Reference(LOC-100000869)
@@ -1879,11 +1996,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -1895,11 +2013,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -1911,11 +2030,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+//* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+* manufacturedDoseForm = $200000000004#100000073759 "Eye drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100005605)
@@ -1927,11 +2047,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -1943,11 +2064,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -1959,11 +2081,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -1975,11 +2098,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000385)
@@ -1991,11 +2115,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000345)
@@ -2007,11 +2132,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000345)
@@ -2023,11 +2149,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -2039,11 +2166,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -2055,11 +2183,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -2071,11 +2200,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -2087,11 +2217,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -2103,11 +2234,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000367)
@@ -2119,11 +2251,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000367)
@@ -2135,11 +2268,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000367)
@@ -2151,11 +2285,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001950)
@@ -2167,11 +2302,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -2183,11 +2319,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -2199,11 +2336,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -2215,11 +2353,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -2231,11 +2370,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -2247,11 +2387,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -2263,11 +2404,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -2279,11 +2421,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -2295,11 +2438,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -2311,11 +2455,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -2327,11 +2472,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000499)
@@ -2343,11 +2489,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -2359,11 +2506,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -2375,11 +2523,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
+//* manufacturedDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
+* manufacturedDoseForm = $200000000004#100000073729 "Cutaneous spray, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110654 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000312)
@@ -2391,11 +2540,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -2407,11 +2557,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -2423,11 +2574,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -2439,11 +2591,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -2455,11 +2608,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -2471,11 +2625,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100057661)
@@ -2487,11 +2642,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -2503,11 +2659,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -2519,11 +2676,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -2535,11 +2693,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073733 "Pó cutâneo"
+//* manufacturedDoseForm = $200000000004#100000073733 "Pó cutâneo"
+* manufacturedDoseForm = $200000000004#100000073733 "Cutaneous powder"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110654 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -2551,11 +2710,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -2567,11 +2727,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -2583,11 +2744,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100003164)
@@ -2599,11 +2761,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -2615,11 +2778,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -2631,11 +2795,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -2647,11 +2812,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100003164)
@@ -2663,11 +2829,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073839 "Pó para inalação"
+//* manufacturedDoseForm = $200000000004#100000073839 "Pó para inalação"
+* manufacturedDoseForm = $200000000004#100000073839 "Inhalation powder"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Aplicação"
+* unitOfPresentation = $200000000014#200000002163 "Actuation"
+//* unitOfPresentation = $200000000014#100000110756 "Aplicação"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -2679,11 +2846,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001307)
@@ -2695,11 +2863,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -2711,11 +2880,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073364 "Pó para solução oral"
+//* manufacturedDoseForm = $200000000004#100000073364 "Pó para solução oral"
+* manufacturedDoseForm = $200000000004#100000073364 "Powder for oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -2727,11 +2897,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -2743,11 +2914,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -2759,11 +2931,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -2775,11 +2948,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100011502)
@@ -2791,11 +2965,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100011502)
@@ -2807,11 +2982,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100011502)
@@ -2823,11 +2999,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100011502)
@@ -2839,11 +3016,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -2855,11 +3033,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -2871,11 +3050,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -2887,11 +3067,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -2903,11 +3084,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002816)
@@ -2919,11 +3101,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002816)
@@ -2935,11 +3118,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002816)
@@ -2951,11 +3135,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100049955)
@@ -2967,11 +3152,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049955)
@@ -2983,11 +3169,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -2999,11 +3186,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000367)
@@ -3015,11 +3203,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009497)
@@ -3031,11 +3220,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+* manufacturedDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100002356)
@@ -3047,11 +3237,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -3063,11 +3254,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -3079,11 +3271,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -3095,11 +3288,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -3111,11 +3305,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000385)
@@ -3127,11 +3322,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000385)
@@ -3143,11 +3339,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000385)
@@ -3159,11 +3356,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000385)
@@ -3175,11 +3373,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002336)
@@ -3191,11 +3390,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100015280)
@@ -3207,11 +3407,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073864 "Suspensão injetável"
+//* manufacturedDoseForm = $200000000004#100000073864 "Suspensão injetável"
+* manufacturedDoseForm = $200000000004#100000073864 "Suspension for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -3223,11 +3424,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -3239,11 +3441,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -3255,11 +3458,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -3271,11 +3475,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -3287,11 +3492,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -3303,11 +3509,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+//* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+* manufacturedDoseForm = $200000000004#100000073759 "Eye drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100001202)
@@ -3319,11 +3526,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073828 "Pomada retal"
+//* manufacturedDoseForm = $200000000004#100000073828 "Pomada retal"
+* manufacturedDoseForm = $200000000004#100000073828 "Rectal ointment"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100052627)
@@ -3335,11 +3543,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005560)
@@ -3351,11 +3560,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100001575)
@@ -3367,11 +3577,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073744 "Penso impregnado"
+//* manufacturedDoseForm = $200000000004#100000073744 "Penso impregnado"
+* manufacturedDoseForm = $200000000004#100000073744 "Impregnated dressing"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Penso"
+* unitOfPresentation = $200000000014#200000002120 "Dressing"
+//* unitOfPresentation = $200000000014#100000110756 "Penso"
 
 
 *  manufacturer = Reference(LOC-100001575)
@@ -3383,11 +3594,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -3399,11 +3611,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+//* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+* manufacturedDoseForm = $200000000004#100000073654 "Dispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -3415,11 +3628,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -3431,11 +3645,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -3447,11 +3662,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073713 "Pomada"
+//* manufacturedDoseForm = $200000000004#100000073713 "Pomada"
+* manufacturedDoseForm = $200000000004#100000073713 "Ointment"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -3463,11 +3679,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100038152)
@@ -3479,11 +3696,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073824 "Comprimido vaginal"
+//* manufacturedDoseForm = $200000000004#100000073824 "Comprimido vaginal"
+* manufacturedDoseForm = $200000000004#100000073824 "Vaginal tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -3495,11 +3713,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001575)
@@ -3511,11 +3730,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -3527,11 +3747,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -3543,11 +3764,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -3559,11 +3781,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004607)
@@ -3575,11 +3798,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100020259)
@@ -3591,11 +3815,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -3607,11 +3832,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -3623,11 +3849,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000367)
@@ -3639,11 +3866,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000367)
@@ -3655,11 +3883,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073695 "Gel bucal"
+//* manufacturedDoseForm = $200000000004#100000073695 "Gel bucal"
+* manufacturedDoseForm = $200000000004#100000073695 "Oromucosal gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000312)
@@ -3671,11 +3900,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073713 "Pomada"
+//* manufacturedDoseForm = $200000000004#100000073713 "Pomada"
+* manufacturedDoseForm = $200000000004#100000073713 "Ointment"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000312)
@@ -3687,11 +3917,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100002336)
@@ -3703,11 +3934,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100002336)
@@ -3719,11 +3951,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000345)
@@ -3735,11 +3968,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000345)
@@ -3751,11 +3985,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100000345)
@@ -3767,11 +4002,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100011241)
@@ -3783,11 +4019,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073731 "Solução cutânea"
+//* manufacturedDoseForm = $200000000004#100000073731 "Solução cutânea"
+* manufacturedDoseForm = $200000000004#100000073731 "Cutaneous solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100011241)
@@ -3799,11 +4036,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073719 "Emulsão cutânea"
+//* manufacturedDoseForm = $200000000004#100000073719 "Emulsão cutânea"
+* manufacturedDoseForm = $200000000004#100000073719 "Cutaneous emulsion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100011241)
@@ -3815,11 +4053,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001362)
@@ -3831,11 +4070,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -3847,11 +4087,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073731 "Solução cutânea"
+//* manufacturedDoseForm = $200000000004#100000073731 "Solução cutânea"
+* manufacturedDoseForm = $200000000004#100000073731 "Cutaneous solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -3863,11 +4104,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000385)
@@ -3879,11 +4121,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044011)
@@ -3895,11 +4138,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044011)
@@ -3911,11 +4155,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044011)
@@ -3927,11 +4172,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044011)
@@ -3943,11 +4189,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073824 "Comprimido vaginal"
+//* manufacturedDoseForm = $200000000004#100000073824 "Comprimido vaginal"
+* manufacturedDoseForm = $200000000004#100000073824 "Vaginal tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -3959,11 +4206,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -3975,11 +4223,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073731 "Solução cutânea"
+//* manufacturedDoseForm = $200000000004#100000073731 "Solução cutânea"
+* manufacturedDoseForm = $200000000004#100000073731 "Cutaneous solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -3991,11 +4240,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+//* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+* manufacturedDoseForm = $200000000004#100000073769 "Transdermal system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -4007,11 +4257,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+//* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+* manufacturedDoseForm = $200000000004#100000073769 "Transdermal system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -4023,11 +4274,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073698 "Comprimido sublingual"
+//* manufacturedDoseForm = $200000000004#100000073698 "Comprimido sublingual"
+* manufacturedDoseForm = $200000000004#100000073698 "Sublingual tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100003000)
@@ -4039,11 +4291,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -4055,11 +4308,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100001249)
@@ -4071,11 +4325,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100001249)
@@ -4087,11 +4342,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049955)
@@ -4103,11 +4359,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100001358)
@@ -4119,11 +4376,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073713 "Pomada"
+//* manufacturedDoseForm = $200000000004#100000073713 "Pomada"
+* manufacturedDoseForm = $200000000004#100000073713 "Ointment"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100001202)
@@ -4135,11 +4393,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -4151,11 +4410,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -4167,11 +4427,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -4183,11 +4444,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073364 "Pó para solução oral"
+//* manufacturedDoseForm = $200000000004#100000073364 "Pó para solução oral"
+* manufacturedDoseForm = $200000000004#100000073364 "Powder for oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -4199,11 +4461,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100003164)
@@ -4215,11 +4478,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100043918)
@@ -4231,11 +4495,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100005213)
@@ -4247,11 +4512,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+//* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+* manufacturedDoseForm = $200000000004#100000073769 "Transdermal system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100014495)
@@ -4263,11 +4529,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+//* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+* manufacturedDoseForm = $200000000004#100000073769 "Transdermal system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100014495)
@@ -4279,11 +4546,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -4295,11 +4563,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073819 "Creme retal"
+//* manufacturedDoseForm = $200000000004#100000073819 "Creme retal"
+* manufacturedDoseForm = $200000000004#100000073819 "Rectal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100044004)
@@ -4311,11 +4580,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -4327,11 +4597,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073871 "Concentrado para solução para perfusão"
+//* manufacturedDoseForm = $200000000004#100000073871 "Concentrado para solução para perfusão"
+* manufacturedDoseForm = $200000000004#100000073871 "Concentrate for solution for infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -4343,11 +4614,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -4359,11 +4631,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100015280)
@@ -4375,11 +4648,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100043221)
@@ -4391,11 +4665,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001258)
@@ -4407,11 +4682,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073829 "Solução retal"
+//* manufacturedDoseForm = $200000000004#100000073829 "Solução retal"
+* manufacturedDoseForm = $200000000004#100000073829 "Rectal solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -4423,11 +4699,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073829 "Solução retal"
+//* manufacturedDoseForm = $200000000004#100000073829 "Solução retal"
+* manufacturedDoseForm = $200000000004#100000073829 "Rectal solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -4439,11 +4716,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -4455,11 +4733,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -4471,11 +4750,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -4487,11 +4767,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -4503,11 +4784,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073828 "Pomada retal"
+//* manufacturedDoseForm = $200000000004#100000073828 "Pomada retal"
+* manufacturedDoseForm = $200000000004#100000073828 "Rectal ointment"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -4519,11 +4801,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -4535,11 +4818,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -4551,11 +4835,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+//* manufacturedDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+* manufacturedDoseForm = $200000000004#100000073642 "Oral drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -4567,11 +4852,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -4583,11 +4869,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -4599,11 +4886,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -4615,11 +4903,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -4631,11 +4920,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001529)
@@ -4647,11 +4937,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -4663,11 +4954,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073819 "Creme retal"
+//* manufacturedDoseForm = $200000000004#100000073819 "Creme retal"
+* manufacturedDoseForm = $200000000004#100000073819 "Rectal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100058736)
@@ -4679,11 +4971,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100058736)
@@ -4695,11 +4988,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001258)
@@ -4711,11 +5005,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+//* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+* manufacturedDoseForm = $200000000004#100000073870 "Solution for infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -4727,11 +5022,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -4743,11 +5039,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+//* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+* manufacturedDoseForm = $200000000004#100000073652 "Syrup"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -4759,11 +5056,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+//* manufacturedDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+* manufacturedDoseForm = $200000000004#100000073835 "Nebuliser solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002295)
@@ -4775,11 +5073,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -4791,11 +5090,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -4807,11 +5107,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100036806)
@@ -4823,11 +5124,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000125706 "Solução para pulverização bucal"
+//* manufacturedDoseForm = $200000000004#100000125706 "Solução para pulverização bucal"
+* manufacturedDoseForm = $200000000004#100000125706 "Oromucosal spray, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100003009)
@@ -4839,11 +5141,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004481)
@@ -4855,11 +5158,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000367)
@@ -4871,11 +5175,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -4887,11 +5192,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -4903,11 +5209,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044011)
@@ -4919,11 +5226,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044011)
@@ -4935,11 +5243,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -4951,11 +5260,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001307)
@@ -4967,11 +5277,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -4983,11 +5294,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -4999,11 +5311,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+//* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+* manufacturedDoseForm = $200000000004#100000073769 "Transdermal system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -5015,11 +5328,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001950)
@@ -5031,11 +5345,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+//* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+* manufacturedDoseForm = $200000000004#100000073769 "Transdermal system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -5047,11 +5362,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -5063,11 +5379,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -5079,11 +5396,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100057661)
@@ -5095,11 +5413,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073650 "Granules for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004481)
@@ -5111,11 +5430,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -5127,11 +5447,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -5143,11 +5464,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -5159,11 +5481,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -5175,11 +5498,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -5191,11 +5515,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -5207,11 +5532,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -5223,11 +5549,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -5239,11 +5566,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -5255,11 +5583,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -5271,11 +5600,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+//* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+* manufacturedDoseForm = $200000000004#100000073654 "Dispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -5287,11 +5617,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -5303,11 +5634,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+//* manufacturedDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+* manufacturedDoseForm = $200000000004#100000073642 "Oral drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -5319,11 +5651,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -5335,11 +5668,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+//* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+* manufacturedDoseForm = $200000000004#100000073818 "Vaginal delivery system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -5351,11 +5685,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -5367,11 +5702,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -5383,11 +5719,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -5399,11 +5736,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -5415,11 +5753,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100003164)
@@ -5431,11 +5770,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000312)
@@ -5447,11 +5787,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -5463,11 +5804,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+//* manufacturedDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+* manufacturedDoseForm = $200000000004#100000073769 "Transdermal system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -5479,11 +5821,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Caneta"
+* unitOfPresentation = $200000000014#200000002135 "Pen"
+//* unitOfPresentation = $200000000014#100000110662 "Caneta"
 
 
 *  manufacturer = Reference(LOC-100000869)
@@ -5495,11 +5838,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -5511,11 +5855,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -5527,11 +5872,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -5543,11 +5889,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -5559,11 +5906,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -5575,11 +5923,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -5591,11 +5940,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -5607,11 +5957,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+//* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+* manufacturedDoseForm = $200000000004#100000073657 "Effervescent granules"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -5623,11 +5974,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073828 "Pomada retal"
+//* manufacturedDoseForm = $200000000004#100000073828 "Pomada retal"
+* manufacturedDoseForm = $200000000004#100000073828 "Rectal ointment"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100017235)
@@ -5639,11 +5991,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -5655,11 +6008,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -5671,11 +6025,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -5687,11 +6042,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -5703,11 +6059,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -5719,11 +6076,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -5735,11 +6093,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -5751,11 +6110,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -5767,11 +6127,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -5783,11 +6144,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -5799,11 +6161,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -5815,11 +6178,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -5831,11 +6195,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -5847,11 +6212,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -5863,11 +6229,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -5879,11 +6246,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -5895,11 +6263,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -5911,11 +6280,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -5927,11 +6297,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -5943,11 +6314,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -5959,11 +6331,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -5975,11 +6348,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -5991,11 +6365,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -6007,11 +6382,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -6023,11 +6399,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -6039,11 +6416,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -6055,11 +6433,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -6071,11 +6450,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -6087,11 +6467,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -6103,11 +6484,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -6119,11 +6501,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -6135,11 +6518,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -6151,11 +6535,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -6167,11 +6552,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -6183,11 +6569,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -6199,11 +6586,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -6215,11 +6603,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -6231,11 +6620,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -6247,11 +6637,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -6263,11 +6654,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -6279,11 +6671,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+//* manufacturedDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+* manufacturedDoseForm = $200000000004#100000073666 "Orodispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100057661)
@@ -6295,11 +6688,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+//* manufacturedDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+* manufacturedDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Aplicação"
+* unitOfPresentation = $200000000014#200000002163 "Actuation"
+//* unitOfPresentation = $200000000014#100000110756 "Aplicação"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -6311,11 +6705,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -6327,11 +6722,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6343,11 +6739,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6359,11 +6756,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6375,11 +6773,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -6391,11 +6790,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+//* manufacturedDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+* manufacturedDoseForm = $200000000004#100000073835 "Nebuliser solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6407,11 +6807,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -6423,11 +6824,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100015070)
@@ -6439,11 +6841,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100015070)
@@ -6455,11 +6858,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100015070)
@@ -6471,11 +6875,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6487,11 +6892,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6503,11 +6909,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -6519,11 +6926,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6535,11 +6943,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -6551,11 +6960,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -6567,11 +6977,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -6583,11 +6994,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -6599,11 +7011,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100015280)
@@ -6615,11 +7028,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -6631,11 +7045,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005784)
@@ -6647,11 +7062,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005784)
@@ -6663,11 +7079,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005784)
@@ -6679,11 +7096,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005784)
@@ -6695,11 +7113,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -6711,11 +7130,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -6727,11 +7147,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100001358)
@@ -6743,11 +7164,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001799)
@@ -6759,11 +7181,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100051078)
@@ -6775,11 +7198,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005744)
@@ -6791,11 +7215,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -6807,11 +7232,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049542)
@@ -6823,11 +7249,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005784)
@@ -6839,11 +7266,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005784)
@@ -6855,11 +7283,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -6871,11 +7300,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073656 "Pó efervescente"
+//* manufacturedDoseForm = $200000000004#100000073656 "Pó efervescente"
+* manufacturedDoseForm = $200000000004#100000073656 "Effervescent powder"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -6887,11 +7317,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6903,11 +7334,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -6919,11 +7351,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -6935,11 +7368,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -6951,11 +7385,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -6967,11 +7402,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -6983,11 +7419,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+//* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+* manufacturedDoseForm = $200000000004#100000073714 "Medicated plaster"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Emplastro"
+* unitOfPresentation = $200000000014#200000002140 "Plaster"
+//* unitOfPresentation = $200000000014#100000110756 "Emplastro"
 
 
 *  manufacturer = Reference(LOC-100001799)
@@ -6999,11 +7436,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7015,11 +7453,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7031,11 +7470,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7047,11 +7487,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001076)
@@ -7063,11 +7504,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001076)
@@ -7079,11 +7521,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001076)
@@ -7095,11 +7538,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -7111,11 +7555,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -7127,11 +7572,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -7143,11 +7589,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -7159,11 +7606,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -7175,11 +7623,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7191,11 +7640,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -7207,11 +7657,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -7223,11 +7674,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7239,11 +7691,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7255,11 +7708,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7271,11 +7725,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100003393)
@@ -7287,11 +7742,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100003393)
@@ -7303,11 +7759,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -7319,11 +7776,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -7335,11 +7793,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -7351,11 +7810,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -7367,11 +7827,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -7383,11 +7844,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -7399,11 +7861,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -7415,11 +7878,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+//* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+* manufacturedDoseForm = $200000000004#100000073870 "Solution for infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002098)
@@ -7431,11 +7895,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -7447,11 +7912,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -7463,11 +7929,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+//* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+* manufacturedDoseForm = $200000000004#100000073759 "Eye drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100003380)
@@ -7479,11 +7946,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7495,11 +7963,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -7511,11 +7980,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -7527,11 +7997,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -7543,11 +8014,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -7559,11 +8031,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -7575,11 +8048,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -7591,11 +8065,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -7607,11 +8082,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -7623,11 +8099,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -7639,11 +8116,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7655,11 +8133,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7671,11 +8150,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -7687,11 +8167,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -7703,11 +8184,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -7719,11 +8201,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -7735,11 +8218,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -7751,11 +8235,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -7767,11 +8252,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -7783,11 +8269,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -7799,11 +8286,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -7815,11 +8303,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -7831,11 +8320,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -7847,11 +8337,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -7863,11 +8354,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+//* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+* manufacturedDoseForm = $200000000004#100000073714 "Medicated plaster"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Emplastro"
+* unitOfPresentation = $200000000014#200000002140 "Plaster"
+//* unitOfPresentation = $200000000014#100000110756 "Emplastro"
 
 
 *  manufacturer = Reference(LOC-100000170)
@@ -7879,11 +8371,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -7895,11 +8388,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -7911,11 +8405,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -7927,11 +8422,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -7943,11 +8439,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7959,11 +8456,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -7975,11 +8473,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+//* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+* manufacturedDoseForm = $200000000004#100000073365 "Granules for oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -7991,11 +8490,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+//* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+* manufacturedDoseForm = $200000000004#100000073365 "Granules for oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -8007,11 +8507,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+//* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+* manufacturedDoseForm = $200000000004#100000073365 "Granules for oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -8023,11 +8524,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+//* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+* manufacturedDoseForm = $200000000004#100000073365 "Granules for oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -8039,11 +8541,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -8055,11 +8558,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -8071,11 +8575,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -8087,11 +8592,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -8103,11 +8609,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -8119,11 +8626,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -8135,11 +8643,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -8151,11 +8660,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100068545)
@@ -8167,11 +8677,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -8183,11 +8694,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -8199,11 +8711,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -8215,11 +8728,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -8231,11 +8745,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+//* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+* manufacturedDoseForm = $200000000004#100000073652 "Syrup"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -8247,11 +8762,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -8263,11 +8779,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -8279,11 +8796,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -8295,11 +8813,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -8311,11 +8830,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -8327,11 +8847,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -8343,11 +8864,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -8359,11 +8881,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -8375,11 +8898,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -8391,11 +8915,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -8407,11 +8932,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -8423,11 +8949,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -8439,11 +8966,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -8455,11 +8983,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -8471,11 +9000,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -8487,11 +9017,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -8503,11 +9034,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -8519,11 +9051,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -8535,11 +9068,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -8551,11 +9085,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -8567,11 +9102,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -8583,11 +9119,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -8599,11 +9136,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -8615,11 +9153,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -8631,11 +9170,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -8647,11 +9187,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -8663,11 +9204,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -8679,11 +9221,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -8695,11 +9238,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001799)
@@ -8711,11 +9255,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -8727,11 +9272,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+* manufacturedDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100002356)
@@ -8743,11 +9289,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001258)
@@ -8759,11 +9306,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001362)
@@ -8775,11 +9323,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -8791,11 +9340,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004586)
@@ -8807,11 +9357,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100038152)
@@ -8823,11 +9374,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -8839,11 +9391,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -8855,11 +9408,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+* manufacturedDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100000367)
@@ -8871,11 +9425,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001258)
@@ -8887,11 +9442,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -8903,11 +9459,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -8919,11 +9476,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -8935,11 +9493,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -8951,11 +9510,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -8967,11 +9527,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -8983,11 +9544,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100000869)
@@ -8999,11 +9561,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9015,11 +9578,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9031,11 +9595,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9047,11 +9612,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -9063,11 +9629,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -9079,11 +9646,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -9095,11 +9663,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -9111,11 +9680,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -9127,11 +9697,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -9143,11 +9714,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -9159,11 +9731,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -9175,11 +9748,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -9191,11 +9765,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -9207,11 +9782,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -9223,11 +9799,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -9239,11 +9816,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -9255,11 +9833,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -9271,11 +9850,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -9287,11 +9867,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Cartucho"
+* unitOfPresentation = $200000000014#0 "None"
+//* unitOfPresentation = $200000000014#100000110662 "Cartucho"
 
 
 *  manufacturer = Reference(LOC-100003009)
@@ -9303,11 +9884,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044004)
@@ -9319,11 +9901,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044004)
@@ -9335,11 +9918,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9351,11 +9935,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9367,11 +9952,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -9383,11 +9969,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005560)
@@ -9399,11 +9986,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004586)
@@ -9415,11 +10003,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004586)
@@ -9431,11 +10020,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004586)
@@ -9447,11 +10037,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9463,11 +10054,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100071064)
@@ -9479,11 +10071,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073691 "Solução bucal"
+//* manufacturedDoseForm = $200000000004#100000073691 "Solução bucal"
+* manufacturedDoseForm = $200000000004#100000073691 "Oromucosal solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -9495,11 +10088,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -9511,11 +10105,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+//* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+* manufacturedDoseForm = $200000000004#100000073657 "Effervescent granules"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100057661)
@@ -9527,11 +10122,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9543,11 +10139,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -9559,11 +10156,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -9575,11 +10173,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -9591,11 +10190,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -9607,11 +10207,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -9623,11 +10224,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -9639,11 +10241,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -9655,11 +10258,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9671,11 +10275,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -9687,11 +10292,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -9703,11 +10309,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -9719,11 +10326,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009492)
@@ -9735,11 +10343,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001799)
@@ -9751,11 +10360,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -9767,11 +10377,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -9783,11 +10394,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100035485)
@@ -9799,11 +10411,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -9815,11 +10428,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -9831,11 +10445,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -9847,11 +10462,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -9863,11 +10479,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -9879,11 +10496,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -9895,11 +10513,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -9911,11 +10530,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -9927,11 +10547,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -9943,11 +10564,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -9959,11 +10581,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -9975,11 +10598,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -9991,11 +10615,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100050544)
@@ -10007,11 +10632,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001799)
@@ -10023,11 +10649,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000159)
@@ -10039,11 +10666,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10055,11 +10683,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -10071,11 +10700,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -10087,11 +10717,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -10103,11 +10734,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -10119,11 +10751,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -10135,11 +10768,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -10151,11 +10785,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10167,11 +10802,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10183,11 +10819,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -10199,11 +10836,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -10215,11 +10853,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -10231,11 +10870,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -10247,11 +10887,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002296)
@@ -10263,11 +10904,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -10279,11 +10921,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -10295,11 +10938,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10311,11 +10955,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000385)
@@ -10327,11 +10972,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10343,11 +10989,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10359,11 +11006,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -10375,11 +11023,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -10391,11 +11040,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -10407,11 +11057,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -10423,11 +11074,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+//* manufacturedDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+* manufacturedDoseForm = $200000000004#100000073666 "Orodispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -10439,11 +11091,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -10455,11 +11108,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -10471,11 +11125,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -10487,11 +11142,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -10503,11 +11159,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -10519,11 +11176,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -10535,11 +11193,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -10551,11 +11210,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -10567,11 +11227,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -10583,11 +11244,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10599,11 +11261,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10615,11 +11278,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10631,11 +11295,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+//* manufacturedDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+* manufacturedDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Aplicação"
+* unitOfPresentation = $200000000014#200000002163 "Actuation"
+//* unitOfPresentation = $200000000014#100000110756 "Aplicação"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -10647,11 +11312,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -10663,11 +11329,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100035485)
@@ -10679,11 +11346,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -10695,11 +11363,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -10711,11 +11380,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -10727,11 +11397,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -10743,11 +11414,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -10759,11 +11431,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -10775,11 +11448,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -10791,11 +11465,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -10807,11 +11482,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100011241)
@@ -10823,11 +11499,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -10839,11 +11516,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -10855,11 +11533,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -10871,11 +11550,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -10887,11 +11567,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -10903,11 +11584,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -10919,11 +11601,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049542)
@@ -10935,11 +11618,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+//* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+* manufacturedDoseForm = $200000000004#100000073652 "Syrup"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -10951,11 +11635,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073880 "Gel uretral"
+//* manufacturedDoseForm = $200000000004#100000073880 "Gel uretral"
+* manufacturedDoseForm = $200000000004#100000073880 "Urethral gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100009206)
@@ -10967,11 +11652,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100057661)
@@ -10983,11 +11669,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000312)
@@ -10999,11 +11686,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -11015,11 +11703,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -11031,11 +11720,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -11047,11 +11737,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -11063,11 +11754,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -11079,11 +11771,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -11095,11 +11788,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100007231)
@@ -11111,11 +11805,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100007231)
@@ -11127,11 +11822,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -11143,11 +11839,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -11159,11 +11856,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -11175,11 +11873,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000159)
@@ -11191,11 +11890,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001098)
@@ -11207,11 +11907,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100014593)
@@ -11223,11 +11924,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -11239,11 +11941,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010531)
@@ -11255,11 +11958,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+//* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+* manufacturedDoseForm = $200000000004#100000073870 "Solution for infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100000167)
@@ -11271,11 +11975,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Cartucho"
+* unitOfPresentation = $200000000014#0 "None"
+//* unitOfPresentation = $200000000014#100000110662 "Cartucho"
 
 
 *  manufacturer = Reference(LOC-100000292)
@@ -11287,11 +11992,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -11303,11 +12009,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -11319,11 +12026,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+//* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+* manufacturedDoseForm = $200000000004#100000073818 "Vaginal delivery system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100050021)
@@ -11335,11 +12043,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+//* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+* manufacturedDoseForm = $200000000004#100000073870 "Solution for infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100000366)
@@ -11351,11 +12060,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -11367,11 +12077,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -11383,11 +12094,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -11399,11 +12111,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -11415,11 +12128,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005744)
@@ -11431,11 +12145,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -11447,11 +12162,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -11463,11 +12179,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -11479,11 +12196,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100020259)
@@ -11495,11 +12213,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100050045)
@@ -11511,11 +12230,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -11527,11 +12247,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100014112)
@@ -11543,11 +12264,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100014112)
@@ -11559,11 +12281,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -11575,11 +12298,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049542)
@@ -11591,11 +12315,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -11607,11 +12332,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000369)
@@ -11623,11 +12349,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -11639,11 +12366,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001799)
@@ -11655,11 +12383,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001799)
@@ -11671,11 +12400,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+//* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+* manufacturedDoseForm = $200000000004#100000073870 "Solution for infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100006899)
@@ -11687,11 +12417,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+* manufacturedDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100000292)
@@ -11703,11 +12434,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+* manufacturedDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100000292)
@@ -11719,11 +12451,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -11735,11 +12468,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -11751,11 +12485,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -11767,11 +12502,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000369)
@@ -11783,11 +12519,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -11799,11 +12536,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -11815,11 +12553,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -11831,11 +12570,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -11847,11 +12587,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -11863,11 +12604,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -11879,11 +12621,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -11895,11 +12638,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009517)
@@ -11911,11 +12655,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -11927,11 +12672,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -11943,11 +12689,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -11959,11 +12706,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+//* manufacturedDoseForm = $200000000004#100000073870 "Solução para perfusão"
+* manufacturedDoseForm = $200000000004#100000073870 "Solution for infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100059447)
@@ -11975,11 +12723,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -11991,11 +12740,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -12007,11 +12757,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -12023,11 +12774,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -12039,11 +12791,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -12055,11 +12808,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+//* manufacturedDoseForm = $200000000004#100000073657 "Granulado efervescente"
+* manufacturedDoseForm = $200000000004#100000073657 "Effervescent granules"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -12071,11 +12825,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -12087,11 +12842,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -12103,11 +12859,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -12119,11 +12876,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -12135,11 +12893,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -12151,11 +12910,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -12167,11 +12927,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -12183,11 +12944,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -12199,11 +12961,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001799)
@@ -12215,11 +12978,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -12231,11 +12995,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -12247,11 +13012,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+//* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+* manufacturedDoseForm = $200000000004#100000073714 "Medicated plaster"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Emplastro"
+* unitOfPresentation = $200000000014#200000002140 "Plaster"
+//* unitOfPresentation = $200000000014#100000110756 "Emplastro"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -12263,11 +13029,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100019061)
@@ -12279,11 +13046,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100019061)
@@ -12295,11 +13063,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -12311,11 +13080,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -12327,11 +13097,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -12343,11 +13114,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+//* manufacturedDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+* manufacturedDoseForm = $200000000004#100000073666 "Orodispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100057661)
@@ -12359,11 +13131,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -12375,11 +13148,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -12391,11 +13165,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -12407,11 +13182,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -12423,11 +13199,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -12439,11 +13216,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -12455,11 +13233,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -12471,11 +13250,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -12487,11 +13267,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -12503,11 +13284,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -12519,11 +13301,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -12535,11 +13318,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -12551,11 +13335,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -12567,11 +13352,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -12583,11 +13369,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
+//* manufacturedDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
+* manufacturedDoseForm = $200000000004#100000073668 "Modified-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -12599,11 +13386,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
+//* manufacturedDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
+* manufacturedDoseForm = $200000000004#100000073668 "Modified-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -12615,11 +13403,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100002356)
@@ -12631,11 +13420,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -12647,11 +13437,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -12663,11 +13454,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -12679,11 +13471,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000369)
@@ -12695,11 +13488,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -12711,11 +13505,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -12727,11 +13522,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -12743,11 +13539,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -12759,11 +13556,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
+//* manufacturedDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
+* manufacturedDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100000366)
@@ -12775,11 +13573,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -12791,11 +13590,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -12807,11 +13607,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010527)
@@ -12823,11 +13624,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -12839,11 +13641,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -12855,11 +13658,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -12871,11 +13675,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -12887,11 +13692,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+//* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+* manufacturedDoseForm = $200000000004#100000073652 "Syrup"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -12903,11 +13709,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -12919,11 +13726,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -12935,11 +13743,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100044004)
@@ -12951,11 +13760,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000760)
@@ -12967,11 +13777,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -12983,11 +13794,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -12999,11 +13811,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -13015,11 +13828,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -13031,11 +13845,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -13047,11 +13862,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049542)
@@ -13063,11 +13879,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049542)
@@ -13079,11 +13896,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -13095,11 +13913,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -13111,11 +13930,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -13127,11 +13947,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -13143,11 +13964,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+//* manufacturedDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+* manufacturedDoseForm = $200000000004#100000073666 "Orodispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009505)
@@ -13159,11 +13981,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13175,11 +13998,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13191,11 +14015,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13207,11 +14032,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -13223,11 +14049,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -13239,11 +14066,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -13255,11 +14083,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -13271,11 +14100,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -13287,11 +14117,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -13303,11 +14134,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -13319,11 +14151,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13335,11 +14168,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13351,11 +14185,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -13367,11 +14202,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000976)
@@ -13383,11 +14219,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -13399,11 +14236,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001750)
@@ -13415,11 +14253,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13431,11 +14270,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
+//* manufacturedDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
+* manufacturedDoseForm = $200000000004#200000016495 "Eye drops, solution in single-dose container"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100003380)
@@ -13447,11 +14287,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002098)
@@ -13463,11 +14304,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002098)
@@ -13479,11 +14321,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100035243)
@@ -13495,11 +14338,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010527)
@@ -13511,11 +14355,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100035243)
@@ -13527,11 +14372,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -13543,11 +14389,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
+//* manufacturedDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
+* manufacturedDoseForm = $200000000004#100000073729 "Cutaneous spray, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100000760)
@@ -13559,11 +14406,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -13575,11 +14423,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -13591,11 +14440,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -13607,11 +14457,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -13623,11 +14474,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100014112)
@@ -13639,11 +14491,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -13655,11 +14508,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -13671,11 +14525,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -13687,11 +14542,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001950)
@@ -13703,11 +14559,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+//* manufacturedDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+* manufacturedDoseForm = $200000000004#100000073681 "Effervescent tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001950)
@@ -13719,11 +14576,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073372 "Granulado"
+//* manufacturedDoseForm = $200000000004#100000073372 "Granulado"
+* manufacturedDoseForm = $200000000004#100000073372 "Granules"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -13735,11 +14593,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100014112)
@@ -13751,11 +14610,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073700 "Comprimido para chupar"
+//* manufacturedDoseForm = $200000000004#100000073700 "Comprimido para chupar"
+* manufacturedDoseForm = $200000000004#100000073700 "Compressed lozenge"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -13767,11 +14627,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -13783,11 +14644,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000853)
@@ -13799,11 +14661,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -13815,11 +14678,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -13831,11 +14695,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -13847,11 +14712,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -13863,11 +14729,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Ampola"
+* unitOfPresentation = $200000000014#200000002164 "Ampoule"
+//* unitOfPresentation = $200000000014#100000110662 "Ampola"
 
 
 *  manufacturer = Reference(LOC-100005605)
@@ -13879,11 +14746,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -13895,11 +14763,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -13911,11 +14780,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -13927,11 +14797,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13943,11 +14814,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13959,11 +14831,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -13975,11 +14848,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -13991,11 +14865,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -14007,11 +14882,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -14023,11 +14899,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -14039,11 +14916,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -14055,11 +14933,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -14071,11 +14950,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -14087,11 +14967,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -14103,11 +14984,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -14119,11 +15001,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100004086)
@@ -14135,11 +15018,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001950)
@@ -14151,11 +15035,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001950)
@@ -14167,11 +15052,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -14183,11 +15069,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -14199,11 +15086,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -14215,11 +15103,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100005626)
@@ -14231,11 +15120,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Caneta"
+* unitOfPresentation = $200000000014#200000002135 "Pen"
+//* unitOfPresentation = $200000000014#100000110662 "Caneta"
 
 
 *  manufacturer = Reference(LOC-100005434)
@@ -14247,11 +15137,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -14263,11 +15154,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -14279,11 +15171,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -14295,11 +15188,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -14311,11 +15205,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -14327,11 +15222,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -14343,11 +15239,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -14359,11 +15256,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
+//* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
+* manufacturedDoseForm = $200000000004#100000073365 "Granules for oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100059447)
@@ -14375,11 +15273,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+//* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+* manufacturedDoseForm = $200000000004#100000073759 "Eye drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100005605)
@@ -14391,11 +15290,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000292)
@@ -14407,11 +15307,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -14423,11 +15324,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -14439,11 +15341,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000973)
@@ -14455,11 +15358,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -14471,11 +15375,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -14487,11 +15392,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005744)
@@ -14503,11 +15409,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -14519,11 +15426,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -14535,11 +15443,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -14551,11 +15460,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -14567,11 +15477,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -14583,11 +15494,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -14599,11 +15511,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -14615,11 +15528,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -14631,11 +15545,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -14647,11 +15562,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -14663,11 +15579,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -14679,11 +15596,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -14695,11 +15613,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -14711,11 +15630,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -14727,11 +15647,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -14743,11 +15664,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073773 "Colírio, emulsão"
+//* manufacturedDoseForm = $200000000004#100000073773 "Colírio, emulsão"
+* manufacturedDoseForm = $200000000004#100000073773 "Eye drops, emulsion"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100003380)
@@ -14759,11 +15681,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -14775,11 +15698,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -14791,11 +15715,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -14807,11 +15732,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -14823,11 +15749,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -14839,11 +15766,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -14855,11 +15783,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -14871,11 +15800,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049955)
@@ -14887,11 +15817,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Caneta"
+* unitOfPresentation = $200000000014#200000002135 "Pen"
+//* unitOfPresentation = $200000000014#100000110662 "Caneta"
 
 
 *  manufacturer = Reference(LOC-100000869)
@@ -14903,11 +15834,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -14919,11 +15851,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -14935,11 +15868,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -14951,11 +15885,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005764)
@@ -14967,11 +15902,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -14983,11 +15919,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -14999,11 +15936,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Caneta"
+* unitOfPresentation = $200000000014#200000002135 "Pen"
+//* unitOfPresentation = $200000000014#100000110662 "Caneta"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -15015,11 +15953,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15031,11 +15970,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15047,11 +15987,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -15063,11 +16004,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -15079,11 +16021,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -15095,11 +16038,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100019815)
@@ -15111,11 +16055,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -15127,11 +16072,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -15143,11 +16089,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000369)
@@ -15159,11 +16106,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004365)
@@ -15175,11 +16123,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -15191,11 +16140,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -15207,11 +16157,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -15223,11 +16174,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -15239,11 +16191,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -15255,11 +16208,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -15271,11 +16225,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -15287,11 +16242,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100014112)
@@ -15303,11 +16259,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100014112)
@@ -15319,11 +16276,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15335,11 +16293,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15351,11 +16310,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073816 "Cápsula mole vaginal"
+//* manufacturedDoseForm = $200000000004#100000073816 "Cápsula mole vaginal"
+* manufacturedDoseForm = $200000000004#100000073816 "Vaginal capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -15367,11 +16327,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+//* manufacturedDoseForm = $200000000004#100000073863 "Solução injetável"
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -15383,11 +16344,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -15399,11 +16361,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -15415,11 +16378,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -15431,11 +16395,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15447,11 +16412,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15463,11 +16429,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -15479,11 +16446,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -15495,11 +16463,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -15511,11 +16480,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -15527,11 +16497,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15543,11 +16514,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15559,11 +16531,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15575,11 +16548,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -15591,11 +16565,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15607,11 +16582,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15623,11 +16599,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15639,11 +16616,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -15655,11 +16633,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -15671,11 +16650,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -15687,11 +16667,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -15703,11 +16684,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15719,11 +16701,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15735,11 +16718,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15751,11 +16735,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15767,11 +16752,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -15783,11 +16769,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -15799,11 +16786,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -15815,11 +16803,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100054211)
@@ -15831,11 +16820,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100054211)
@@ -15847,11 +16837,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15863,11 +16854,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15879,11 +16871,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15895,11 +16888,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -15911,11 +16905,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -15927,11 +16922,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -15943,11 +16939,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -15959,11 +16956,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -15975,11 +16973,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+//* manufacturedDoseForm = $200000000004#100000073660 "Cápsula mole"
+* manufacturedDoseForm = $200000000004#100000073660 "Capsule, soft"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -15991,11 +16990,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+//* manufacturedDoseForm = $200000000004#100000073652 "Xarope"
+* manufacturedDoseForm = $200000000004#100000073652 "Syrup"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -16007,11 +17007,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -16023,11 +17024,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -16039,11 +17041,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+//* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+* manufacturedDoseForm = $200000000004#100000073818 "Vaginal delivery system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100004595)
@@ -16055,11 +17058,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+//* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+* manufacturedDoseForm = $200000000004#100000073818 "Vaginal delivery system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -16071,11 +17075,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+//* manufacturedDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+* manufacturedDoseForm = $200000000004#100000073818 "Vaginal delivery system"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Sistema"
+* unitOfPresentation = $200000000014#200000002151 "System"
+//* unitOfPresentation = $200000000014#100000110756 "Sistema"
 
 
 *  manufacturer = Reference(LOC-100019553)
@@ -16087,11 +17092,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100059447)
@@ -16103,11 +17109,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100059447)
@@ -16119,11 +17126,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100059447)
@@ -16135,11 +17143,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100059447)
@@ -16151,11 +17160,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -16167,11 +17177,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -16183,11 +17194,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -16199,11 +17211,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -16215,11 +17228,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002296)
@@ -16231,11 +17245,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073828 "Pomada retal"
+//* manufacturedDoseForm = $200000000004#100000073828 "Pomada retal"
+* manufacturedDoseForm = $200000000004#100000073828 "Rectal ointment"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -16247,11 +17262,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -16263,11 +17279,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -16279,11 +17296,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+//* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+* manufacturedDoseForm = $200000000004#100000073654 "Dispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -16295,11 +17313,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -16311,11 +17330,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100023179)
@@ -16327,11 +17347,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004595)
@@ -16343,11 +17364,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100023179)
@@ -16359,11 +17381,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100023179)
@@ -16375,11 +17398,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100023179)
@@ -16391,11 +17415,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100023179)
@@ -16407,11 +17432,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -16423,11 +17449,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -16439,11 +17466,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -16455,11 +17483,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -16471,11 +17500,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -16487,11 +17517,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -16503,11 +17534,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -16519,11 +17551,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100015280)
@@ -16535,11 +17568,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+//* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+* manufacturedDoseForm = $200000000004#100000073654 "Dispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -16551,11 +17585,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+//* manufacturedDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+* manufacturedDoseForm = $200000000004#100000073654 "Dispersible tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -16567,11 +17602,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100070132)
@@ -16583,11 +17619,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -16599,11 +17636,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -16615,11 +17653,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -16631,11 +17670,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -16647,11 +17687,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -16663,11 +17704,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -16679,11 +17721,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -16695,11 +17738,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+//* manufacturedDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+* manufacturedDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -16711,11 +17755,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -16727,11 +17772,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -16743,11 +17789,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -16759,11 +17806,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -16775,11 +17823,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -16791,11 +17840,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -16807,11 +17857,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -16823,11 +17874,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -16839,11 +17891,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -16855,11 +17908,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002880)
@@ -16871,11 +17925,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100071854)
@@ -16887,11 +17942,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100071854)
@@ -16903,11 +17959,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -16919,11 +17976,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -16935,11 +17993,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -16951,11 +18010,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -16967,11 +18027,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
+//* manufacturedDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
+* manufacturedDoseForm = $200000000004#100000073365 "Granules for oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110756 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100005744)
@@ -16983,11 +18044,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -16999,11 +18061,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17015,11 +18078,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17031,11 +18095,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17047,11 +18112,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -17063,11 +18129,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17079,11 +18146,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17095,11 +18163,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17111,11 +18180,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17127,11 +18197,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17143,11 +18214,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17159,11 +18231,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17175,11 +18248,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004422)
@@ -17191,11 +18265,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17207,11 +18282,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17223,11 +18299,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17239,11 +18316,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17255,11 +18333,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17271,11 +18350,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17287,11 +18367,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17303,11 +18384,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+//* manufacturedDoseForm = $200000000004#100000073375 "Cápsula"
+* manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Cápsula"
+* unitOfPresentation = $200000000014#200000002113 "Capsule"
+//* unitOfPresentation = $200000000014#100000110756 "Cápsula"
 
 
 *  manufacturer = Reference(LOC-100000197)
@@ -17319,11 +18401,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110662 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -17335,11 +18418,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+//* manufacturedDoseForm = $200000000004#100000073646 "Solução oral"
+* manufacturedDoseForm = $200000000004#100000073646 "Oral solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110662 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -17351,11 +18435,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100005626)
@@ -17367,11 +18452,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100005626)
@@ -17383,11 +18469,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100005626)
@@ -17399,11 +18486,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100005626)
@@ -17415,11 +18503,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -17431,11 +18520,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17447,11 +18537,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17463,11 +18554,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17479,11 +18571,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -17495,11 +18588,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -17511,11 +18605,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -17527,11 +18622,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -17543,11 +18639,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -17559,11 +18656,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -17575,11 +18673,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -17591,11 +18690,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -17607,11 +18707,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -17623,11 +18724,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -17639,11 +18741,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -17655,11 +18758,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004531)
@@ -17671,11 +18775,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -17687,11 +18792,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -17703,11 +18809,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+//* manufacturedDoseForm = $200000000004#100000073759 "Colírio, solução"
+* manufacturedDoseForm = $200000000004#100000073759 "Eye drops, solution"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Recipiente"
+* unitOfPresentation = $200000000014#200000002116 "Container"
+//* unitOfPresentation = $200000000014#100000110662 "Recipiente"
 
 
 *  manufacturer = Reference(LOC-100003380)
@@ -17719,11 +18826,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -17735,11 +18843,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -17751,11 +18860,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -17767,11 +18877,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -17783,11 +18894,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -17799,11 +18911,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
+//* manufacturedDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
+* manufacturedDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco para injetáveis"
 
 
 *  manufacturer = Reference(LOC-100011398)
@@ -17815,11 +18928,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -17831,11 +18945,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -17847,11 +18962,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -17863,11 +18979,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100006727)
@@ -17879,11 +18996,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -17895,11 +19013,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -17911,11 +19030,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -17927,11 +19047,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001538)
@@ -17943,11 +19064,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Caneta"
+* unitOfPresentation = $200000000014#200000002135 "Pen"
+//* unitOfPresentation = $200000000014#100000110662 "Caneta"
 
 
 *  manufacturer = Reference(LOC-100054215)
@@ -17959,11 +19081,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100001337)
@@ -17975,11 +19098,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100015474)
@@ -17991,11 +19115,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -18007,11 +19132,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -18023,11 +19149,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005784)
@@ -18039,11 +19166,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005784)
@@ -18055,11 +19183,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18071,11 +19200,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18087,11 +19217,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -18103,11 +19234,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -18119,11 +19251,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -18135,11 +19268,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+//* manufacturedDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+* manufacturedDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110662 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -18151,11 +19285,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+//* manufacturedDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+* manufacturedDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110662 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -18167,11 +19302,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+//* manufacturedDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+* manufacturedDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Saqueta"
+* unitOfPresentation = $200000000014#200000002143 "Sachet"
+//* unitOfPresentation = $200000000014#100000110662 "Saqueta"
 
 
 *  manufacturer = Reference(LOC-100010538)
@@ -18183,11 +19319,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+//* manufacturedDoseForm = $200000000004#100000073712 "Creme"
+* manufacturedDoseForm = $200000000004#100000073712 "Cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -18199,11 +19336,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100049955)
@@ -18215,11 +19353,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+//* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+* manufacturedDoseForm = $200000000004#100000073714 "Medicated plaster"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Emplastro"
+* unitOfPresentation = $200000000014#200000002140 "Plaster"
+//* unitOfPresentation = $200000000014#100000110756 "Emplastro"
 
 
 *  manufacturer = Reference(LOC-100002888)
@@ -18231,11 +19370,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -18247,11 +19387,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -18263,11 +19404,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -18279,11 +19421,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18295,11 +19438,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18311,11 +19455,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18327,11 +19472,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18343,11 +19489,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18359,11 +19506,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18375,11 +19523,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100004123)
@@ -18391,11 +19540,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100057827)
@@ -18407,11 +19557,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -18423,11 +19574,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+//* manufacturedDoseForm = $200000000004#100000073380 "Comprimido revestido"
+* manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005728)
@@ -18439,11 +19591,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004595)
@@ -18455,11 +19608,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -18471,11 +19625,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+//* manufacturedDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+* manufacturedDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -18487,11 +19642,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -18503,11 +19659,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -18519,11 +19676,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18535,11 +19693,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18551,11 +19710,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18567,11 +19727,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000003971 "Gel intrauterino"
+//* manufacturedDoseForm = $200000000004#200000003971 "Gel intrauterino"
+* manufacturedDoseForm = $200000000004#200000003971 "Intrauterine gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Seringa"
+* unitOfPresentation = $200000000014#200000002150 "Syringe"
+//* unitOfPresentation = $200000000014#100000110662 "Seringa"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -18583,11 +19744,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -18599,11 +19761,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -18615,11 +19778,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -18631,11 +19795,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -18647,11 +19812,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100002348)
@@ -18663,11 +19829,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100058580)
@@ -18679,11 +19846,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -18695,11 +19863,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -18711,11 +19880,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+//* manufacturedDoseForm = $200000000004#100000073843 "Supositório"
+* manufacturedDoseForm = $200000000004#100000073843 "Suppository"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Supositório"
+* unitOfPresentation = $200000000014#200000002149 "Suppository"
+//* unitOfPresentation = $200000000014#100000110756 "Supositório"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -18727,11 +19897,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100009540)
@@ -18743,11 +19914,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -18759,11 +19931,12 @@ Usage: #example
 
 
 * status = #active
+//* manufacturedDoseForm = $200000000004#100000073726 "Gel"
 * manufacturedDoseForm = $200000000004#100000073726 "Gel"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100002967)
@@ -18775,11 +19948,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18791,11 +19965,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18807,11 +19982,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18823,11 +19999,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18839,11 +20016,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -18855,11 +20033,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100005505)
@@ -18871,11 +20050,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+//* manufacturedDoseForm = $200000000004#100000073811 "Creme vaginal"
+* manufacturedDoseForm = $200000000004#100000073811 "Vaginal cream"
 
 
-
-* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
+* unitOfPresentation = $200000000014#200000002156 "Tube"
+//* unitOfPresentation = $200000000014#100000110654 "Bisnaga"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -18887,11 +20067,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18903,11 +20084,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000372)
@@ -18919,11 +20101,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100005531)
@@ -18935,11 +20118,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100000339)
@@ -18951,11 +20135,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -18967,11 +20152,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -18983,11 +20169,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -18999,11 +20186,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -19015,11 +20203,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -19031,11 +20220,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004397)
@@ -19047,11 +20237,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073362 "Suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073362 "Oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110662 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100069480)
@@ -19063,11 +20254,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100014508)
@@ -19079,11 +20271,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100031673)
@@ -19095,11 +20288,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+//* manufacturedDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+* manufacturedDoseForm = $200000000004#100000073649 "Powder for oral suspension"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Frasco"
+* unitOfPresentation = $200000000014#200000002111 "Bottle"
+//* unitOfPresentation = $200000000014#100000110756 "Frasco"
 
 
 *  manufacturer = Reference(LOC-100031673)
@@ -19111,11 +20305,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -19127,11 +20322,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -19143,11 +20339,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -19159,11 +20356,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100004619)
@@ -19175,11 +20373,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -19191,11 +20390,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+//* manufacturedDoseForm = $200000000004#100000073664 "Comprimido"
+* manufacturedDoseForm = $200000000004#100000073664 "Tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100022865)
@@ -19207,11 +20407,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+//* manufacturedDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+* manufacturedDoseForm = $200000000004#100000073714 "Medicated plaster"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Emplastro"
+* unitOfPresentation = $200000000014#200000002140 "Plaster"
+//* unitOfPresentation = $200000000014#100000110756 "Emplastro"
 
 
 *  manufacturer = Reference(LOC-100002998)
@@ -19223,11 +20424,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -19239,11 +20441,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+//* manufacturedDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+* manufacturedDoseForm = $200000000004#100000073684 "Chewable tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100007476)
@@ -19255,11 +20458,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001274)
@@ -19271,11 +20475,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001305)
@@ -19287,11 +20492,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+//* manufacturedDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+* manufacturedDoseForm = $200000000004#100000073665 "Film-coated tablet"
 
 
-
-* unitOfPresentation = $200000000014#100000110756 "Comprimido"
+* unitOfPresentation = $200000000014#200000002152 "Tablet"
+//* unitOfPresentation = $200000000014#100000110756 "Comprimido"
 
 
 *  manufacturer = Reference(LOC-100001653)
@@ -19303,11 +20509,12 @@ Usage: #example
 
 
 * status = #active
-* manufacturedDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+//* manufacturedDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+* manufacturedDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
 
 
-
-* unitOfPresentation = $200000000014#100000110662 "Caneta"
+* unitOfPresentation = $200000000014#200000002135 "Pen"
+//* unitOfPresentation = $200000000014#100000110662 "Caneta"
 
 
 *  manufacturer = Reference(LOC-100002098)

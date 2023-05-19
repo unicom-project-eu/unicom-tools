@@ -3,11 +3,11 @@ from os import listdir
 import json
 
 
-FOLDER = "ee-PPLCreator-v2/fhir-data/fsh-generated/resources"
-# FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
+# FOLDER = "ee-PPLCreator-v2/fhir-data/fsh-generated/resources"
+FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
 
 SERVER = "http://fhir.hl7.pt:8080/fhir/"
-SERVER = "https://jpa.unicom.datawizard.it/fhir/"
+# SERVER = "https://jpa.unicom.datawizard.it/fhir/"
 
 ORDER_LIST = [
     "Organization",

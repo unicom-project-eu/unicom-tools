@@ -14,8 +14,10 @@ Usage: #example
 
 * formOf = Reference(mp-{{row["MED ID"]}})
 
-* administrableDoseForm = $200000000004#{{ row["administrableDoseForm 6.2 RMS-ID"]}} "{{ row["administrableDoseForm 6.2\t Descrição \n(description)"] }}"
-* unitOfPresentation = $200000000014#{{row["Unit of presentation 6.3 RMS-ID"]}} "{{row["Unit of presentation 6.3\t Descrição \n(description)"] }}"
+//* administrableDoseForm = $200000000004#{{ row["administrableDoseForm 6.2 RMS-ID"]}} "{{ row["administrableDoseForm 6.2\t Descrição \n(description)"] }}"
+//* unitOfPresentation = $200000000014#{{row["Unit of presentation 6.3 RMS-ID"]}} "{{row["Unit of presentation 6.3\t Descrição \n(description)"] }}"
+* administrableDoseForm = $200000000004#{{ row["administrableDoseForm 6.2 RMS-ID"]}} "{{ row["administrableDoseForm 6.2 RMS-ID"]|get_data_from_sheet(data["data"],"SPOR_EN","200000000004_descr","200000000004") }}"
+* unitOfPresentation = $200000000014#{{row["Unit of presentation 6.3 RMS-ID"]}} "{{row["Unit of presentation 6.3 RMS-ID"]|get_data_from_sheet(data["data"],"SPOR_EN","200000000014_descr","200000000014")}}"
 
 
 //reference to ManufacturedProduct 
@@ -33,7 +35,8 @@ Usage: #example
 
 {% for idx in range(0,ns.route_id.count(";")+1) %} 
 
-* routeOfAdministration[+].code = $100000073345#{{ ns.route_id.split(";")[idx]|trim}} "{{ row["Route of Administration 6.6 Descrição \n(description)"].split(";")[idx]|trim }}"
+* routeOfAdministration[+].code = $100000073345#{{ ns.route_id.split(";")[idx]|trim}} "{{ ns.route_id.split(";")[idx]|trim|int|get_data_from_sheet(data["data"],"SPOR_EN","100000073345_descr","100000073345") }}"
+//* routeOfAdministration[+].code = $100000073345#{{ ns.route_id.split(";")[idx]|trim}} "{{ row["Route of Administration 6.6 Descrição \n(description)"].split(";")[idx]|trim }}"
 {%- endfor %}
 
 {%- endfor %}

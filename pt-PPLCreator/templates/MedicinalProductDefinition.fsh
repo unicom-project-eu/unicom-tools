@@ -26,7 +26,10 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#{{row["Forma Farmacêutica \n(Pharmaceutical form)"]|get_data_from_sheet(data["data"],"Pharm Form | U. of Presenta.","ID_SPOR","Forma Farmacêutica\n(pharmaceutical form)")|trim|int}} "{{row["Forma Farmacêutica \n(Pharmaceutical form)"]}}"
+{% set ns.spor_ff = row["Forma Farmacêutica \n(Pharmaceutical form)"]|get_data_from_sheet(data["data"],"Pharm Form | U. of Presenta.","ID_SPOR","Forma Farmacêutica\n(pharmaceutical form)")|trim|int %}
+
+* combinedPharmaceuticalDoseForm = $200000000004#{{ns.spor_ff}} "{{ns.spor_ff|get_data_from_sheet(data["data"],"SPOR_EN","200000000004_descr","200000000004")}}"
+//* combinedPharmaceuticalDoseForm = $200000000004#{{row["Forma Farmacêutica \n(Pharmaceutical form)"]|get_data_from_sheet(data["data"],"Pharm Form | U. of Presenta.","ID_SPOR","Forma Farmacêutica\n(pharmaceutical form)")|trim|int}} "{{row["Forma Farmacêutica \n(Pharmaceutical form)"]}}"
 
 {% for idx in range(0,ns.atc_ema.count(";")+1) %} 
 

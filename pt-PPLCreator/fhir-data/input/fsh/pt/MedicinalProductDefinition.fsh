@@ -22,7 +22,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -63,7 +65,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -104,7 +108,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -145,7 +151,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -186,7 +194,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -227,7 +237,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -268,7 +280,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -309,7 +323,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
@@ -350,7 +366,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
@@ -391,7 +409,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -432,7 +452,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -473,7 +495,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -514,7 +538,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -555,7 +581,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -596,7 +624,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -637,7 +667,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granules for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
 
  
 
@@ -678,7 +710,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -719,7 +753,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
 
  
 
@@ -760,7 +796,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -801,7 +839,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -842,7 +882,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -883,7 +925,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -924,7 +968,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -965,7 +1011,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -1006,7 +1054,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -1047,7 +1097,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -1088,7 +1140,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -1129,7 +1183,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -1170,7 +1226,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -1211,7 +1269,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -1252,7 +1312,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -1293,7 +1355,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -1334,7 +1398,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -1375,7 +1441,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -1416,7 +1484,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -1457,7 +1527,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -1498,7 +1570,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -1539,7 +1613,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -1580,7 +1656,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -1621,7 +1699,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -1662,7 +1742,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -1703,7 +1785,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -1744,7 +1828,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -1785,7 +1871,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -1826,7 +1914,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -1867,7 +1957,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Oral drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
 
  
 
@@ -1908,7 +2000,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -1949,7 +2043,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -1990,7 +2086,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -2031,7 +2129,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -2072,7 +2172,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -2113,7 +2215,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -2154,7 +2258,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
 
  
 
@@ -2195,7 +2301,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
@@ -2236,7 +2344,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
 
  
 
@@ -2277,7 +2387,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -2318,7 +2430,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -2359,7 +2473,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -2400,7 +2516,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -2441,7 +2559,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -2482,7 +2602,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -2523,7 +2645,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granules for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
 
  
 
@@ -2564,7 +2688,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -2605,7 +2731,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implant"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"
 
  
 
@@ -2646,7 +2774,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -2687,7 +2817,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -2728,7 +2860,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Nebuliser solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
 
  
 
@@ -2769,7 +2903,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
@@ -2810,7 +2946,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
@@ -2851,7 +2989,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -2892,7 +3032,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -2933,7 +3075,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
@@ -2974,7 +3118,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -3015,7 +3161,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -3056,7 +3204,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -3097,7 +3247,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
@@ -3138,7 +3290,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3179,7 +3333,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3220,7 +3376,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3261,7 +3419,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3302,7 +3462,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3343,7 +3505,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3384,7 +3548,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3425,7 +3591,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3466,7 +3634,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3507,7 +3677,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3548,7 +3720,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3589,7 +3763,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3630,7 +3806,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3671,7 +3849,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3712,7 +3892,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -3753,7 +3935,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -3794,7 +3978,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -3835,7 +4021,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -3876,7 +4064,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -3917,7 +4107,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -3958,7 +4150,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -3999,7 +4193,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granules for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
 
  
 
@@ -4040,7 +4236,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implant"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"
 
  
 
@@ -4081,7 +4279,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -4122,7 +4322,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -4163,7 +4365,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -4204,7 +4408,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -4245,7 +4451,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -4286,7 +4494,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -4327,7 +4537,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -4368,7 +4580,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -4409,7 +4623,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -4450,7 +4666,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Oral drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
 
  
 
@@ -4491,7 +4709,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -4532,7 +4752,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -4573,7 +4795,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -4614,7 +4838,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
@@ -4655,7 +4881,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
@@ -4696,7 +4924,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073859 "Pó para solução para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073859 "Powder for solution for infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073859 "Pó para solução para perfusão"
 
  
 
@@ -4737,7 +4967,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -4778,7 +5010,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -4819,7 +5053,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
 
  
 
@@ -4860,7 +5096,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -4901,7 +5139,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
@@ -4942,7 +5182,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -4983,7 +5225,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -5024,7 +5268,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -5065,7 +5311,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -5106,7 +5354,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -5147,7 +5397,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -5188,7 +5440,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -5229,7 +5483,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -5270,7 +5526,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -5311,7 +5569,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -5352,7 +5612,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -5393,7 +5655,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -5434,7 +5698,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -5475,7 +5741,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -5516,7 +5784,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -5557,7 +5827,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -5602,7 +5874,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -5643,7 +5917,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -5684,7 +5960,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -5725,7 +6003,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -5766,7 +6046,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -5807,7 +6089,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -5848,7 +6132,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -5889,7 +6175,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -5930,7 +6218,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -5971,7 +6261,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -6012,7 +6304,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -6053,7 +6347,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -6094,7 +6390,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Cutaneous spray, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
 
  
 
@@ -6135,7 +6433,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -6176,7 +6476,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -6217,7 +6519,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -6258,7 +6562,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -6299,7 +6605,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -6340,7 +6648,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -6381,7 +6691,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6422,7 +6734,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6463,7 +6777,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -6504,7 +6820,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073733 "Pó cutâneo"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073733 "Cutaneous powder"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073733 "Pó cutâneo"
 
  
 
@@ -6545,7 +6863,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6586,7 +6906,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6627,7 +6949,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6668,7 +6992,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -6709,7 +7035,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6750,7 +7078,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6791,7 +7121,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6832,7 +7164,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073839 "Pó para inalação"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073839 "Inhalation powder"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073839 "Pó para inalação"
 
  
 
@@ -6873,7 +7207,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -6918,7 +7254,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -6959,7 +7297,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Powder for oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"
 
  
 
@@ -7000,7 +7340,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -7041,7 +7383,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -7082,7 +7426,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -7123,7 +7469,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -7164,7 +7512,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -7205,7 +7555,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -7246,7 +7598,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -7287,7 +7641,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -7328,7 +7684,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -7369,7 +7727,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Modified-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
 
  
 
@@ -7410,7 +7770,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -7451,7 +7813,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -7492,7 +7856,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -7533,7 +7899,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -7574,7 +7942,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -7615,7 +7985,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -7656,7 +8028,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -7697,7 +8071,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -7738,7 +8114,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -7779,7 +8157,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
@@ -7820,7 +8200,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -7861,7 +8243,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -7902,7 +8286,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -7943,7 +8329,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -7984,7 +8372,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -8025,7 +8415,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -8066,7 +8458,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -8107,7 +8501,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -8148,7 +8544,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -8189,7 +8587,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -8230,7 +8630,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073864 "Suspensão injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073864 "Suspension for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073864 "Suspensão injetável"
 
  
 
@@ -8275,7 +8677,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -8316,7 +8720,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -8357,7 +8763,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -8398,7 +8806,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -8439,7 +8849,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -8480,7 +8892,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
@@ -8521,7 +8935,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
 
  
 
@@ -8562,7 +8978,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -8603,7 +9021,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -8644,7 +9064,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073744 "Penso impregnado"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073744 "Impregnated dressing"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073744 "Penso impregnado"
 
  
 
@@ -8685,7 +9107,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -8726,7 +9150,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
@@ -8767,7 +9193,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -8808,7 +9236,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -8849,7 +9279,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Ointment"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
 
  
 
@@ -8890,7 +9322,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -8931,7 +9365,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Vaginal tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"
 
  
 
@@ -8972,7 +9408,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -9013,7 +9451,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -9054,7 +9494,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -9095,7 +9537,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -9136,7 +9580,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -9177,7 +9623,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -9218,7 +9666,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -9259,7 +9709,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -9300,7 +9752,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -9341,7 +9795,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -9382,7 +9838,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073695 "Gel bucal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073695 "Oromucosal gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073695 "Gel bucal"
 
  
 
@@ -9423,7 +9881,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Ointment"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
 
  
 
@@ -9464,7 +9924,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -9505,7 +9967,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -9546,7 +10010,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -9587,7 +10053,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -9628,7 +10096,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -9669,7 +10139,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -9710,7 +10182,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Cutaneous solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
 
  
 
@@ -9751,7 +10225,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073719 "Emulsão cutânea"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073719 "Cutaneous emulsion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073719 "Emulsão cutânea"
 
  
 
@@ -9792,7 +10268,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -9833,7 +10311,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -9874,7 +10354,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Cutaneous solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
 
  
 
@@ -9915,7 +10397,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -9956,7 +10440,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -9997,7 +10483,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -10038,7 +10526,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -10079,7 +10569,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -10120,7 +10612,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Vaginal tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"
 
  
 
@@ -10161,7 +10655,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -10202,7 +10698,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Cutaneous solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
 
  
 
@@ -10243,7 +10741,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
@@ -10284,7 +10784,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
@@ -10325,7 +10827,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073698 "Comprimido sublingual"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073698 "Sublingual tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073698 "Comprimido sublingual"
 
  
 
@@ -10366,7 +10870,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -10407,7 +10913,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -10448,7 +10956,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -10489,7 +10999,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -10530,7 +11042,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -10571,7 +11085,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Ointment"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
 
  
 
@@ -10612,7 +11128,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -10653,7 +11171,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -10694,7 +11214,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -10735,7 +11257,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Powder for oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"
 
  
 
@@ -10776,7 +11300,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -10817,7 +11343,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -10858,7 +11386,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -10899,7 +11429,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
@@ -10940,7 +11472,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
@@ -10981,7 +11515,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -11022,7 +11558,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Rectal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"
 
  
 
@@ -11063,7 +11601,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -11104,7 +11644,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073871 "Concentrado para solução para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073871 "Concentrate for solution for infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073871 "Concentrado para solução para perfusão"
 
  
 
@@ -11145,7 +11687,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -11186,7 +11730,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -11227,7 +11773,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -11268,7 +11816,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -11309,7 +11859,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Rectal solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"
 
  
 
@@ -11350,7 +11902,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Rectal solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"
 
  
 
@@ -11391,7 +11945,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -11432,7 +11988,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -11473,7 +12031,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -11514,7 +12074,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -11555,7 +12117,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
 
  
 
@@ -11596,7 +12160,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -11637,7 +12203,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -11678,7 +12246,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Oral drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
 
  
 
@@ -11719,7 +12289,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -11760,7 +12332,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -11801,7 +12375,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -11842,7 +12418,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -11883,7 +12461,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -11924,7 +12504,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -11965,7 +12547,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Rectal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"
 
  
 
@@ -12006,7 +12590,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -12047,7 +12633,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -12088,7 +12676,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
@@ -12129,7 +12719,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -12170,7 +12762,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
@@ -12211,7 +12805,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Nebuliser solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
 
  
 
@@ -12252,7 +12848,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -12293,7 +12891,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -12334,7 +12934,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -12375,7 +12977,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000116164 "Solução para pulverização nasal ou bucal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000116164 "Nasal/oromucosal spray, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000116164 "Solução para pulverização nasal ou bucal"
 
  
 
@@ -12416,7 +13020,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -12457,7 +13063,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -12498,7 +13106,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -12543,7 +13153,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -12584,7 +13196,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -12625,7 +13239,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -12666,7 +13282,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -12707,7 +13325,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -12748,7 +13368,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -12789,7 +13411,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -12830,7 +13454,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
@@ -12871,7 +13497,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -12912,7 +13540,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
@@ -12953,7 +13583,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -12994,7 +13626,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -13035,7 +13669,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -13076,7 +13712,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granules for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
 
  
 
@@ -13117,7 +13755,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -13158,7 +13798,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -13199,7 +13841,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -13240,7 +13884,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -13281,7 +13927,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -13322,7 +13970,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -13363,7 +14013,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -13404,7 +14056,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -13445,7 +14099,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -13486,7 +14142,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -13527,7 +14185,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
@@ -13568,7 +14228,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -13609,7 +14271,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Oral drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
 
  
 
@@ -13650,7 +14314,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -13691,7 +14357,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
@@ -13736,7 +14404,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -13777,7 +14447,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -13818,7 +14490,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -13859,7 +14533,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -13900,7 +14576,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -13941,7 +14619,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -13982,7 +14662,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -14023,7 +14705,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
 
  
 
@@ -14064,7 +14748,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -14105,7 +14791,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -14146,7 +14834,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -14187,7 +14877,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -14228,7 +14920,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -14269,7 +14963,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -14310,7 +15006,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -14351,7 +15049,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -14392,7 +15092,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
@@ -14433,7 +15135,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
 
  
 
@@ -14474,7 +15178,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14515,7 +15221,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14556,7 +15264,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -14597,7 +15307,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14638,7 +15350,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14679,7 +15393,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14720,7 +15436,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14761,7 +15479,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14802,7 +15522,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14843,7 +15565,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14884,7 +15608,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14925,7 +15651,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -14966,7 +15694,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15007,7 +15737,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15048,7 +15780,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -15089,7 +15823,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -15130,7 +15866,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -15171,7 +15909,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -15212,7 +15952,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -15253,7 +15995,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -15294,7 +16038,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15335,7 +16081,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15376,7 +16124,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -15417,7 +16167,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -15458,7 +16210,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -15499,7 +16253,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15540,7 +16296,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15581,7 +16339,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15622,7 +16382,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15663,7 +16425,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15704,7 +16468,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15745,7 +16511,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -15786,7 +16554,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -15827,7 +16597,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -15868,7 +16640,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -15909,7 +16683,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -15950,7 +16726,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -15991,7 +16769,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -16032,7 +16812,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -16073,7 +16855,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16114,7 +16898,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Orodispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
 
  
 
@@ -16155,7 +16941,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
 
  
 
@@ -16196,7 +16984,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -16237,7 +17027,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16278,7 +17070,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16319,7 +17113,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16360,7 +17156,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16401,7 +17199,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Nebuliser solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
 
  
 
@@ -16442,7 +17242,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16483,7 +17285,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -16524,7 +17328,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -16565,7 +17371,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -16606,7 +17414,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -16647,7 +17457,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -16688,7 +17500,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -16729,7 +17543,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -16770,7 +17586,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -16811,7 +17629,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16852,7 +17672,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16893,7 +17715,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -16934,7 +17758,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -16975,7 +17801,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -17016,7 +17844,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17057,7 +17887,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17098,7 +17930,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17139,7 +17973,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17180,7 +18016,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17221,7 +18059,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -17262,7 +18102,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -17303,7 +18145,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -17344,7 +18188,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17385,7 +18231,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17426,7 +18274,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -17467,7 +18317,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17508,7 +18360,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17549,7 +18403,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -17590,7 +18446,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -17631,7 +18489,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073656 "Pó efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073656 "Effervescent powder"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073656 "Pó efervescente"
 
  
 
@@ -17672,7 +18532,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -17713,7 +18575,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -17754,7 +18618,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -17795,7 +18661,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -17836,7 +18704,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -17877,7 +18747,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -17918,7 +18790,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
@@ -17959,7 +18833,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18000,7 +18876,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18041,7 +18919,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18082,7 +18962,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18123,7 +19005,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18164,7 +19048,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18205,7 +19091,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18246,7 +19134,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18287,7 +19177,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -18328,7 +19220,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -18369,7 +19263,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -18410,7 +19306,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18451,7 +19349,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18492,7 +19392,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18533,7 +19435,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18574,7 +19478,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18615,7 +19521,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18656,7 +19564,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18697,7 +19607,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18738,7 +19650,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18779,7 +19693,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -18820,7 +19736,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18861,7 +19779,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18902,7 +19822,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -18943,7 +19865,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -18984,7 +19908,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19025,7 +19951,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
@@ -19066,7 +19994,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19107,7 +20037,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -19148,7 +20080,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
@@ -19189,7 +20123,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19230,7 +20166,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -19271,7 +20209,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19312,7 +20252,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19353,7 +20295,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19394,7 +20338,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19435,7 +20381,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19476,7 +20424,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19517,7 +20467,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19558,7 +20510,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19599,7 +20553,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19640,7 +20596,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -19681,7 +20639,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -19722,7 +20682,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -19763,7 +20725,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -19804,7 +20768,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -19845,7 +20811,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -19886,7 +20854,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -19927,7 +20897,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -19968,7 +20940,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20009,7 +20983,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20050,7 +21026,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -20091,7 +21069,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20132,7 +21112,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20173,7 +21155,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
@@ -20214,7 +21198,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -20255,7 +21241,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -20296,7 +21284,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -20337,7 +21327,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20378,7 +21370,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20419,7 +21413,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20460,7 +21456,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
 
  
 
@@ -20501,7 +21499,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
 
  
 
@@ -20542,7 +21542,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
 
  
 
@@ -20583,7 +21585,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
 
  
 
@@ -20624,7 +21628,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20665,7 +21671,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20706,7 +21714,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20747,7 +21757,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20788,7 +21800,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20829,7 +21843,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20870,7 +21886,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -20911,7 +21929,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -20952,7 +21972,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -20993,7 +22015,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21034,7 +22058,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -21075,7 +22101,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -21116,7 +22144,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
@@ -21157,7 +22187,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -21198,7 +22230,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -21239,7 +22273,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -21280,7 +22316,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -21321,7 +22359,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -21362,7 +22402,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -21403,7 +22445,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -21444,7 +22488,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -21485,7 +22531,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -21526,7 +22574,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21567,7 +22617,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21608,7 +22660,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21649,7 +22703,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21690,7 +22746,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21731,7 +22789,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21772,7 +22832,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21813,7 +22875,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21854,7 +22918,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21895,7 +22961,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21936,7 +23004,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -21977,7 +23047,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -22018,7 +23090,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -22059,7 +23133,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -22100,7 +23176,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -22141,7 +23219,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -22182,7 +23262,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -22223,7 +23305,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -22264,7 +23348,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -22305,7 +23391,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -22346,7 +23434,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -22387,7 +23477,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Powder for solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
 
  
 
@@ -22428,7 +23520,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -22469,7 +23563,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -22510,7 +23606,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -22551,7 +23649,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -22592,7 +23692,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -22633,7 +23735,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -22674,7 +23778,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -22715,7 +23821,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
 
  
 
@@ -22756,7 +23864,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -22797,7 +23907,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -22838,7 +23950,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -22879,7 +23993,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -22920,7 +24036,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -22961,7 +24079,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -23002,7 +24122,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -23043,7 +24165,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -23084,7 +24208,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23125,7 +24251,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23166,7 +24294,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23207,7 +24337,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23248,7 +24380,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23289,7 +24423,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23330,7 +24466,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23371,7 +24509,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23412,7 +24552,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -23453,7 +24595,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -23494,7 +24638,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -23535,7 +24681,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -23576,7 +24724,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
 
  
 
@@ -23617,7 +24767,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -23658,7 +24810,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -23699,7 +24853,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23740,7 +24896,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23781,7 +24939,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -23822,7 +24982,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -23863,7 +25025,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -23904,7 +25068,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -23945,7 +25111,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -23986,7 +25154,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -24027,7 +25197,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -24068,7 +25240,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -24109,7 +25283,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -24150,7 +25326,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -24191,7 +25369,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -24232,7 +25412,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -24273,7 +25455,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -24314,7 +25498,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073691 "Solução bucal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073691 "Oromucosal solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073691 "Solução bucal"
 
  
 
@@ -24355,7 +25541,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -24396,7 +25584,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
@@ -24437,7 +25627,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -24478,7 +25670,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -24519,7 +25713,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -24560,7 +25756,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -24601,7 +25799,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -24642,7 +25842,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -24683,7 +25885,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -24724,7 +25928,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -24765,7 +25971,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -24806,7 +26014,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -24847,7 +26057,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -24888,7 +26100,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -24929,7 +26143,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -24970,7 +26186,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -25011,7 +26229,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -25052,7 +26272,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25093,7 +26315,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -25134,7 +26358,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -25175,7 +26401,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -25216,7 +26444,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -25257,7 +26487,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25298,7 +26530,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25339,7 +26573,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -25380,7 +26616,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -25421,7 +26659,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -25462,7 +26702,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -25503,7 +26745,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -25544,7 +26788,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25585,7 +26831,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25626,7 +26874,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -25667,7 +26917,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -25708,7 +26960,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25749,7 +27003,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -25790,7 +27046,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25831,7 +27089,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25872,7 +27132,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25913,7 +27175,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25954,7 +27218,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -25995,7 +27261,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26036,7 +27304,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -26077,7 +27347,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -26118,7 +27390,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -26159,7 +27433,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -26200,7 +27476,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26241,7 +27519,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26282,7 +27562,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -26323,7 +27605,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -26364,7 +27648,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -26405,7 +27691,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -26446,7 +27734,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -26487,7 +27777,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -26528,7 +27820,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -26569,7 +27863,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -26610,7 +27906,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -26651,7 +27949,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26692,7 +27992,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26733,7 +28035,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Orodispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
 
  
 
@@ -26774,7 +28078,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26815,7 +28121,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26856,7 +28164,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26897,7 +28207,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26938,7 +28250,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -26979,7 +28293,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -27020,7 +28336,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -27061,7 +28379,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -27102,7 +28422,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -27143,7 +28465,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -27184,7 +28508,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -27225,7 +28551,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -27266,7 +28594,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
 
  
 
@@ -27307,7 +28637,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -27348,7 +28680,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -27389,7 +28723,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -27430,7 +28766,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -27471,7 +28809,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -27512,7 +28852,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -27553,7 +28895,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -27594,7 +28938,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -27635,7 +28981,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -27676,7 +29024,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -27717,7 +29067,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -27758,7 +29110,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -27799,7 +29153,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -27840,7 +29196,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -27881,7 +29239,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -27922,7 +29282,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -27963,7 +29325,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -28004,7 +29368,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -28045,7 +29411,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
@@ -28086,7 +29454,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073880 "Gel uretral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073880 "Urethral gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073880 "Gel uretral"
 
  
 
@@ -28127,7 +29497,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -28168,7 +29540,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -28209,7 +29583,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -28250,7 +29626,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -28291,7 +29669,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -28332,7 +29712,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -28373,7 +29755,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -28414,7 +29798,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -28455,7 +29841,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -28496,7 +29884,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -28537,7 +29927,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -28578,7 +29970,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -28619,7 +30013,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -28660,7 +30056,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -28701,7 +30099,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -28742,7 +30142,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -28783,7 +30185,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -28824,7 +30228,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -28865,7 +30271,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
@@ -28906,7 +30314,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -28947,7 +30357,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -28988,7 +30400,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -29029,7 +30443,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
@@ -29074,7 +30490,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
@@ -29115,7 +30533,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -29156,7 +30576,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29197,7 +30619,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -29238,7 +30662,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -29279,7 +30705,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -29320,7 +30748,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -29361,7 +30791,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29402,7 +30834,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29443,7 +30877,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -29484,7 +30920,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -29529,7 +30967,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29570,7 +31010,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -29611,7 +31053,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -29652,7 +31096,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -29693,7 +31139,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -29734,7 +31182,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29775,7 +31225,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29816,7 +31268,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29857,7 +31311,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29898,7 +31354,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -29939,7 +31397,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
@@ -29980,7 +31440,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Powder for solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
 
  
 
@@ -30021,7 +31483,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Powder for solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
 
  
 
@@ -30062,7 +31526,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -30103,7 +31569,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -30144,7 +31612,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -30185,7 +31655,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -30226,7 +31698,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -30267,7 +31741,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -30308,7 +31784,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -30349,7 +31827,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30390,7 +31870,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -30431,7 +31913,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30472,7 +31956,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30513,7 +31999,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30554,7 +32042,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30595,7 +32085,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30636,7 +32128,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30677,7 +32171,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
 
  
 
@@ -30718,7 +32214,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30759,7 +32257,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -30800,7 +32300,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -30841,7 +32343,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -30882,7 +32386,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -30923,7 +32429,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
 
  
 
@@ -30964,7 +32472,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -31005,7 +32515,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -31046,7 +32558,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -31087,7 +32601,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -31128,7 +32644,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -31169,7 +32687,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -31210,7 +32730,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -31251,7 +32773,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -31292,7 +32816,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -31333,7 +32859,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -31374,7 +32902,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -31415,7 +32945,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
@@ -31456,7 +32988,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -31497,7 +33031,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -31538,7 +33074,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -31579,7 +33117,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -31620,7 +33160,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -31661,7 +33203,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Orodispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
 
  
 
@@ -31702,7 +33246,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -31743,7 +33289,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -31784,7 +33332,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -31825,7 +33375,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -31866,7 +33418,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -31907,7 +33461,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -31948,7 +33504,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -31989,7 +33547,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -32030,7 +33590,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32071,7 +33633,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32112,7 +33676,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32153,7 +33719,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32194,7 +33762,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32235,7 +33805,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32276,7 +33848,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Modified-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
 
  
 
@@ -32317,7 +33891,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Modified-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
 
  
 
@@ -32358,7 +33934,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -32399,7 +33977,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32440,7 +34020,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32481,7 +34063,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -32522,7 +34106,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -32563,7 +34149,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -32604,7 +34192,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -32645,7 +34235,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32686,7 +34278,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32727,7 +34321,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
 
  
 
@@ -32768,7 +34364,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32809,7 +34407,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -32850,7 +34450,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32891,7 +34493,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32932,7 +34536,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -32973,7 +34579,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33014,7 +34622,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33055,7 +34665,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
@@ -33096,7 +34708,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -33137,7 +34751,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -33178,7 +34794,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33219,7 +34837,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33260,7 +34880,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -33301,7 +34923,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -33342,7 +34966,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -33383,7 +35009,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -33424,7 +35052,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -33465,7 +35095,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33506,7 +35138,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33547,7 +35181,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -33588,7 +35224,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -33629,7 +35267,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -33670,7 +35310,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -33711,7 +35353,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Orodispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
 
  
 
@@ -33752,7 +35396,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33793,7 +35439,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33834,7 +35482,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33875,7 +35525,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33916,7 +35568,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -33957,7 +35611,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -33998,7 +35654,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -34039,7 +35697,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -34080,7 +35740,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -34121,7 +35783,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -34162,7 +35826,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34203,7 +35869,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34244,7 +35912,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34285,7 +35955,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -34326,7 +35998,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34367,7 +36041,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34412,7 +36088,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -34453,7 +36131,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Eye drops, solution in single-dose container"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
 
  
 
@@ -34494,7 +36174,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34535,7 +36217,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34576,7 +36260,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34617,7 +36303,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34658,7 +36346,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34699,7 +36389,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -34740,7 +36432,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Cutaneous spray, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
 
  
 
@@ -34781,7 +36475,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34822,7 +36518,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34863,7 +36561,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34904,7 +36604,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34945,7 +36647,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -34986,7 +36690,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35027,7 +36733,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35068,7 +36776,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35109,7 +36819,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -35150,7 +36862,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
 
  
 
@@ -35191,7 +36905,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073372 "Granulado"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073372 "Granules"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073372 "Granulado"
 
  
 
@@ -35232,7 +36948,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -35273,7 +36991,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073700 "Comprimido para chupar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073700 "Compressed lozenge"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073700 "Comprimido para chupar"
 
  
 
@@ -35314,7 +37034,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35355,7 +37077,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -35396,7 +37120,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35437,7 +37163,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35478,7 +37206,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35519,7 +37249,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35560,7 +37292,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -35601,7 +37335,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35642,7 +37378,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35683,7 +37421,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -35724,7 +37464,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35765,7 +37507,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35806,7 +37550,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35847,7 +37593,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -35888,7 +37636,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35929,7 +37679,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -35970,7 +37722,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -36011,7 +37765,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -36052,7 +37808,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -36093,7 +37851,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -36134,7 +37894,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -36175,7 +37937,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -36216,7 +37980,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -36257,7 +38023,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -36298,7 +38066,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -36339,7 +38109,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -36380,7 +38152,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -36421,7 +38195,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -36462,7 +38238,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -36503,7 +38281,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
@@ -36544,7 +38324,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -36585,7 +38367,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -36626,7 +38410,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -36667,7 +38453,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -36708,7 +38496,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -36749,7 +38539,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -36790,7 +38582,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -36831,7 +38625,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
 
  
 
@@ -36872,7 +38668,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Eye drops, solution in single-dose container"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
 
  
 
@@ -36913,7 +38711,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -36954,7 +38754,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -36995,7 +38797,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37036,7 +38840,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37077,7 +38883,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -37118,7 +38926,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -37159,7 +38969,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37204,7 +39016,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37245,7 +39059,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37286,7 +39102,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37327,7 +39145,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37368,7 +39188,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -37409,7 +39231,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -37450,7 +39274,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37491,7 +39317,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37532,7 +39360,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37573,7 +39403,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37614,7 +39446,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37655,7 +39489,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37696,7 +39532,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37737,7 +39575,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37778,7 +39618,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -37819,7 +39661,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073773 "Colírio, emulsão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073773 "Eye drops, emulsion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073773 "Colírio, emulsão"
 
  
 
@@ -37860,7 +39704,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -37901,7 +39747,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -37942,7 +39790,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -37983,7 +39833,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38024,7 +39876,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38065,7 +39919,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38106,7 +39962,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -38147,7 +40005,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -38188,7 +40048,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38229,7 +40091,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
@@ -38270,7 +40134,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38311,7 +40177,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38352,7 +40220,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38393,7 +40263,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38434,7 +40306,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -38475,7 +40349,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -38516,7 +40392,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
@@ -38557,7 +40435,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38598,7 +40478,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38639,7 +40521,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38680,7 +40564,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38721,7 +40607,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38762,7 +40650,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38803,7 +40693,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38844,7 +40736,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -38885,7 +40779,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -38926,7 +40822,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -38967,7 +40865,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39008,7 +40908,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -39049,7 +40951,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39090,7 +40994,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39131,7 +41037,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39172,7 +41080,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39213,7 +41123,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39254,7 +41166,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -39295,7 +41209,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39336,7 +41252,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39377,7 +41295,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -39418,7 +41338,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39459,7 +41381,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39500,7 +41424,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073816 "Cápsula mole vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073816 "Vaginal capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073816 "Cápsula mole vaginal"
 
  
 
@@ -39541,7 +41467,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -39582,7 +41510,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39623,7 +41553,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39664,7 +41596,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39705,7 +41639,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39746,7 +41682,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39787,7 +41725,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39828,7 +41768,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -39869,7 +41811,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
 
  
 
@@ -39910,7 +41854,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39951,7 +41897,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -39992,7 +41940,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40033,7 +41983,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40074,7 +42026,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -40115,7 +42069,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40156,7 +42112,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40197,7 +42155,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40238,7 +42198,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40279,7 +42241,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40320,7 +42284,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40361,7 +42327,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40402,7 +42370,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -40443,7 +42413,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40484,7 +42456,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40525,7 +42499,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40566,7 +42542,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -40607,7 +42585,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -40648,7 +42628,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -40689,7 +42671,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -40730,7 +42714,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -40771,7 +42757,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -40812,7 +42800,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -40853,7 +42843,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -40894,7 +42886,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -40935,7 +42929,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -40976,7 +42972,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -41017,7 +43015,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -41058,7 +43058,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -41099,7 +43101,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
 
  
 
@@ -41140,7 +43144,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
 
  
 
@@ -41181,7 +43187,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41222,7 +43230,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41263,7 +43273,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
@@ -41304,7 +43316,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
@@ -41345,7 +43359,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
 
  
 
@@ -41390,7 +43406,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41431,7 +43449,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41472,7 +43492,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41513,7 +43535,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41554,7 +43578,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41595,7 +43621,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41636,7 +43664,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41677,7 +43707,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41718,7 +43750,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -41759,7 +43793,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
 
  
 
@@ -41800,7 +43836,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -41841,7 +43879,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -41882,7 +43922,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
@@ -41923,7 +43965,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -41964,7 +44008,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -42005,7 +44051,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42046,7 +44094,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -42087,7 +44137,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -42128,7 +44180,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -42169,7 +44223,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -42210,7 +44266,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42251,7 +44309,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42292,7 +44352,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42333,7 +44395,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42374,7 +44438,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42415,7 +44481,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42456,7 +44524,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42497,7 +44567,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42538,7 +44610,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
@@ -42579,7 +44653,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
 
  
 
@@ -42620,7 +44696,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -42661,7 +44739,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -42702,7 +44782,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42743,7 +44825,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42784,7 +44868,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42825,7 +44911,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -42866,7 +44954,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -42907,7 +44997,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -42948,7 +45040,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
 
  
 
@@ -42989,7 +45083,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -43030,7 +45126,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
 
  
 
@@ -43071,7 +45169,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -43112,7 +45212,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -43153,7 +45255,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -43194,7 +45298,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -43235,7 +45341,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -43276,7 +45384,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -43317,7 +45427,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -43358,7 +45470,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43399,7 +45513,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -43440,7 +45556,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -43481,7 +45599,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -43522,7 +45642,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -43563,7 +45685,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43604,7 +45728,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43645,7 +45771,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43686,7 +45814,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43727,7 +45857,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
 
  
 
@@ -43768,7 +45900,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43809,7 +45943,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43850,7 +45986,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43891,7 +46029,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -43932,7 +46072,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -43973,7 +46115,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -44014,7 +46158,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -44055,7 +46201,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -44096,7 +46244,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -44137,7 +46287,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -44178,7 +46330,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -44219,7 +46373,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44260,7 +46416,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -44301,7 +46459,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44342,7 +46502,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44383,7 +46545,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44424,7 +46588,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44465,7 +46631,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44506,7 +46674,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44547,7 +46717,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44588,7 +46760,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
 
  
 
@@ -44629,7 +46803,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -44670,7 +46846,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
 
  
 
@@ -44711,7 +46889,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -44752,7 +46932,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -44793,7 +46975,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -44834,7 +47018,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
 
  
 
@@ -44875,7 +47061,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -44916,7 +47104,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -44957,7 +47147,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -44998,7 +47190,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -45039,7 +47233,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45080,7 +47276,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45121,7 +47319,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45162,7 +47362,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45203,7 +47405,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45244,7 +47448,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45285,7 +47491,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45326,7 +47534,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45367,7 +47577,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45408,7 +47620,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45449,7 +47663,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45490,7 +47706,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45531,7 +47749,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45572,7 +47792,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45613,7 +47835,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
 
  
 
@@ -45654,7 +47878,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -45695,7 +47921,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45736,7 +47964,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45777,7 +48007,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -45818,7 +48050,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -45859,7 +48093,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
 
  
 
@@ -45900,7 +48136,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -45941,7 +48179,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -45982,7 +48222,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -46023,7 +48265,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -46064,7 +48308,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -46105,7 +48351,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46146,7 +48394,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46187,7 +48437,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46228,7 +48480,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 
@@ -46269,7 +48523,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
 
  
 
@@ -46310,7 +48566,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -46351,7 +48609,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46392,7 +48652,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46433,7 +48695,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -46474,7 +48738,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -46515,7 +48781,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -46556,7 +48824,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -46597,7 +48867,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46638,7 +48910,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46679,7 +48953,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46720,7 +48996,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -46761,7 +49039,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -46802,7 +49082,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
 
  
 
@@ -46843,7 +49125,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
 
  
 
@@ -46884,7 +49168,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
 
  
 
@@ -46925,7 +49211,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
 
  
 
@@ -46966,7 +49254,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -47007,7 +49297,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
@@ -47048,7 +49340,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47089,7 +49383,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47130,7 +49426,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47171,7 +49469,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47212,7 +49512,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47253,7 +49555,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47294,7 +49598,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47335,7 +49641,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47376,7 +49684,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47417,7 +49727,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -47458,7 +49770,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -47499,7 +49813,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47540,7 +49856,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -47581,7 +49899,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -47622,7 +49942,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -47663,7 +49985,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
 
  
 
@@ -47704,7 +50028,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47745,7 +50071,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47786,7 +50114,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47827,7 +50157,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47868,7 +50200,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -47909,7 +50243,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000003971 "Gel intrauterino"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000003971 "Intrauterine gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000003971 "Gel intrauterino"
 
  
 
@@ -47950,7 +50286,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -47991,7 +50329,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48032,7 +50372,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48073,7 +50415,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48114,7 +50458,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48155,7 +50501,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -48196,7 +50544,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -48237,7 +50587,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -48278,7 +50630,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
 
  
 
@@ -48319,7 +50673,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -48360,7 +50716,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -48401,7 +50759,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
 
  
 
@@ -48442,7 +50802,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48483,7 +50845,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48524,7 +50888,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48565,7 +50931,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48606,7 +50974,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -48647,7 +51017,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -48688,7 +51060,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
 
  
 
@@ -48729,7 +51103,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -48770,7 +51146,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -48811,7 +51189,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -48852,7 +51232,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48893,7 +51275,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -48934,7 +51318,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -48975,7 +51361,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49016,7 +51404,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49057,7 +51447,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49098,7 +51490,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49139,7 +51533,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -49180,7 +51576,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -49221,7 +51619,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -49262,7 +51662,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
 
  
 
@@ -49303,7 +51705,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49344,7 +51748,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49385,7 +51791,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49426,7 +51834,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49467,7 +51877,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49508,7 +51920,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
 
  
 
@@ -49549,7 +51963,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
 
  
 
@@ -49590,7 +52006,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -49631,7 +52049,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
 
  
 
@@ -49672,7 +52092,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -49713,7 +52135,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -49754,7 +52178,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
+
+* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
 
  
 
@@ -49795,7 +52221,9 @@ Usage: #example
 
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal Product subject to medical prescription"
 
-* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
+
+* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
 
  
 

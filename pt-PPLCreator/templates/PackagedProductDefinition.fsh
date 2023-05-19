@@ -22,14 +22,14 @@ Usage: #example
 
 * name = "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
 
-* description = ""
+* description = "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
 
 * status = #active
 
 {% if row["Pack size 4.3 (qtd)"]|string !="nan"  %}
 
-//
-* containedItemQuantity = {{ row["Pack size 4.3 (qtd)"] }} $200000000014#{{ row["Pack size 4.3 (apresentação).1"]}} "{{ row["Pack size 4.3 (apresentação)"]}}"
+* containedItemQuantity = {{ row["Pack size 4.3 (qtd)"] }} $200000000014#{{ row["Pack size 4.3 (apresentação).1"]}} "{{ row["Pack size 4.3 (apresentação).1"]|get_data_from_sheet(data["data"],"SPOR_EN","200000000014_descr","200000000014")}}"
+//* containedItemQuantity = {{ row["Pack size 4.3 (qtd)"] }} $200000000014#{{ row["Pack size 4.3 (apresentação).1"]}} "{{ row["Pack size 4.3 (apresentação)"]}}"
 
 {%- endif %}
 
@@ -40,11 +40,14 @@ Usage: #example
 
 * packaging
   * quantity = {{row["Package item (container) quantity - 4.7.5"]}}
-  * type = $100000073346#{{row["4.10.2 - Manufactured Item quantity - Unit RMS ID"]}} "{{row["Package item type"]}}"
-  
+  //* type = $100000073346#{{row["4.10.2 - Manufactured Item quantity - Unit RMS ID"]}} "{{row["Package item type"]}}"
+  * type = $100000073346#{{row["Package item type 4.7.1"]}} "{{row["Package item type 4.7.1"]|get_data_from_sheet(data["data"],"SPOR_EN","100000073346_descr","100000073346")}}"
+
 
   * packaging.
-    * type = $100000073346#{{ row["Package item type 4.7.1.1"]}} "{{ row["Package item type.1"] }}"
+    //* type = $100000073346#{{ row["Package item type 4.7.1.1"]}} "{{ row["Package item type.1"] }}"
+    * type = $100000073346#{{ row["Package item type 4.7.1.1"]}} "{{ row["Package item type 4.7.1.1"]|get_data_from_sheet(data["data"],"SPOR_EN","100000073346_descr","100000073346")}}"
+
     * containedItem.item.reference = Reference(mid-{{row["MED ID"]}})
     * containedItem.amount.value = {{ row["Pack size 4.3 (qtd)"]}}
 
