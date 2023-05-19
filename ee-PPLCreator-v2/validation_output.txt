@@ -1,0 +1,8 @@
+Ingredient.fsh:{'error_count': 0, 'description': {}}
+AdministrableProductDefinition.fsh:{'error_count': 0, 'description': {}}
+RegulatedAuthorization.fsh:{'error_count': 0, 'description': {}}
+Organization.fsh:{'error_count': 0, 'description': {}}
+PackagedProductDefinition.fsh:{'error_count': 0, 'description': {}}
+MedicinalProductDefinition.fsh:{'error_count': 0, 'description': {}}
+ManufacturedItemDefinition.fsh:{'error_count': 0, 'description': {}}
+
