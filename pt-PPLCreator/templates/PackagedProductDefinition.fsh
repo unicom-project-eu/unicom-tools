@@ -2,13 +2,6 @@
 
 {% set ns = namespace() %}
 
-{% set ns.one = row['Ravimi nimetus']|trim %}
-{% set ns.two = row['Ravimvorm']|trim %}
-{% set ns.three= row['Ravimi tugevus']|trim %}
-{% set ns.four = row['Pakendikood']|trim %}
-
-{% set ns.ppd_name_to_has= ns.one ~ ns.two ~ns.three ~ ns.four  %}
-{% set ns.name_to_has= ns.one ~ ns.two ~ns.three  %}
 
 
 Instance: ppd-{{ row["EMB ID"]}}
@@ -17,8 +10,9 @@ Title: "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nom
 Description: "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "{{row["CNPEM"]}}"
+{% set ns.loc_id = row['MED ID']|get_data_from_sheet(data["data"],"Titular-Medicine","Titular AIM - OMS LOC-ID 2.8\n(SPOR-OMS LOC-ID)","MED ID") %}
+
+* identifier[pcid].value = "PT-{{ns.loc_id|replace('LOC-','')}}-{{row["MED ID"]}}-{{row["CNPEM"]}}"
 
 * name = "{{row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Nome PMS","MED ID")}} {{row["Package description  4.2"]}}"
 

@@ -15,7 +15,7 @@ Usage: #example
 
 // MPID ID??
 //* identifier[pmsid].value = 
-//* identifier[mpid].value = 
+* identifier[mpid].value = "PT-{{row["Titular AIM - OMS LOC-ID 2.8\n(SPOR-OMS LOC-ID)"]|replace('LOC-','')}}-{{row["MED ID"]}}"
 
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
 

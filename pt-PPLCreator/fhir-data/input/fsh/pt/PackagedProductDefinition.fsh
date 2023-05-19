@@ -2,15 +2,14 @@
 
 
 
-
 Instance: ppd-63241
 InstanceOf: PPLPackagedProductDefinition
 Title: "Augmentin 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Augmentin 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001639"
+
+* identifier[pcid].value = "PT-100002296-709-50001639"
 
 * name = "Augmentin 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -48,15 +47,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1215
 InstanceOf: PPLPackagedProductDefinition
 Title: "Augmentin Forte 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Augmentin Forte 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001728"
+
+* identifier[pcid].value = "PT-100002296-711-50001728"
 
 * name = "Augmentin Forte 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -94,15 +92,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64130
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-U-Ron 500 mg Comprimido 20 Comprimido Blister"
 Description: "Ben-U-Ron 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100004422-886-50001981"
 
 * name = "Ben-U-Ron 500 mg Comprimido 20 Comprimido Blister"
 
@@ -140,15 +137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1480
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-U-Ron 125 mg Supositório 10 Supositório Blister"
 Description: "Ben-U-Ron 125 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003429"
+
+* identifier[pcid].value = "PT-100004422-887-50003429"
 
 * name = "Ben-U-Ron 125 mg Supositório 10 Supositório Blister"
 
@@ -186,15 +182,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1481
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-U-Ron 250 mg Supositório 10 Supositório Blister"
 Description: "Ben-U-Ron 250 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003437"
+
+* identifier[pcid].value = "PT-100004422-888-50003437"
 
 * name = "Ben-U-Ron 250 mg Supositório 10 Supositório Blister"
 
@@ -232,15 +227,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1482
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-U-Ron 500 mg Supositório 10 Supositório Blister"
 Description: "Ben-U-Ron 500 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003445"
+
+* identifier[pcid].value = "PT-100004422-889-50003445"
 
 * name = "Ben-U-Ron 500 mg Supositório 10 Supositório Blister"
 
@@ -278,15 +272,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1483
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-U-Ron 1000 mg Supositório 10 Supositório Fita termossoldada"
 Description: "Ben-U-Ron 1000 mg Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003453"
+
+* identifier[pcid].value = "PT-100004422-890-50003453"
 
 * name = "Ben-U-Ron 1000 mg Supositório 10 Supositório Fita termossoldada"
 
@@ -324,15 +317,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1484
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-U-Ron 40 mg/ml Xarope 1 Frasco 85 ml"
 Description: "Ben-U-Ron 40 mg/ml Xarope 1 Frasco 85 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003461"
+
+* identifier[pcid].value = "PT-100004422-891-50003461"
 
 * name = "Ben-U-Ron 40 mg/ml Xarope 1 Frasco 85 ml"
 
@@ -370,15 +362,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88497
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen 600 mg Granulado efervescente 20 Saqueta"
 Description: "Brufen 600 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004220"
+
+* identifier[pcid].value = "PT-100001337-1255-50004220"
 
 * name = "Brufen 600 mg Granulado efervescente 20 Saqueta"
 
@@ -416,15 +407,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2052
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Brufen 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004239"
+
+* identifier[pcid].value = "PT-100001337-1257-50004239"
 
 * name = "Brufen 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -462,15 +452,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Brufen 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100001337-1257-50004247"
 
 * name = "Brufen 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -508,15 +497,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88495
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Brufen 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100001337-1258-50004271"
 
 * name = "Brufen 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -554,15 +542,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-16792
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Brufen 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100001337-1259-50004298"
 
 * name = "Brufen 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -600,15 +587,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88496
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Brufen 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100001337-1259-50004301"
 
 * name = "Brufen 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -646,15 +632,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2270
 InstanceOf: PPLPackagedProductDefinition
 Title: "Canesten 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Canesten 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004417"
+
+* identifier[pcid].value = "PT-100007476-1410-50004417"
 
 * name = "Canesten 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -692,15 +677,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-3082
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clamoxyl 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Clamoxyl 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001914"
+
+* identifier[pcid].value = "PT-100004124-1887-50001914"
 
 * name = "Clamoxyl 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -738,15 +722,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4095
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diane 35 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Diane 35 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006592"
+
+* identifier[pcid].value = "PT-100007476-2516-50006592"
 
 * name = "Diane 35 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -784,15 +767,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4096
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diane 35 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Diane 35 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006606"
+
+* identifier[pcid].value = "PT-100007476-2516-50006606"
 
 * name = "Diane 35 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -830,15 +812,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-5303
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zoref 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Description: "Zoref 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007955"
+
+* identifier[pcid].value = "PT-100002295-3277-50007955"
 
 * name = "Zoref 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 
@@ -876,15 +857,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-43303
 InstanceOf: PPLPackagedProductDefinition
 Title: "Minesse 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Minesse 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007971"
+
+* identifier[pcid].value = "PT-100001529-3299-50007971"
 
 * name = "Minesse 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -922,15 +902,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59146
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenil-V 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 Description: "Fenil-V 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007254"
+
+* identifier[pcid].value = "PT-100002880-3347-50007254"
 
 * name = "Fenil-V 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 
@@ -968,15 +947,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-5407
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenil-V 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Description: "Fenil-V 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007262"
+
+* identifier[pcid].value = "PT-100002880-3347-50007262"
 
 * name = "Fenil-V 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 
@@ -1014,15 +992,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-5410
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenil-V 100 mg Supositório 12 Supositório Blister"
 Description: "Fenil-V 100 mg Supositório 12 Supositório Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006720"
+
+* identifier[pcid].value = "PT-100002880-3349-50006720"
 
 * name = "Fenil-V 100 mg Supositório 12 Supositório Blister"
 
@@ -1060,15 +1037,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-5411
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenil-V Retard 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Fenil-V Retard 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006690"
+
+* identifier[pcid].value = "PT-100002880-3350-50006690"
 
 * name = "Fenil-V Retard 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -1106,15 +1082,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6399
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gino-Canesten 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Gino-Canesten 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008943"
+
+* identifier[pcid].value = "PT-100007476-3916-50008943"
 
 * name = "Gino-Canesten 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -1152,15 +1127,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6477
 InstanceOf: PPLPackagedProductDefinition
 Title: "Glucophage 500 mg Comprimido revestido por película 50 Comprimido Blister"
 Description: "Glucophage 500 mg Comprimido revestido por película 50 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009010"
+
+* identifier[pcid].value = "PT-100001258-3975-50009010"
 
 * name = "Glucophage 500 mg Comprimido revestido por película 50 Comprimido Blister"
 
@@ -1198,15 +1172,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6478
 InstanceOf: PPLPackagedProductDefinition
 Title: "Glucophage 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Glucophage 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009028"
+
+* identifier[pcid].value = "PT-100001258-3975-50009028"
 
 * name = "Glucophage 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -1244,15 +1217,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6841
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gynera 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Gynera 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009249"
+
+* identifier[pcid].value = "PT-100007476-4089-50009249"
 
 * name = "Gynera 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1290,15 +1262,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6842
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gynera 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Gynera 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009257"
+
+* identifier[pcid].value = "PT-100007476-4089-50009257"
 
 * name = "Gynera 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -1336,15 +1307,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6897
 InstanceOf: PPLPackagedProductDefinition
 Title: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009362"
+
+* identifier[pcid].value = "PT-100001529-4135-50009362"
 
 * name = "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1382,15 +1352,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6898
 InstanceOf: PPLPackagedProductDefinition
 Title: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009370"
+
+* identifier[pcid].value = "PT-100001529-4135-50009370"
 
 * name = "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -1428,15 +1397,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-132237
 InstanceOf: PPLPackagedProductDefinition
 Title: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 Description: "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009389"
+
+* identifier[pcid].value = "PT-100001529-4135-50009389"
 
 * name = "Harmonet 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 
@@ -1474,15 +1442,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8947
 InstanceOf: PPLPackagedProductDefinition
 Title: "Marvelon 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 Description: "Marvelon 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012142"
+
+* identifier[pcid].value = "PT-100050021-5323-50012142"
 
 * name = "Marvelon 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 
@@ -1520,15 +1487,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-50275
 InstanceOf: PPLPackagedProductDefinition
 Title: "Marvelon 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 Description: "Marvelon 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012150"
+
+* identifier[pcid].value = "PT-100050021-5323-50012150"
 
 * name = "Marvelon 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 
@@ -1566,15 +1532,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9147
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mercilon 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 Description: "Mercilon 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012231"
+
+* identifier[pcid].value = "PT-100050021-5454-50012231"
 
 * name = "Mercilon 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 
@@ -1612,15 +1577,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9146
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mercilon 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 Description: "Mercilon 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012223"
+
+* identifier[pcid].value = "PT-100050021-5454-50012223"
 
 * name = "Mercilon 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 
@@ -1658,15 +1622,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9359
 InstanceOf: PPLPackagedProductDefinition
 Title: "Microginon 0.03 mg + 0.15 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Microginon 0.03 mg + 0.15 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012371"
+
+* identifier[pcid].value = "PT-100007476-5586-50012371"
 
 * name = "Microginon 0.03 mg + 0.15 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1704,15 +1667,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9397
 InstanceOf: PPLPackagedProductDefinition
 Title: "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009370"
+
+* identifier[pcid].value = "PT-100007476-5612-50009370"
 
 * name = "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -1750,15 +1712,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9398
 InstanceOf: PPLPackagedProductDefinition
 Title: "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009362"
+
+* identifier[pcid].value = "PT-100007476-5612-50009362"
 
 * name = "Minigeste 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1796,15 +1757,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9418
 InstanceOf: PPLPackagedProductDefinition
 Title: "Minulet 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Minulet 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009249"
+
+* identifier[pcid].value = "PT-100001529-5624-50009249"
 
 * name = "Minulet 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -1842,15 +1802,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9417
 InstanceOf: PPLPackagedProductDefinition
 Title: "Minulet 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Minulet 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009257"
+
+* identifier[pcid].value = "PT-100001529-5624-50009257"
 
 * name = "Minulet 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -1888,15 +1847,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2144893
 InstanceOf: PPLPackagedProductDefinition
 Title: "Panadol 500 mg Comprimido revestido por película 24 Comprimido Blister"
 Description: "Panadol 500 mg Comprimido revestido por película 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017268"
+
+* identifier[pcid].value = "PT-100004086-6595-50017268"
 
 * name = "Panadol 500 mg Comprimido revestido por película 24 Comprimido Blister"
 
@@ -1934,15 +1892,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10980
 InstanceOf: PPLPackagedProductDefinition
 Title: "Pandermil 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Pandermil 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009478"
+
+* identifier[pcid].value = "PT-100001202-6619-50009478"
 
 * name = "Pandermil 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -1980,15 +1937,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11053
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paramolan 24 mg/ml Solução oral 1 Frasco"
 Description: "Paramolan 24 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014080"
+
+* identifier[pcid].value = "PT-100001274-6661-50014080"
 
 * name = "Paramolan 24 mg/ml Solução oral 1 Frasco"
 
@@ -2026,15 +1982,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-169058
 InstanceOf: PPLPackagedProductDefinition
 Title: "Renitec 20 mg Comprimido 56 Comprimido Blister"
 Description: "Renitec 20 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100050021-7439-50003372"
 
 * name = "Renitec 20 mg Comprimido 56 Comprimido Blister"
 
@@ -2072,15 +2027,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57896
 InstanceOf: PPLPackagedProductDefinition
 Title: "Risidon 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Risidon 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100001258-7600-50014870"
 
 * name = "Risidon 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -2118,15 +2072,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-12599
 InstanceOf: PPLPackagedProductDefinition
 Title: "Risidon 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Risidon 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014862"
+
+* identifier[pcid].value = "PT-100001258-7600-50014862"
 
 * name = "Risidon 850 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -2164,15 +2117,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-12821
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sandimmun Neoral 25 mg Cápsula mole 20 Cápsula Blister"
 Description: "Sandimmun Neoral 25 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015214"
+
+* identifier[pcid].value = "PT-100036806-7743-50015214"
 
 * name = "Sandimmun Neoral 25 mg Cápsula mole 20 Cápsula Blister"
 
@@ -2210,15 +2162,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-12820
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sandimmun Neoral 25 mg Cápsula mole 50 Cápsula Blister"
 Description: "Sandimmun Neoral 25 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015206"
+
+* identifier[pcid].value = "PT-100036806-7743-50015206"
 
 * name = "Sandimmun Neoral 25 mg Cápsula mole 50 Cápsula Blister"
 
@@ -2256,15 +2207,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-12822
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sandimmun Neoral 50 mg Cápsula mole 30 Cápsula Blister"
 Description: "Sandimmun Neoral 50 mg Cápsula mole 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015222"
+
+* identifier[pcid].value = "PT-100036806-7744-50015222"
 
 * name = "Sandimmun Neoral 50 mg Cápsula mole 30 Cápsula Blister"
 
@@ -2302,15 +2252,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-12824
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sandimmun Neoral 100 mg Cápsula mole 50 Cápsula Blister"
 Description: "Sandimmun Neoral 100 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015257"
+
+* identifier[pcid].value = "PT-100036806-7745-50015257"
 
 * name = "Sandimmun Neoral 100 mg Cápsula mole 50 Cápsula Blister"
 
@@ -2348,15 +2297,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-12825
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sandimmun Neoral 100 mg/ml Solução oral 1 Frasco"
 Description: "Sandimmun Neoral 100 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015265"
+
+* identifier[pcid].value = "PT-100036806-7746-50015265"
 
 * name = "Sandimmun Neoral 100 mg/ml Solução oral 1 Frasco"
 
@@ -2394,15 +2342,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13376
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sporanox 100 mg Cápsula 28 Cápsula Blister"
 Description: "Sporanox 100 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015753"
+
+* identifier[pcid].value = "PT-100043221-8063-50015753"
 
 * name = "Sporanox 100 mg Cápsula 28 Cápsula Blister"
 
@@ -2440,15 +2387,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13375
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sporanox 100 mg Cápsula 15 Cápsula Blister"
 Description: "Sporanox 100 mg Cápsula 15 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015745"
+
+* identifier[pcid].value = "PT-100043221-8063-50015745"
 
 * name = "Sporanox 100 mg Cápsula 15 Cápsula Blister"
 
@@ -2486,15 +2432,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13815
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tegretol 200 mg Comprimido 20 Comprimido Blister"
 Description: "Tegretol 200 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016164"
+
+* identifier[pcid].value = "PT-100036806-8335-50016164"
 
 * name = "Tegretol 200 mg Comprimido 20 Comprimido Blister"
 
@@ -2532,15 +2477,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13816
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tegretol 200 mg Comprimido 60 Comprimido Blister"
 Description: "Tegretol 200 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016172"
+
+* identifier[pcid].value = "PT-100036806-8335-50016172"
 
 * name = "Tegretol 200 mg Comprimido 60 Comprimido Blister"
 
@@ -2578,15 +2522,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13817
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tegretol 400 mg Comprimido 60 Comprimido Blister"
 Description: "Tegretol 400 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016180"
+
+* identifier[pcid].value = "PT-100036806-8336-50016180"
 
 * name = "Tegretol 400 mg Comprimido 60 Comprimido Blister"
 
@@ -2624,15 +2567,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13819
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tegretol Cr 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Description: "Tegretol Cr 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016210"
+
+* identifier[pcid].value = "PT-100036806-8338-50016210"
 
 * name = "Tegretol Cr 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -2670,15 +2612,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13820
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tegretol Cr 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Description: "Tegretol Cr 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016237"
+
+* identifier[pcid].value = "PT-100036806-8339-50016237"
 
 * name = "Tegretol Cr 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -2716,15 +2657,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14225
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramal 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016717"
+
+* identifier[pcid].value = "PT-100000170-8606-50016717"
 
 * name = "Tramal 50 mg Cápsula 20 Cápsula Blister"
 
@@ -2762,15 +2702,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14228
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal 100 mg/2 ml Solução injetável 5 Ampola"
 Description: "Tramal 100 mg/2 ml Solução injetável 5 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016750"
+
+* identifier[pcid].value = "PT-100000170-8608-50016750"
 
 * name = "Tramal 100 mg/2 ml Solução injetável 5 Ampola"
 
@@ -2808,15 +2747,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-43408
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 Description: "Tramal 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016741"
+
+* identifier[pcid].value = "PT-100000170-8610-50016741"
 
 * name = "Tramal 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 
@@ -2854,15 +2792,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14232
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal retard 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramal retard 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016776"
+
+* identifier[pcid].value = "PT-100000170-8611-50016776"
 
 * name = "Tramal retard 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -2900,15 +2837,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-85816
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramal retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016792"
+
+* identifier[pcid].value = "PT-100000170-8611-50016792"
 
 * name = "Tramal retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -2946,15 +2882,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-85817
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal retard 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramal retard 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016822"
+
+* identifier[pcid].value = "PT-100000170-8612-50016822"
 
 * name = "Tramal retard 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -2992,15 +2927,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14233
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal retard 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramal retard 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016806"
+
+* identifier[pcid].value = "PT-100000170-8612-50016806"
 
 * name = "Tramal retard 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -3038,15 +2972,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-85818
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal retard 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramal retard 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016857"
+
+* identifier[pcid].value = "PT-100000170-8613-50016857"
 
 * name = "Tramal retard 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -3084,15 +3017,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14234
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramal retard 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramal retard 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016830"
+
+* identifier[pcid].value = "PT-100000170-8613-50016830"
 
 * name = "Tramal retard 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -3130,15 +3062,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14393
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062409"
+
+* identifier[pcid].value = "PT-100001529-8724-50062409"
 
 * name = "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -3176,15 +3107,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14394
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062417"
+
+* identifier[pcid].value = "PT-100001529-8724-50062417"
 
 * name = "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -3222,15 +3152,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14852
 InstanceOf: PPLPackagedProductDefinition
 Title: "Valium 10 mg Comprimido 25 Comprimido Blister"
 Description: "Valium 10 mg Comprimido 25 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006657"
+
+* identifier[pcid].value = "PT-100019614-8988-50006657"
 
 * name = "Valium 10 mg Comprimido 25 Comprimido Blister"
 
@@ -3268,15 +3197,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14853
 InstanceOf: PPLPackagedProductDefinition
 Title: "Valium 5 mg Comprimido 25 Comprimido Blister"
 Description: "Valium 5 mg Comprimido 25 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006614"
+
+* identifier[pcid].value = "PT-100019614-8989-50006614"
 
 * name = "Valium 5 mg Comprimido 25 Comprimido Blister"
 
@@ -3314,15 +3242,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15042
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ventilan-Inalador 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Description: "Ventilan-Inalador 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50063618"
+
+* identifier[pcid].value = "PT-100002295-9078-50063618"
 
 * name = "Ventilan-Inalador 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 
@@ -3360,15 +3287,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15379
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren 1 mg/ml Colírio, solução 1 Frasco conta-gotas 5 ml"
 Description: "Voltaren 1 mg/ml Colírio, solução 1 Frasco conta-gotas 5 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017667"
+
+* identifier[pcid].value = "PT-100005605-9289-50017667"
 
 * name = "Voltaren 1 mg/ml Colírio, solução 1 Frasco conta-gotas 5 ml"
 
@@ -3406,15 +3332,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59633
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 Description: "Voltaren 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007254"
+
+* identifier[pcid].value = "PT-100036806-9290-50007254"
 
 * name = "Voltaren 50 mg Comprimido gastrorresistente 10 Comprimido Blister"
 
@@ -3452,15 +3377,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15380
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Description: "Voltaren 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007262"
+
+* identifier[pcid].value = "PT-100036806-9290-50007262"
 
 * name = "Voltaren 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 
@@ -3498,15 +3422,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15383
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren 100 mg Supositório 12 Supositório Fita termossoldada"
 Description: "Voltaren 100 mg Supositório 12 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006720"
+
+* identifier[pcid].value = "PT-100036806-9292-50006720"
 
 * name = "Voltaren 100 mg Supositório 12 Supositório Fita termossoldada"
 
@@ -3544,15 +3467,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-58787
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren 75 mg/3 ml Solução injetável 3 Ampola"
 Description: "Voltaren 75 mg/3 ml Solução injetável 3 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008277"
+
+* identifier[pcid].value = "PT-100036806-9291-50008277"
 
 * name = "Voltaren 75 mg/3 ml Solução injetável 3 Ampola"
 
@@ -3590,15 +3512,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111346
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100004086-9295-50008285"
 
 * name = "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -3636,15 +3557,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-142734
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 60 g"
 Description: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 60 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008307"
+
+* identifier[pcid].value = "PT-100004086-9295-50008307"
 
 * name = "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 60 g"
 
@@ -3682,15 +3602,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-145769
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 150 g"
 Description: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 150 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017705"
+
+* identifier[pcid].value = "PT-100004086-9295-50017705"
 
 * name = "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 150 g"
 
@@ -3728,15 +3647,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2090790
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 120 g"
 Description: "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 120 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166212"
+
+* identifier[pcid].value = "PT-100004086-9295-50166212"
 
 * name = "Voltaren Emulgel 10 mg/g Gel 1 Bisnaga 120 g"
 
@@ -3774,15 +3692,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15660
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zocor 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Zocor 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100050021-9475-50018450"
 
 * name = "Zocor 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -3820,15 +3737,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95364
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zoref 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Zoref 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018299"
+
+* identifier[pcid].value = "PT-100002295-9495-50018299"
 
 * name = "Zoref 250 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -3866,15 +3782,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95365
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zoref 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Zoref 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018337"
+
+* identifier[pcid].value = "PT-100002295-9496-50018337"
 
 * name = "Zoref 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -3912,15 +3827,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15700
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zoref 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Description: "Zoref 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018345"
+
+* identifier[pcid].value = "PT-100002295-9499-50018345"
 
 * name = "Zoref 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 
@@ -3958,15 +3872,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15843
 InstanceOf: PPLPackagedProductDefinition
 Title: "Augmentin 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Augmentin 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001701"
+
+* identifier[pcid].value = "PT-100002296-9572-50001701"
 
 * name = "Augmentin 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -4004,15 +3917,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-16262
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zoladex LA 10.8 mg Implante 1 Seringa"
 Description: "Zoladex LA 10.8 mg Implante 1 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156225"
+
+* identifier[pcid].value = "PT-100000235-9717-50156225"
 
 * name = "Zoladex LA 10.8 mg Implante 1 Seringa"
 
@@ -4050,15 +3962,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-22053
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dol-U-Ron Forte 500 mg + 30 mg Cápsula 20 Cápsula Blister"
 Description: "Dol-U-Ron Forte 500 mg + 30 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022300"
+
+* identifier[pcid].value = "PT-100004422-12852-50022300"
 
 * name = "Dol-U-Ron Forte 500 mg + 30 mg Cápsula 20 Cápsula Blister"
 
@@ -4096,15 +4007,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-43305
 InstanceOf: PPLPackagedProductDefinition
 Title: "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007980"
+
+* identifier[pcid].value = "PT-100007476-29283-50007980"
 
 * name = "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -4142,15 +4052,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-43304
 InstanceOf: PPLPackagedProductDefinition
 Title: "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007971"
+
+* identifier[pcid].value = "PT-100007476-29283-50007971"
 
 * name = "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -4188,15 +4097,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44898
 InstanceOf: PPLPackagedProductDefinition
 Title: "Combivent Unidose 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 Description: "Combivent Unidose 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50048228"
+
+* identifier[pcid].value = "PT-100001209-29815-50048228"
 
 * name = "Combivent Unidose 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 
@@ -4234,15 +4142,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44993
 InstanceOf: PPLPackagedProductDefinition
 Title: "Flector Tissugel 140 mg Sistema transdérmico 10 Sistema"
 Description: "Flector Tissugel 140 mg Sistema transdérmico 10 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026453"
+
+* identifier[pcid].value = "PT-100001337-29866-50026453"
 
 * name = "Flector Tissugel 140 mg Sistema transdérmico 10 Sistema"
 
@@ -4280,15 +4187,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46001
 InstanceOf: PPLPackagedProductDefinition
 Title: "Solu-Cortef 100 mg/2 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Description: "Solu-Cortef 100 mg/2 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026968"
+
+* identifier[pcid].value = "PT-100001529-30174-50026968"
 
 * name = "Solu-Cortef 100 mg/2 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 
@@ -4326,15 +4232,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-53028
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nurofen 200 mg Comprimido revestido 24 Comprimido Blister"
 Description: "Nurofen 200 mg Comprimido revestido 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004255"
+
+* identifier[pcid].value = "PT-100002888-31299-50004255"
 
 * name = "Nurofen 200 mg Comprimido revestido 24 Comprimido Blister"
 
@@ -4372,15 +4277,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-50710
 InstanceOf: PPLPackagedProductDefinition
 Title: "Risidon 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Risidon 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100001258-32193-50031171"
 
 * name = "Risidon 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -4418,15 +4322,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-53034
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clamoxyl 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Description: "Clamoxyl 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50032364"
+
+* identifier[pcid].value = "PT-100004124-32900-50032364"
 
 * name = "Clamoxyl 1000 mg Comprimido dispersível 16 Comprimido Blister"
 
@@ -4464,15 +4367,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-54468
 InstanceOf: PPLPackagedProductDefinition
 Title: "Valette 2 mg + 0.03 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Valette 2 mg + 0.03 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50033115"
+
+* identifier[pcid].value = "PT-100007476-33195-50033115"
 
 * name = "Valette 2 mg + 0.03 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -4510,15 +4412,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65722
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 Description: "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037650"
+
+* identifier[pcid].value = "PT-100002336-35221-50037650"
 
 * name = "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 
@@ -4553,7 +4454,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -4563,8 +4463,8 @@ Title: "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 Description: "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037668"
+
+* identifier[pcid].value = "PT-100002336-35221-50037668"
 
 * name = "Lidocaína 1% Braun 10 mg/ml Solução injetável 100 Ampola"
 
@@ -4602,15 +4502,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65727
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 Description: "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037676"
+
+* identifier[pcid].value = "PT-100002336-35225-50037676"
 
 * name = "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 
@@ -4645,7 +4544,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -4655,8 +4553,8 @@ Title: "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 Description: "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037684"
+
+* identifier[pcid].value = "PT-100002336-35225-50037684"
 
 * name = "Lidocaína 2% Braun 20 mg/ml Solução injetável 100 Ampola"
 
@@ -4694,15 +4592,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-71922
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen 200 mg Granulado efervescente 20 Saqueta"
 Description: "Brufen 200 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018957"
+
+* identifier[pcid].value = "PT-100001337-37274-50018957"
 
 * name = "Brufen 200 mg Granulado efervescente 20 Saqueta"
 
@@ -4740,15 +4637,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-72766
 InstanceOf: PPLPackagedProductDefinition
 Title: "Glivec 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Glivec 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040308"
+
+* identifier[pcid].value = "PT-100010531-37435-50040308"
 
 * name = "Glivec 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -4786,15 +4682,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78937
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zaldiar 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Zaldiar 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100000170-38887-50042181"
 
 * name = "Zaldiar 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -4832,15 +4727,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-81524
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coversyl 5 mg 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Coversyl 5 mg 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100009505-39288-50062255"
 
 * name = "Coversyl 5 mg 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -4878,15 +4772,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-81535
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coversyl 10 mg 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Coversyl 10 mg 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100009505-39289-50062280"
 
 * name = "Coversyl 10 mg 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -4924,15 +4817,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-82577
 InstanceOf: PPLPackagedProductDefinition
 Title: "Belara 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Belara 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042939"
+
+* identifier[pcid].value = "PT-100001653-39500-50042939"
 
 * name = "Belara 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -4970,15 +4862,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-82578
 InstanceOf: PPLPackagedProductDefinition
 Title: "Belara 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Belara 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042947"
+
+* identifier[pcid].value = "PT-100001653-39500-50042947"
 
 * name = "Belara 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -5016,15 +4907,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-90960
 InstanceOf: PPLPackagedProductDefinition
 Title: "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50043951"
+
+* identifier[pcid].value = "PT-100009492-41073-50043951"
 
 * name = "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -5062,15 +4952,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-90961
 InstanceOf: PPLPackagedProductDefinition
 Title: "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50043960"
+
+* identifier[pcid].value = "PT-100009492-41073-50043960"
 
 * name = "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -5108,15 +4997,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93339
 InstanceOf: PPLPackagedProductDefinition
 Title: "Preterax 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Preterax 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100000973-41451-50133489"
 
 * name = "Preterax 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -5154,15 +5042,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-125646
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanitek 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Zanitek 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100000760-45545-50116304"
 
 * name = "Zanitek 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -5200,15 +5087,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-125650
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanitek 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Zanitek 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116320"
+
+* identifier[pcid].value = "PT-100000760-45546-50116320"
 
 * name = "Zanitek 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -5246,15 +5132,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-125656
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanitek 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Zanitek 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100000760-45546-50116347"
 
 * name = "Zanitek 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -5292,15 +5177,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-125660
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanipress 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Zanipress 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116282"
+
+* identifier[pcid].value = "PT-100044004-45547-50116282"
 
 * name = "Zanipress 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -5338,15 +5222,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-125666
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanipress 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Zanipress 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100044004-45547-50116304"
 
 * name = "Zanipress 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -5384,15 +5267,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-125676
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanipress 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Zanipress 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100044004-45552-50116347"
 
 * name = "Zanipress 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -5430,15 +5312,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-118619
 InstanceOf: PPLPackagedProductDefinition
 Title: "Yaz 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Yaz 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050028"
+
+* identifier[pcid].value = "PT-100009492-45694-50050028"
 
 * name = "Yaz 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -5476,15 +5357,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-118620
 InstanceOf: PPLPackagedProductDefinition
 Title: "Yaz 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Yaz 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050036"
+
+* identifier[pcid].value = "PT-100009492-45694-50050036"
 
 * name = "Yaz 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -5522,15 +5402,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-124686
 InstanceOf: PPLPackagedProductDefinition
 Title: "Preterax 10 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Frasco"
 Description: "Preterax 10 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100015070-46630-50133462"
 
 * name = "Preterax 10 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Frasco"
 
@@ -5568,15 +5447,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45626
 InstanceOf: PPLPackagedProductDefinition
 Title: "Yasmin 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Yasmin 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026690"
+
+* identifier[pcid].value = "PT-100007476-30078-50026690"
 
 * name = "Yasmin 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -5614,15 +5492,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44033
 InstanceOf: PPLPackagedProductDefinition
 Title: "Renidur 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Renidur 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100050021-7438-50006231"
 
 * name = "Renidur 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -5660,15 +5537,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59235
 InstanceOf: PPLPackagedProductDefinition
 Title: "Renidur 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Description: "Renidur 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100050021-7438-50006240"
 
 * name = "Renidur 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -5706,15 +5582,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-51302
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dafalgan 1 g 1000 mg Comprimido efervescente 32 Comprimido Fita termossoldada"
 Description: "Dafalgan 1 g 1000 mg Comprimido efervescente 32 Comprimido Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050044"
+
+* identifier[pcid].value = "PT-100005560-32365-50050044"
 
 * name = "Dafalgan 1 g 1000 mg Comprimido efervescente 32 Comprimido Fita termossoldada"
 
@@ -5752,15 +5627,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-51300
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dafalgan 1 g 1000 mg Comprimido efervescente 8 Comprimido Fita termossoldada"
 Description: "Dafalgan 1 g 1000 mg Comprimido efervescente 8 Comprimido Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193821"
+
+* identifier[pcid].value = "PT-100005560-32365-50193821"
 
 * name = "Dafalgan 1 g 1000 mg Comprimido efervescente 8 Comprimido Fita termossoldada"
 
@@ -5798,15 +5672,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-86556
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-U-Ron 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Ben-U-Ron 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100004422-38279-50036432"
 
 * name = "Ben-U-Ron 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -5844,15 +5717,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95884
 InstanceOf: PPLPackagedProductDefinition
 Title: "Norvasc 5 mg Comprimido 60 Comprimido Blister"
 Description: "Norvasc 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100032008-6249-50013343"
 
 * name = "Norvasc 5 mg Comprimido 60 Comprimido Blister"
 
@@ -5890,15 +5762,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95883
 InstanceOf: PPLPackagedProductDefinition
 Title: "Norvasc 10 mg Comprimido 60 Comprimido Blister"
 Description: "Norvasc 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100032008-6250-50013360"
 
 * name = "Norvasc 10 mg Comprimido 60 Comprimido Blister"
 
@@ -5936,15 +5807,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8785
 InstanceOf: PPLPackagedProductDefinition
 Title: "Losec 20 mg Cápsula gastrorresistente 28 Cápsula Frasco"
 Description: "Losec 20 mg Cápsula gastrorresistente 28 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008706"
+
+* identifier[pcid].value = "PT-100011241-5220-50008706"
 
 * name = "Losec 20 mg Cápsula gastrorresistente 28 Cápsula Frasco"
 
@@ -5982,15 +5852,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8786
 InstanceOf: PPLPackagedProductDefinition
 Title: "Losec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Losec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100011241-5220-50008692"
 
 * name = "Losec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -6028,15 +5897,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93248
 InstanceOf: PPLPackagedProductDefinition
 Title: "Augmentin Duo, comprimidos 875/125 mg 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Augmentin Duo, comprimidos 875/125 mg 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100002296-712-50003178"
 
 * name = "Augmentin Duo, comprimidos 875/125 mg 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -6074,15 +5942,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15639
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zipos 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Description: "Zipos 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018345"
+
+* identifier[pcid].value = "PT-100004481-9462-50018345"
 
 * name = "Zipos 125 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 
@@ -6120,15 +5987,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15676
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zoladex 3.6 mg Implante 1 Seringa"
 Description: "Zoladex 3.6 mg Implante 1 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156217"
+
+* identifier[pcid].value = "PT-100000235-9483-50156217"
 
 * name = "Zoladex 3.6 mg Implante 1 Seringa"
 
@@ -6166,15 +6032,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96229
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zipos 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Zipos 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018337"
+
+* identifier[pcid].value = "PT-100004481-9459-50018337"
 
 * name = "Zipos 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -6212,15 +6077,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-16435
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Sandoz 125 mg + 31,25 mg/5 ml Pó para susp. oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 125 mg + 31,25 mg/5 ml Pó para susp. oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001701"
+
+* identifier[pcid].value = "PT-100005531-9801-50001701"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 125 mg + 31,25 mg/5 ml Pó para susp. oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -6258,15 +6122,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-16080
 InstanceOf: PPLPackagedProductDefinition
 Title: "Locoid Lipocreme 1 mg/g Creme 1 Bisnaga 30 g"
 Description: "Locoid Lipocreme 1 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50078259"
+
+* identifier[pcid].value = "PT-100011241-9657-50078259"
 
 * name = "Locoid Lipocreme 1 mg/g Creme 1 Bisnaga 30 g"
 
@@ -6304,15 +6167,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70477
 InstanceOf: PPLPackagedProductDefinition
 Title: "Proton 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Proton 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019066"
+
+* identifier[pcid].value = "PT-100000197-9672-50019066"
 
 * name = "Proton 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -6350,15 +6212,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-83828
 InstanceOf: PPLPackagedProductDefinition
 Title: "Proton 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Proton 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100000197-9672-50019082"
 
 * name = "Proton 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -6396,15 +6257,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-16159
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fucidine H 10 mg/g + 20 mg/g Creme 1 Bisnaga 30 g"
 Description: "Fucidine H 10 mg/g + 20 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50090143"
+
+* identifier[pcid].value = "PT-100005213-9682-50090143"
 
 * name = "Fucidine H 10 mg/g + 20 mg/g Creme 1 Bisnaga 30 g"
 
@@ -6442,15 +6302,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-101509
 InstanceOf: PPLPackagedProductDefinition
 Title: "Betamox 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Betamox 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001728"
+
+* identifier[pcid].value = "PT-100070132-9737-50001728"
 
 * name = "Betamox 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -6488,15 +6347,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-16691
 InstanceOf: PPLPackagedProductDefinition
 Title: "Morfina 2% Braun 40 mg/2 ml Solução injetável 10 Ampola"
 Description: "Morfina 2% Braun 40 mg/2 ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019791"
+
+* identifier[pcid].value = "PT-100002336-9875-50019791"
 
 * name = "Morfina 2% Braun 40 mg/2 ml Solução injetável 10 Ampola"
 
@@ -6534,15 +6392,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-16720
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004417"
+
+* identifier[pcid].value = "PT-100004619-9879-50004417"
 
 * name = "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -6580,15 +6437,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-16721
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 50 g"
 Description: "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019805"
+
+* identifier[pcid].value = "PT-100004619-9879-50019805"
 
 * name = "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme 1 Bisnaga 50 g"
 
@@ -6626,15 +6482,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17153
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Mylan 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Mylan 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016717"
+
+* identifier[pcid].value = "PT-100004397-10056-50016717"
 
 * name = "Tramadol Mylan 50 mg Cápsula 20 Cápsula Blister"
 
@@ -6672,15 +6527,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17156
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Mylan 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 Description: "Tramadol Mylan 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016741"
+
+* identifier[pcid].value = "PT-100004397-10059-50016741"
 
 * name = "Tramadol Mylan 100 mg/ml Gotas orais, solução 1 Frasco 30 ml"
 
@@ -6718,15 +6572,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17190
 InstanceOf: PPLPackagedProductDefinition
 Title: "Painex 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Painex 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100000372-10071-50008285"
 
 * name = "Painex 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -6764,15 +6617,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17630
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 60 mg/0.6 ml Solução injetável 2 Seringa"
 Description: "Lovenox 60 mg/0.6 ml Solução injetável 2 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172417"
+
+* identifier[pcid].value = "PT-100000345-10153-50172417"
 
 * name = "Lovenox 60 mg/0.6 ml Solução injetável 2 Seringa"
 
@@ -6810,15 +6662,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17631
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 60 mg/0.6 ml Solução injetável 6 Seringa"
 Description: "Lovenox 60 mg/0.6 ml Solução injetável 6 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172425"
+
+* identifier[pcid].value = "PT-100000345-10153-50172425"
 
 * name = "Lovenox 60 mg/0.6 ml Solução injetável 6 Seringa"
 
@@ -6856,15 +6707,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17633
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 80 mg/0.8 ml Solução injetável 2 Seringa"
 Description: "Lovenox 80 mg/0.8 ml Solução injetável 2 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172441"
+
+* identifier[pcid].value = "PT-100000345-10154-50172441"
 
 * name = "Lovenox 80 mg/0.8 ml Solução injetável 2 Seringa"
 
@@ -6902,15 +6752,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17638
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 80 mg/0.8 ml Solução injetável 6 Seringa"
 Description: "Lovenox 80 mg/0.8 ml Solução injetável 6 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172450"
+
+* identifier[pcid].value = "PT-100000345-10154-50172450"
 
 * name = "Lovenox 80 mg/0.8 ml Solução injetável 6 Seringa"
 
@@ -6948,15 +6797,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-18221
 InstanceOf: PPLPackagedProductDefinition
 Title: "Betamox 500 mg/10 ml + 50 mg/10 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Description: "Betamox 500 mg/10 ml + 50 mg/10 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50021168"
+
+* identifier[pcid].value = "PT-100070132-10347-50021168"
 
 * name = "Betamox 500 mg/10 ml + 50 mg/10 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 
@@ -6994,15 +6842,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-18222
 InstanceOf: PPLPackagedProductDefinition
 Title: "Betamox 1000 mg/20 ml + 200 mg/20 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Description: "Betamox 1000 mg/20 ml + 200 mg/20 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50021176"
+
+* identifier[pcid].value = "PT-100070132-10348-50021176"
 
 * name = "Betamox 1000 mg/20 ml + 200 mg/20 ml Pó e solvente para solução injetável 1 Frasco para injetáveis"
 
@@ -7040,15 +6887,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-18228
 InstanceOf: PPLPackagedProductDefinition
 Title: "Betamox 2000 mg + 200 mg Pó para solução para perfusão 1 Frasco para injetáveis"
 Description: "Betamox 2000 mg + 200 mg Pó para solução para perfusão 1 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50021192"
+
+* identifier[pcid].value = "PT-100070132-10353-50021192"
 
 * name = "Betamox 2000 mg + 200 mg Pó para solução para perfusão 1 Frasco para injetáveis"
 
@@ -7086,15 +6932,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-18492
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Generis 500 mg Comprimidos 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Generis 500 mg Comprimidos 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100000372-10459-50001981"
 
 * name = "Paracetamol Generis 500 mg Comprimidos 500 mg Comprimido 20 Comprimido Blister"
 
@@ -7132,15 +6977,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69881
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lantus 100 U/ml Solução injetável 5 Cartucho"
 Description: "Lantus 100 U/ml Solução injetável 5 Cartucho"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50093061"
+
+* identifier[pcid].value = "PT-100000869-10745-50093061"
 
 * name = "Lantus 100 U/ml Solução injetável 5 Cartucho"
 
@@ -7178,15 +7022,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-19338
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Labesfal 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Description: "Diclofenac Labesfal 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007262"
+
+* identifier[pcid].value = "PT-100000372-10811-50007262"
 
 * name = "Diclofenac Labesfal 50 mg Comprimido gastrorresistente 60 Comprimido Blister"
 
@@ -7224,15 +7067,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-19340
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Labesfal 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Diclofenac Labesfal 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006690"
+
+* identifier[pcid].value = "PT-100000372-10813-50006690"
 
 * name = "Diclofenac Labesfal 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -7270,15 +7112,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-19659
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 40 Recipiente unidose 0,3 ml"
 Description: "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 40 Recipiente unidose 0,3 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50021680"
+
+* identifier[pcid].value = "PT-100005605-10908-50021680"
 
 * name = "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 40 Recipiente unidose 0,3 ml"
 
@@ -7316,15 +7157,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-19658
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 20 Recipiente unidose 0,3 ml"
 Description: "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 20 Recipiente unidose 0,3 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50021672"
+
+* identifier[pcid].value = "PT-100005605-10908-50021672"
 
 * name = "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução 20 Recipiente unidose 0,3 ml"
 
@@ -7362,15 +7202,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62682
 InstanceOf: PPLPackagedProductDefinition
 Title: "Betamox Plus 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Description: "Betamox Plus 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100070132-11017-50003178"
 
 * name = "Betamox Plus 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -7408,15 +7247,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-19957
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zip-A-Dol 200 mg Cápsula 20 Cápsula Blister"
 Description: "Zip-A-Dol 200 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100057827-11042-50004247"
 
 * name = "Zip-A-Dol 200 mg Cápsula 20 Cápsula Blister"
 
@@ -7454,15 +7292,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-19991
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nurofen 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 Description: "Nurofen 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013556"
+
+* identifier[pcid].value = "PT-100002888-11052-50013556"
 
 * name = "Nurofen 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 
@@ -7500,15 +7337,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-37470
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clavamox DT 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Clavamox DT 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022202"
+
+* identifier[pcid].value = "PT-100000385-11138-50022202"
 
 * name = "Clavamox DT 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -7546,15 +7382,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-21884
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 120 mg/0.8 ml Solução injetável 2 Seringa"
 Description: "Lovenox 120 mg/0.8 ml Solução injetável 2 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172476"
+
+* identifier[pcid].value = "PT-100000345-12699-50172476"
 
 * name = "Lovenox 120 mg/0.8 ml Solução injetável 2 Seringa"
 
@@ -7592,15 +7427,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-21885
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 120 mg/0.8 ml Solução injetável 6 Seringa"
 Description: "Lovenox 120 mg/0.8 ml Solução injetável 6 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172484"
+
+* identifier[pcid].value = "PT-100000345-12699-50172484"
 
 * name = "Lovenox 120 mg/0.8 ml Solução injetável 6 Seringa"
 
@@ -7638,15 +7472,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-21894
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 150 mg/1 ml Solução injetável 6 Seringa"
 Description: "Lovenox 150 mg/1 ml Solução injetável 6 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172514"
+
+* identifier[pcid].value = "PT-100000345-12700-50172514"
 
 * name = "Lovenox 150 mg/1 ml Solução injetável 6 Seringa"
 
@@ -7684,15 +7517,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-21893
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 150 mg/1 ml Solução injetável 2 Seringa"
 Description: "Lovenox 150 mg/1 ml Solução injetável 2 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172506"
+
+* identifier[pcid].value = "PT-100000345-12700-50172506"
 
 * name = "Lovenox 150 mg/1 ml Solução injetável 2 Seringa"
 
@@ -7730,15 +7562,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-22061
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dol-U-Ron Forte 1000 mg + 60 mg Supositório 10 Supositório Fita termossoldada"
 Description: "Dol-U-Ron Forte 1000 mg + 60 mg Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022326"
+
+* identifier[pcid].value = "PT-100004422-12858-50022326"
 
 * name = "Dol-U-Ron Forte 1000 mg + 60 mg Supositório 10 Supositório Fita termossoldada"
 
@@ -7776,15 +7607,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2144613
 InstanceOf: PPLPackagedProductDefinition
 Title: "Panadol 500 mg Comprimido efervescente 16 Comprimido Blister"
 Description: "Panadol 500 mg Comprimido efervescente 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50041320"
+
+* identifier[pcid].value = "PT-100004086-14352-50041320"
 
 * name = "Panadol 500 mg Comprimido efervescente 16 Comprimido Blister"
 
@@ -7822,15 +7652,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93611
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004638"
+
+* identifier[pcid].value = "PT-100005531-13642-50004638"
 
 * name = "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -7868,15 +7697,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-90925
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004646"
+
+* identifier[pcid].value = "PT-100005531-13642-50004646"
 
 * name = "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -7914,15 +7742,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-134296
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 15 Comprimido Blister"
 Description: "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 15 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016229"
+
+* identifier[pcid].value = "PT-100004397-15218-50016229"
 
 * name = "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 15 Comprimido Blister"
 
@@ -7960,15 +7787,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-24788
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Description: "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016210"
+
+* identifier[pcid].value = "PT-100004397-15218-50016210"
 
 * name = "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -8006,15 +7832,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-24804
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbamazepina Mylan 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Description: "Carbamazepina Mylan 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016237"
+
+* identifier[pcid].value = "PT-100004397-15219-50016237"
 
 * name = "Carbamazepina Mylan 400 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -8052,15 +7877,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-73665
 InstanceOf: PPLPackagedProductDefinition
 Title: "Morfina Labesfal 10 mg/1 ml Solução injetável 10 Ampola"
 Description: "Morfina Labesfal 10 mg/1 ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022741"
+
+* identifier[pcid].value = "PT-100000367-16068-50022741"
 
 * name = "Morfina Labesfal 10 mg/1 ml Solução injetável 10 Ampola"
 
@@ -8098,15 +7922,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-73669
 InstanceOf: PPLPackagedProductDefinition
 Title: "Morfina Labesfal (sem conservantes) 10 mg/1 ml Solução injetável 10 Ampola"
 Description: "Morfina Labesfal (sem conservantes) 10 mg/1 ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006002"
+
+* identifier[pcid].value = "PT-100000367-16072-50006002"
 
 * name = "Morfina Labesfal (sem conservantes) 10 mg/1 ml Solução injetável 10 Ampola"
 
@@ -8144,15 +7967,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-73668
 InstanceOf: PPLPackagedProductDefinition
 Title: "Morfina Labesfal (sem conservantes) 40 mg/2 ml Solução injetável 10 Ampola"
 Description: "Morfina Labesfal (sem conservantes) 40 mg/2 ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019791"
+
+* identifier[pcid].value = "PT-100000367-16075-50019791"
 
 * name = "Morfina Labesfal (sem conservantes) 40 mg/2 ml Solução injetável 10 Ampola"
 
@@ -8190,15 +8012,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-47768
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100001950-18454-50008692"
 
 * name = "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -8236,15 +8057,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64004
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100001950-18454-50008714"
 
 * name = "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -8282,15 +8102,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-30940
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cálcio + Vitamina D3 ratiopharm 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Description: "Cálcio + Vitamina D3 ratiopharm 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193783"
+
+* identifier[pcid].value = "PT-100004619-19795-50193783"
 
 * name = "Cálcio + Vitamina D3 ratiopharm 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -8328,15 +8147,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-30944
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Description: "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193783"
+
+* identifier[pcid].value = "PT-100005531-19796-50193783"
 
 * name = "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -8374,15 +8192,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-30946
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 60 Comprimido Recipiente para comprimidos"
 Description: "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 60 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193805"
+
+* identifier[pcid].value = "PT-100005531-19796-50193805"
 
 * name = "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente 60 Comprimido Recipiente para comprimidos"
 
@@ -8420,15 +8237,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91170
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Farmoz 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Farmoz 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100002998-29059-50013343"
 
 * name = "Amlodipina Farmoz 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -8466,15 +8282,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91171
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Farmoz 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Farmoz 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100002998-29060-50013360"
 
 * name = "Amlodipina Farmoz 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -8512,15 +8327,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91172
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Basi 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Basi 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100000339-29061-50013343"
 
 * name = "Amlodipina Basi 5 mg Comprimido 60 Comprimido Blister"
 
@@ -8558,15 +8372,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91173
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Basi 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Basi 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100000339-29062-50013360"
 
 * name = "Amlodipina Basi 10 mg Comprimido 60 Comprimido Blister"
 
@@ -8604,15 +8417,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-42519
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mibral 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Mibral 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100001538-29063-50013335"
 
 * name = "Amlodipina Mibral 5 mg Comprimido 10 Comprimido Blister"
 
@@ -8650,15 +8462,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91168
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mibral 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mibral 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100001538-29063-50013343"
 
 * name = "Amlodipina Mibral 5 mg Comprimido 60 Comprimido Blister"
 
@@ -8696,15 +8507,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91169
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mibral 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mibral 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100001538-29064-50013360"
 
 * name = "Amlodipina Mibral 10 mg Comprimido 60 Comprimido Blister"
 
@@ -8742,15 +8552,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-42547
 InstanceOf: PPLPackagedProductDefinition
 Title: "Maleato de Enalapril Mylan 5 mg Comprimido 60 Comprimido Fita termossoldada"
 Description: "Maleato de Enalapril Mylan 5 mg Comprimido 60 Comprimido Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100004397-29065-50003356"
 
 * name = "Maleato de Enalapril Mylan 5 mg Comprimido 60 Comprimido Fita termossoldada"
 
@@ -8788,15 +8597,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-42537
 InstanceOf: PPLPackagedProductDefinition
 Title: "Maleato de Enalapril Mylan 5 mg Comprimido 10 Comprimido Fita termossoldada"
 Description: "Maleato de Enalapril Mylan 5 mg Comprimido 10 Comprimido Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003364"
+
+* identifier[pcid].value = "PT-100004397-29065-50003364"
 
 * name = "Maleato de Enalapril Mylan 5 mg Comprimido 10 Comprimido Fita termossoldada"
 
@@ -8834,15 +8642,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-42639
 InstanceOf: PPLPackagedProductDefinition
 Title: "Maleato de Enalapril Mylan 20 mg Comprimido 56 Comprimido Fita termossoldada"
 Description: "Maleato de Enalapril Mylan 20 mg Comprimido 56 Comprimido Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100004397-29068-50003372"
 
 * name = "Maleato de Enalapril Mylan 20 mg Comprimido 56 Comprimido Fita termossoldada"
 
@@ -8880,15 +8687,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-34216
 InstanceOf: PPLPackagedProductDefinition
 Title: "Oramorph 20 mg/ml Solução oral 1 Frasco"
 Description: "Oramorph 20 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024272"
+
+* identifier[pcid].value = "PT-100000499-22350-50024272"
 
 * name = "Oramorph 20 mg/ml Solução oral 1 Frasco"
 
@@ -8926,15 +8732,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-36658
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Description: "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100001538-24367-50008692"
 
 * name = "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 
@@ -8972,15 +8777,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-36660
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Description: "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100001538-24367-50008714"
 
 * name = "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -9018,15 +8822,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67171
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico-Ratiopharm 125 mg e 31,25mg/5 ml, Suspensão Oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido Clavulânico-Ratiopharm 125 mg e 31,25mg/5 ml, Suspensão Oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001698"
+
+* identifier[pcid].value = "PT-100004619-25282-50001698"
 
 * name = "Amoxicilina + Ácido Clavulânico-Ratiopharm 125 mg e 31,25mg/5 ml, Suspensão Oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -9064,15 +8867,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57859
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidonostrum Bomba-Spray 10% 100 mg/ml Solução para pulverização cutânea 1 Frasco"
 Description: "Lidonostrum Bomba-Spray 10% 100 mg/ml Solução para pulverização cutânea 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50025015"
+
+* identifier[pcid].value = "PT-100000312-29136-50025015"
 
 * name = "Lidonostrum Bomba-Spray 10% 100 mg/ml Solução para pulverização cutânea 1 Frasco"
 
@@ -9110,15 +8912,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-42813
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004646"
+
+* identifier[pcid].value = "PT-100001305-29143-50004646"
 
 * name = "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -9156,15 +8957,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62800
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004638"
+
+* identifier[pcid].value = "PT-100001305-29143-50004638"
 
 * name = "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -9202,15 +9002,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67173
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico-Ratiopharm 250 mg e 62,5 mg/5 ml, Suspensão Oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido Clavulânico-Ratiopharm 250 mg e 62,5 mg/5 ml, Suspensão Oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001710"
+
+* identifier[pcid].value = "PT-100004619-29301-50001710"
 
 * name = "Amoxicilina + Ácido Clavulânico-Ratiopharm 250 mg e 62,5 mg/5 ml, Suspensão Oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -9248,15 +9047,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-43356
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico-Ratiopharm 500 mg e 125 mg Comprimido Revestido 500 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico-Ratiopharm 500 mg e 125 mg Comprimido Revestido 500 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001639"
+
+* identifier[pcid].value = "PT-100004619-29302-50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico-Ratiopharm 500 mg e 125 mg Comprimido Revestido 500 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -9294,15 +9092,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-43859
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Zera 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Zera 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100001538-29484-50018418"
 
 * name = "Sinvastatina Zera 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -9340,15 +9137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-43857
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Zera 10 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sinvastatina Zera 10 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100001538-29484-50018426"
 
 * name = "Sinvastatina Zera 10 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -9386,15 +9182,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-43861
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Zera 20 mg Comprimidos Revestidos 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Zera 20 mg Comprimidos Revestidos 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100001538-29485-50018442"
 
 * name = "Sinvastatina Zera 20 mg Comprimidos Revestidos 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -9432,15 +9227,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44228
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcitab 1500 mg Comprimido para mastigar 20 Comprimido Frasco"
 Description: "Calcitab 1500 mg Comprimido para mastigar 20 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50094858"
+
+* identifier[pcid].value = "PT-100057661-29586-50094858"
 
 * name = "Calcitab 1500 mg Comprimido para mastigar 20 Comprimido Frasco"
 
@@ -9478,15 +9272,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44229
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcitab 1500 mg Comprimido para mastigar 60 Comprimido Frasco"
 Description: "Calcitab 1500 mg Comprimido para mastigar 60 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50094866"
+
+* identifier[pcid].value = "PT-100057661-29586-50094866"
 
 * name = "Calcitab 1500 mg Comprimido para mastigar 60 Comprimido Frasco"
 
@@ -9524,15 +9317,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44236
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 Description: "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016172"
+
+* identifier[pcid].value = "PT-100000372-29588-50016172"
 
 * name = "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 
@@ -9570,15 +9362,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44235
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 20 Comprimido Blister"
 Description: "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016164"
+
+* identifier[pcid].value = "PT-100000372-29588-50016164"
 
 * name = "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido 20 Comprimido Blister"
 
@@ -9616,15 +9407,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44240
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbamazepina Generis 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 Description: "Carbamazepina Generis 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016180"
+
+* identifier[pcid].value = "PT-100000372-29594-50016180"
 
 * name = "Carbamazepina Generis 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 
@@ -9662,15 +9452,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44252
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004646"
+
+* identifier[pcid].value = "PT-100000372-29601-50004646"
 
 * name = "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -9708,15 +9497,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59106
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004638"
+
+* identifier[pcid].value = "PT-100000372-29601-50004638"
 
 * name = "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -9754,15 +9542,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44290
 InstanceOf: PPLPackagedProductDefinition
 Title: "Canesten 10 mg/g Pó cutâneo 1 Frasco 30 g"
 Description: "Canesten 10 mg/g Pó cutâneo 1 Frasco 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50025783"
+
+* identifier[pcid].value = "PT-100007476-29618-50025783"
 
 * name = "Canesten 10 mg/g Pó cutâneo 1 Frasco 30 g"
 
@@ -9800,15 +9587,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44392
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003364"
+
+* identifier[pcid].value = "PT-100004619-29672-50003364"
 
 * name = "Enalapril Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 
@@ -9846,15 +9632,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44397
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100004619-29672-50003356"
 
 * name = "Enalapril Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 
@@ -9892,15 +9677,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44424
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Ratiopharm 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Ratiopharm 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100004619-29681-50003372"
 
 * name = "Enalapril Ratiopharm 20 mg Comprimido 60 Comprimido Blister"
 
@@ -9938,15 +9722,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44436
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100003164-29682-50003356"
 
 * name = "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -9984,15 +9767,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44431
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003364"
+
+* identifier[pcid].value = "PT-100003164-29682-50003364"
 
 * name = "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 
@@ -10030,15 +9812,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44560
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenil-V Gelcreme 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Fenil-V Gelcreme 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100002880-29709-50008285"
 
 * name = "Fenil-V Gelcreme 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -10076,15 +9857,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-60035
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbamazepina Labesfal 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 Description: "Carbamazepina Labesfal 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016172"
+
+* identifier[pcid].value = "PT-100000372-29748-50016172"
 
 * name = "Carbamazepina Labesfal 200 mg Comprimidos 200 mg Comprimido 60 Comprimido Blister"
 
@@ -10122,15 +9902,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-60037
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbamazepina Labesfal 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 Description: "Carbamazepina Labesfal 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016180"
+
+* identifier[pcid].value = "PT-100000372-29749-50016180"
 
 * name = "Carbamazepina Labesfal 400 mg Comprimidos 400 mg Comprimido 60 Comprimido Blister"
 
@@ -10168,15 +9947,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44454
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Teva 20 mg Comprimidos 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Teva 20 mg Comprimidos 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100003164-29684-50003372"
 
 * name = "Enalapril Teva 20 mg Comprimidos 20 mg Comprimido 60 Comprimido Blister"
 
@@ -10214,15 +9992,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-73743
 InstanceOf: PPLPackagedProductDefinition
 Title: "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações"
 Description: "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50063596"
+
+* identifier[pcid].value = "PT-100001337-35924-50063596"
 
 * name = "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações"
 
@@ -10260,15 +10037,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67597
 InstanceOf: PPLPackagedProductDefinition
 Title: "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações e 1 aplicador"
 Description: "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações e 1 aplicador"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50063600"
+
+* identifier[pcid].value = "PT-100001337-35924-50063600"
 
 * name = "Salbutamol Novolizer 100 µg/dose Pó para inalação 1 Cartucho 200 aplicações e 1 aplicador"
 
@@ -10306,15 +10082,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-90652
 InstanceOf: PPLPackagedProductDefinition
 Title: "Adalgur N 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 Description: "Adalgur N 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50064428"
+
+* identifier[pcid].value = "PT-100001307-101-50064428"
 
 * name = "Adalgur N 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 
@@ -10352,15 +10127,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-90651
 InstanceOf: PPLPackagedProductDefinition
 Title: "Adalgur N 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 Description: "Adalgur N 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50064436"
+
+* identifier[pcid].value = "PT-100001307-101-50064436"
 
 * name = "Adalgur N 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 
@@ -10398,15 +10172,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-276
 InstanceOf: PPLPackagedProductDefinition
 Title: "Afebryl 300 mg + 200 mg + 300 mg Comprimido efervescente 16 Comprimido Recipiente para comprimidos"
 Description: "Afebryl 300 mg + 200 mg + 300 mg Comprimido efervescente 16 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193678"
+
+* identifier[pcid].value = "PT-100004123-147-50193678"
 
 * name = "Afebryl 300 mg + 200 mg + 300 mg Comprimido efervescente 16 Comprimido Recipiente para comprimidos"
 
@@ -10444,15 +10217,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-406
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol + Cafeína Algik 500 mg + 50 mg Pó para solução oral 20 Saqueta"
 Description: "Paracetamol + Cafeína Algik 500 mg + 50 mg Pó para solução oral 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50064886"
+
+* identifier[pcid].value = "PT-100004123-230-50064886"
 
 * name = "Paracetamol + Cafeína Algik 500 mg + 50 mg Pó para solução oral 20 Saqueta"
 
@@ -10490,15 +10262,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-599
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Sandoz 500 mg + 125 mg Comprimidos revestidos 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 500 mg + 125 mg Comprimidos revestidos 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001639"
+
+* identifier[pcid].value = "PT-100005531-348-50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 500 mg + 125 mg Comprimidos revestidos 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -10536,15 +10307,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-602
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Sandoz 250 mg + 62,5 mg/5 ml Pó para susp. oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 250 mg + 62,5 mg/5 ml Pó para susp. oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001728"
+
+* identifier[pcid].value = "PT-100005531-349-50001728"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 250 mg + 62,5 mg/5 ml Pó para susp. oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -10582,15 +10352,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-604
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina Labesfal 1000 mg Comprimido 16 Comprimido Blister"
 Description: "Amoxicilina Labesfal 1000 mg Comprimido 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001817"
+
+* identifier[pcid].value = "PT-100000372-351-50001817"
 
 * name = "Amoxicilina Labesfal 1000 mg Comprimido 16 Comprimido Blister"
 
@@ -10628,15 +10397,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-58905
 InstanceOf: PPLPackagedProductDefinition
 Title: "Anafranil 10 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Anafranil 10 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065084"
+
+* identifier[pcid].value = "PT-100011502-406-50065084"
 
 * name = "Anafranil 10 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -10674,15 +10442,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67749
 InstanceOf: PPLPackagedProductDefinition
 Title: "Anafranil 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Anafranil 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065092"
+
+* identifier[pcid].value = "PT-100011502-406-50065092"
 
 * name = "Anafranil 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -10720,15 +10487,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-688
 InstanceOf: PPLPackagedProductDefinition
 Title: "Anafranil 25 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Anafranil 25 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065106"
+
+* identifier[pcid].value = "PT-100011502-407-50065106"
 
 * name = "Anafranil 25 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -10766,15 +10532,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45344
 InstanceOf: PPLPackagedProductDefinition
 Title: "Anafranil 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Description: "Anafranil 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065122"
+
+* identifier[pcid].value = "PT-100011502-408-50065122"
 
 * name = "Anafranil 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -10812,15 +10577,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-691
 InstanceOf: PPLPackagedProductDefinition
 Title: "Anafranil 25 mg/2 ml Solução injetável 5 Ampola"
 Description: "Anafranil 25 mg/2 ml Solução injetável 5 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065130"
+
+* identifier[pcid].value = "PT-100011502-409-50065130"
 
 * name = "Anafranil 25 mg/2 ml Solução injetável 5 Ampola"
 
@@ -10858,15 +10622,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1146
 InstanceOf: PPLPackagedProductDefinition
 Title: "Atralidon 500 mg Comprimido 20 Comprimido Blister"
 Description: "Atralidon 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100070132-675-50001981"
 
 * name = "Atralidon 500 mg Comprimido 20 Comprimido Blister"
 
@@ -10904,15 +10667,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-917
 InstanceOf: PPLPackagedProductDefinition
 Title: "Arthrotec 50 mg + 0.2 mg Comprimido 20 Comprimido Blister"
 Description: "Arthrotec 50 mg + 0.2 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065572"
+
+* identifier[pcid].value = "PT-100001529-555-50065572"
 
 * name = "Arthrotec 50 mg + 0.2 mg Comprimido 20 Comprimido Blister"
 
@@ -10950,15 +10712,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-918
 InstanceOf: PPLPackagedProductDefinition
 Title: "Arthrotec 50 mg + 0.2 mg Comprimido 60 Comprimido Blister"
 Description: "Arthrotec 50 mg + 0.2 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065580"
+
+* identifier[pcid].value = "PT-100001529-555-50065580"
 
 * name = "Arthrotec 50 mg + 0.2 mg Comprimido 60 Comprimido Blister"
 
@@ -10996,15 +10757,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-920
 InstanceOf: PPLPackagedProductDefinition
 Title: "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Description: "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065602"
+
+* identifier[pcid].value = "PT-100001529-556-50065602"
 
 * name = "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 60 Comprimido Blister"
 
@@ -11042,15 +10802,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-921
 InstanceOf: PPLPackagedProductDefinition
 Title: "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 20 Comprimido Blister"
 Description: "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50065610"
+
+* identifier[pcid].value = "PT-100001529-556-50065610"
 
 * name = "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada 20 Comprimido Blister"
 
@@ -11088,15 +10847,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1378
 InstanceOf: PPLPackagedProductDefinition
 Title: "Baycuten 0.4 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Baycuten 0.4 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50066110"
+
+* identifier[pcid].value = "PT-100007476-814-50066110"
 
 * name = "Baycuten 0.4 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -11134,15 +10892,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1674
 InstanceOf: PPLPackagedProductDefinition
 Title: "Bialzepam 3 mg Cápsula 60 Cápsula Blister"
 Description: "Bialzepam 3 mg Cápsula 60 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003836"
+
+* identifier[pcid].value = "PT-100002816-1026-50003836"
 
 * name = "Bialzepam 3 mg Cápsula 60 Cápsula Blister"
 
@@ -11180,15 +10937,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1675
 InstanceOf: PPLPackagedProductDefinition
 Title: "Bialzepam 3 mg Cápsula 20 Cápsula Blister"
 Description: "Bialzepam 3 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003844"
+
+* identifier[pcid].value = "PT-100002816-1026-50003844"
 
 * name = "Bialzepam 3 mg Cápsula 20 Cápsula Blister"
 
@@ -11226,15 +10982,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57929
 InstanceOf: PPLPackagedProductDefinition
 Title: "Bialzepam 6 mg Cápsula 20 Cápsula Blister"
 Description: "Bialzepam 6 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003879"
+
+* identifier[pcid].value = "PT-100002816-1028-50003879"
 
 * name = "Bialzepam 6 mg Cápsula 20 Cápsula Blister"
 
@@ -11272,15 +11027,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1678
 InstanceOf: PPLPackagedProductDefinition
 Title: "Bialzepam 6 mg Cápsula 60 Cápsula Blister"
 Description: "Bialzepam 6 mg Cápsula 60 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003860"
+
+* identifier[pcid].value = "PT-100002816-1028-50003860"
 
 * name = "Bialzepam 6 mg Cápsula 60 Cápsula Blister"
 
@@ -11318,15 +11072,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57951
 InstanceOf: PPLPackagedProductDefinition
 Title: "Bialzepam Retard 10 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Bialzepam Retard 10 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003909"
+
+* identifier[pcid].value = "PT-100002816-1029-50003909"
 
 * name = "Bialzepam Retard 10 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -11364,15 +11117,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1680
 InstanceOf: PPLPackagedProductDefinition
 Title: "Bialzepam Retard 10 mg Cápsula de libertação prolongada 60 Cápsula Blister"
 Description: "Bialzepam Retard 10 mg Cápsula de libertação prolongada 60 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003895"
+
+* identifier[pcid].value = "PT-100002816-1029-50003895"
 
 * name = "Bialzepam Retard 10 mg Cápsula de libertação prolongada 60 Cápsula Blister"
 
@@ -11410,15 +11162,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2108
 InstanceOf: PPLPackagedProductDefinition
 Title: "Buscopan Compositum N 10 mg + 800 mg Supositório 12 Supositório Blister"
 Description: "Buscopan Compositum N 10 mg + 800 mg Supositório 12 Supositório Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50066986"
+
+* identifier[pcid].value = "PT-100049955-1294-50066986"
 
 * name = "Buscopan Compositum N 10 mg + 800 mg Supositório 12 Supositório Blister"
 
@@ -11456,15 +11207,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-47372
 InstanceOf: PPLPackagedProductDefinition
 Title: "Buscopan Compositum N 10 mg + 500 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Buscopan Compositum N 10 mg + 500 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50066978"
+
+* identifier[pcid].value = "PT-100049955-1293-50066978"
 
 * name = "Buscopan Compositum N 10 mg + 500 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -11502,15 +11252,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2184
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcium Sandoz Forte 875 mg + 1132 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Description: "Calcium Sandoz Forte 875 mg + 1132 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193694"
+
+* identifier[pcid].value = "PT-100005531-1352-50193694"
 
 * name = "Calcium Sandoz Forte 875 mg + 1132 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -11548,15 +11297,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2371
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carbonato Cálcio Labesfal 500 mg Cápsula 100 Cápsula Blister"
 Description: "Carbonato Cálcio Labesfal 500 mg Cápsula 100 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50067257"
+
+* identifier[pcid].value = "PT-100000367-1447-50067257"
 
 * name = "Carbonato Cálcio Labesfal 500 mg Cápsula 100 Cápsula Blister"
 
@@ -11594,15 +11342,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2465
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cataflam 50 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Cataflam 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004646"
+
+* identifier[pcid].value = "PT-100009497-1500-50004646"
 
 * name = "Cataflam 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -11640,15 +11387,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64403
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cataflam 50 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Cataflam 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004638"
+
+* identifier[pcid].value = "PT-100009497-1500-50004638"
 
 * name = "Cataflam 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -11686,15 +11432,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2618
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cefuroxima Hikma 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 Description: "Cefuroxima Hikma 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004808"
+
+* identifier[pcid].value = "PT-100002356-1585-50004808"
 
 * name = "Cefuroxima Hikma 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 
@@ -11732,15 +11477,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2948
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cipamox 500 mg Cápsula 16 Cápsula Blister"
 Description: "Cipamox 500 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001795"
+
+* identifier[pcid].value = "PT-100070132-1794-50001795"
 
 * name = "Cipamox 500 mg Cápsula 16 Cápsula Blister"
 
@@ -11778,15 +11522,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2951
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cipamox 1000 mg Comprimido 16 Comprimido Blister"
 Description: "Cipamox 1000 mg Comprimido 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001817"
+
+* identifier[pcid].value = "PT-100070132-1797-50001817"
 
 * name = "Cipamox 1000 mg Comprimido 16 Comprimido Blister"
 
@@ -11824,15 +11567,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95946
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cipamox 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Cipamox 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001914"
+
+* identifier[pcid].value = "PT-100070132-1802-50001914"
 
 * name = "Cipamox 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -11870,15 +11612,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59193
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cipamox 3000 mg Pó para suspensão oral 1 Saqueta"
 Description: "Cipamox 3000 mg Pó para suspensão oral 1 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50005324"
+
+* identifier[pcid].value = "PT-100070132-1803-50005324"
 
 * name = "Cipamox 3000 mg Pó para suspensão oral 1 Saqueta"
 
@@ -11916,15 +11657,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-3101
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clavamox 125 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Clavamox 125 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001701"
+
+* identifier[pcid].value = "PT-100000385-1901-50001701"
 
 * name = "Clavamox 125 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -11962,15 +11702,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-3103
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clavamox 250 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Clavamox 250 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001728"
+
+* identifier[pcid].value = "PT-100000385-1903-50001728"
 
 * name = "Clavamox 250 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -12008,15 +11747,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-63228
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clavamox 500 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Clavamox 500 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001639"
+
+* identifier[pcid].value = "PT-100000385-1904-50001639"
 
 * name = "Clavamox 500 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -12054,15 +11792,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-63231
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clavamox DT 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Clavamox DT 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100000385-1906-50003178"
 
 * name = "Clavamox DT 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -12100,15 +11837,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-3343
 InstanceOf: PPLPackagedProductDefinition
 Title: "Morfina 1% Braun 10 mg/1 ml Solução injetável 10 Ampola"
 Description: "Morfina 1% Braun 10 mg/1 ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006002"
+
+* identifier[pcid].value = "PT-100002336-2012-50006002"
 
 * name = "Morfina 1% Braun 10 mg/1 ml Solução injetável 10 Ampola"
 
@@ -12146,15 +11882,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-3802
 InstanceOf: PPLPackagedProductDefinition
 Title: "Daktacort 20 mg/g + 10 mg/g Creme 1 Bisnaga 15 g"
 Description: "Daktacort 20 mg/g + 10 mg/g Creme 1 Bisnaga 15 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50069470"
+
+* identifier[pcid].value = "PT-100015280-2316-50069470"
 
 * name = "Daktacort 20 mg/g + 10 mg/g Creme 1 Bisnaga 15 g"
 
@@ -12192,15 +11927,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-3940
 InstanceOf: PPLPackagedProductDefinition
 Title: "Depo-Medrol Com Lidocaína 40 mg/ml + 10 mg/ml Suspensão injetável 3 Frasco para injetáveis"
 Description: "Depo-Medrol Com Lidocaína 40 mg/ml + 10 mg/ml Suspensão injetável 3 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50069837"
+
+* identifier[pcid].value = "PT-100001529-2422-50069837"
 
 * name = "Depo-Medrol Com Lidocaína 40 mg/ml + 10 mg/ml Suspensão injetável 3 Frasco para injetáveis"
 
@@ -12238,15 +11972,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57780
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Description: "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006622"
+
+* identifier[pcid].value = "PT-100004619-2527-50006622"
 
 * name = "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 20 Comprimido Blister"
 
@@ -12284,15 +12017,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95954
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006649"
+
+* identifier[pcid].value = "PT-100004619-2527-50006649"
 
 * name = "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -12330,15 +12062,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57776
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 20 Comprimido Blister"
 Description: "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006665"
+
+* identifier[pcid].value = "PT-100004619-2528-50006665"
 
 * name = "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 20 Comprimido Blister"
 
@@ -12376,15 +12107,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95955
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Description: "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006681"
+
+* identifier[pcid].value = "PT-100004619-2528-50006681"
 
 * name = "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -12422,15 +12152,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4206
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Mylan 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Diclofenac Mylan 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006690"
+
+* identifier[pcid].value = "PT-100004397-2549-50006690"
 
 * name = "Diclofenac Mylan 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -12468,15 +12197,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4211
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Retard Ratiopharm 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Diclofenac Retard Ratiopharm 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006690"
+
+* identifier[pcid].value = "PT-100004619-2553-50006690"
 
 * name = "Diclofenac Retard Ratiopharm 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -12514,15 +12242,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4279
 InstanceOf: PPLPackagedProductDefinition
 Title: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Description: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50070380"
+
+* identifier[pcid].value = "PT-100007476-2591-50070380"
 
 * name = "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 
@@ -12560,15 +12287,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4278
 InstanceOf: PPLPackagedProductDefinition
 Title: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 96 Comprimido Blister"
 Description: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 96 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50070371"
+
+* identifier[pcid].value = "PT-100007476-2591-50070371"
 
 * name = "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 96 Comprimido Blister"
 
@@ -12606,15 +12332,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4280
 InstanceOf: PPLPackagedProductDefinition
 Title: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 48 Comprimido Blister"
 Description: "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 48 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50070398"
+
+* identifier[pcid].value = "PT-100007476-2591-50070398"
 
 * name = "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar 48 Comprimido Blister"
 
@@ -12652,15 +12377,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4410
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diomicete 10 mg/ml Colírio, solução 1 Frasco 10 ml"
 Description: "Diomicete 10 mg/ml Colírio, solução 1 Frasco 10 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007122"
+
+* identifier[pcid].value = "PT-100001202-2673-50007122"
 
 * name = "Diomicete 10 mg/ml Colírio, solução 1 Frasco 10 ml"
 
@@ -12698,15 +12422,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4637
 InstanceOf: PPLPackagedProductDefinition
 Title: "Doxiproct 40 mg/g + 20 mg/g Pomada retal 1 Bisnaga 30 g"
 Description: "Doxiproct 40 mg/g + 20 mg/g Pomada retal 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50071033"
+
+* identifier[pcid].value = "PT-100052627-2821-50071033"
 
 * name = "Doxiproct 40 mg/g + 20 mg/g Pomada retal 1 Bisnaga 30 g"
 
@@ -12744,15 +12467,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4806
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dafalgan 500mg 500 mg Comprimido efervescente 16 Comprimido Fita termossoldada"
 Description: "Dafalgan 500mg 500 mg Comprimido efervescente 16 Comprimido Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50041320"
+
+* identifier[pcid].value = "PT-100005560-2938-50041320"
 
 * name = "Dafalgan 500mg 500 mg Comprimido efervescente 16 Comprimido Fita termossoldada"
 
@@ -12790,15 +12512,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4853
 InstanceOf: PPLPackagedProductDefinition
 Title: "Emla 25 mg/g + 25 mg/g Creme 5 Bisnaga 5 g"
 Description: "Emla 25 mg/g + 25 mg/g Creme 5 Bisnaga 5 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50071530"
+
+* identifier[pcid].value = "PT-100001575-2966-50071530"
 
 * name = "Emla 25 mg/g + 25 mg/g Creme 5 Bisnaga 5 g"
 
@@ -12836,15 +12557,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4855
 InstanceOf: PPLPackagedProductDefinition
 Title: "Emla Penso 25 mg/g + 25 mg/g Penso impregnado 20 Penso"
 Description: "Emla Penso 25 mg/g + 25 mg/g Penso impregnado 20 Penso"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50071556"
+
+* identifier[pcid].value = "PT-100001575-2967-50071556"
 
 * name = "Emla Penso 25 mg/g + 25 mg/g Penso impregnado 20 Penso"
 
@@ -12882,15 +12602,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4872
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100001538-2979-50006231"
 
 * name = "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -12928,15 +12647,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-4873
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100001538-2979-50006240"
 
 * name = "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -12974,15 +12692,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59148
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 10 Comprimido Blister"
 Description: "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008137"
+
+* identifier[pcid].value = "PT-100002880-3345-50008137"
 
 * name = "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 10 Comprimido Blister"
 
@@ -13020,15 +12737,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-5404
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 60 Comprimido Blister"
 Description: "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008129"
+
+* identifier[pcid].value = "PT-100002880-3345-50008129"
 
 * name = "Fenil-V Dispersivel 46.5 mg Comprimido dispersível 60 Comprimido Blister"
 
@@ -13066,15 +12782,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59145
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenil-V 75 mg/2 ml Solução injetável 3 Ampola"
 Description: "Fenil-V 75 mg/2 ml Solução injetável 3 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008153"
+
+* identifier[pcid].value = "PT-100002880-3348-50008153"
 
 * name = "Fenil-V 75 mg/2 ml Solução injetável 3 Ampola"
 
@@ -13112,15 +12827,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-5653
 InstanceOf: PPLPackagedProductDefinition
 Title: "Flotiran 0.5 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Flotiran 0.5 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50072978"
+
+* identifier[pcid].value = "PT-100050021-3508-50072978"
 
 * name = "Flotiran 0.5 mg/g + 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -13158,15 +12872,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-5654
 InstanceOf: PPLPackagedProductDefinition
 Title: "Flotiran 0.5 mg/g + 10 mg/g Pomada 1 Bisnaga 30 g"
 Description: "Flotiran 0.5 mg/g + 10 mg/g Pomada 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50072978"
+
+* identifier[pcid].value = "PT-100050021-3509-50072978"
 
 * name = "Flotiran 0.5 mg/g + 10 mg/g Pomada 1 Bisnaga 30 g"
 
@@ -13204,15 +12917,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6205
 InstanceOf: PPLPackagedProductDefinition
 Title: "Albosan 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Albosan 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100038152-3774-50008692"
 
 * name = "Albosan 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -13250,15 +12962,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6398
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gino-Canesten 100 mg Comprimido vaginal 6 Comprimido Blister"
 Description: "Gino-Canesten 100 mg Comprimido vaginal 6 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008935"
+
+* identifier[pcid].value = "PT-100007476-3915-50008935"
 
 * name = "Gino-Canesten 100 mg Comprimido vaginal 6 Comprimido Blister"
 
@@ -13296,15 +13007,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-6784
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gracial Cor: azul; Forma: redondo, biconvexo;: Desogestrel 0.025 mg + Etinilestradiol 0.04 mg; Cor: branco; Forma: redondo, biconvexo;: Desogestrel 0.125 mg + Etinilestradiol 0.03 mg Comprimido 22 Comprimido Blister"
 Description: "Gracial Cor: azul; Forma: redondo, biconvexo;: Desogestrel 0.025 mg + Etinilestradiol 0.04 mg; Cor: branco; Forma: redondo, biconvexo;: Desogestrel 0.125 mg + Etinilestradiol 0.03 mg Comprimido 22 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062301"
+
+* identifier[pcid].value = "PT-100001575-4054-50062301"
 
 * name = "Gracial Cor: azul; Forma: redondo, biconvexo;: Desogestrel 0.025 mg + Etinilestradiol 0.04 mg; Cor: branco; Forma: redondo, biconvexo;: Desogestrel 0.125 mg + Etinilestradiol 0.03 mg Comprimido 22 Comprimido Blister"
 
@@ -13342,15 +13052,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100671
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100004619-4402-50004247"
 
 * name = "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -13388,15 +13097,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-7324
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004239"
+
+* identifier[pcid].value = "PT-100004619-4402-50004239"
 
 * name = "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -13434,15 +13142,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-101280
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Ratiopharm 400 mg Comprimidos Revestidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Ratiopharm 400 mg Comprimidos Revestidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100004619-4403-50004271"
 
 * name = "Ibuprofeno Ratiopharm 400 mg Comprimidos Revestidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -13480,15 +13187,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-101281
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100004619-4404-50004301"
 
 * name = "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -13526,15 +13232,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-7330
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100004619-4404-50004298"
 
 * name = "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -13572,15 +13277,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-7360
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Recipiente para comprimidos"
 Description: "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50076264"
+
+* identifier[pcid].value = "PT-100004607-4413-50076264"
 
 * name = "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Recipiente para comprimidos"
 
@@ -13618,15 +13322,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-7362
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Recipiente para comprimidos"
 Description: "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50076272"
+
+* identifier[pcid].value = "PT-100004607-4413-50076272"
 
 * name = "Ideos 1250 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Recipiente para comprimidos"
 
@@ -13664,15 +13367,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-51700
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ilvico 250 mg + 3 mg + 10 mg + 36 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Ilvico 250 mg + 3 mg + 10 mg + 36 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50076299"
+
+* identifier[pcid].value = "PT-100020259-4432-50076299"
 
 * name = "Ilvico 250 mg + 3 mg + 10 mg + 36 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -13710,15 +13412,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8125
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Labesfal 5 mg Comprimido 20 Comprimido Blister"
 Description: "Diazepam Labesfal 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006622"
+
+* identifier[pcid].value = "PT-100000372-4846-50006622"
 
 * name = "Diazepam Labesfal 5 mg Comprimido 20 Comprimido Blister"
 
@@ -13756,15 +13457,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57725
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Labesfal 5 mg Comprimido 40 Comprimido Blister"
 Description: "Diazepam Labesfal 5 mg Comprimido 40 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006630"
+
+* identifier[pcid].value = "PT-100000372-4846-50006630"
 
 * name = "Diazepam Labesfal 5 mg Comprimido 40 Comprimido Blister"
 
@@ -13802,15 +13502,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57726
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Labesfal 10 mg Comprimido 40 Comprimido Blister"
 Description: "Diazepam Labesfal 10 mg Comprimido 40 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006673"
+
+* identifier[pcid].value = "PT-100000372-4847-50006673"
 
 * name = "Diazepam Labesfal 10 mg Comprimido 40 Comprimido Blister"
 
@@ -13848,15 +13547,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8429
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína Adrenalina Labesfal 20 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 Description: "Lidocaína Adrenalina Labesfal 20 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50011138"
+
+* identifier[pcid].value = "PT-100000367-5024-50011138"
 
 * name = "Lidocaína Adrenalina Labesfal 20 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 
@@ -13894,15 +13592,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-49554
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína Adrenalina Labesfal 10 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 Description: "Lidocaína Adrenalina Labesfal 10 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50011332"
+
+* identifier[pcid].value = "PT-100000367-5025-50011332"
 
 * name = "Lidocaína Adrenalina Labesfal 10 mg/ml + 0.018 mg/ml Solução injetável 50 Ampola"
 
@@ -13940,15 +13637,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8511
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidonostrum 20 mg/ml Gel bucal 1 Frasco 125 ml"
 Description: "Lidonostrum 20 mg/ml Gel bucal 1 Frasco 125 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50011430"
+
+* identifier[pcid].value = "PT-100000312-5037-50011430"
 
 * name = "Lidonostrum 20 mg/ml Gel bucal 1 Frasco 125 ml"
 
@@ -13986,15 +13682,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8512
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidonostrum 50 mg/g Pomada 1 Bisnaga 35 g"
 Description: "Lidonostrum 50 mg/g Pomada 1 Bisnaga 35 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50011448"
+
+* identifier[pcid].value = "PT-100000312-5038-50011448"
 
 * name = "Lidonostrum 50 mg/g Pomada 1 Bisnaga 35 g"
 
@@ -14032,15 +13727,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17881
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lincaína 1% Braun 10 mg/ml Solução injetável 50 Frasco para injetáveis"
 Description: "Lincaína 1% Braun 10 mg/ml Solução injetável 50 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50011472"
+
+* identifier[pcid].value = "PT-100002336-5049-50011472"
 
 * name = "Lincaína 1% Braun 10 mg/ml Solução injetável 50 Frasco para injetáveis"
 
@@ -14078,15 +13772,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17883
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lincaína 2% Braun 20 mg/ml Solução injetável 50 Frasco para injetáveis"
 Description: "Lincaína 2% Braun 20 mg/ml Solução injetável 50 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50011545"
+
+* identifier[pcid].value = "PT-100002336-5054-50011545"
 
 * name = "Lincaína 2% Braun 20 mg/ml Solução injetável 50 Frasco para injetáveis"
 
@@ -14124,15 +13817,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8792
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 20 mg/0.2 ml Solução injetável 6 Seringa"
 Description: "Lovenox 20 mg/0.2 ml Solução injetável 6 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172212"
+
+* identifier[pcid].value = "PT-100000345-5224-50172212"
 
 * name = "Lovenox 20 mg/0.2 ml Solução injetável 6 Seringa"
 
@@ -14170,15 +13862,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8793
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 20 mg/0.2 ml Solução injetável 2 Seringa"
 Description: "Lovenox 20 mg/0.2 ml Solução injetável 2 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172220"
+
+* identifier[pcid].value = "PT-100000345-5224-50172220"
 
 * name = "Lovenox 20 mg/0.2 ml Solução injetável 2 Seringa"
 
@@ -14216,15 +13907,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8796
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 40 mg/0.4 ml Solução injetável 6 Seringa"
 Description: "Lovenox 40 mg/0.4 ml Solução injetável 6 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172280"
+
+* identifier[pcid].value = "PT-100000345-5225-50172280"
 
 * name = "Lovenox 40 mg/0.4 ml Solução injetável 6 Seringa"
 
@@ -14262,15 +13952,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17068
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 100 mg/1 ml Solução injetável 2 Seringa"
 Description: "Lovenox 100 mg/1 ml Solução injetável 2 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172352"
+
+* identifier[pcid].value = "PT-100000345-5227-50172352"
 
 * name = "Lovenox 100 mg/1 ml Solução injetável 2 Seringa"
 
@@ -14308,15 +13997,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-17075
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lovenox 100 mg/1 ml Solução injetável 6 Seringa"
 Description: "Lovenox 100 mg/1 ml Solução injetável 6 Seringa"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172360"
+
+* identifier[pcid].value = "PT-100000345-5227-50172360"
 
 * name = "Lovenox 100 mg/1 ml Solução injetável 6 Seringa"
 
@@ -14354,15 +14042,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8691
 InstanceOf: PPLPackagedProductDefinition
 Title: "Locoid 1 mg/g Creme 1 Bisnaga 30 g"
 Description: "Locoid 1 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50078259"
+
+* identifier[pcid].value = "PT-100011241-5157-50078259"
 
 * name = "Locoid 1 mg/g Creme 1 Bisnaga 30 g"
 
@@ -14400,15 +14087,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8692
 InstanceOf: PPLPackagedProductDefinition
 Title: "Locoid Capilar 1 mg/ml Solução cutânea 1 Frasco conta-gotas 100 ml"
 Description: "Locoid Capilar 1 mg/ml Solução cutânea 1 Frasco conta-gotas 100 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50078267"
+
+* identifier[pcid].value = "PT-100011241-5158-50078267"
 
 * name = "Locoid Capilar 1 mg/ml Solução cutânea 1 Frasco conta-gotas 100 ml"
 
@@ -14446,15 +14132,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-8695
 InstanceOf: PPLPackagedProductDefinition
 Title: "Locoid Crelo 1 mg/g Emulsão cutânea 1 Frasco Frasco"
 Description: "Locoid Crelo 1 mg/g Emulsão cutânea 1 Frasco Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50078275"
+
+* identifier[pcid].value = "PT-100011241-5160-50078275"
 
 * name = "Locoid Crelo 1 mg/g Emulsão cutânea 1 Frasco Frasco"
 
@@ -14492,15 +14177,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9143
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Description: "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100001362-5452-50008692"
 
 * name = "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 
@@ -14538,15 +14222,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64002
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Description: "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100001362-5452-50008714"
 
 * name = "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -14584,15 +14267,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9337
 InstanceOf: PPLPackagedProductDefinition
 Title: "Micolysin 10 mg/g Creme 1 Bisnaga 40 g"
 Description: "Micolysin 10 mg/g Creme 1 Bisnaga 40 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012355"
+
+* identifier[pcid].value = "PT-100057827-5568-50012355"
 
 * name = "Micolysin 10 mg/g Creme 1 Bisnaga 40 g"
 
@@ -14630,15 +14312,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9338
 InstanceOf: PPLPackagedProductDefinition
 Title: "Micolysin 10 mg/g Solução cutânea 1 Frasco 20 ml"
 Description: "Micolysin 10 mg/g Solução cutânea 1 Frasco 20 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012363"
+
+* identifier[pcid].value = "PT-100057827-5569-50012363"
 
 * name = "Micolysin 10 mg/g Solução cutânea 1 Frasco 20 ml"
 
@@ -14676,15 +14357,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-174612
 InstanceOf: PPLPackagedProductDefinition
 Title: "Migretil Beladona, alcalóides 0.1 mg + Cafeína 100 mg + Ergotamina, tartarato 1 mg + Paracetamol 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Migretil Beladona, alcalóides 0.1 mg + Cafeína 100 mg + Ergotamina, tartarato 1 mg + Paracetamol 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50079573"
+
+* identifier[pcid].value = "PT-100000385-5601-50079573"
 
 * name = "Migretil Beladona, alcalóides 0.1 mg + Cafeína 100 mg + Ergotamina, tartarato 1 mg + Paracetamol 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -14722,15 +14402,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9680
 InstanceOf: PPLPackagedProductDefinition
 Title: "MST 10 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "MST 10 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012800"
+
+* identifier[pcid].value = "PT-100044011-5769-50012800"
 
 * name = "MST 10 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -14768,15 +14447,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9681
 InstanceOf: PPLPackagedProductDefinition
 Title: "MST 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "MST 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012819"
+
+* identifier[pcid].value = "PT-100044011-5770-50012819"
 
 * name = "MST 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -14814,15 +14492,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9683
 InstanceOf: PPLPackagedProductDefinition
 Title: "MST 30 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "MST 30 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012835"
+
+* identifier[pcid].value = "PT-100044011-5772-50012835"
 
 * name = "MST 30 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -14860,15 +14537,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9684
 InstanceOf: PPLPackagedProductDefinition
 Title: "MST 60 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "MST 60 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012843"
+
+* identifier[pcid].value = "PT-100044011-5773-50012843"
 
 * name = "MST 60 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -14906,15 +14582,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9793
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nalbix 100 mg Comprimido vaginal 6 Comprimido Blister"
 Description: "Nalbix 100 mg Comprimido vaginal 6 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008935"
+
+* identifier[pcid].value = "PT-100004123-5857-50008935"
 
 * name = "Nalbix 100 mg Comprimido vaginal 6 Comprimido Blister"
 
@@ -14952,15 +14627,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9794
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nalbix 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Nalbix 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004417"
+
+* identifier[pcid].value = "PT-100004123-5858-50004417"
 
 * name = "Nalbix 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -14998,15 +14672,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-9796
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nalbix 10 mg/ml Solução cutânea 1 Frasco 30 ml"
 Description: "Nalbix 10 mg/ml Solução cutânea 1 Frasco 30 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012894"
+
+* identifier[pcid].value = "PT-100004123-5859-50012894"
 
 * name = "Nalbix 10 mg/ml Solução cutânea 1 Frasco 30 ml"
 
@@ -15044,15 +14717,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10236
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nitradisc 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Nitradisc 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50080814"
+
+* identifier[pcid].value = "PT-100001337-6117-50080814"
 
 * name = "Nitradisc 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -15090,15 +14762,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10237
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nitradisc 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Nitradisc 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50080849"
+
+* identifier[pcid].value = "PT-100001337-6118-50080849"
 
 * name = "Nitradisc 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -15136,15 +14807,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10256
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nitromint 0.5 mg Comprimido sublingual 60 Comprimido Frasco"
 Description: "Nitromint 0.5 mg Comprimido sublingual 60 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50080938"
+
+* identifier[pcid].value = "PT-100003000-6133-50080938"
 
 * name = "Nitromint 0.5 mg Comprimido sublingual 60 Comprimido Frasco"
 
@@ -15182,15 +14852,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10525
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trifene 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Trifene 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004336"
+
+* identifier[pcid].value = "PT-100000197-6312-50004336"
 
 * name = "Trifene 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -15228,15 +14897,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-102272
 InstanceOf: PPLPackagedProductDefinition
 Title: "Oraminax 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Oraminax 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001892"
+
+* identifier[pcid].value = "PT-100001249-6464-50001892"
 
 * name = "Oraminax 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -15274,15 +14942,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-102273
 InstanceOf: PPLPackagedProductDefinition
 Title: "Oraminax 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Oraminax 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001914"
+
+* identifier[pcid].value = "PT-100001249-6465-50001914"
 
 * name = "Oraminax 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -15320,15 +14987,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10960
 InstanceOf: PPLPackagedProductDefinition
 Title: "Panasorbe 500 mg Comprimido 20 Comprimido Blister"
 Description: "Panasorbe 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100049955-6604-50001981"
 
 * name = "Panasorbe 500 mg Comprimido 20 Comprimido Blister"
 
@@ -15366,15 +15032,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10978
 InstanceOf: PPLPackagedProductDefinition
 Title: "Pandel 1 mg/g Creme 1 Bisnaga 30 g"
 Description: "Pandel 1 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50081829"
+
+* identifier[pcid].value = "PT-100001358-6617-50081829"
 
 * name = "Pandel 1 mg/g Creme 1 Bisnaga 30 g"
 
@@ -15412,15 +15077,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10982
 InstanceOf: PPLPackagedProductDefinition
 Title: "Pandermil 10 mg/g Pomada 1 Bisnaga 30 g"
 Description: "Pandermil 10 mg/g Pomada 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009478"
+
+* identifier[pcid].value = "PT-100001202-6621-50009478"
 
 * name = "Pandermil 10 mg/g Pomada 1 Bisnaga 30 g"
 
@@ -15458,15 +15122,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11048
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paramolan 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paramolan 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100001274-6657-50001981"
 
 * name = "Paramolan 500 mg Comprimido 20 Comprimido Blister"
 
@@ -15504,15 +15167,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11050
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paramolan 125 mg Supositório 5 Supositório Fita termossoldada"
 Description: "Paramolan 125 mg Supositório 5 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014064"
+
+* identifier[pcid].value = "PT-100001274-6658-50014064"
 
 * name = "Paramolan 125 mg Supositório 5 Supositório Fita termossoldada"
 
@@ -15550,15 +15212,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11051
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paramolan 250 mg Supositório 5 Supositório Fita termossoldada"
 Description: "Paramolan 250 mg Supositório 5 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014072"
+
+* identifier[pcid].value = "PT-100001274-6659-50014072"
 
 * name = "Paramolan 250 mg Supositório 5 Supositório Fita termossoldada"
 
@@ -15596,15 +15257,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11054
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paramolan C 500 mg + 250 mg Pó para solução oral 20 Saqueta"
 Description: "Paramolan C 500 mg + 250 mg Pó para solução oral 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50081934"
+
+* identifier[pcid].value = "PT-100001274-6662-50081934"
 
 * name = "Paramolan C 500 mg + 250 mg Pó para solução oral 20 Saqueta"
 
@@ -15642,15 +15302,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11020
 InstanceOf: PPLPackagedProductDefinition
 Title: "Doloramol 500 mg Comprimido 20 Comprimido Blister"
 Description: "Doloramol 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100003164-6641-50001981"
 
 * name = "Doloramol 500 mg Comprimido 20 Comprimido Blister"
 
@@ -15688,15 +15347,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11111
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paxilfar 100 mg Comprimido 20 Comprimido Blister"
 Description: "Paxilfar 100 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014137"
+
+* identifier[pcid].value = "PT-100043918-6698-50014137"
 
 * name = "Paxilfar 100 mg Comprimido 20 Comprimido Blister"
 
@@ -15734,15 +15392,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11372
 InstanceOf: PPLPackagedProductDefinition
 Title: "Pimafucort 10 mg/g + 10 mg/g + 3.5 mg/g Creme 1 Bisnaga 30 g"
 Description: "Pimafucort 10 mg/g + 10 mg/g + 3.5 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50082418"
+
+* identifier[pcid].value = "PT-100005213-6869-50082418"
 
 * name = "Pimafucort 10 mg/g + 10 mg/g + 3.5 mg/g Creme 1 Bisnaga 30 g"
 
@@ -15780,15 +15437,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11470
 InstanceOf: PPLPackagedProductDefinition
 Title: "Plastranit 5 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Plastranit 5 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50080814"
+
+* identifier[pcid].value = "PT-100014495-6936-50080814"
 
 * name = "Plastranit 5 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -15826,15 +15482,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11471
 InstanceOf: PPLPackagedProductDefinition
 Title: "Plastranit 10 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Plastranit 10 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50080849"
+
+* identifier[pcid].value = "PT-100014495-6937-50080849"
 
 * name = "Plastranit 10 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -15872,15 +15527,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64006
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Description: "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100001538-7128-50008714"
 
 * name = "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -15918,15 +15572,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11816
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Description: "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100001538-7128-50008692"
 
 * name = "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 
@@ -15964,15 +15617,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-83332
 InstanceOf: PPLPackagedProductDefinition
 Title: "Procto-Glyvenol 50 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 Description: "Procto-Glyvenol 50 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50083210"
+
+* identifier[pcid].value = "PT-100044004-7131-50083210"
 
 * name = "Procto-Glyvenol 50 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 
@@ -16010,15 +15662,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-11945
 InstanceOf: PPLPackagedProductDefinition
 Title: "Proton 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Proton 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100001274-7213-50008692"
 
 * name = "Proton 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -16056,15 +15707,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-12818
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sandimmun 50 mg/ml Concentrado para solução para perfusão 10 Ampola 1 ml"
 Description: "Sandimmun 50 mg/ml Concentrado para solução para perfusão 10 Ampola 1 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015184"
+
+* identifier[pcid].value = "PT-100036806-7741-50015184"
 
 * name = "Sandimmun 50 mg/ml Concentrado para solução para perfusão 10 Ampola 1 ml"
 
@@ -16102,15 +15752,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-12871
 InstanceOf: PPLPackagedProductDefinition
 Title: "Saridon-N 250 mg + 150 mg + 50 mg Comprimido 10 Comprimido Blister"
 Description: "Saridon-N 250 mg + 150 mg + 50 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50084798"
+
+* identifier[pcid].value = "PT-100007476-7778-50084798"
 
 * name = "Saridon-N 250 mg + 150 mg + 50 mg Comprimido 10 Comprimido Blister"
 
@@ -16148,15 +15797,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13070
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinutab II 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Description: "Sinutab II 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50085379"
+
+* identifier[pcid].value = "PT-100015280-7907-50085379"
 
 * name = "Sinutab II 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 
@@ -16194,15 +15842,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13377
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sporanox 10 mg/ml Solução oral 1 Frasco"
 Description: "Sporanox 10 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015761"
+
+* identifier[pcid].value = "PT-100043221-8064-50015761"
 
 * name = "Sporanox 10 mg/ml Solução oral 1 Frasco"
 
@@ -16240,15 +15887,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13390
 InstanceOf: PPLPackagedProductDefinition
 Title: "Stagid 700 mg Comprimido 20 Comprimido Blister"
 Description: "Stagid 700 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015800"
+
+* identifier[pcid].value = "PT-100001258-8072-50015800"
 
 * name = "Stagid 700 mg Comprimido 20 Comprimido Blister"
 
@@ -16286,15 +15932,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13391
 InstanceOf: PPLPackagedProductDefinition
 Title: "Stagid 700 mg Comprimido 60 Comprimido Blister"
 Description: "Stagid 700 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015818"
+
+* identifier[pcid].value = "PT-100001258-8072-50015818"
 
 * name = "Stagid 700 mg Comprimido 60 Comprimido Blister"
 
@@ -16332,15 +15977,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13414
 InstanceOf: PPLPackagedProductDefinition
 Title: "Stesolid 5 mg/2.5 ml Solução retal 5 Cânula"
 Description: "Stesolid 5 mg/2.5 ml Solução retal 5 Cânula"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015826"
+
+* identifier[pcid].value = "PT-100000372-8084-50015826"
 
 * name = "Stesolid 5 mg/2.5 ml Solução retal 5 Cânula"
 
@@ -16378,15 +16022,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13415
 InstanceOf: PPLPackagedProductDefinition
 Title: "Stesolid 10 mg/2.5 ml Solução retal 5 Cânula"
 Description: "Stesolid 10 mg/2.5 ml Solução retal 5 Cânula"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015834"
+
+* identifier[pcid].value = "PT-100000372-8085-50015834"
 
 * name = "Stesolid 10 mg/2.5 ml Solução retal 5 Cânula"
 
@@ -16424,15 +16067,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13539
 InstanceOf: PPLPackagedProductDefinition
 Title: "Supofen 500 mg Supositório 12 Supositório Fita termossoldada"
 Description: "Supofen 500 mg Supositório 12 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003445"
+
+* identifier[pcid].value = "PT-100000339-8169-50003445"
 
 * name = "Supofen 500 mg Supositório 12 Supositório Fita termossoldada"
 
@@ -16470,15 +16112,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13537
 InstanceOf: PPLPackagedProductDefinition
 Title: "Supofen 125 mg Supositório 12 Supositório Fita termossoldada"
 Description: "Supofen 125 mg Supositório 12 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003429"
+
+* identifier[pcid].value = "PT-100000339-8167-50003429"
 
 * name = "Supofen 125 mg Supositório 12 Supositório Fita termossoldada"
 
@@ -16516,15 +16157,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13536
 InstanceOf: PPLPackagedProductDefinition
 Title: "Supofen 500 mg Comprimido 20 Comprimido Blister"
 Description: "Supofen 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100000339-8166-50001981"
 
 * name = "Supofen 500 mg Comprimido 20 Comprimido Blister"
 
@@ -16562,15 +16202,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-13538
 InstanceOf: PPLPackagedProductDefinition
 Title: "Supofen 250 mg Supositório 12 Supositório Fita termossoldada"
 Description: "Supofen 250 mg Supositório 12 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003437"
+
+* identifier[pcid].value = "PT-100000339-8168-50003437"
 
 * name = "Supofen 250 mg Supositório 12 Supositório Fita termossoldada"
 
@@ -16608,15 +16247,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179000
 InstanceOf: PPLPackagedProductDefinition
 Title: "Synalar Rectal Bismuto, subgalhato 50 mg/g + Fluocinolona, acetonido 0.11 mg/g + Lidocaína, cloridrato 20 mg/g Pomada retal 1 Bisnaga 40 g"
 Description: "Synalar Rectal Bismuto, subgalhato 50 mg/g + Fluocinolona, acetonido 0.11 mg/g + Lidocaína, cloridrato 20 mg/g Pomada retal 1 Bisnaga 40 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50086278"
+
+* identifier[pcid].value = "PT-100000197-8206-50086278"
 
 * name = "Synalar Rectal Bismuto, subgalhato 50 mg/g + Fluocinolona, acetonido 0.11 mg/g + Lidocaína, cloridrato 20 mg/g Pomada retal 1 Bisnaga 40 g"
 
@@ -16654,15 +16292,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-74233
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tegretol 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 Description: "Tegretol 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016202"
+
+* identifier[pcid].value = "PT-100036806-8337-50016202"
 
 * name = "Tegretol 20 mg/ml Suspensão oral 1 Frasco 150 ml"
 
@@ -16700,15 +16337,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14217
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Ciclum 50 mg, cápsulas 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Ciclum 50 mg, cápsulas 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016717"
+
+* identifier[pcid].value = "PT-100005505-8601-50016717"
 
 * name = "Tramadol Ciclum 50 mg, cápsulas 50 mg Cápsula 20 Cápsula Blister"
 
@@ -16746,15 +16382,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14223
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Ciclum 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 Description: "Tramadol Ciclum 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016733"
+
+* identifier[pcid].value = "PT-100005505-8604-50016733"
 
 * name = "Tramadol Ciclum 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 
@@ -16792,15 +16427,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14290
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex 50 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Travex 50 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016865"
+
+* identifier[pcid].value = "PT-100001337-8654-50016865"
 
 * name = "Travex 50 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -16838,15 +16472,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67781
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex 50 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Travex 50 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016873"
+
+* identifier[pcid].value = "PT-100001337-8654-50016873"
 
 * name = "Travex 50 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -16884,15 +16517,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14291
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Travex 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016776"
+
+* identifier[pcid].value = "PT-100001337-8655-50016776"
 
 * name = "Travex 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -16930,15 +16562,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67786
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Travex 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016792"
+
+* identifier[pcid].value = "PT-100001337-8655-50016792"
 
 * name = "Travex 100 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -16976,15 +16607,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67791
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex 150 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Travex 150 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016822"
+
+* identifier[pcid].value = "PT-100001337-8656-50016822"
 
 * name = "Travex 150 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -17022,15 +16652,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14292
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Travex 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016806"
+
+* identifier[pcid].value = "PT-100001337-8656-50016806"
 
 * name = "Travex 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -17068,15 +16697,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14293
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Travex 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016830"
+
+* identifier[pcid].value = "PT-100001337-8657-50016830"
 
 * name = "Travex 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -17114,15 +16742,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67796
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex 200 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Description: "Travex 200 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016857"
+
+* identifier[pcid].value = "PT-100001337-8657-50016857"
 
 * name = "Travex 200 mg Cápsula de libertação prolongada 30 Cápsula Blister"
 
@@ -17160,15 +16787,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14319
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062166"
+
+* identifier[pcid].value = "PT-100001529-8673-50062166"
 
 * name = "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -17206,15 +16832,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14320
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062174"
+
+* identifier[pcid].value = "PT-100001529-8673-50062174"
 
 * name = "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -17252,15 +16877,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14366
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trifene 200 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Trifene 200 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100001274-8705-50004247"
 
 * name = "Trifene 200 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -17298,15 +16922,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14367
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trifene 200 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Trifene 200 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004239"
+
+* identifier[pcid].value = "PT-100001274-8705-50004239"
 
 * name = "Trifene 200 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -17344,15 +16967,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14630
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ultraproct 1 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 Description: "Ultraproct 1 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50087940"
+
+* identifier[pcid].value = "PT-100058736-8853-50087940"
 
 * name = "Ultraproct 1 mg/g + 20 mg/g Creme retal 1 Bisnaga 30 g"
 
@@ -17390,15 +17012,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14632
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ultraproct 1 mg + 40 mg Supositório 10 Supositório Fita termossoldada"
 Description: "Ultraproct 1 mg + 40 mg Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50087967"
+
+* identifier[pcid].value = "PT-100058736-8854-50087967"
 
 * name = "Ultraproct 1 mg + 40 mg Supositório 10 Supositório Fita termossoldada"
 
@@ -17436,15 +17057,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-14716
 InstanceOf: PPLPackagedProductDefinition
 Title: "Unisedil 5 mg Comprimido 20 Comprimido Blister"
 Description: "Unisedil 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006622"
+
+* identifier[pcid].value = "PT-100001258-8895-50006622"
 
 * name = "Unisedil 5 mg Comprimido 20 Comprimido Blister"
 
@@ -17482,15 +17102,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87495
 InstanceOf: PPLPackagedProductDefinition
 Title: "Unisedil 5 mg Comprimido 60 Comprimido Blister"
 Description: "Unisedil 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006649"
+
+* identifier[pcid].value = "PT-100001258-8895-50006649"
 
 * name = "Unisedil 5 mg Comprimido 60 Comprimido Blister"
 
@@ -17528,15 +17147,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15047
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ventilan 5 mg/5 ml Solução para perfusão 5 Ampola"
 Description: "Ventilan 5 mg/5 ml Solução para perfusão 5 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017462"
+
+* identifier[pcid].value = "PT-100002295-9082-50017462"
 
 * name = "Ventilan 5 mg/5 ml Solução para perfusão 5 Ampola"
 
@@ -17574,15 +17192,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15048
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ventilan 0.5 mg/1 ml Solução injetável 5 Ampola"
 Description: "Ventilan 0.5 mg/1 ml Solução injetável 5 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017470"
+
+* identifier[pcid].value = "PT-100002295-9083-50017470"
 
 * name = "Ventilan 0.5 mg/1 ml Solução injetável 5 Ampola"
 
@@ -17620,15 +17237,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2086970
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ventilan 0.4 mg/ml Xarope 1 Frasco 150 ml"
 Description: "Ventilan 0.4 mg/ml Xarope 1 Frasco 150 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50164619"
+
+* identifier[pcid].value = "PT-100002295-9084-50164619"
 
 * name = "Ventilan 0.4 mg/ml Xarope 1 Frasco 150 ml"
 
@@ -17666,15 +17282,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15041
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ventilan 5 mg/ml Solução para inalação por nebulização 1 Frasco conta-gotas"
 Description: "Ventilan 5 mg/ml Solução para inalação por nebulização 1 Frasco conta-gotas"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50063693"
+
+* identifier[pcid].value = "PT-100002295-9077-50063693"
 
 * name = "Ventilan 5 mg/ml Solução para inalação por nebulização 1 Frasco conta-gotas"
 
@@ -17712,15 +17327,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15385
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren 75 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Description: "Voltaren 75 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017683"
+
+* identifier[pcid].value = "PT-100036806-9293-50017683"
 
 * name = "Voltaren 75 75 mg Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -17758,15 +17372,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67995
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren 75 75 mg Comprimido de libertação prolongada 10 Comprimido Blister"
 Description: "Voltaren 75 75 mg Comprimido de libertação prolongada 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017675"
+
+* identifier[pcid].value = "PT-100036806-9293-50017675"
 
 * name = "Voltaren 75 75 mg Comprimido de libertação prolongada 10 Comprimido Blister"
 
@@ -17804,15 +17417,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15396
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Rapid 50 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Voltaren Rapid 50 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004646"
+
+* identifier[pcid].value = "PT-100036806-9297-50004646"
 
 * name = "Voltaren Rapid 50 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -17850,15 +17462,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15395
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Rapid 50 mg Comprimido revestido 10 Comprimido Blister"
 Description: "Voltaren Rapid 50 mg Comprimido revestido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004638"
+
+* identifier[pcid].value = "PT-100036806-9297-50004638"
 
 * name = "Voltaren Rapid 50 mg Comprimido revestido 10 Comprimido Blister"
 
@@ -17896,15 +17507,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-15399
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Voltaren Retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006690"
+
+* identifier[pcid].value = "PT-100036806-9299-50006690"
 
 * name = "Voltaren Retard 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -17942,15 +17552,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69708
 InstanceOf: PPLPackagedProductDefinition
 Title: "Xilonibsa Spray 10% 100 mg/ml Solução para pulverização nasal ou bucal 1 Frasco"
 Description: "Xilonibsa Spray 10% 100 mg/ml Solução para pulverização nasal ou bucal 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50174860"
+
+* identifier[pcid].value = "PT-100003009-9355-50174860"
 
 * name = "Xilonibsa Spray 10% 100 mg/ml Solução para pulverização nasal ou bucal 1 Frasco"
 
@@ -17988,15 +17597,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96136
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zipos 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Zipos 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018299"
+
+* identifier[pcid].value = "PT-100004481-9458-50018299"
 
 * name = "Zipos 250 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -18034,15 +17642,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-73672
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Labesfal 100 mg/2 ml Solução injetável 50 Ampola"
 Description: "Tramadol Labesfal 100 mg/2 ml Solução injetável 50 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026097"
+
+* identifier[pcid].value = "PT-100000367-29772-50026097"
 
 * name = "Tramadol Labesfal 100 mg/2 ml Solução injetável 50 Ampola"
 
@@ -18080,15 +17687,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44708
 InstanceOf: PPLPackagedProductDefinition
 Title: "Miranova 0.02 mg + 0.1 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Miranova 0.02 mg + 0.1 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026100"
+
+* identifier[pcid].value = "PT-100007476-29777-50026100"
 
 * name = "Miranova 0.02 mg + 0.1 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -18126,15 +17732,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44709
 InstanceOf: PPLPackagedProductDefinition
 Title: "Miranova 0.02 mg + 0.1 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Miranova 0.02 mg + 0.1 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026119"
+
+* identifier[pcid].value = "PT-100007476-29777-50026119"
 
 * name = "Miranova 0.02 mg + 0.1 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -18172,15 +17777,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-151787
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina Generis 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina Generis 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001914"
+
+* identifier[pcid].value = "PT-100000372-29824-50001914"
 
 * name = "Amoxicilina Generis 500 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -18218,15 +17822,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44971
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sevredol 20 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sevredol 20 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026429"
+
+* identifier[pcid].value = "PT-100044011-29851-50026429"
 
 * name = "Sevredol 20 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -18264,15 +17867,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-44970
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sevredol 10 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sevredol 10 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026410"
+
+* identifier[pcid].value = "PT-100044011-29850-50026410"
 
 * name = "Sevredol 10 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -18310,15 +17912,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-74221
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Basi 100 mg/2 ml Solução injetável 50 Ampola"
 Description: "Tramadol Basi 100 mg/2 ml Solução injetável 50 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026097"
+
+* identifier[pcid].value = "PT-100000339-29912-50026097"
 
 * name = "Tramadol Basi 100 mg/2 ml Solução injetável 50 Ampola"
 
@@ -18356,15 +17957,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45137
 InstanceOf: PPLPackagedProductDefinition
 Title: "Moment 200 200 mg Comprimido revestido 12 Comprimido Blister"
 Description: "Moment 200 200 mg Comprimido revestido 12 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100001307-29940-50004247"
 
 * name = "Moment 200 200 mg Comprimido revestido 12 Comprimido Blister"
 
@@ -18402,15 +18002,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45383
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Sandoz 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Sandoz 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003364"
+
+* identifier[pcid].value = "PT-100005531-30026-50003364"
 
 * name = "Enalapril Sandoz 5 mg Comprimido 20 Comprimido Blister"
 
@@ -18448,15 +18047,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45387
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Sandoz 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Sandoz 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100005531-30026-50003356"
 
 * name = "Enalapril Sandoz 5 mg Comprimido 60 Comprimido Blister"
 
@@ -18494,15 +18092,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45402
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Sandoz 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Sandoz 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100005531-30029-50003372"
 
 * name = "Enalapril Sandoz 20 mg Comprimido 60 Comprimido Blister"
 
@@ -18540,15 +18137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45747
 InstanceOf: PPLPackagedProductDefinition
 Title: "Epinitril 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Epinitril 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50080849"
+
+* identifier[pcid].value = "PT-100001337-30112-50080849"
 
 * name = "Epinitril 10 10 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -18586,15 +18182,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64159
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omezolan 40 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omezolan 40 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100001950-30157-50019082"
 
 * name = "Omezolan 40 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -18632,15 +18227,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45744
 InstanceOf: PPLPackagedProductDefinition
 Title: "Epinitril 5 5 mg/24 h Sistema transdérmico 15 Sistema"
 Description: "Epinitril 5 5 mg/24 h Sistema transdérmico 15 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50096400"
+
+* identifier[pcid].value = "PT-100001337-30110-50096400"
 
 * name = "Epinitril 5 5 mg/24 h Sistema transdérmico 15 Sistema"
 
@@ -18678,15 +18272,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-45745
 InstanceOf: PPLPackagedProductDefinition
 Title: "Epinitril 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 Description: "Epinitril 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50080814"
+
+* identifier[pcid].value = "PT-100001337-30110-50080814"
 
 * name = "Epinitril 5 5 mg/24 h Sistema transdérmico 30 Sistema"
 
@@ -18724,15 +18317,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46117
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100004397-30203-50008692"
 
 * name = "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -18767,7 +18359,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -18777,8 +18368,8 @@ Title: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100004397-30203-50008714"
 
 * name = "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -18816,15 +18407,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068455
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100004397-30203-50008692"
 
 * name = "Omeprazol Mylan 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -18862,15 +18452,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068459
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100004397-30203-50008714"
 
 * name = "Omeprazol Mylan 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -18908,15 +18497,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46383
 InstanceOf: PPLPackagedProductDefinition
 Title: "Densical D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Description: "Densical D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50096281"
+
+* identifier[pcid].value = "PT-100002880-30297-50096281"
 
 * name = "Densical D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 
@@ -18954,15 +18542,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46363
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Frasco"
 Description: "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50096265"
+
+* identifier[pcid].value = "PT-100057661-30304-50096265"
 
 * name = "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 20 Comprimido Frasco"
 
@@ -19000,15 +18587,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46364
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Description: "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50096281"
+
+* identifier[pcid].value = "PT-100057661-30304-50096281"
 
 * name = "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 
@@ -19046,15 +18632,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46558
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zipos 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Description: "Zipos 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007955"
+
+* identifier[pcid].value = "PT-100004481-30389-50007955"
 
 * name = "Zipos 250 mg/5 ml Granulado para suspensão oral 1 Frasco 100 ml"
 
@@ -19092,15 +18677,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46722
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Description: "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100002998-30457-50008692"
 
 * name = "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 10 Cápsula Frasco"
 
@@ -19138,15 +18722,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46724
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Description: "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100002998-30457-50008714"
 
 * name = "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -19184,15 +18767,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87905
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003364"
+
+* identifier[pcid].value = "PT-100005505-30462-50003364"
 
 * name = "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 
@@ -19230,15 +18812,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46737
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100005505-30462-50003356"
 
 * name = "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -19276,15 +18857,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-47542
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Ciclum 20 mg comprimidos 20 mg Comprimido 56 Comprimido Blister"
 Description: "Enalapril Ciclum 20 mg comprimidos 20 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100005505-30464-50003372"
 
 * name = "Enalapril Ciclum 20 mg comprimidos 20 mg Comprimido 56 Comprimido Blister"
 
@@ -19322,15 +18902,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46742
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100005505-30465-50006240"
 
 * name = "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 
@@ -19368,15 +18947,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46744
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100005505-30465-50006231"
 
 * name = "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 
@@ -19414,15 +18992,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-47581
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100002998-30734-50006231"
 
 * name = "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -19460,15 +19037,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-47580
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100002998-30734-50006240"
 
 * name = "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -19506,15 +19082,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65133
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Farmoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Farmoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100002998-30933-50018442"
 
 * name = "Sinvastatina Farmoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -19552,15 +19127,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87497
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Farmoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Farmoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100002998-30934-50018469"
 
 * name = "Sinvastatina Farmoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -19598,15 +19172,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65135
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Vitória 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Vitória 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100002880-30975-50018442"
 
 * name = "Sinvastatina Vitória 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -19644,15 +19217,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87712
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Vitória 40 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Vitória 40 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100002880-30976-50018469"
 
 * name = "Sinvastatina Vitória 40 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -19690,15 +19262,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87246
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Zera 40 mg Comprimidos Revestidos 40 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Zera 40 mg Comprimidos Revestidos 40 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100001538-30978-50018469"
 
 * name = "Sinvastatina Zera 40 mg Comprimidos Revestidos 40 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -19736,15 +19307,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-48968
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trifene Dispersível 200 mg Comprimido dispersível 20 Comprimido Blister"
 Description: "Trifene Dispersível 200 mg Comprimido dispersível 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50028499"
+
+* identifier[pcid].value = "PT-100001274-30988-50028499"
 
 * name = "Trifene Dispersível 200 mg Comprimido dispersível 20 Comprimido Blister"
 
@@ -19782,15 +19352,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-53475
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Generis 100 mg/2 ml Solução injetável 10 Ampola"
 Description: "Tramadol Generis 100 mg/2 ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50028618"
+
+* identifier[pcid].value = "PT-100000372-31158-50028618"
 
 * name = "Tramadol Generis 100 mg/2 ml Solução injetável 10 Ampola"
 
@@ -19828,15 +19397,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-53479
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Generis 100 mg/ml Solução Oral 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 Description: "Tramadol Generis 100 mg/ml Solução Oral 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016733"
+
+* identifier[pcid].value = "PT-100000372-31159-50016733"
 
 * name = "Tramadol Generis 100 mg/ml Solução Oral 100 mg/ml Gotas orais, solução 1 Frasco 10 ml"
 
@@ -19874,15 +19442,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-51806
 InstanceOf: PPLPackagedProductDefinition
 Title: "Proclor 40 mg cápsulas duras gastrorresistentes 40 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Description: "Proclor 40 mg cápsulas duras gastrorresistentes 40 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100001538-31414-50019082"
 
 * name = "Proclor 40 mg cápsulas duras gastrorresistentes 40 mg Cápsula gastrorresistente 60 Cápsula Frasco"
 
@@ -19920,15 +19487,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2094538
 InstanceOf: PPLPackagedProductDefinition
 Title: "NuvaRing 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Description: "NuvaRing 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50099485"
+
+* identifier[pcid].value = "PT-100050021-31814-50099485"
 
 * name = "NuvaRing 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -19966,15 +19532,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-52003
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Sandoz 875 mg + 125 mg Comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 875 mg + 125 mg Comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100005531-31847-50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 875 mg + 125 mg Comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -20012,15 +19577,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-52021
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido clavulânico Mylan 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido clavulânico Mylan 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100004397-31848-50003178"
 
 * name = "Amoxicilina + Ácido clavulânico Mylan 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -20058,15 +19622,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-52034
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido clavulânico Ratiopharm 875 mg e 125mg comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido clavulânico Ratiopharm 875 mg e 125mg comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100004619-31849-50003178"
 
 * name = "Amoxicilina + Ácido clavulânico Ratiopharm 875 mg e 125mg comprimidos revestidos 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -20104,15 +19667,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-49729
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Ratiopharm 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Ratiopharm 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100004619-31888-50006231"
 
 * name = "Enalapril + Hidroclorotiazida Ratiopharm 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -20150,15 +19712,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-49736
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100003164-31890-50006240"
 
 * name = "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 20 Comprimido Blister"
 
@@ -20196,15 +19757,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-49748
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100003164-31890-50006231"
 
 * name = "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -20242,15 +19802,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-56019
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidonostrum Gele 2% 20 mg/g Gel 1 Bisnaga 30 g"
 Description: "Lidonostrum Gele 2% 20 mg/g Gel 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50011375"
+
+* identifier[pcid].value = "PT-100000312-31902-50011375"
 
 * name = "Lidonostrum Gele 2% 20 mg/g Gel 1 Bisnaga 30 g"
 
@@ -20288,15 +19847,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-49947
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Zentiva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Zentiva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100022865-31926-50018450"
 
 * name = "Sinvastatina Zentiva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -20334,15 +19892,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-49950
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Zentiva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Zentiva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100022865-31926-50018442"
 
 * name = "Sinvastatina Zentiva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -20380,15 +19937,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-50739
 InstanceOf: PPLPackagedProductDefinition
 Title: "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 3 Sistema"
 Description: "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 3 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50163230"
+
+* identifier[pcid].value = "PT-100001653-32197-50163230"
 
 * name = "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 3 Sistema"
 
@@ -20426,15 +19982,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57839
 InstanceOf: PPLPackagedProductDefinition
 Title: "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 9 Sistema"
 Description: "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 9 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50163248"
+
+* identifier[pcid].value = "PT-100001653-32197-50163248"
 
 * name = "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico 9 Sistema"
 
@@ -20472,15 +20027,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-116840
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lantus 100 U/ml Solução injetável 5 Caneta"
 Description: "Lantus 100 U/ml Solução injetável 5 Caneta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50131460"
+
+* identifier[pcid].value = "PT-100000869-32213-50131460"
 
 * name = "Lantus 100 U/ml Solução injetável 5 Caneta"
 
@@ -20518,15 +20072,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88442
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Azevedos 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Azevedos 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016717"
+
+* identifier[pcid].value = "PT-100004123-40632-50016717"
 
 * name = "Tramadol Azevedos 50 mg Cápsula 20 Cápsula Blister"
 
@@ -20564,15 +20117,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88584
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100005531-40659-50008714"
 
 * name = "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -20610,15 +20162,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88580
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100005531-40659-50008692"
 
 * name = "Omeprazol Sandoz 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -20656,15 +20207,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88601
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Sandoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Sandoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100005531-40660-50018426"
 
 * name = "Sinvastatina Sandoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -20702,15 +20252,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-103806
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Sandoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Sandoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100005531-40660-50018418"
 
 * name = "Sinvastatina Sandoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -20748,15 +20297,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88595
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Sandoz 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Sandoz 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100005531-40661-50019082"
 
 * name = "Omeprazol Sandoz 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -20794,15 +20342,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-103807
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Sandoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Sandoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100005531-40662-50018442"
 
 * name = "Sinvastatina Sandoz 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -20840,15 +20387,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88619
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Sandoz 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Sandoz 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100005531-40662-50018450"
 
 * name = "Sinvastatina Sandoz 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -20886,15 +20432,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-103808
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Sandoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Sandoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100005531-40663-50018469"
 
 * name = "Sinvastatina Sandoz 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -20932,15 +20477,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88736
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Pharmakern 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ibuprofeno Pharmakern 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004336"
+
+* identifier[pcid].value = "PT-100010538-40705-50004336"
 
 * name = "Ibuprofeno Pharmakern 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -20978,15 +20522,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88738
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Pharmakern 600 mg Granulado efervescente 20 Saqueta"
 Description: "Ibuprofeno Pharmakern 600 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004220"
+
+* identifier[pcid].value = "PT-100010538-40706-50004220"
 
 * name = "Ibuprofeno Pharmakern 600 mg Granulado efervescente 20 Saqueta"
 
@@ -21024,15 +20567,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95168
 InstanceOf: PPLPackagedProductDefinition
 Title: "Rectogesic 4 mg/g Pomada retal 1 Bisnaga 30 g"
 Description: "Rectogesic 4 mg/g Pomada retal 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50110624"
+
+* identifier[pcid].value = "PT-100017235-40869-50110624"
 
 * name = "Rectogesic 4 mg/g Pomada retal 1 Bisnaga 30 g"
 
@@ -21070,15 +20612,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91099
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Krka 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Krka 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100004365-41093-50062255"
 
 * name = "Perindopril Krka 4 mg Comprimido 30 Comprimido Blister"
 
@@ -21116,15 +20657,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91097
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Krka 4 mg Comprimido 14 Comprimido Blister"
 Description: "Perindopril Krka 4 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062247"
+
+* identifier[pcid].value = "PT-100004365-41093-50062247"
 
 * name = "Perindopril Krka 4 mg Comprimido 14 Comprimido Blister"
 
@@ -21162,15 +20702,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91123
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril ratiopharm 4 mg Comprimidos 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril ratiopharm 4 mg Comprimidos 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100004619-41096-50062255"
 
 * name = "Perindopril ratiopharm 4 mg Comprimidos 4 mg Comprimido 30 Comprimido Blister"
 
@@ -21208,15 +20747,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-90887
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dagesil 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Dagesil 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100000339-41049-50008285"
 
 * name = "Dagesil 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -21254,15 +20792,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91483
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Teva 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Teva 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100002967-41145-50133489"
 
 * name = "Perindopril + Indapamida Teva 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -21300,15 +20837,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91493
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Teva 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Teva 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100002967-41146-50133519"
 
 * name = "Perindopril + Indapamida Teva 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -21346,15 +20882,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91624
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 Description: "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100004619-41164-50133470"
 
 * name = "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 
@@ -21392,15 +20927,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91623
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100004619-41164-50133489"
 
 * name = "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -21438,15 +20972,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91633
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Ratiopharm 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Ratiopharm 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100004619-41165-50133519"
 
 * name = "Perindopril + Indapamida Ratiopharm 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -21484,15 +21017,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92337
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Generis 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Generis 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100000372-41290-50133489"
 
 * name = "Perindopril + Indapamida Generis 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -21530,15 +21062,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92768
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Tensoliber 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Tensoliber 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100001538-41347-50062255"
 
 * name = "Perindopril Tensoliber 4 mg Comprimido 30 Comprimido Blister"
 
@@ -21576,15 +21107,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92773
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Tensoliber 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Tensoliber 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100001538-41348-50062280"
 
 * name = "Perindopril Tensoliber 8 mg Comprimido 30 Comprimido Blister"
 
@@ -21622,15 +21152,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92828
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Description: "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100001538-41354-50133470"
 
 * name = "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -21668,15 +21197,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92829
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100001538-41354-50133489"
 
 * name = "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -21714,15 +21242,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92839
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Tecazo 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Tecazo 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100001538-41355-50133519"
 
 * name = "Perindopril + Indapamida Tecazo 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -21760,15 +21287,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93353
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100004365-41454-50133489"
 
 * name = "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -21806,15 +21332,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93350
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Description: "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100004365-41454-50133470"
 
 * name = "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -21852,15 +21377,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93363
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Krka 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Krka 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100004365-41455-50133519"
 
 * name = "Perindopril + Indapamida Krka 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -21898,15 +21422,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93563
 InstanceOf: PPLPackagedProductDefinition
 Title: "Exforge 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Exforge 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112163"
+
+* identifier[pcid].value = "PT-100010531-41489-50112163"
 
 * name = "Exforge 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -21944,15 +21467,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93560
 InstanceOf: PPLPackagedProductDefinition
 Title: "Exforge 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Exforge 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112147"
+
+* identifier[pcid].value = "PT-100010531-41489-50112147"
 
 * name = "Exforge 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -21990,15 +21512,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93577
 InstanceOf: PPLPackagedProductDefinition
 Title: "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009362"
+
+* identifier[pcid].value = "PT-100000372-41492-50009362"
 
 * name = "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -22036,15 +21557,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93578
 InstanceOf: PPLPackagedProductDefinition
 Title: "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009370"
+
+* identifier[pcid].value = "PT-100000372-41492-50009370"
 
 * name = "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -22082,15 +21602,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93575
 InstanceOf: PPLPackagedProductDefinition
 Title: "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009249"
+
+* identifier[pcid].value = "PT-100000372-41491-50009249"
 
 * name = "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -22128,15 +21647,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93576
 InstanceOf: PPLPackagedProductDefinition
 Title: "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009257"
+
+* identifier[pcid].value = "PT-100000372-41491-50009257"
 
 * name = "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -22174,15 +21692,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93571
 InstanceOf: PPLPackagedProductDefinition
 Title: "Exforge 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Exforge 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112201"
+
+* identifier[pcid].value = "PT-100010531-41490-50112201"
 
 * name = "Exforge 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -22220,15 +21737,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96613
 InstanceOf: PPLPackagedProductDefinition
 Title: "Morfina Basi 10 mg/ml Solução injetável 10 Ampola"
 Description: "Morfina Basi 10 mg/ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50045539"
+
+* identifier[pcid].value = "PT-100000339-41896-50045539"
 
 * name = "Morfina Basi 10 mg/ml Solução injetável 10 Ampola"
 
@@ -22266,15 +21782,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96629
 InstanceOf: PPLPackagedProductDefinition
 Title: "Morfina Basi 20 mg/ml Solução injetável 10 Ampola"
 Description: "Morfina Basi 20 mg/ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50045695"
+
+* identifier[pcid].value = "PT-100000339-41897-50045695"
 
 * name = "Morfina Basi 20 mg/ml Solução injetável 10 Ampola"
 
@@ -22312,15 +21827,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96530
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Sandoz 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Sandoz 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100005531-41890-50013343"
 
 * name = "Amlodipina Sandoz 5 mg Comprimido 60 Comprimido Blister"
 
@@ -22358,15 +21872,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96525
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Sandoz 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Sandoz 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100005531-41890-50013335"
 
 * name = "Amlodipina Sandoz 5 mg Comprimido 20 Comprimido Blister"
 
@@ -22404,15 +21917,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96585
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Sandoz 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Sandoz 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100005531-41893-50013360"
 
 * name = "Amlodipina Sandoz 10 mg Comprimido 60 Comprimido Blister"
 
@@ -22450,15 +21962,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96752
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100004123-41911-50008285"
 
 * name = "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -22496,15 +22007,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2158955
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 150 g"
 Description: "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 150 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017705"
+
+* identifier[pcid].value = "PT-100004123-41911-50017705"
 
 * name = "Diclofenac Azevedos 10 mg/g Gel 1 Bisnaga 150 g"
 
@@ -22542,15 +22052,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-97286
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Bluepharma 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Bluepharma 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100058580-41943-50004271"
 
 * name = "Ibuprofeno Bluepharma 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -22588,15 +22097,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-97289
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100058580-41944-50004301"
 
 * name = "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -22634,15 +22142,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-97290
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100058580-41944-50004298"
 
 * name = "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -22680,15 +22187,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-145520
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Farmoz 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Farmoz 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100002998-42190-50062255"
 
 * name = "Perindopril Farmoz 4 mg Comprimido 30 Comprimido Blister"
 
@@ -22726,15 +22232,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-120818
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Farmoz 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Farmoz 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100002998-42191-50062280"
 
 * name = "Perindopril Farmoz 8 mg Comprimido 30 Comprimido Blister"
 
@@ -22772,15 +22277,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-99442
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 Description: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100002998-42318-50133470"
 
 * name = "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 
@@ -22818,15 +22322,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-109343
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Description: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100002998-42318-50133470"
 
 * name = "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -22864,15 +22367,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-120816
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100002998-42318-50133489"
 
 * name = "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -22910,15 +22412,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-120817
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Farmoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Farmoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100002998-42319-50133519"
 
 * name = "Perindopril + Indapamida Farmoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -22956,15 +22457,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100129
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100004619-42475-50013335"
 
 * name = "Amlodipina Ratiopharm 5 mg Comprimido 20 Comprimido Blister"
 
@@ -23002,15 +22502,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100136
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100004619-42475-50013343"
 
 * name = "Amlodipina Ratiopharm 5 mg Comprimido 60 Comprimido Blister"
 
@@ -23048,15 +22547,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100153
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Ratiopharm 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Ratiopharm 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100004619-42476-50013360"
 
 * name = "Amlodipina Ratiopharm 10 mg Comprimido 60 Comprimido Blister"
 
@@ -23094,15 +22592,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100676
 InstanceOf: PPLPackagedProductDefinition
 Title: "Copalia 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Copalia 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112163"
+
+* identifier[pcid].value = "PT-100010531-42567-50112163"
 
 * name = "Copalia 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23140,15 +22637,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100673
 InstanceOf: PPLPackagedProductDefinition
 Title: "Copalia 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Copalia 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112147"
+
+* identifier[pcid].value = "PT-100010531-42567-50112147"
 
 * name = "Copalia 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -23186,15 +22682,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100687
 InstanceOf: PPLPackagedProductDefinition
 Title: "Copalia 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Copalia 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112201"
+
+* identifier[pcid].value = "PT-100010531-42568-50112201"
 
 * name = "Copalia 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -23232,15 +22727,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100799
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Reuloran 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Reuloran 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100002348-42585-50008285"
 
 * name = "Diclofenac Reuloran 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -23278,15 +22772,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100932
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Krka 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Krka 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100004365-42616-50062280"
 
 * name = "Perindopril Krka 8 mg Comprimido 30 Comprimido Blister"
 
@@ -23324,15 +22817,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-102117
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016792"
+
+* identifier[pcid].value = "PT-100000372-42992-50016792"
 
 * name = "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -23370,15 +22862,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-102116
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016776"
+
+* identifier[pcid].value = "PT-100000372-42992-50016776"
 
 * name = "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -23416,15 +22907,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-102147
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016822"
+
+* identifier[pcid].value = "PT-100000372-42993-50016822"
 
 * name = "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -23462,15 +22952,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-102146
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016806"
+
+* identifier[pcid].value = "PT-100000372-42993-50016806"
 
 * name = "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -23508,15 +22997,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-102176
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016830"
+
+* identifier[pcid].value = "PT-100000372-42994-50016830"
 
 * name = "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -23554,15 +23042,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-102177
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016857"
+
+* identifier[pcid].value = "PT-100000372-42994-50016857"
 
 * name = "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -23600,15 +23087,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-103762
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Vitoria 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Vitoria 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100002880-43272-50008285"
 
 * name = "Diclofenac Vitoria 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -23646,15 +23132,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-109629
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Ratiopharm 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Ratiopharm 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100004619-43266-50031171"
 
 * name = "Metformina Ratiopharm 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -23692,15 +23177,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-104997
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcitab D 1500 mg + 400 U.I. Comprimido orodispersível 60 Comprimido Frasco"
 Description: "Calcitab D 1500 mg + 400 U.I. Comprimido orodispersível 60 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50096281"
+
+* identifier[pcid].value = "PT-100057661-43380-50096281"
 
 * name = "Calcitab D 1500 mg + 400 U.I. Comprimido orodispersível 60 Comprimido Frasco"
 
@@ -23738,15 +23222,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-105334
 InstanceOf: PPLPackagedProductDefinition
 Title: "Salbutamol Sandoz 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Description: "Salbutamol Sandoz 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50063618"
+
+* identifier[pcid].value = "PT-100005531-43425-50063618"
 
 * name = "Salbutamol Sandoz 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 
@@ -23784,15 +23267,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154942
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100000339-43635-50006240"
 
 * name = "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 
@@ -23830,15 +23312,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154943
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100000339-43635-50006231"
 
 * name = "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 
@@ -23876,15 +23357,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-109677
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Teva 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Teva 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100002967-44140-50018426"
 
 * name = "Sinvastatina Teva 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -23922,15 +23402,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-109680
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Teva 10 mg Comprimido revestido por película 50 Comprimido Blister"
 Description: "Sinvastatina Teva 10 mg Comprimido revestido por película 50 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100002967-44140-50018418"
 
 * name = "Sinvastatina Teva 10 mg Comprimido revestido por película 50 Comprimido Blister"
 
@@ -23968,15 +23447,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-109692
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Teva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Teva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100002967-44141-50018442"
 
 * name = "Sinvastatina Teva 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24014,15 +23492,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-109685
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Teva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Teva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100002967-44141-50018450"
 
 * name = "Sinvastatina Teva 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -24060,15 +23537,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-109703
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Teva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Teva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100002967-44142-50018469"
 
 * name = "Sinvastatina Teva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24106,15 +23582,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161984
 InstanceOf: PPLPackagedProductDefinition
 Title: "Eucreas 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Eucreas 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114522"
+
+* identifier[pcid].value = "PT-100010531-44264-50114522"
 
 * name = "Eucreas 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -24152,15 +23627,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161986
 InstanceOf: PPLPackagedProductDefinition
 Title: "Eucreas 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Eucreas 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114530"
+
+* identifier[pcid].value = "PT-100010531-44264-50114530"
 
 * name = "Eucreas 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24198,15 +23672,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-110237
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ipramol 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 Description: "Ipramol 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50048228"
+
+* identifier[pcid].value = "PT-100002967-44265-50048228"
 
 * name = "Ipramol 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização 20 Ampola"
 
@@ -24244,15 +23717,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2162015
 InstanceOf: PPLPackagedProductDefinition
 Title: "Eucreas 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Eucreas 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114565"
+
+* identifier[pcid].value = "PT-100010531-44266-50114565"
 
 * name = "Eucreas 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -24290,15 +23762,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2162017
 InstanceOf: PPLPackagedProductDefinition
 Title: "Eucreas 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Eucreas 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114573"
+
+* identifier[pcid].value = "PT-100010531-44266-50114573"
 
 * name = "Eucreas 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24336,15 +23807,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-110627
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coveram 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Description: "Coveram 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100015070-44333-50133438"
 
 * name = "Coveram 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -24382,15 +23852,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-110641
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coveram 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Description: "Coveram 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100015070-44334-50129066"
 
 * name = "Coveram 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -24428,15 +23897,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-110694
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coveram 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Description: "Coveram 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100015070-44344-50133420"
 
 * name = "Coveram 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -24474,15 +23942,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111263
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Teva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Teva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100002967-44467-50008692"
 
 * name = "Omeprazol Teva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -24520,15 +23987,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111265
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Teva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Teva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100002967-44467-50008714"
 
 * name = "Omeprazol Teva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -24566,15 +24032,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111268
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Teva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Teva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100002967-44468-50019082"
 
 * name = "Omeprazol Teva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -24612,15 +24077,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111280
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Ratiopharm 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Ratiopharm 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100004619-44472-50019082"
 
 * name = "Omeprazol Ratiopharm 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -24658,15 +24122,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111271
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Bravet 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Bravet 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100002967-44469-50008714"
 
 * name = "Omeprazol Bravet 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -24704,15 +24167,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111269
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Bravet 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Bravet 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100002967-44469-50008692"
 
 * name = "Omeprazol Bravet 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -24750,15 +24212,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111277
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100004619-44471-50008714"
 
 * name = "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -24796,15 +24257,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111275
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100004619-44471-50008692"
 
 * name = "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -24842,15 +24302,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111948
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Ciclum 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Ciclum 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100005505-44618-50014870"
 
 * name = "Metformina Ciclum 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24888,15 +24347,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111954
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Ciclum 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Ciclum 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100005505-44619-50031171"
 
 * name = "Metformina Ciclum 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24934,15 +24392,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111946
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Ciclum 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Ciclum 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009010"
+
+* identifier[pcid].value = "PT-100005505-44617-50009010"
 
 * name = "Metformina Ciclum 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -24980,15 +24437,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-111945
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Ciclum 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Ciclum 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009028"
+
+* identifier[pcid].value = "PT-100005505-44617-50009028"
 
 * name = "Metformina Ciclum 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -25026,15 +24482,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-112093
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cêgripe 1 mg + 500 mg Comprimido 20 Comprimido Blister"
 Description: "Cêgripe 1 mg + 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50181491"
+
+* identifier[pcid].value = "PT-100015280-44633-50181491"
 
 * name = "Cêgripe 1 mg + 500 mg Comprimido 20 Comprimido Blister"
 
@@ -25072,15 +24527,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-112565
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Azevedos 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Azevedos 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100004123-44729-50008714"
 
 * name = "Omeprazol Azevedos 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -25118,15 +24572,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-113616
 InstanceOf: PPLPackagedProductDefinition
 Title: "Janumet 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Janumet 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115685"
+
+* identifier[pcid].value = "PT-100005784-44912-50115685"
 
 * name = "Janumet 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -25164,15 +24617,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-113623
 InstanceOf: PPLPackagedProductDefinition
 Title: "Janumet 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Janumet 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115715"
+
+* identifier[pcid].value = "PT-100005784-44913-50115715"
 
 * name = "Janumet 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -25210,15 +24662,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-113639
 InstanceOf: PPLPackagedProductDefinition
 Title: "Velmetia 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Velmetia 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115685"
+
+* identifier[pcid].value = "PT-100005784-44917-50115685"
 
 * name = "Velmetia 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -25256,15 +24707,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-113646
 InstanceOf: PPLPackagedProductDefinition
 Title: "Velmetia 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Velmetia 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115715"
+
+* identifier[pcid].value = "PT-100005784-44918-50115715"
 
 * name = "Velmetia 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -25302,15 +24752,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-114066
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Zentiva 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Zentiva 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100022865-45023-50031171"
 
 * name = "Metformina Zentiva 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -25348,15 +24797,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-114624
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Genkern 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Genkern 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100010538-45123-50008692"
 
 * name = "Omeprazol Genkern 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -25394,15 +24842,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-114627
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Genkern 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Genkern 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100010538-45123-50008714"
 
 * name = "Omeprazol Genkern 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -25440,15 +24887,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115433
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lambdalina 40 mg/g Creme 1 Bisnaga 5 g"
 Description: "Lambdalina 40 mg/g Creme 1 Bisnaga 5 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50049593"
+
+* identifier[pcid].value = "PT-100001358-45246-50049593"
 
 * name = "Lambdalina 40 mg/g Creme 1 Bisnaga 5 g"
 
@@ -25486,15 +24932,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115436
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lambdalina 40 mg/g Creme 1 Bisnaga 30 g"
 Description: "Lambdalina 40 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50049607"
+
+* identifier[pcid].value = "PT-100001358-45246-50049607"
 
 * name = "Lambdalina 40 mg/g Creme 1 Bisnaga 30 g"
 
@@ -25532,15 +24977,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115606
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gasec 10 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Gasec 10 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024485"
+
+* identifier[pcid].value = "PT-100001799-45265-50024485"
 
 * name = "Gasec 10 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -25578,15 +25022,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-137965
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sevikar 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Sevikar 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100051078-45282-50115910"
 
 * name = "Sevikar 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -25624,15 +25067,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-137956
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zolnor 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Zolnor 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100005744-45297-50115910"
 
 * name = "Zolnor 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -25670,15 +25112,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115872
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zolnor 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Zolnor 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115898"
+
+* identifier[pcid].value = "PT-100005744-45297-50115898"
 
 * name = "Zolnor 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -25716,15 +25157,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115908
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Pharmakern 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Pharmakern 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100010538-45305-50036432"
 
 * name = "Paracetamol Pharmakern 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -25762,15 +25202,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115926
 InstanceOf: PPLPackagedProductDefinition
 Title: "Denille 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Denille 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50033115"
+
+* identifier[pcid].value = "PT-100049542-45309-50033115"
 
 * name = "Denille 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -25808,15 +25247,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115928
 InstanceOf: PPLPackagedProductDefinition
 Title: "Denille 2 mg + 0.03 mg Comprimido revestido por película 126 Comprimido Blister"
 Description: "Denille 2 mg + 0.03 mg Comprimido revestido por película 126 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50049810"
+
+* identifier[pcid].value = "PT-100049542-45309-50049810"
 
 * name = "Denille 2 mg + 0.03 mg Comprimido revestido por película 126 Comprimido Blister"
 
@@ -25854,15 +25292,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115927
 InstanceOf: PPLPackagedProductDefinition
 Title: "Denille 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Denille 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50033123"
+
+* identifier[pcid].value = "PT-100049542-45309-50033123"
 
 * name = "Denille 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -25900,15 +25337,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115939
 InstanceOf: PPLPackagedProductDefinition
 Title: "Efficib 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Efficib 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115685"
+
+* identifier[pcid].value = "PT-100005784-45311-50115685"
 
 * name = "Efficib 850 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -25946,15 +25382,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-115946
 InstanceOf: PPLPackagedProductDefinition
 Title: "Efficib 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Efficib 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115715"
+
+* identifier[pcid].value = "PT-100005784-45312-50115715"
 
 * name = "Efficib 1000 mg + 50 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -25992,15 +25427,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-142328
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril ratiopharm 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril ratiopharm 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100004619-45477-50062280"
 
 * name = "Perindopril ratiopharm 8 mg Comprimido 30 Comprimido Blister"
 
@@ -26038,15 +25472,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-118899
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Generis 1000 mg Pó efervescente 20 Saqueta"
 Description: "Paracetamol Generis 1000 mg Pó efervescente 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037960"
+
+* identifier[pcid].value = "PT-100000372-45734-50037960"
 
 * name = "Paracetamol Generis 1000 mg Pó efervescente 20 Saqueta"
 
@@ -26084,15 +25517,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-127850
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Teva 5 mg Comprimido 56 Comprimido Blister"
 Description: "Amlodipina Teva 5 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100002967-45849-50013343"
 
 * name = "Amlodipina Teva 5 mg Comprimido 56 Comprimido Blister"
 
@@ -26130,15 +25562,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-127846
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Teva 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Teva 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100002967-45849-50013335"
 
 * name = "Amlodipina Teva 5 mg Comprimido 20 Comprimido Blister"
 
@@ -26176,15 +25607,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-127904
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Teva 10 mg Comprimido 56 Comprimido Blister"
 Description: "Amlodipina Teva 10 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100002967-45850-50013360"
 
 * name = "Amlodipina Teva 10 mg Comprimido 56 Comprimido Blister"
 
@@ -26222,15 +25652,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-142712
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zaldiar Efe 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Fita termossoldada"
 Description: "Zaldiar Efe 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193929"
+
+* identifier[pcid].value = "PT-100000170-46030-50193929"
 
 * name = "Zaldiar Efe 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Fita termossoldada"
 
@@ -26268,15 +25697,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-121482
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Lumec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Omeprazol Lumec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100002348-46180-50008692"
 
 * name = "Omeprazol Lumec 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -26314,15 +25742,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-121484
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Lumec 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Lumec 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100002348-46180-50008714"
 
 * name = "Omeprazol Lumec 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -26360,15 +25787,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-122084
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciclosporina Generis 100 mg/ml Solução oral 1 Frasco"
 Description: "Ciclosporina Generis 100 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015265"
+
+* identifier[pcid].value = "PT-100000372-46258-50015265"
 
 * name = "Ciclosporina Generis 100 mg/ml Solução oral 1 Frasco"
 
@@ -26406,15 +25832,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-122535
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carplexil 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Carplexil 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009478"
+
+* identifier[pcid].value = "PT-100000339-46332-50009478"
 
 * name = "Carplexil 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -26452,15 +25877,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-122590
 InstanceOf: PPLPackagedProductDefinition
 Title: "Olfen 140 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 Description: "Olfen 140 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026453"
+
+* identifier[pcid].value = "PT-100001799-46342-50026453"
 
 * name = "Olfen 140 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 
@@ -26498,15 +25922,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-166105
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Aurobindo 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Aurobindo 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100000372-46418-50018442"
 
 * name = "Sinvastatina Aurobindo 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26544,15 +25967,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-123079
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100000372-46417-50018426"
 
 * name = "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -26590,15 +26012,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-166102
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100000372-46417-50018418"
 
 * name = "Sinvastatina Aurobindo 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26636,15 +26057,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-166108
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Aurobindo 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Aurobindo 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100000372-46419-50018469"
 
 * name = "Sinvastatina Aurobindo 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -26682,15 +26102,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139275
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Bluefish 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Sinvastatina Bluefish 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100001076-46422-50018426"
 
 * name = "Sinvastatina Bluefish 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -26728,15 +26147,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139276
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Bluefish 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Sinvastatina Bluefish 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100001076-46422-50018418"
 
 * name = "Sinvastatina Bluefish 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -26774,15 +26192,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139412
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Bluefish 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Sinvastatina Bluefish 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100001076-46423-50018442"
 
 * name = "Sinvastatina Bluefish 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -26820,15 +26237,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139416
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Bluefish 40 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Sinvastatina Bluefish 40 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100001076-46425-50018469"
 
 * name = "Sinvastatina Bluefish 40 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -26866,15 +26282,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-123776
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50043951"
+
+* identifier[pcid].value = "PT-100005531-46476-50043951"
 
 * name = "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -26912,15 +26327,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157642
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50043960"
+
+* identifier[pcid].value = "PT-100005531-46476-50043960"
 
 * name = "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -26958,15 +26372,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-123780
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drosianne 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Drosianne 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026690"
+
+* identifier[pcid].value = "PT-100005531-46477-50026690"
 
 * name = "Drosianne 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -27004,15 +26417,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-126263
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Tolife 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Tolife 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100002348-46887-50008692"
 
 * name = "Omeprazol Tolife 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -27050,15 +26462,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-126265
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Tolife 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Tolife 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100002348-46887-50008714"
 
 * name = "Omeprazol Tolife 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -27096,15 +26507,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-126271
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Tolife 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Tolife 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100002348-46888-50019082"
 
 * name = "Omeprazol Tolife 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -27142,15 +26552,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-126530
 InstanceOf: PPLPackagedProductDefinition
 Title: "Proton 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Proton 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024485"
+
+* identifier[pcid].value = "PT-100001274-46924-50024485"
 
 * name = "Proton 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -27188,15 +26597,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-127506
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Generis 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Generis 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100000372-47093-50042181"
 
 * name = "Tramadol + Paracetamol Generis 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -27234,15 +26642,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-127530
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tomin 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tomin 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100000339-47097-50042181"
 
 * name = "Tomin 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -27280,15 +26687,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-127536
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Krka 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Krka 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100004365-47098-50042181"
 
 * name = "Tramadol + Paracetamol Krka 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -27326,15 +26732,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-128175
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Aurobindo 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Aurobindo 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009010"
+
+* identifier[pcid].value = "PT-100000372-47181-50009010"
 
 * name = "Metformina Aurobindo 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -27372,15 +26777,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-128168
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Aurobindo 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Aurobindo 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009028"
+
+* identifier[pcid].value = "PT-100000372-47181-50009028"
 
 * name = "Metformina Aurobindo 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -27418,15 +26822,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-128158
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Aurobindo 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Aurobindo 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100000372-47180-50014870"
 
 * name = "Metformina Aurobindo 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -27464,15 +26867,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-128192
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Aurobindo 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Aurobindo 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100000372-47182-50031171"
 
 * name = "Metformina Aurobindo 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -27510,15 +26912,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-128210
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Bluefish 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Bluefish 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100003393-47183-50014870"
 
 * name = "Metformina Bluefish 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -27556,15 +26957,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-128203
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Bluefish 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Bluefish 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014862"
+
+* identifier[pcid].value = "PT-100003393-47183-50014862"
 
 * name = "Metformina Bluefish 850 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -27602,15 +27002,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-128227
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Bluefish 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Bluefish 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100003393-47184-50031171"
 
 * name = "Metformina Bluefish 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -27648,15 +27047,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-130352
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Ratiopharm 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Ratiopharm 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100004619-47429-50042181"
 
 * name = "Tramadol + Paracetamol Ratiopharm 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -27694,15 +27092,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-130913
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Basi 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Basi 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100000339-47529-50008692"
 
 * name = "Omeprazol Basi 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -27740,15 +27137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-130915
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Basi 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Basi 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100000339-47529-50008714"
 
 * name = "Omeprazol Basi 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -27786,15 +27182,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161455
 InstanceOf: PPLPackagedProductDefinition
 Title: "Icandra 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Icandra 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114522"
+
+* identifier[pcid].value = "PT-100010531-47580-50114522"
 
 * name = "Icandra 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -27832,15 +27227,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161457
 InstanceOf: PPLPackagedProductDefinition
 Title: "Icandra 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Icandra 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114530"
+
+* identifier[pcid].value = "PT-100010531-47580-50114530"
 
 * name = "Icandra 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -27878,15 +27272,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2162044
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zomarist 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Zomarist 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114565"
+
+* identifier[pcid].value = "PT-100010531-47590-50114565"
 
 * name = "Zomarist 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -27924,15 +27317,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2162046
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zomarist 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Zomarist 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114573"
+
+* identifier[pcid].value = "PT-100010531-47590-50114573"
 
 * name = "Zomarist 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -27970,15 +27362,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2162035
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zomarist 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Zomarist 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114522"
+
+* identifier[pcid].value = "PT-100010531-47591-50114522"
 
 * name = "Zomarist 850 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -28016,15 +27407,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2162037
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zomarist 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Zomarist 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114530"
+
+* identifier[pcid].value = "PT-100010531-47591-50114530"
 
 * name = "Zomarist 850 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28062,15 +27452,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-131350
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol GP 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol GP 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019066"
+
+* identifier[pcid].value = "PT-100000976-47614-50019066"
 
 * name = "Omeprazol GP 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -28108,15 +27497,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-131352
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol GP 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol GP 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100000976-47614-50019082"
 
 * name = "Omeprazol GP 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -28154,15 +27542,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161469
 InstanceOf: PPLPackagedProductDefinition
 Title: "Icandra 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Icandra 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114565"
+
+* identifier[pcid].value = "PT-100010531-47773-50114565"
 
 * name = "Icandra 1000 mg + 50 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -28200,15 +27587,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161471
 InstanceOf: PPLPackagedProductDefinition
 Title: "Icandra 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Icandra 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50114573"
+
+* identifier[pcid].value = "PT-100010531-47773-50114573"
 
 * name = "Icandra 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28246,15 +27632,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2064890
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Accord 10 mg/ml Solução para perfusão 20 Frasco"
 Description: "Paracetamol Accord 10 mg/ml Solução para perfusão 20 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50053205"
+
+* identifier[pcid].value = "PT-100002098-47946-50053205"
 
 * name = "Paracetamol Accord 10 mg/ml Solução para perfusão 20 Frasco"
 
@@ -28292,15 +27677,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-134610
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Azevedos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Azevedos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100004123-48078-50018442"
 
 * name = "Sinvastatina Azevedos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28338,15 +27722,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-136173
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren 25 25 mg Cápsula mole 20 Cápsula Blister"
 Description: "Voltaren 25 25 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013858"
+
+* identifier[pcid].value = "PT-100004086-48243-50013858"
 
 * name = "Voltaren 25 25 mg Cápsula mole 20 Cápsula Blister"
 
@@ -28384,15 +27767,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-138025
 InstanceOf: PPLPackagedProductDefinition
 Title: "Saflutan 15 µg/ml Colírio, solução 30 Recipiente unidose 0,3 ml"
 Description: "Saflutan 15 µg/ml Colírio, solução 30 Recipiente unidose 0,3 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50118560"
+
+* identifier[pcid].value = "PT-100003380-48491-50118560"
 
 * name = "Saflutan 15 µg/ml Colírio, solução 30 Recipiente unidose 0,3 ml"
 
@@ -28430,15 +27812,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-138400
 InstanceOf: PPLPackagedProductDefinition
 Title: "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026119"
+
+* identifier[pcid].value = "PT-100000372-48531-50026119"
 
 * name = "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -28476,15 +27857,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-138399
 InstanceOf: PPLPackagedProductDefinition
 Title: "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026100"
+
+* identifier[pcid].value = "PT-100000372-48531-50026100"
 
 * name = "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -28522,15 +27902,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-138499
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Azevedos 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Azevedos 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100004123-48539-50036432"
 
 * name = "Paracetamol Azevedos 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -28568,15 +27947,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139255
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100005531-48620-50004247"
 
 * name = "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -28614,15 +27992,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139256
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004239"
+
+* identifier[pcid].value = "PT-100005531-48620-50004239"
 
 * name = "Ibuprofeno Sandoz 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28660,15 +28037,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139257
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100005531-48621-50004271"
 
 * name = "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -28706,15 +28082,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139258
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004263"
+
+* identifier[pcid].value = "PT-100005531-48621-50004263"
 
 * name = "Ibuprofeno Sandoz 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28752,15 +28127,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139259
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100005531-48622-50004301"
 
 * name = "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -28798,15 +28172,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139260
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100005531-48622-50004298"
 
 * name = "Ibuprofeno Sandoz 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28844,15 +28217,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139261
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Neforan 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Neforan 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100002348-48623-50004247"
 
 * name = "Ibuprofeno Neforan 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -28890,15 +28262,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139262
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Neforan 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Neforan 200 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004239"
+
+* identifier[pcid].value = "PT-100002348-48623-50004239"
 
 * name = "Ibuprofeno Neforan 200 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28936,15 +28307,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139264
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Tolife 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Tolife 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004263"
+
+* identifier[pcid].value = "PT-100002348-48624-50004263"
 
 * name = "Ibuprofeno Tolife 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -28982,15 +28352,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139263
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Tolife 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Tolife 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100002348-48624-50004271"
 
 * name = "Ibuprofeno Tolife 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29028,15 +28397,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139265
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Tolife 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Tolife 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100002348-48625-50004301"
 
 * name = "Ibuprofeno Tolife 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29074,15 +28442,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139266
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Tolife 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Tolife 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100002348-48625-50004298"
 
 * name = "Ibuprofeno Tolife 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -29120,15 +28487,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139431
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Betude 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Betude 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100010538-48702-50004301"
 
 * name = "Ibuprofeno Betude 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29166,15 +28532,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139432
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Betude 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Betude 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100010538-48702-50004298"
 
 * name = "Ibuprofeno Betude 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -29212,15 +28577,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139429
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Betude 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Betude 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100010538-48701-50004271"
 
 * name = "Ibuprofeno Betude 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29258,15 +28622,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139430
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Betude 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Betude 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004263"
+
+* identifier[pcid].value = "PT-100010538-48701-50004263"
 
 * name = "Ibuprofeno Betude 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -29304,15 +28667,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-140155
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Tricalma EF 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Tricalma EF 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100000372-48815-50004271"
 
 * name = "Ibuprofeno Tricalma EF 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29350,15 +28712,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-140158
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100000372-48816-50004298"
 
 * name = "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -29396,15 +28757,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-140157
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100000372-48816-50004301"
 
 * name = "Ibuprofeno Labesfal 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -29442,15 +28802,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-141715
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Krka 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Krka 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100004365-49050-50013343"
 
 * name = "Amlodipina Krka 5 mg Comprimido 60 Comprimido Blister"
 
@@ -29488,15 +28847,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-141710
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Krka 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Krka 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100004365-49050-50013335"
 
 * name = "Amlodipina Krka 5 mg Comprimido 20 Comprimido Blister"
 
@@ -29534,15 +28892,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-141730
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Krka 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Krka 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100004365-49051-50013360"
 
 * name = "Amlodipina Krka 10 mg Comprimido 60 Comprimido Blister"
 
@@ -29580,15 +28937,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-197015
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Pharmakern 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Pharmakern 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100010538-49570-50008285"
 
 * name = "Diclofenac Pharmakern 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -29626,15 +28982,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-152523
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Sandoz 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Sandoz 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100005531-49778-50062255"
 
 * name = "Perindopril Sandoz 4 mg Comprimido 30 Comprimido Blister"
 
@@ -29672,15 +29027,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-152515
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Sandoz 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Sandoz 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100005531-49779-50062280"
 
 * name = "Perindopril Sandoz 8 mg Comprimido 30 Comprimido Blister"
 
@@ -29718,15 +29072,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-155349
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Krka 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Krka 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100004365-49986-50008692"
 
 * name = "Omeprazol Krka 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -29764,15 +29117,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-155354
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Krka 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Krka 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100004365-49986-50008714"
 
 * name = "Omeprazol Krka 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -29810,15 +29162,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-173974
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Azevedos 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Azevedos 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100004123-50019-50133519"
 
 * name = "Perindopril + Indapamida Azevedos 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -29856,15 +29207,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-148403
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Azevedos 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Azevedos 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100004123-50022-50062280"
 
 * name = "Perindopril Azevedos 8 mg Comprimido 30 Comprimido Blister"
 
@@ -29902,15 +29252,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-174534
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Sandoz 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Sandoz 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100005531-50306-50036432"
 
 * name = "Paracetamol Sandoz 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -29948,15 +29297,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154890
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gaviscon Alginato de sódio 250 mg + Bicarbonato de sódio 133.5 mg + Carbonato de cálcio 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Description: "Gaviscon Alginato de sódio 250 mg + Bicarbonato de sódio 133.5 mg + Carbonato de cálcio 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50150669"
+
+* identifier[pcid].value = "PT-100002888-50312-50150669"
 
 * name = "Gaviscon Alginato de sódio 250 mg + Bicarbonato de sódio 133.5 mg + Carbonato de cálcio 80 mg Comprimido para mastigar 24 Comprimido Blister"
 
@@ -29994,15 +29342,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-159452
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mylan 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mylan 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100004397-50386-50013360"
 
 * name = "Amlodipina Mylan 10 mg Comprimido 60 Comprimido Blister"
 
@@ -30040,15 +29387,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-159438
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mylan 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mylan 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100004397-50385-50013343"
 
 * name = "Amlodipina Mylan 5 mg Comprimido 60 Comprimido Blister"
 
@@ -30086,15 +29432,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-150243
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mylan 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Mylan 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100004397-50385-50013335"
 
 * name = "Amlodipina Mylan 5 mg Comprimido 10 Comprimido Blister"
 
@@ -30132,15 +29477,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154932
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vessatis 700 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 Description: "Vessatis 700 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50165593"
+
+* identifier[pcid].value = "PT-100000170-50453-50165593"
 
 * name = "Vessatis 700 mg Emplastro medicamentoso 10 Emplastro Saqueta"
 
@@ -30178,15 +29522,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-150620
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vessatis 700 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Description: "Vessatis 700 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50165585"
+
+* identifier[pcid].value = "PT-100000170-50453-50165585"
 
 * name = "Vessatis 700 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 
@@ -30224,15 +29567,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154933
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vessatis 700 mg Emplastro medicamentoso 20 Emplastro Saqueta"
 Description: "Vessatis 700 mg Emplastro medicamentoso 20 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50165607"
+
+* identifier[pcid].value = "PT-100000170-50453-50165607"
 
 * name = "Vessatis 700 mg Emplastro medicamentoso 20 Emplastro Saqueta"
 
@@ -30270,15 +29612,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154935
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vessatis 700 mg Emplastro medicamentoso 30 Emplastro Saqueta"
 Description: "Vessatis 700 mg Emplastro medicamentoso 30 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50165615"
+
+* identifier[pcid].value = "PT-100000170-50453-50165615"
 
 * name = "Vessatis 700 mg Emplastro medicamentoso 30 Emplastro Saqueta"
 
@@ -30316,15 +29657,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-153605
 InstanceOf: PPLPackagedProductDefinition
 Title: "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50043951"
+
+* identifier[pcid].value = "PT-100001653-50849-50043951"
 
 * name = "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -30362,15 +29702,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-153609
 InstanceOf: PPLPackagedProductDefinition
 Title: "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50043960"
+
+* identifier[pcid].value = "PT-100001653-50849-50043960"
 
 * name = "Arankelle 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -30408,15 +29747,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-153617
 InstanceOf: PPLPackagedProductDefinition
 Title: "Daylette 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Daylette 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050036"
+
+* identifier[pcid].value = "PT-100001653-50851-50050036"
 
 * name = "Daylette 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -30454,15 +29792,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-153616
 InstanceOf: PPLPackagedProductDefinition
 Title: "Daylette 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Daylette 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050028"
+
+* identifier[pcid].value = "PT-100001653-50851-50050028"
 
 * name = "Daylette 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -30500,15 +29837,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154159
 InstanceOf: PPLPackagedProductDefinition
 Title: "Aranka 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Aranka 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026690"
+
+* identifier[pcid].value = "PT-100001653-50905-50026690"
 
 * name = "Aranka 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -30546,15 +29882,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154160
 InstanceOf: PPLPackagedProductDefinition
 Title: "Aranka 3 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Aranka 3 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026704"
+
+* identifier[pcid].value = "PT-100001653-50905-50026704"
 
 * name = "Aranka 3 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -30592,15 +29927,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-173901
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Krka 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Krka 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100004365-50923-50133462"
 
 * name = "Perindopril + Indapamida Krka 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -30638,15 +29972,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154260
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Labesfal 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Labesfal 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100000372-50933-50036432"
 
 * name = "Paracetamol Labesfal 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -30684,15 +30017,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154241
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Generis 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Generis 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100000372-50930-50036432"
 
 * name = "Paracetamol Generis 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -30730,15 +30062,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154299
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Tolife 400 mg Granulado para solução oral 20 Saqueta"
 Description: "Ibuprofeno Tolife 400 mg Granulado para solução oral 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015699"
+
+* identifier[pcid].value = "PT-100002348-50942-50015699"
 
 * name = "Ibuprofeno Tolife 400 mg Granulado para solução oral 20 Saqueta"
 
@@ -30776,15 +30107,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154302
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Tolife 600 mg Granulado para solução oral 20 Saqueta"
 Description: "Ibuprofeno Tolife 600 mg Granulado para solução oral 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004220"
+
+* identifier[pcid].value = "PT-100002348-50943-50004220"
 
 * name = "Ibuprofeno Tolife 600 mg Granulado para solução oral 20 Saqueta"
 
@@ -30822,15 +30152,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154306
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Generis 400 mg Granulado para solução oral 20 Saqueta"
 Description: "Ibuprofeno Generis 400 mg Granulado para solução oral 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015699"
+
+* identifier[pcid].value = "PT-100000372-50944-50015699"
 
 * name = "Ibuprofeno Generis 400 mg Granulado para solução oral 20 Saqueta"
 
@@ -30868,15 +30197,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154309
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Generis 600 mg Granulado para solução oral 20 Saqueta"
 Description: "Ibuprofeno Generis 600 mg Granulado para solução oral 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004220"
+
+* identifier[pcid].value = "PT-100000372-50945-50004220"
 
 * name = "Ibuprofeno Generis 600 mg Granulado para solução oral 20 Saqueta"
 
@@ -30914,15 +30242,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-174420
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Ratiopharm 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Ratiopharm 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100004619-50966-50133462"
 
 * name = "Perindopril + Indapamida Ratiopharm 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -30960,15 +30287,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-174430
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Teva 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Teva 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100002967-50967-50133462"
 
 * name = "Perindopril + Indapamida Teva 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -31006,15 +30332,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154477
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Ciclum 650 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Ciclum 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50030043"
+
+* identifier[pcid].value = "PT-100005505-50983-50030043"
 
 * name = "Paracetamol Ciclum 650 mg Comprimido 20 Comprimido Blister"
 
@@ -31052,15 +30377,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154479
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Ciclum 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Ciclum 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100005505-50984-50036432"
 
 * name = "Paracetamol Ciclum 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -31098,15 +30422,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-155737
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol + Codeína Pharmakern 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol + Codeína Pharmakern 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022300"
+
+* identifier[pcid].value = "PT-100010538-51159-50022300"
 
 * name = "Paracetamol + Codeína Pharmakern 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 
@@ -31144,15 +30467,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-178134
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Ratiopharm 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Ratiopharm 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100004619-51221-50036432"
 
 * name = "Paracetamol Ratiopharm 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -31190,15 +30512,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180080
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100004619-51243-50018418"
 
 * name = "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -31236,15 +30557,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180076
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100004619-51243-50018426"
 
 * name = "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -31282,15 +30602,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157659
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042939"
+
+* identifier[pcid].value = "PT-100068545-51354-50042939"
 
 * name = "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -31328,15 +30647,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157660
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042947"
+
+* identifier[pcid].value = "PT-100068545-51354-50042947"
 
 * name = "Clarissa 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -31374,15 +30692,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-174302
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Aurobindo 4 mg Comprimido 10 Comprimido Blister"
 Description: "Perindopril Aurobindo 4 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062247"
+
+* identifier[pcid].value = "PT-100000372-51357-50062247"
 
 * name = "Perindopril Aurobindo 4 mg Comprimido 10 Comprimido Blister"
 
@@ -31420,15 +30737,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-173724
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Aurobindo 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Aurobindo 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100000372-51357-50062255"
 
 * name = "Perindopril Aurobindo 4 mg Comprimido 30 Comprimido Blister"
 
@@ -31466,15 +30782,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-173731
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Aurobindo 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Aurobindo 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100000372-51358-50062280"
 
 * name = "Perindopril Aurobindo 8 mg Comprimido 30 Comprimido Blister"
 
@@ -31512,15 +30827,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157813
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Basi 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Clotrimazol Basi 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008943"
+
+* identifier[pcid].value = "PT-100000339-51374-50008943"
 
 * name = "Clotrimazol Basi 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -31558,15 +30872,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157814
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004417"
+
+* identifier[pcid].value = "PT-100000339-51375-50004417"
 
 * name = "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -31604,15 +30917,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157815
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 50 g"
 Description: "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019805"
+
+* identifier[pcid].value = "PT-100000339-51375-50019805"
 
 * name = "Clotrimazol Basi 10 mg/g Creme 1 Bisnaga 50 g"
 
@@ -31650,15 +30962,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157853
 InstanceOf: PPLPackagedProductDefinition
 Title: "Supofen 40 mg/ml Xarope 1 Frasco 85 ml"
 Description: "Supofen 40 mg/ml Xarope 1 Frasco 85 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003461"
+
+* identifier[pcid].value = "PT-100000339-51383-50003461"
 
 * name = "Supofen 40 mg/ml Xarope 1 Frasco 85 ml"
 
@@ -31696,15 +31007,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-158097
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Basi 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido Clavulânico Basi 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001728"
+
+* identifier[pcid].value = "PT-100000339-51407-50001728"
 
 * name = "Amoxicilina + Ácido Clavulânico Basi 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -31742,15 +31052,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-158099
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Basi 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Basi 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001639"
+
+* identifier[pcid].value = "PT-100000339-51409-50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico Basi 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -31788,15 +31097,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-158100
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Basi 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Basi 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100000339-51410-50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Basi 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -31834,15 +31142,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-158993
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Pharmakern 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Pharmakern 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100010538-51531-50042181"
 
 * name = "Tramadol + Paracetamol Pharmakern 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -31880,15 +31187,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-184577
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Mylan 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Mylan 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100004397-52043-50042181"
 
 * name = "Tramadol + Paracetamol Mylan 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -31926,15 +31232,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-160559
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Vitória 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Vitória 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100002880-51704-50004271"
 
 * name = "Ibuprofeno Vitória 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -31972,15 +31277,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-162031
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ib-u-ron 75 mg Supositório 10 Supositório Blister"
 Description: "Ib-u-ron 75 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50057677"
+
+* identifier[pcid].value = "PT-100004422-51924-50057677"
 
 * name = "Ib-u-ron 75 mg Supositório 10 Supositório Blister"
 
@@ -32018,15 +31322,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-162033
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ib-u-ron 150 mg Supositório 10 Supositório Blister"
 Description: "Ib-u-ron 150 mg Supositório 10 Supositório Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50057685"
+
+* identifier[pcid].value = "PT-100004422-51925-50057685"
 
 * name = "Ib-u-ron 150 mg Supositório 10 Supositório Blister"
 
@@ -32064,15 +31367,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-162417
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 Description: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50184121"
+
+* identifier[pcid].value = "PT-100004086-51997-50184121"
 
 * name = "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 
@@ -32107,7 +31409,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -32117,8 +31418,8 @@ Title: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 Description: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50184148"
+
+* identifier[pcid].value = "PT-100004086-51997-50184148"
 
 * name = "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 
@@ -32156,15 +31457,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2150516
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 Description: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50184121"
+
+* identifier[pcid].value = "PT-100004086-51997-50184121"
 
 * name = "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 100 g"
 
@@ -32202,15 +31502,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2150519
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 Description: "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50184148"
+
+* identifier[pcid].value = "PT-100004086-51997-50184148"
 
 * name = "Voltaren Emulgelex 20 mg/g Gel 1 Bisnaga 180 g"
 
@@ -32248,15 +31547,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-165437
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Sandoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Sandoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100005531-52091-50133489"
 
 * name = "Perindopril + Indapamida Sandoz 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -32294,15 +31592,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-165458
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Sandoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Sandoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100005531-52217-50133519"
 
 * name = "Perindopril + Indapamida Sandoz 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -32340,15 +31637,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-165566
 InstanceOf: PPLPackagedProductDefinition
 Title: "Twynsta 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Twynsta 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121707"
+
+* identifier[pcid].value = "PT-100005764-52240-50121707"
 
 * name = "Twynsta 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -32386,15 +31682,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-165565
 InstanceOf: PPLPackagedProductDefinition
 Title: "Twynsta 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 Description: "Twynsta 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121693"
+
+* identifier[pcid].value = "PT-100005764-52240-50121693"
 
 * name = "Twynsta 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 
@@ -32432,15 +31727,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-165572
 InstanceOf: PPLPackagedProductDefinition
 Title: "Twynsta 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 Description: "Twynsta 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121723"
+
+* identifier[pcid].value = "PT-100005764-52241-50121723"
 
 * name = "Twynsta 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 
@@ -32478,15 +31772,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-165573
 InstanceOf: PPLPackagedProductDefinition
 Title: "Twynsta 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Twynsta 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121731"
+
+* identifier[pcid].value = "PT-100005764-52241-50121731"
 
 * name = "Twynsta 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -32524,15 +31817,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-165580
 InstanceOf: PPLPackagedProductDefinition
 Title: "Twynsta 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Description: "Twynsta 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121766"
+
+* identifier[pcid].value = "PT-100005764-52242-50121766"
 
 * name = "Twynsta 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 
@@ -32570,15 +31862,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-165655
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Pharmakern 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Pharmakern 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100010538-52259-50001981"
 
 * name = "Paracetamol Pharmakern 500 mg Comprimido 20 Comprimido Blister"
 
@@ -32616,15 +31907,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-167648
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 Description: "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100005505-52706-50133470"
 
 * name = "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 20 Comprimido Blister"
 
@@ -32662,15 +31952,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180128
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100005505-52706-50133489"
 
 * name = "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -32708,15 +31997,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180136
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Ciclum 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Ciclum 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100005505-52707-50133519"
 
 * name = "Perindopril + Indapamida Ciclum 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -32754,15 +32042,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179006
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Krka 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Krka 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100004365-52951-50133446"
 
 * name = "Perindopril + Amlodipina Krka 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -32800,15 +32087,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179016
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Krka 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Krka 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100004365-52952-50133438"
 
 * name = "Perindopril + Amlodipina Krka 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -32846,15 +32132,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179026
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Krka 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Krka 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100004365-52954-50133420"
 
 * name = "Perindopril + Amlodipina Krka 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -32892,15 +32177,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179036
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Krka 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Krka 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100004365-52955-50129066"
 
 * name = "Perindopril + Amlodipina Krka 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -32938,15 +32222,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-169454
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-U-Ron 500 mg Cápsula 20 Cápsula Blister"
 Description: "Ben-U-Ron 500 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100004422-53175-50001981"
 
 * name = "Ben-U-Ron 500 mg Cápsula 20 Cápsula Blister"
 
@@ -32984,15 +32267,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-86849
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Tecnigen 40 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Tecnigen 40 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100001538-32414-50018469"
 
 * name = "Sinvastatina Tecnigen 40 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -33030,15 +32312,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65132
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Tecnigen 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Tecnigen 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100001538-32415-50018442"
 
 * name = "Sinvastatina Tecnigen 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -33076,15 +32357,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-51677
 InstanceOf: PPLPackagedProductDefinition
 Title: "Reumolide 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Reumolide 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100000372-32425-50008285"
 
 * name = "Reumolide 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -33122,15 +32402,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-94235
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Alter 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Alter 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100001305-32764-50018418"
 
 * name = "Sinvastatina Alter 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -33168,15 +32447,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-52283
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Alter 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Alter 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100001305-32764-50018426"
 
 * name = "Sinvastatina Alter 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -33214,15 +32492,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-54804
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Alter 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Alter 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100001305-32767-50018450"
 
 * name = "Sinvastatina Alter 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -33260,15 +32537,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62182
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Alter 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Alter 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100001305-32767-50018442"
 
 * name = "Sinvastatina Alter 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -33306,15 +32582,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-52289
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Alter 40 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Alter 40 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50028421"
+
+* identifier[pcid].value = "PT-100001305-32768-50028421"
 
 * name = "Sinvastatina Alter 40 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -33352,15 +32627,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-72314
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Alter 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Alter 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100001305-32768-50018469"
 
 * name = "Sinvastatina Alter 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -33398,15 +32672,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-52729
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Mepha 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Mepha 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100001799-32853-50018442"
 
 * name = "Sinvastatina Mepha 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -33444,15 +32717,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-52727
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Mepha 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Mepha 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100001799-32853-50018450"
 
 * name = "Sinvastatina Mepha 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -33490,15 +32762,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69773
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100000197-32896-50008714"
 
 * name = "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -33536,15 +32807,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69771
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100000197-32896-50008692"
 
 * name = "Omeprazol Medinfar 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -33582,15 +32852,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157889
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Hikma 1000 mg + 200 mg Pó para sol injectável 1000 mg + 200 mg Pó para solução injetável 10 Frasco para injetáveis"
 Description: "Amoxicilina + Ácido Clavulânico Hikma 1000 mg + 200 mg Pó para sol injectável 1000 mg + 200 mg Pó para solução injetável 10 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50032356"
+
+* identifier[pcid].value = "PT-100002356-32897-50032356"
 
 * name = "Amoxicilina + Ácido Clavulânico Hikma 1000 mg + 200 mg Pó para sol injectável 1000 mg + 200 mg Pó para solução injetável 10 Frasco para injetáveis"
 
@@ -33628,15 +32897,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-53182
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dislipina 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Dislipina 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100001258-32930-50018426"
 
 * name = "Dislipina 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -33674,15 +32942,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-96237
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100001362-33171-50018450"
 
 * name = "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -33720,15 +32987,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-54165
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100001362-33171-50018442"
 
 * name = "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -33766,15 +33032,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-54259
 InstanceOf: PPLPackagedProductDefinition
 Title: "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012231"
+
+* identifier[pcid].value = "PT-100001653-33185-50012231"
 
 * name = "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -33812,15 +33077,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-54260
 InstanceOf: PPLPackagedProductDefinition
 Title: "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012223"
+
+* identifier[pcid].value = "PT-100001653-33185-50012223"
 
 * name = "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -33858,15 +33122,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-94086
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100004586-33285-50008714"
 
 * name = "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -33904,15 +33167,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-94081
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100004586-33285-50008692"
 
 * name = "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -33950,15 +33212,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62941
 InstanceOf: PPLPackagedProductDefinition
 Title: "Albosan 40 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Albosan 40 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019066"
+
+* identifier[pcid].value = "PT-100038152-33348-50019066"
 
 * name = "Albosan 40 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -33996,15 +33257,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-55502
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100001305-33351-50013335"
 
 * name = "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 10 Comprimido Blister"
 
@@ -34042,15 +33302,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-72604
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100001305-33351-50013343"
 
 * name = "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -34088,15 +33347,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57678
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Alter 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Alter 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100001305-33352-50013360"
 
 * name = "Amlodipina Alter 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -34134,15 +33392,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-55591
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cefuroxima Labesfal, 750 mg Pó e solvente para solução injectável 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 Description: "Cefuroxima Labesfal, 750 mg Pó e solvente para solução injectável 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004808"
+
+* identifier[pcid].value = "PT-100000367-33375-50004808"
 
 * name = "Cefuroxima Labesfal, 750 mg Pó e solvente para solução injectável 750 mg/6 ml Pó e solvente para solução injetável 50 Frasco para injetáveis"
 
@@ -34180,15 +33437,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-55883
 InstanceOf: PPLPackagedProductDefinition
 Title: "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50101587"
+
+* identifier[pcid].value = "PT-100001258-33407-50101587"
 
 * name = "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -34226,15 +33482,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-55888
 InstanceOf: PPLPackagedProductDefinition
 Title: "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50101609"
+
+* identifier[pcid].value = "PT-100001258-33407-50101609"
 
 * name = "Glucovance 2.5 mg + 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34272,15 +33527,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-56771
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Atirdrane 40 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Sinvastatina Atirdrane 40 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018477"
+
+* identifier[pcid].value = "PT-100004397-33689-50018477"
 
 * name = "Sinvastatina Atirdrane 40 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -34318,15 +33572,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57060
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Hidroclorotiazida Generis 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Description: "Enalapril Hidroclorotiazida Generis 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100000372-33788-50006231"
 
 * name = "Enalapril Hidroclorotiazida Generis 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 56 Comprimido Blister"
 
@@ -34364,15 +33617,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93622
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Generis 20 mg Comprimidos 20 mg Comprimido 56 Comprimido Blister"
 Description: "Enalapril Generis 20 mg Comprimidos 20 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100000372-33795-50003372"
 
 * name = "Enalapril Generis 20 mg Comprimidos 20 mg Comprimido 56 Comprimido Blister"
 
@@ -34410,15 +33662,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57127
 InstanceOf: PPLPackagedProductDefinition
 Title: "Betamox Plus 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Betamox Plus 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022199"
+
+* identifier[pcid].value = "PT-100070132-33813-50022199"
 
 * name = "Betamox Plus 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -34456,15 +33707,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57078
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Description: "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003364"
+
+* identifier[pcid].value = "PT-100000372-33794-50003364"
 
 * name = "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 
@@ -34502,15 +33752,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93538
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100000372-33794-50003356"
 
 * name = "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -34548,15 +33797,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57386
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Mylan 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Mylan 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100004397-33867-50019082"
 
 * name = "Omeprazol Mylan 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -34594,15 +33842,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57925
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lantus 100 U/ml Solução injetável 1 Frasco para injetáveis"
 Description: "Lantus 100 U/ml Solução injetável 1 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50096508"
+
+* identifier[pcid].value = "PT-100000869-33945-50096508"
 
 * name = "Lantus 100 U/ml Solução injetável 1 Frasco para injetáveis"
 
@@ -34640,15 +33887,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59383
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Generis 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Generis 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100000372-33997-50018426"
 
 * name = "Sinvastatina Generis 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -34686,15 +33932,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59387
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Generis 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Generis 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100000372-33997-50018418"
 
 * name = "Sinvastatina Generis 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34732,15 +33977,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59412
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Generis 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Generis 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100000372-34001-50018442"
 
 * name = "Sinvastatina Generis 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34778,15 +34022,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59446
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Generis 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Generis 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100000372-34002-50018469"
 
 * name = "Sinvastatina Generis 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34824,15 +34067,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59456
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina GP 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina GP 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100000976-34004-50018442"
 
 * name = "Sinvastatina GP 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34870,15 +34112,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59461
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina GP 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina GP 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100000976-34005-50018469"
 
 * name = "Sinvastatina GP 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34916,15 +34157,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59451
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina GP 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina GP 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100000976-34003-50018418"
 
 * name = "Sinvastatina GP 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -34962,15 +34202,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-59447
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina GP 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina GP 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100000976-34003-50018426"
 
 * name = "Sinvastatina GP 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -35008,15 +34247,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-60230
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Ratiopharm 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Ratiopharm 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100004619-34049-50018442"
 
 * name = "Sinvastatina Ratiopharm 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -35054,15 +34292,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-60462
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Ratiopharm 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Ratiopharm 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100004619-34057-50018469"
 
 * name = "Sinvastatina Ratiopharm 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -35100,15 +34337,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-61193
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100000976-34175-50008692"
 
 * name = "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -35146,15 +34382,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-72311
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100000976-34175-50008714"
 
 * name = "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -35192,15 +34427,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62377
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lisopan 1000 1000 mg Comprimido efervescente 10 Comprimido Recipiente para comprimidos"
 Description: "Lisopan 1000 1000 mg Comprimido efervescente 10 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037960"
+
+* identifier[pcid].value = "PT-100004123-34342-50037960"
 
 * name = "Lisopan 1000 1000 mg Comprimido efervescente 10 Comprimido Recipiente para comprimidos"
 
@@ -35238,15 +34472,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62803
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tram-u-ron OD 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Tram-u-ron OD 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50139150"
+
+* identifier[pcid].value = "PT-100004422-34509-50139150"
 
 * name = "Tram-u-ron OD 100 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -35284,15 +34517,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62807
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tram-u-ron OD 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Tram-u-ron OD 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50138839"
+
+* identifier[pcid].value = "PT-100004422-34514-50138839"
 
 * name = "Tram-u-ron OD 150 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -35330,15 +34562,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62817
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tram-u-ron OD 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Description: "Tram-u-ron OD 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50139169"
+
+* identifier[pcid].value = "PT-100004422-34516-50139169"
 
 * name = "Tram-u-ron OD 200 mg Cápsula de libertação prolongada 20 Cápsula Blister"
 
@@ -35376,15 +34607,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-62979
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Azevedos 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Azevedos 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100004123-34603-50001981"
 
 * name = "Paracetamol Azevedos 500 mg Comprimido 20 Comprimido Blister"
 
@@ -35422,15 +34652,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92120
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Description: "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100058580-34632-50006240"
 
 * name = "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -35468,15 +34697,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92119
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100058580-34632-50006231"
 
 * name = "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -35514,15 +34742,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2173655
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Bluepharma 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Sinvastatina Bluepharma 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100058580-34648-50018418"
 
 * name = "Sinvastatina Bluepharma 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -35560,15 +34787,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-63215
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Bluepharma 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Sinvastatina Bluepharma 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100058580-34650-50018442"
 
 * name = "Sinvastatina Bluepharma 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -35606,15 +34832,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-63217
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Bluepharma 40 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Sinvastatina Bluepharma 40 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100058580-34651-50018469"
 
 * name = "Sinvastatina Bluepharma 40 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -35652,15 +34877,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-63563
 InstanceOf: PPLPackagedProductDefinition
 Title: "Xilonibsa 2% com Epinefrina 36 mg/1.8 ml + 0.04 mg/1.8 ml Solução injetável 100 Cartucho"
 Description: "Xilonibsa 2% com Epinefrina 36 mg/1.8 ml + 0.04 mg/1.8 ml Solução injetável 100 Cartucho"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036165"
+
+* identifier[pcid].value = "PT-100003009-34716-50036165"
 
 * name = "Xilonibsa 2% com Epinefrina 36 mg/1.8 ml + 0.04 mg/1.8 ml Solução injetável 100 Cartucho"
 
@@ -35698,15 +34922,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87919
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100044004-34787-50013335"
 
 * name = "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 20 Comprimido Blister"
 
@@ -35744,15 +34967,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87921
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100044004-34787-50013343"
 
 * name = "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -35790,15 +35012,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87922
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Jaba 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Jaba 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100044004-34788-50013360"
 
 * name = "Amlodipina Jaba 10 mg comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -35836,15 +35057,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87911
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100000372-34791-50013343"
 
 * name = "Amlodipina Generis 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -35882,15 +35102,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87909
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Generis 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Generis 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100000372-34792-50013360"
 
 * name = "Amlodipina Generis 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -35928,15 +35147,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64243
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sivales 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sivales 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100009540-34871-50018442"
 
 * name = "Sivales 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -35974,15 +35192,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64237
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sivales 20 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sivales 20 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100009540-34871-50018450"
 
 * name = "Sivales 20 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -36020,15 +35237,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64518
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dafalgan 1 g 1000 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Dafalgan 1 g 1000 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100005560-34907-50036432"
 
 * name = "Dafalgan 1 g 1000 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -36066,15 +35282,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64728
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Stada 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Stada 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100004586-34970-50018426"
 
 * name = "Sinvastatina Stada 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -36112,15 +35327,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64735
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Stada 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Stada 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100004586-34970-50018418"
 
 * name = "Sinvastatina Stada 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36158,15 +35372,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64752
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Stada 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Stada 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100004586-34971-50018442"
 
 * name = "Sinvastatina Stada 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36204,15 +35417,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64769
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Stada 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Stada 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100004586-34972-50018469"
 
 * name = "Sinvastatina Stada 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36250,15 +35462,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65232
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Tricalma 200 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Ibuprofeno Tricalma 200 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100000372-35074-50004247"
 
 * name = "Ibuprofeno Tricalma 200 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -36296,15 +35507,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65484
 InstanceOf: PPLPackagedProductDefinition
 Title: "Solaraze 30 mg/g Gel 1 Bisnaga 25 g"
 Description: "Solaraze 30 mg/g Gel 1 Bisnaga 25 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037404"
+
+* identifier[pcid].value = "PT-100071064-35111-50037404"
 
 * name = "Solaraze 30 mg/g Gel 1 Bisnaga 25 g"
 
@@ -36342,15 +35552,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65485
 InstanceOf: PPLPackagedProductDefinition
 Title: "Solaraze 30 mg/g Gel 1 Bisnaga 50 g"
 Description: "Solaraze 30 mg/g Gel 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037412"
+
+* identifier[pcid].value = "PT-100071064-35111-50037412"
 
 * name = "Solaraze 30 mg/g Gel 1 Bisnaga 50 g"
 
@@ -36388,15 +35597,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65953
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 200 ml"
 Description: "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037919"
+
+* identifier[pcid].value = "PT-100070132-35245-50037919"
 
 * name = "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 200 ml"
 
@@ -36434,15 +35642,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2081057
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 100 ml"
 Description: "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 100 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50163272"
+
+* identifier[pcid].value = "PT-100070132-35245-50163272"
 
 * name = "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal 1 Frasco 100 ml"
 
@@ -36480,15 +35687,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65977
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100002348-35252-50018442"
 
 * name = "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36526,15 +35732,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-65972
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100002348-35252-50018450"
 
 * name = "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -36572,15 +35777,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66096
 InstanceOf: PPLPackagedProductDefinition
 Title: "Xumadol 1g 1000 mg Granulado efervescente 20 Saqueta"
 Description: "Xumadol 1g 1000 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50037960"
+
+* identifier[pcid].value = "PT-100057661-35272-50037960"
 
 * name = "Xumadol 1g 1000 mg Granulado efervescente 20 Saqueta"
 
@@ -36618,15 +35822,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66124
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 Description: "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015753"
+
+* identifier[pcid].value = "PT-100000372-35282-50015753"
 
 * name = "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 
@@ -36664,15 +35867,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66123
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 Description: "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015745"
+
+* identifier[pcid].value = "PT-100000372-35282-50015745"
 
 * name = "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 
@@ -36710,15 +35912,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66137
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 Description: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015753"
+
+* identifier[pcid].value = "PT-100001305-35286-50015753"
 
 * name = "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 32 Cápsula Blister"
 
@@ -36756,15 +35957,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66136
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 Description: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015745"
+
+* identifier[pcid].value = "PT-100001305-35286-50015745"
 
 * name = "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 16 Cápsula Blister"
 
@@ -36802,15 +36002,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66135
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 Description: "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015737"
+
+* identifier[pcid].value = "PT-100001305-35286-50015737"
 
 * name = "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 
@@ -36848,15 +36047,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66222
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004310"
+
+* identifier[pcid].value = "PT-100001305-35309-50004310"
 
 * name = "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -36894,15 +36092,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66223
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100001305-35309-50004298"
 
 * name = "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -36940,15 +36137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-93243
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100001305-35309-50004301"
 
 * name = "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -36986,15 +36182,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66600
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Basi 20 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Basi 20 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100000339-35442-50018442"
 
 * name = "Sinvastatina Basi 20 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -37032,15 +36227,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66609
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Basi 40 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Basi 40 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100000339-35443-50018469"
 
 * name = "Sinvastatina Basi 40 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -37078,15 +36272,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66758
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100002348-35453-50013335"
 
 * name = "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 
@@ -37124,15 +36317,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66760
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100002348-35453-50013343"
 
 * name = "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -37170,15 +36362,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66763
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina toLife 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina toLife 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100002348-35454-50013360"
 
 * name = "Amlodipina toLife 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -37216,15 +36407,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66780
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Vitória 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Vitória 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100002880-35460-50018418"
 
 * name = "Sinvastatina Vitória 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -37262,15 +36452,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87767
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100000372-35465-50004301"
 
 * name = "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -37308,15 +36497,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66794
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100000372-35465-50004298"
 
 * name = "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -37354,15 +36542,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66858
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciclosporina Teva 25 mg Cápsula mole 20 Cápsula Blister"
 Description: "Ciclosporina Teva 25 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015214"
+
+* identifier[pcid].value = "PT-100002967-35521-50015214"
 
 * name = "Ciclosporina Teva 25 mg Cápsula mole 20 Cápsula Blister"
 
@@ -37400,15 +36587,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66882
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciclosporina Teva 50 mg Cápsula mole 30 Cápsula Blister"
 Description: "Ciclosporina Teva 50 mg Cápsula mole 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015222"
+
+* identifier[pcid].value = "PT-100002967-35533-50015222"
 
 * name = "Ciclosporina Teva 50 mg Cápsula mole 30 Cápsula Blister"
 
@@ -37446,15 +36632,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91829
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciclosporina Teva 50 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Teva 50 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015230"
+
+* identifier[pcid].value = "PT-100002967-35533-50015230"
 
 * name = "Ciclosporina Teva 50 mg Cápsula mole 50 Cápsula Blister"
 
@@ -37492,15 +36677,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-66885
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciclosporina Teva 100 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Teva 100 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015257"
+
+* identifier[pcid].value = "PT-100002967-35534-50015257"
 
 * name = "Ciclosporina Teva 100 mg Cápsula mole 50 Cápsula Blister"
 
@@ -37538,15 +36722,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70143
 InstanceOf: PPLPackagedProductDefinition
 Title: "Angeliq 2 mg + 1 mg Comprimido revestido 28 Comprimido Blister"
 Description: "Angeliq 2 mg + 1 mg Comprimido revestido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50105574"
+
+* identifier[pcid].value = "PT-100009492-35925-50105574"
 
 * name = "Angeliq 2 mg + 1 mg Comprimido revestido 28 Comprimido Blister"
 
@@ -37584,15 +36767,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67719
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Mepha 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Mepha 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100001799-35948-50018469"
 
 * name = "Sinvastatina Mepha 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -37630,15 +36812,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67737
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100005531-35959-50014870"
 
 * name = "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -37676,15 +36857,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67736
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014862"
+
+* identifier[pcid].value = "PT-100005531-35959-50014862"
 
 * name = "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -37722,15 +36902,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-67987
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Azevedos 10 mg Comprimido 30 Comprimido Blister"
 Description: "Amlodipina Azevedos 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013351"
+
+* identifier[pcid].value = "PT-100004123-36023-50013351"
 
 * name = "Amlodipina Azevedos 10 mg Comprimido 30 Comprimido Blister"
 
@@ -37768,15 +36947,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-68300
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Germed 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Germed 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100035485-36224-50018442"
 
 * name = "Sinvastatina Germed 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -37814,15 +36992,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-86848
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Tetrafarma 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Tetrafarma 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100004531-36417-50018418"
 
 * name = "Sinvastatina Tetrafarma 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -37860,15 +37037,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69091
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Tecnigen 10 mg Comprimido revestido 20 Comprimido Blister"
 Description: "Sinvastatina Tecnigen 10 mg Comprimido revestido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100001538-36419-50018426"
 
 * name = "Sinvastatina Tecnigen 10 mg Comprimido revestido 20 Comprimido Blister"
 
@@ -37906,15 +37082,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-119879
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Tecnigen 10 mg Comprimido revestido 60 Comprimido Blister"
 Description: "Sinvastatina Tecnigen 10 mg Comprimido revestido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100001538-36419-50018418"
 
 * name = "Sinvastatina Tecnigen 10 mg Comprimido revestido 60 Comprimido Blister"
 
@@ -37952,15 +37127,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69093
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Farmoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Farmoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100002998-36420-50018426"
 
 * name = "Sinvastatina Farmoz 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -37998,15 +37172,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87257
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Farmoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Farmoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100002998-36420-50018418"
 
 * name = "Sinvastatina Farmoz 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -38044,15 +37217,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69117
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Bluepharma 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Bluepharma 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100058580-36429-50003356"
 
 * name = "Enalapril Bluepharma 5 mg comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -38090,15 +37262,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-100538
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Bluepharma 20 mg comprimidos 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Bluepharma 20 mg comprimidos 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100058580-36430-50003372"
 
 * name = "Enalapril Bluepharma 20 mg comprimidos 20 mg Comprimido 60 Comprimido Blister"
 
@@ -38136,15 +37307,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75949
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina Sandoz 250 mg/5 ml Pó para suspensão oral 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina Sandoz 250 mg/5 ml Pó para suspensão oral 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001892"
+
+* identifier[pcid].value = "PT-100005531-36551-50001892"
 
 * name = "Amoxicilina Sandoz 250 mg/5 ml Pó para suspensão oral 250 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -38182,15 +37352,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69488
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006592"
+
+* identifier[pcid].value = "PT-100000372-36566-50006592"
 
 * name = "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -38228,15 +37397,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69489
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006606"
+
+* identifier[pcid].value = "PT-100000372-36566-50006606"
 
 * name = "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -38274,15 +37442,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69593
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Tetrafarma 20 mg Comprimidos revestidos por película 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Tetrafarma 20 mg Comprimidos revestidos por película 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100004531-36624-50018442"
 
 * name = "Sinvastatina Tetrafarma 20 mg Comprimidos revestidos por película 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -38320,15 +37487,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69596
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Tetrafarma 40 mg Comprimidos revestidos por película 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Tetrafarma 40 mg Comprimidos revestidos por película 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100004531-36625-50018469"
 
 * name = "Sinvastatina Tetrafarma 40 mg Comprimidos revestidos por película 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -38366,15 +37532,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-74529
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Ciclum 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Ciclum 20 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018450"
+
+* identifier[pcid].value = "PT-100005505-36602-50018450"
 
 * name = "Sinvastatina Ciclum 20 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -38412,15 +37577,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-74533
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Ciclum 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Ciclum 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100005505-36602-50018442"
 
 * name = "Sinvastatina Ciclum 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -38458,15 +37622,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69673
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Vitória 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Vitória 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100002880-36637-50013335"
 
 * name = "Amlodipina Vitória 5 mg Comprimido 10 Comprimido Blister"
 
@@ -38504,15 +37667,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87872
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Vitória 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Vitória 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100002880-36637-50013343"
 
 * name = "Amlodipina Vitória 5 mg Comprimido 60 Comprimido Blister"
 
@@ -38550,15 +37712,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87875
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Vitória 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Vitória 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100002880-36639-50013360"
 
 * name = "Amlodipina Vitória 10 mg Comprimido 60 Comprimido Blister"
 
@@ -38596,15 +37757,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69910
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100050544-36728-50008714"
 
 * name = "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -38642,15 +37802,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69908
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100050544-36728-50008692"
 
 * name = "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -38688,15 +37847,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69916
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100001799-36730-50008692"
 
 * name = "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -38734,15 +37892,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-69918
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100001799-36730-50008714"
 
 * name = "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -38780,15 +37937,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70110
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Wynn 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Wynn 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100000159-36773-50013360"
 
 * name = "Amlodipina Wynn 10 mg Comprimido 60 Comprimido Blister"
 
@@ -38826,15 +37982,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70581
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100000372-36866-50008692"
 
 * name = "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -38872,15 +38027,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70583
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100000372-36866-50008714"
 
 * name = "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -38918,15 +38072,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70664
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100000976-36894-50013335"
 
 * name = "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 10 Comprimido Blister"
 
@@ -38964,15 +38117,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70666
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100000976-36894-50013343"
 
 * name = "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido 60 Comprimido Blister"
 
@@ -39010,15 +38162,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70671
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Bluepharma 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Bluepharma 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100058580-36896-50013343"
 
 * name = "Amlodipina Bluepharma 5 mg Comprimido 60 Comprimido Blister"
 
@@ -39056,15 +38207,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70674
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Bluepharma 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Bluepharma 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100058580-36897-50013360"
 
 * name = "Amlodipina Bluepharma 10 mg Comprimido 60 Comprimido Blister"
 
@@ -39102,15 +38252,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-70669
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina GP 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina GP 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100000976-36895-50013360"
 
 * name = "Amlodipina GP 10 mg Comprimidos 10 mg Comprimido 60 Comprimido Blister"
 
@@ -39148,15 +38297,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-92385
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Atral 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Atral 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100070132-37094-50013335"
 
 * name = "Amlodipina Atral 5 mg Comprimido 20 Comprimido Blister"
 
@@ -39194,15 +38342,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-71328
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Atral 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Atral 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100070132-37094-50013343"
 
 * name = "Amlodipina Atral 5 mg Comprimido 60 Comprimido Blister"
 
@@ -39240,15 +38387,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-72893
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100005531-37098-50006231"
 
 * name = "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -39286,15 +38432,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-71338
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100005531-37098-50006240"
 
 * name = "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -39332,15 +38477,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-94076
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100000372-37118-50004271"
 
 * name = "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -39378,15 +38522,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-76969
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004263"
+
+* identifier[pcid].value = "PT-100000372-37118-50004263"
 
 * name = "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -39424,15 +38567,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-71794
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Generis 20 mg/ml Suspensão oral 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ibuprofeno Generis 20 mg/ml Suspensão oral 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004336"
+
+* identifier[pcid].value = "PT-100000372-37212-50004336"
 
 * name = "Ibuprofeno Generis 20 mg/ml Suspensão oral 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -39470,15 +38612,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-71915
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Pharmakern 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Pharmakern 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100010538-37272-50018418"
 
 * name = "Sinvastatina Pharmakern 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -39516,15 +38657,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-71917
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Pharmakern 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Pharmakern 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100010538-37273-50018442"
 
 * name = "Sinvastatina Pharmakern 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -39562,15 +38702,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-72169
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100010538-37335-50013343"
 
 * name = "Amlodipina Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 
@@ -39608,15 +38747,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-72172
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100010538-37336-50013360"
 
 * name = "Amlodipina Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 
@@ -39654,15 +38792,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-72749
 InstanceOf: PPLPackagedProductDefinition
 Title: "Augmentin ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Augmentin ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040278"
+
+* identifier[pcid].value = "PT-100002296-37430-50040278"
 
 * name = "Augmentin ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -39700,15 +38837,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78716
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Sandoz 1000 mg Comprimidos revestidos 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Sandoz 1000 mg Comprimidos revestidos 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100005531-37446-50031171"
 
 * name = "Metformina Sandoz 1000 mg Comprimidos revestidos 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -39746,15 +38882,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2146193
 InstanceOf: PPLPackagedProductDefinition
 Title: "Glivec 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Glivec 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040324"
+
+* identifier[pcid].value = "PT-100010531-37436-50040324"
 
 * name = "Glivec 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -39792,15 +38927,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-73543
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Generis 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Generis 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100000372-37735-50008692"
 
 * name = "Omeprazol Generis 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -39838,15 +38972,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-73545
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Generis 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Generis 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100000372-37735-50008714"
 
 * name = "Omeprazol Generis 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -39884,15 +39017,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-74078
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clavamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Clavamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040278"
+
+* identifier[pcid].value = "PT-100000385-37848-50040278"
 
 * name = "Clavamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -39930,15 +39062,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-74950
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Generis 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Generis 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024485"
+
+* identifier[pcid].value = "PT-100000372-38050-50024485"
 
 * name = "Omeprazol Generis 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -39976,15 +39107,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88156
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Generis 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Generis 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024507"
+
+* identifier[pcid].value = "PT-100000372-38050-50024507"
 
 * name = "Omeprazol Generis 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -40022,15 +39152,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-74952
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Generis 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Generis 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019066"
+
+* identifier[pcid].value = "PT-100000372-38051-50019066"
 
 * name = "Omeprazol Generis 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -40068,15 +39197,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-88157
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Generis 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Generis 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100000372-38051-50019082"
 
 * name = "Omeprazol Generis 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -40114,15 +39242,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-83329
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cefuroxima Ratiopharm 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Cefuroxima Ratiopharm 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018337"
+
+* identifier[pcid].value = "PT-100004619-38099-50018337"
 
 * name = "Cefuroxima Ratiopharm 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -40160,15 +39287,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-83326
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cefuroxima Ratiopharm 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Cefuroxima Ratiopharm 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018299"
+
+* identifier[pcid].value = "PT-100004619-38098-50018299"
 
 * name = "Cefuroxima Ratiopharm 250 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -40206,15 +39332,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75299
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Vitória 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Vitória 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003364"
+
+* identifier[pcid].value = "PT-100002880-38134-50003364"
 
 * name = "Enalapril Vitória 5 mg Comprimido 20 Comprimido Blister"
 
@@ -40252,15 +39377,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75300
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Vitória 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Vitória 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100002880-38134-50003356"
 
 * name = "Enalapril Vitória 5 mg Comprimido 60 Comprimido Blister"
 
@@ -40298,15 +39422,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75302
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Vitória 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Vitória 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100002880-38135-50003372"
 
 * name = "Enalapril Vitória 20 mg Comprimido 60 Comprimido Blister"
 
@@ -40344,15 +39467,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-80763
 InstanceOf: PPLPackagedProductDefinition
 Title: "Travex Rapid 50 mg Comprimido orodispersível 20 Comprimido Blister"
 Description: "Travex Rapid 50 mg Comprimido orodispersível 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50041274"
+
+* identifier[pcid].value = "PT-100001337-38221-50041274"
 
 * name = "Travex Rapid 50 mg Comprimido orodispersível 20 Comprimido Blister"
 
@@ -40390,15 +39512,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75900
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inegy 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Inegy 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100050021-38302-50107704"
 
 * name = "Inegy 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -40436,15 +39557,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75902
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inegy 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Inegy 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100050021-38302-50107712"
 
 * name = "Inegy 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -40482,15 +39602,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75914
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inegy 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Inegy 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100050021-38303-50107755"
 
 * name = "Inegy 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -40528,15 +39647,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75928
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inegy 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Inegy 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100050021-38304-50107798"
 
 * name = "Inegy 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -40574,15 +39692,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75974
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vytorin 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Vytorin 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100050021-38308-50107712"
 
 * name = "Vytorin 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -40620,15 +39737,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75972
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vytorin 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Vytorin 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100050021-38308-50107704"
 
 * name = "Vytorin 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -40666,15 +39782,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75986
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vytorin 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Vytorin 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100050021-38309-50107755"
 
 * name = "Vytorin 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -40712,15 +39827,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75998
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vytorin 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Vytorin 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100050021-38310-50107798"
 
 * name = "Vytorin 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -40758,15 +39872,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-76735
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100002880-38464-50006231"
 
 * name = "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -40804,15 +39917,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-76732
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100002880-38464-50006240"
 
 * name = "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido 14 Comprimido Blister"
 
@@ -40850,15 +39962,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-76738
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Sandoz 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Sandoz 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100005531-38466-50008285"
 
 * name = "Diclofenac Sandoz 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -40896,15 +40007,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78552
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol ToLife 100 mg Cápsula 32 Cápsula Blister"
 Description: "Itraconazol ToLife 100 mg Cápsula 32 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015753"
+
+* identifier[pcid].value = "PT-100002348-38849-50015753"
 
 * name = "Itraconazol ToLife 100 mg Cápsula 32 Cápsula Blister"
 
@@ -40942,15 +40052,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78551
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol ToLife 100 mg Cápsula 16 Cápsula Blister"
 Description: "Itraconazol ToLife 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015745"
+
+* identifier[pcid].value = "PT-100002348-38849-50015745"
 
 * name = "Itraconazol ToLife 100 mg Cápsula 16 Cápsula Blister"
 
@@ -40988,15 +40097,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78550
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol ToLife 100 mg Cápsula 4 Cápsula Blister"
 Description: "Itraconazol ToLife 100 mg Cápsula 4 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015737"
+
+* identifier[pcid].value = "PT-100002348-38849-50015737"
 
 * name = "Itraconazol ToLife 100 mg Cápsula 4 Cápsula Blister"
 
@@ -41034,15 +40142,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78563
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciclosporina Generis 100 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Generis 100 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015257"
+
+* identifier[pcid].value = "PT-100000372-38856-50015257"
 
 * name = "Ciclosporina Generis 100 mg Cápsula mole 50 Cápsula Blister"
 
@@ -41080,15 +40187,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78565
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciclosporina Generis 25 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Generis 25 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015206"
+
+* identifier[pcid].value = "PT-100000372-38857-50015206"
 
 * name = "Ciclosporina Generis 25 mg Cápsula mole 50 Cápsula Blister"
 
@@ -41126,15 +40232,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78567
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ciclosporina Generis 50 mg Cápsula mole 50 Cápsula Blister"
 Description: "Ciclosporina Generis 50 mg Cápsula mole 50 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015230"
+
+* identifier[pcid].value = "PT-100000372-38858-50015230"
 
 * name = "Ciclosporina Generis 50 mg Cápsula mole 50 Cápsula Blister"
 
@@ -41172,15 +40277,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-79821
 InstanceOf: PPLPackagedProductDefinition
 Title: "Salbutamol GP 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Description: "Salbutamol GP 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50063618"
+
+* identifier[pcid].value = "PT-100000976-39027-50063618"
 
 * name = "Salbutamol GP 100 µg/dose Suspensão pressurizada para inalação 1 Recipiente pressurizado 200 aplicações"
 
@@ -41218,15 +40322,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-79879
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Aurovitas 100 mg Cápsula 4 Cápsula Blister"
 Description: "Itraconazol Aurovitas 100 mg Cápsula 4 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015737"
+
+* identifier[pcid].value = "PT-100000372-39046-50015737"
 
 * name = "Itraconazol Aurovitas 100 mg Cápsula 4 Cápsula Blister"
 
@@ -41264,15 +40367,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-79880
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Aurovitas 100 mg Cápsula 16 Cápsula Blister"
 Description: "Itraconazol Aurovitas 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015745"
+
+* identifier[pcid].value = "PT-100000372-39046-50015745"
 
 * name = "Itraconazol Aurovitas 100 mg Cápsula 16 Cápsula Blister"
 
@@ -41310,15 +40412,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-79881
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Aurovitas 100 mg Cápsula 32 Cápsula Blister"
 Description: "Itraconazol Aurovitas 100 mg Cápsula 32 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015753"
+
+* identifier[pcid].value = "PT-100000372-39046-50015753"
 
 * name = "Itraconazol Aurovitas 100 mg Cápsula 32 Cápsula Blister"
 
@@ -41356,15 +40457,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-81002
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100035485-39212-50008285"
 
 * name = "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -41402,15 +40502,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2050137
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 150 g"
 Description: "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 150 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017705"
+
+* identifier[pcid].value = "PT-100035485-39212-50017705"
 
 * name = "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel 1 Bisnaga 150 g"
 
@@ -41448,15 +40547,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-81580
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100004123-39296-50004298"
 
 * name = "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -41494,15 +40592,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95720
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100004123-39296-50004301"
 
 * name = "Ibuprofeno Azevedos 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -41540,15 +40637,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-91830
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Azevedos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Azevedos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100004123-39297-50004271"
 
 * name = "Ibuprofeno Azevedos 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -41586,15 +40682,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-95789
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Krka 5 mg Comprimido 20 Comprimido Blister"
 Description: "Enalapril Krka 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003364"
+
+* identifier[pcid].value = "PT-100004365-39341-50003364"
 
 * name = "Enalapril Krka 5 mg Comprimido 20 Comprimido Blister"
 
@@ -41632,15 +40727,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87828
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Krka 5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Krka 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003356"
+
+* identifier[pcid].value = "PT-100004365-39341-50003356"
 
 * name = "Enalapril Krka 5 mg Comprimido 60 Comprimido Blister"
 
@@ -41678,15 +40772,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-87830
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril Krka 20 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril Krka 20 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003372"
+
+* identifier[pcid].value = "PT-100004365-39342-50003372"
 
 * name = "Enalapril Krka 20 mg Comprimido 60 Comprimido Blister"
 
@@ -41724,15 +40817,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-82584
 InstanceOf: PPLPackagedProductDefinition
 Title: "Libeli 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Libeli 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042947"
+
+* identifier[pcid].value = "PT-100001653-39501-50042947"
 
 * name = "Libeli 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -41770,15 +40862,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-82583
 InstanceOf: PPLPackagedProductDefinition
 Title: "Libeli 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Libeli 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042939"
+
+* identifier[pcid].value = "PT-100001653-39501-50042939"
 
 * name = "Libeli 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -41816,15 +40907,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-84148
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Ratiopharm 400mg/5ml + 57mg/5 ml pó p/ susp oral 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido Clavulânico Ratiopharm 400mg/5ml + 57mg/5 ml pó p/ susp oral 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022202"
+
+* identifier[pcid].value = "PT-100004619-39767-50022202"
 
 * name = "Amoxicilina + Ácido Clavulânico Ratiopharm 400mg/5ml + 57mg/5 ml pó p/ susp oral 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -41862,15 +40952,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-84246
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Sandoz 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido Clavulânico Sandoz 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022199"
+
+* identifier[pcid].value = "PT-100005531-39803-50022199"
 
 * name = "Amoxicilina + Ácido Clavulânico Sandoz 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -41908,15 +40997,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-84911
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 15 Cápsula Blister"
 Description: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 15 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015745"
+
+* identifier[pcid].value = "PT-100004619-39986-50015745"
 
 * name = "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 15 Cápsula Blister"
 
@@ -41954,15 +41042,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-84913
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 28 Cápsula Blister"
 Description: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015753"
+
+* identifier[pcid].value = "PT-100004619-39986-50015753"
 
 * name = "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 28 Cápsula Blister"
 
@@ -42000,15 +41087,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-84907
 InstanceOf: PPLPackagedProductDefinition
 Title: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 Description: "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015737"
+
+* identifier[pcid].value = "PT-100004619-39986-50015737"
 
 * name = "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula 4 Cápsula Blister"
 
@@ -42046,15 +41132,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-107268
 InstanceOf: PPLPackagedProductDefinition
 Title: "Competact 850 mg + 15 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Competact 850 mg + 15 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50109324"
+
+* identifier[pcid].value = "PT-100011241-39989-50109324"
 
 * name = "Competact 850 mg + 15 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -42092,15 +41177,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-97440
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Ratiopharm 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Ratiopharm 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009028"
+
+* identifier[pcid].value = "PT-100004619-40066-50009028"
 
 * name = "Metformina Ratiopharm 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -42138,15 +41222,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-85206
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Ratiopharm 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Ratiopharm 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009010"
+
+* identifier[pcid].value = "PT-100004619-40066-50009010"
 
 * name = "Metformina Ratiopharm 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -42184,15 +41267,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-94582
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Ratiopharm 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Ratiopharm 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100004619-40067-50014870"
 
 * name = "Metformina Ratiopharm 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -42230,15 +41312,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-86224
 InstanceOf: PPLPackagedProductDefinition
 Title: "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009249"
+
+* identifier[pcid].value = "PT-100001653-40311-50009249"
 
 * name = "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -42276,15 +41357,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-86225
 InstanceOf: PPLPackagedProductDefinition
 Title: "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009257"
+
+* identifier[pcid].value = "PT-100001653-40311-50009257"
 
 * name = "Effiplen 0.03 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -42322,15 +41402,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-86231
 InstanceOf: PPLPackagedProductDefinition
 Title: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Description: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009370"
+
+* identifier[pcid].value = "PT-100001653-40314-50009370"
 
 * name = "Estinette 0.02 mg + 0.075 mg Comprimido revestido 63 Comprimido Blister"
 
@@ -42368,15 +41447,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-153732
 InstanceOf: PPLPackagedProductDefinition
 Title: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 Description: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009389"
+
+* identifier[pcid].value = "PT-100001653-40314-50009389"
 
 * name = "Estinette 0.02 mg + 0.075 mg Comprimido revestido 126 Comprimido Blister"
 
@@ -42414,15 +41492,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-86230
 InstanceOf: PPLPackagedProductDefinition
 Title: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Description: "Estinette 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009362"
+
+* identifier[pcid].value = "PT-100001653-40314-50009362"
 
 * name = "Estinette 0.02 mg + 0.075 mg Comprimido revestido 21 Comprimido Blister"
 
@@ -42460,15 +41537,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-10523
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trifene 600 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Trifene 600 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100000197-6310-50004298"
 
 * name = "Trifene 600 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -42506,15 +41582,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180511
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ib-u-ron 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ib-u-ron 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004336"
+
+* identifier[pcid].value = "PT-100004422-54607-50004336"
 
 * name = "Ib-u-ron 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -42552,15 +41627,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-182264
 InstanceOf: PPLPackagedProductDefinition
 Title: "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050028"
+
+* identifier[pcid].value = "PT-100049542-54847-50050028"
 
 * name = "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -42598,15 +41672,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-195059
 InstanceOf: PPLPackagedProductDefinition
 Title: "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050036"
+
+* identifier[pcid].value = "PT-100049542-54847-50050036"
 
 * name = "Droseffik 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -42644,15 +41717,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186905
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Farmoz 40 mg/ml Xarope 1 Frasco 85 ml"
 Description: "Paracetamol Farmoz 40 mg/ml Xarope 1 Frasco 85 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003461"
+
+* identifier[pcid].value = "PT-100002998-55500-50003461"
 
 * name = "Paracetamol Farmoz 40 mg/ml Xarope 1 Frasco 85 ml"
 
@@ -42690,15 +41762,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46617
 InstanceOf: PPLPackagedProductDefinition
 Title: "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 6 ml"
 Description: "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 6 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50097695"
+
+* identifier[pcid].value = "PT-100009206-30411-50097695"
 
 * name = "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 6 ml"
 
@@ -42736,15 +41807,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-46618
 InstanceOf: PPLPackagedProductDefinition
 Title: "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 11 ml"
 Description: "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 11 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50097709"
+
+* identifier[pcid].value = "PT-100009206-30411-50097709"
 
 * name = "Instillagel 20 mg/g + 0.5 mg/g Gel uretral 10 Seringa 11 ml"
 
@@ -42782,15 +41852,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-47679
 InstanceOf: PPLPackagedProductDefinition
 Title: "Natecal D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Description: "Natecal D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50096281"
+
+* identifier[pcid].value = "PT-100057661-30756-50096281"
 
 * name = "Natecal D 1500 mg + 400 U.I. Comprimido para mastigar 60 Comprimido Frasco"
 
@@ -42828,15 +41897,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-54945
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fenac-Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Fenac-Gel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100000312-30925-50008285"
 
 * name = "Fenac-Gel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -42874,15 +41942,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-52339
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Frenidor 50 mg/g Gel 1 Bisnaga 100 g"
 Description: "Ibuprofeno Frenidor 50 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009672"
+
+* identifier[pcid].value = "PT-100000372-31151-50009672"
 
 * name = "Ibuprofeno Frenidor 50 mg/g Gel 1 Bisnaga 100 g"
 
@@ -42920,15 +41987,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-49951
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Zentiva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Zentiva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100022865-31927-50018469"
 
 * name = "Sinvastatina Zentiva 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -42966,15 +42032,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-64407
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Description: "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100058580-34889-50008692"
 
 * name = "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 14 Cápsula Frasco"
 
@@ -43012,15 +42077,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-71700
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100058580-34889-50008714"
 
 * name = "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -43058,15 +42122,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2080290
 InstanceOf: PPLPackagedProductDefinition
 Title: "Panadol Extra 500 mg + 65 mg Comprimido revestido por película 24 Comprimido Blister"
 Description: "Panadol Extra 500 mg + 65 mg Comprimido revestido por película 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50163264"
+
+* identifier[pcid].value = "PT-100004086-32592-50163264"
 
 * name = "Panadol Extra 500 mg + 65 mg Comprimido revestido por película 24 Comprimido Blister"
 
@@ -43104,15 +42167,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-54261
 InstanceOf: PPLPackagedProductDefinition
 Title: "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012142"
+
+* identifier[pcid].value = "PT-100001653-33186-50012142"
 
 * name = "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -43150,15 +42212,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-63942
 InstanceOf: PPLPackagedProductDefinition
 Title: "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012150"
+
+* identifier[pcid].value = "PT-100001653-33186-50012150"
 
 * name = "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -43196,15 +42257,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2035216
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Labesfal 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol Labesfal 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016792"
+
+* identifier[pcid].value = "PT-100000372-33405-50016792"
 
 * name = "Tramadol Labesfal 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -43242,15 +42302,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57287
 InstanceOf: PPLPackagedProductDefinition
 Title: "Octocaine 1:100000 20 mg/ml + 0.01 mg/ml Solução injetável 50 Ampola"
 Description: "Octocaine 1:100000 20 mg/ml + 0.01 mg/ml Solução injetável 50 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50034545"
+
+* identifier[pcid].value = "PT-100007231-33851-50034545"
 
 * name = "Octocaine 1:100000 20 mg/ml + 0.01 mg/ml Solução injetável 50 Ampola"
 
@@ -43288,15 +42347,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-57288
 InstanceOf: PPLPackagedProductDefinition
 Title: "Octocaine 1:50000 20 mg/ml + 0.02 mg/ml Solução injetável 50 Ampola"
 Description: "Octocaine 1:50000 20 mg/ml + 0.02 mg/ml Solução injetável 50 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50034553"
+
+* identifier[pcid].value = "PT-100007231-33852-50034553"
 
 * name = "Octocaine 1:50000 20 mg/ml + 0.02 mg/ml Solução injetável 50 Ampola"
 
@@ -43334,15 +42392,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-75867
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-u-ron 75 mg Supositório 10 Supositório Fita termossoldada"
 Description: "Ben-u-ron 75 mg Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50039385"
+
+* identifier[pcid].value = "PT-100004422-36964-50039385"
 
 * name = "Ben-u-ron 75 mg Supositório 10 Supositório Fita termossoldada"
 
@@ -43380,15 +42437,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-78044
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Farmoz 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Farmoz 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100002998-38722-50008285"
 
 * name = "Diclofenac Farmoz 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -43426,15 +42482,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-125263
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Algik 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ibuprofeno Algik 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004336"
+
+* identifier[pcid].value = "PT-100004123-41245-50004336"
 
 * name = "Ibuprofeno Algik 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -43472,15 +42527,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-98195
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Gêflama 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Gêflama 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100000159-42069-50008285"
 
 * name = "Diclofenac Gêflama 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -43518,15 +42572,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139965
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007980"
+
+* identifier[pcid].value = "PT-100001098-48767-50007980"
 
 * name = "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -43564,15 +42617,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-139966
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50007971"
+
+* identifier[pcid].value = "PT-100001098-48767-50007971"
 
 * name = "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -43610,15 +42662,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-140154
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Wellsmed 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Wellsmed 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100014593-48814-50004247"
 
 * name = "Ibuprofeno Wellsmed 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -43656,15 +42707,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-143227
 InstanceOf: PPLPackagedProductDefinition
 Title: "Exforge HCT 5 mg + 160 mg + 12.5 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Exforge HCT 5 mg + 160 mg + 12.5 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50119486"
+
+* identifier[pcid].value = "PT-100010531-49291-50119486"
 
 * name = "Exforge HCT 5 mg + 160 mg + 12.5 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -43702,15 +42752,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-143238
 InstanceOf: PPLPackagedProductDefinition
 Title: "Exforge HCT 5 mg + 160 mg + 25 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Exforge HCT 5 mg + 160 mg + 25 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50119540"
+
+* identifier[pcid].value = "PT-100010531-49292-50119540"
 
 * name = "Exforge HCT 5 mg + 160 mg + 25 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -43748,15 +42797,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-143818
 InstanceOf: PPLPackagedProductDefinition
 Title: "Apotel 150 mg/ml Solução para perfusão 3 Ampola"
 Description: "Apotel 150 mg/ml Solução para perfusão 3 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50054473"
+
+* identifier[pcid].value = "PT-100000167-49348-50054473"
 
 * name = "Apotel 150 mg/ml Solução para perfusão 3 Ampola"
 
@@ -43794,15 +42842,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-144692
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína + Adrenalina Normon 36 mg/1.8ml + 0.0225 mg/1.8ml Solução injetável 100 Cartucho"
 Description: "Lidocaína + Adrenalina Normon 36 mg/1.8ml + 0.0225 mg/1.8ml Solução injetável 100 Cartucho"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50054643"
+
+* identifier[pcid].value = "PT-100000292-49479-50054643"
 
 * name = "Lidocaína + Adrenalina Normon 36 mg/1.8ml + 0.0225 mg/1.8ml Solução injetável 100 Cartucho"
 
@@ -43840,15 +42887,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-144965
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Basi 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Basi 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100000339-49521-50001981"
 
 * name = "Paracetamol Basi 500 mg Comprimido 20 Comprimido Blister"
 
@@ -43886,15 +42932,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-187465
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nurofen Xpress 400 mg Cápsula mole 20 Cápsula Blister"
 Description: "Nurofen Xpress 400 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100002888-50404-50004271"
 
 * name = "Nurofen Xpress 400 mg Cápsula mole 20 Cápsula Blister"
 
@@ -43932,15 +42977,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-150457
 InstanceOf: PPLPackagedProductDefinition
 Title: "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Description: "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50099485"
+
+* identifier[pcid].value = "PT-100050021-50420-50099485"
 
 * name = "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -43978,15 +43022,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-150458
 InstanceOf: PPLPackagedProductDefinition
 Title: "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Description: "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50099493"
+
+* identifier[pcid].value = "PT-100050021-50420-50099493"
 
 * name = "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 
@@ -44024,15 +43067,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-166123
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Kabi 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 Description: "Paracetamol Kabi 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50053191"
+
+* identifier[pcid].value = "PT-100000366-50848-50053191"
 
 * name = "Paracetamol Kabi 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 
@@ -44070,15 +43112,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-154215
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zovirax Duo 50 mg/g + 10 mg/g Creme 1 Bisnaga 2 g"
 Description: "Zovirax Duo 50 mg/g + 10 mg/g Creme 1 Bisnaga 2 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120808"
+
+* identifier[pcid].value = "PT-100004086-50924-50120808"
 
 * name = "Zovirax Duo 50 mg/g + 10 mg/g Creme 1 Bisnaga 2 g"
 
@@ -44116,15 +43157,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-155741
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Farmoz 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Farmoz 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100002998-51160-50001981"
 
 * name = "Paracetamol Farmoz 500 mg Comprimido 20 Comprimido Blister"
 
@@ -44162,15 +43202,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-156632
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclogel 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclogel 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100057827-51237-50008285"
 
 * name = "Diclogel 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -44208,15 +43247,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-157662
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Farmoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Farmoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100002998-51355-50004247"
 
 * name = "Ibuprofeno Farmoz 200 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -44254,15 +43292,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-160217
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120816"
+
+* identifier[pcid].value = "PT-100005744-51650-50120816"
 
 * name = "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -44300,15 +43337,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-172641
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120824"
+
+* identifier[pcid].value = "PT-100005744-51650-50120824"
 
 * name = "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -44346,15 +43382,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-188147
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen Sem Açúcar 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Brufen Sem Açúcar 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50057642"
+
+* identifier[pcid].value = "PT-100001337-51906-50057642"
 
 * name = "Brufen Sem Açúcar 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -44392,15 +43427,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-162113
 InstanceOf: PPLPackagedProductDefinition
 Title: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 Description: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012142"
+
+* identifier[pcid].value = "PT-100004397-51936-50012142"
 
 * name = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 21 Comprimido Blister"
 
@@ -44438,15 +43472,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186976
 InstanceOf: PPLPackagedProductDefinition
 Title: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 Description: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012150"
+
+* identifier[pcid].value = "PT-100004397-51936-50012150"
 
 * name = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido 63 Comprimido Blister"
 
@@ -44484,15 +43517,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-162091
 InstanceOf: PPLPackagedProductDefinition
 Title: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 Description: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012231"
+
+* identifier[pcid].value = "PT-100004397-51935-50012231"
 
 * name = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 21 Comprimido Blister"
 
@@ -44530,15 +43562,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186965
 InstanceOf: PPLPackagedProductDefinition
 Title: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 Description: "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50012223"
+
+* identifier[pcid].value = "PT-100004397-51935-50012223"
 
 * name = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido 63 Comprimido Blister"
 
@@ -44576,15 +43607,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-162775
 InstanceOf: PPLPackagedProductDefinition
 Title: "Griponal 4 mg + 500 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Description: "Griponal 4 mg + 500 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193945"
+
+* identifier[pcid].value = "PT-100020259-52018-50193945"
 
 * name = "Griponal 4 mg + 500 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -44622,15 +43652,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-188706
 InstanceOf: PPLPackagedProductDefinition
 Title: "Calcimed D3 1000 mg + 880 U.I. Comprimido para mastigar 30 Comprimido Recipiente para comprimidos"
 Description: "Calcimed D3 1000 mg + 880 U.I. Comprimido para mastigar 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142046"
+
+* identifier[pcid].value = "PT-100050045-52327-50142046"
 
 * name = "Calcimed D3 1000 mg + 880 U.I. Comprimido para mastigar 30 Comprimido Recipiente para comprimidos"
 
@@ -44668,15 +43697,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-167300
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Tolife 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Tolife 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100002348-52613-50036432"
 
 * name = "Paracetamol Tolife 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -44714,15 +43742,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-184353
 InstanceOf: PPLPackagedProductDefinition
 Title: "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50122061"
+
+* identifier[pcid].value = "PT-100014112-52821-50122061"
 
 * name = "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -44760,15 +43787,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194915
 InstanceOf: PPLPackagedProductDefinition
 Title: "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50122070"
+
+* identifier[pcid].value = "PT-100014112-52821-50122070"
 
 * name = "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -44806,15 +43832,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194916
 InstanceOf: PPLPackagedProductDefinition
 Title: "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50122096"
+
+* identifier[pcid].value = "PT-100014112-52823-50122096"
 
 * name = "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -44852,15 +43877,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-184358
 InstanceOf: PPLPackagedProductDefinition
 Title: "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50122088"
+
+* identifier[pcid].value = "PT-100014112-52823-50122088"
 
 * name = "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -44898,15 +43922,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1998144
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trinalion 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Trinalion 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50110071"
+
+* identifier[pcid].value = "PT-100004531-52848-50110071"
 
 * name = "Trinalion 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -44944,15 +43967,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-168252
 InstanceOf: PPLPackagedProductDefinition
 Title: "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026100"
+
+* identifier[pcid].value = "PT-100049542-52863-50026100"
 
 * name = "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -44990,15 +44012,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-193961
 InstanceOf: PPLPackagedProductDefinition
 Title: "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026119"
+
+* identifier[pcid].value = "PT-100049542-52863-50026119"
 
 * name = "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -45036,15 +44057,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1989111
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lisonorm 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 Description: "Lisonorm 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50136267"
+
+* identifier[pcid].value = "PT-100000197-52934-50136267"
 
 * name = "Lisonorm 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 
@@ -45082,15 +44102,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1989112
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lisonorm 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Description: "Lisonorm 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50122150"
+
+* identifier[pcid].value = "PT-100000197-52934-50122150"
 
 * name = "Lisonorm 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 
@@ -45128,15 +44147,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1989114
 InstanceOf: PPLPackagedProductDefinition
 Title: "Saval 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Description: "Saval 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50122150"
+
+* identifier[pcid].value = "PT-100000369-52960-50122150"
 
 * name = "Saval 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 
@@ -45174,15 +44192,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-168812
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dol-u-ron Forte 1000 mg + 60 mg Comprimido 18 Comprimido Blister"
 Description: "Dol-u-ron Forte 1000 mg + 60 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50058797"
+
+* identifier[pcid].value = "PT-100004422-53022-50058797"
 
 * name = "Dol-u-ron Forte 1000 mg + 60 mg Comprimido 18 Comprimido Blister"
 
@@ -45220,15 +44237,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-189849
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mepha 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Mepha 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100001799-53399-50013335"
 
 * name = "Amlodipina Mepha 5 mg Comprimido 20 Comprimido Blister"
 
@@ -45266,15 +44282,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2151695
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mepha 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mepha 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100001799-53399-50013343"
 
 * name = "Amlodipina Mepha 5 mg Comprimido 60 Comprimido Blister"
 
@@ -45312,15 +44327,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2151696
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Mepha 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Mepha 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100001799-53403-50013360"
 
 * name = "Amlodipina Mepha 10 mg Comprimido 60 Comprimido Blister"
 
@@ -45358,15 +44372,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-188689
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol B. Braun 10 mg/ml Solução para perfusão 10 Frasco"
 Description: "Paracetamol B. Braun 10 mg/ml Solução para perfusão 10 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50053191"
+
+* identifier[pcid].value = "PT-100006899-53405-50053191"
 
 * name = "Paracetamol B. Braun 10 mg/ml Solução para perfusão 10 Frasco"
 
@@ -45404,15 +44417,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-170853
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Normon 1000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 Description: "Amoxicilina + Ácido Clavulânico Normon 1000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50034120"
+
+* identifier[pcid].value = "PT-100000292-53412-50034120"
 
 * name = "Amoxicilina + Ácido Clavulânico Normon 1000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 
@@ -45450,15 +44462,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2072334
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Normon 2000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 Description: "Amoxicilina + Ácido Clavulânico Normon 2000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50159836"
+
+* identifier[pcid].value = "PT-100000292-53413-50159836"
 
 * name = "Amoxicilina + Ácido Clavulânico Normon 2000 mg + 200 mg Pó para solução injetável 100 Frasco para injetáveis"
 
@@ -45496,15 +44507,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194019
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Mylan 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol Mylan 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016792"
+
+* identifier[pcid].value = "PT-100004397-53422-50016792"
 
 * name = "Tramadol Mylan 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -45542,15 +44552,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194017
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Mylan 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol Mylan 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016776"
+
+* identifier[pcid].value = "PT-100004397-53422-50016776"
 
 * name = "Tramadol Mylan 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -45588,15 +44597,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194050
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Mylan 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol Mylan 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016857"
+
+* identifier[pcid].value = "PT-100004397-53424-50016857"
 
 * name = "Tramadol Mylan 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -45634,15 +44642,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194048
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Mylan 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol Mylan 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016830"
+
+* identifier[pcid].value = "PT-100004397-53424-50016830"
 
 * name = "Tramadol Mylan 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -45680,15 +44687,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194039
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Mylan 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol Mylan 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016822"
+
+* identifier[pcid].value = "PT-100004397-53423-50016822"
 
 * name = "Tramadol Mylan 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -45726,15 +44732,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194037
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Mylan 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol Mylan 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016806"
+
+* identifier[pcid].value = "PT-100004397-53423-50016806"
 
 * name = "Tramadol Mylan 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -45772,15 +44777,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194839
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zilpen 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Description: "Zilpen 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50059700"
+
+* identifier[pcid].value = "PT-100000369-53825-50059700"
 
 * name = "Zilpen 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -45818,15 +44822,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-195751
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol toLife 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol toLife 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100002348-53827-50042181"
 
 * name = "Tramadol + Paracetamol toLife 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 
@@ -45864,15 +44867,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-195837
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol toLife 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol toLife 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50059700"
+
+* identifier[pcid].value = "PT-100002348-53828-50059700"
 
 * name = "Tramadol + Paracetamol toLife 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -45910,15 +44912,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-195877
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Generis 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Generis 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50059700"
+
+* identifier[pcid].value = "PT-100000372-53833-50059700"
 
 * name = "Tramadol + Paracetamol Generis 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -45956,15 +44957,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-176639
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50033115"
+
+* identifier[pcid].value = "PT-100001653-54006-50033115"
 
 * name = "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -46002,15 +45002,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-193303
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50033123"
+
+* identifier[pcid].value = "PT-100001653-54006-50033123"
 
 * name = "Sibilla 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -46048,15 +45047,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-176638
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Nideran 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Nideran 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100002348-54008-50001981"
 
 * name = "Paracetamol Nideran 500 mg Comprimido 20 Comprimido Blister"
 
@@ -46094,15 +45092,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1998152
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trinalion 5 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Trinalion 5 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50140094"
+
+* identifier[pcid].value = "PT-100004531-54298-50140094"
 
 * name = "Trinalion 5 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -46140,15 +45137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1998174
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trinalion 10 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Trinalion 10 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50140140"
+
+* identifier[pcid].value = "PT-100004531-54299-50140140"
 
 * name = "Trinalion 10 mg + 20 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -46186,15 +45182,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-178780
 InstanceOf: PPLPackagedProductDefinition
 Title: "Antigrippine trieffect 500 mg + 5 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Antigrippine trieffect 500 mg + 5 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50152831"
+
+* identifier[pcid].value = "PT-100009517-54361-50152831"
 
 * name = "Antigrippine trieffect 500 mg + 5 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -46232,15 +45227,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179382
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Basi 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Basi 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009010"
+
+* identifier[pcid].value = "PT-100000339-54427-50009010"
 
 * name = "Metformina Basi 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -46278,15 +45272,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179379
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Basi 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Basi 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009028"
+
+* identifier[pcid].value = "PT-100000339-54427-50009028"
 
 * name = "Metformina Basi 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -46324,15 +45317,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179402
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Basi 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Basi 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100000339-54428-50014870"
 
 * name = "Metformina Basi 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -46370,15 +45362,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179434
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Basi 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Basi 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100000339-54429-50031171"
 
 * name = "Metformina Basi 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -46416,15 +45407,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-179828
 InstanceOf: PPLPackagedProductDefinition
 Title: "Parafusiv 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 Description: "Parafusiv 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50053191"
+
+* identifier[pcid].value = "PT-100059447-54493-50053191"
 
 * name = "Parafusiv 10 mg/ml Solução para perfusão 10 Frasco para injetáveis"
 
@@ -46462,15 +45452,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180507
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ib-u-ron 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ib-u-ron 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100004422-54606-50004271"
 
 * name = "Ib-u-ron 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -46508,15 +45497,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180512
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ib-u-ron 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ib-u-ron 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100004422-54611-50004301"
 
 * name = "Ib-u-ron 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -46554,15 +45542,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180513
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ib-u-ron 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ib-u-ron 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100004422-54611-50004298"
 
 * name = "Ib-u-ron 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -46600,15 +45587,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-180515
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ib-u-ron 40 mg/ml Suspensão oral 1 Frasco 150 ml"
 Description: "Ib-u-ron 40 mg/ml Suspensão oral 1 Frasco 150 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50039555"
+
+* identifier[pcid].value = "PT-100004422-54612-50039555"
 
 * name = "Ib-u-ron 40 mg/ml Suspensão oral 1 Frasco 150 ml"
 
@@ -46646,15 +45632,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-182889
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Zentiva 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Zentiva 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100022865-54931-50013335"
 
 * name = "Amlodipina Zentiva 5 mg Comprimido 10 Comprimido Blister"
 
@@ -46692,15 +45677,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1989059
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Zentiva 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Zentiva 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100022865-54931-50013343"
 
 * name = "Amlodipina Zentiva 5 mg Comprimido 60 Comprimido Blister"
 
@@ -46738,15 +45722,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1989067
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Zentiva 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Zentiva 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100022865-54933-50013360"
 
 * name = "Amlodipina Zentiva 10 mg Comprimido 60 Comprimido Blister"
 
@@ -46784,15 +45767,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-182967
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen 400 mg Granulado efervescente 20 Saqueta"
 Description: "Brufen 400 mg Granulado efervescente 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50015699"
+
+* identifier[pcid].value = "PT-100001337-54968-50015699"
 
 * name = "Brufen 400 mg Granulado efervescente 20 Saqueta"
 
@@ -46830,15 +45812,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2006063
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024485"
+
+* identifier[pcid].value = "PT-100022865-55005-50024485"
 
 * name = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -46873,7 +45854,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -46883,8 +45863,8 @@ Title: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024507"
+
+* identifier[pcid].value = "PT-100022865-55005-50024507"
 
 * name = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -46922,15 +45902,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2143179
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024485"
+
+* identifier[pcid].value = "PT-100022865-55005-50024485"
 
 * name = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -46968,15 +45947,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2143180
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50024507"
+
+* identifier[pcid].value = "PT-100022865-55005-50024507"
 
 * name = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -47014,15 +45992,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2006127
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100022865-55006-50008692"
 
 * name = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -47057,7 +46034,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -47067,8 +46043,8 @@ Title: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100022865-55006-50008714"
 
 * name = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -47106,15 +46082,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2143193
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100022865-55006-50008692"
 
 * name = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -47152,15 +46127,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2143194
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100022865-55006-50008714"
 
 * name = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -47198,15 +46172,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2006188
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019066"
+
+* identifier[pcid].value = "PT-100022865-55007-50019066"
 
 * name = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -47241,7 +46214,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -47251,8 +46223,8 @@ Title: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100022865-55007-50019082"
 
 * name = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -47290,15 +46262,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2143213
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019066"
+
+* identifier[pcid].value = "PT-100022865-55007-50019066"
 
 * name = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -47336,15 +46307,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2143214
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100022865-55007-50019082"
 
 * name = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -47382,15 +46352,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-185400
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Alter 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Paracetamol Alter 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100001305-55171-50036432"
 
 * name = "Paracetamol Alter 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -47428,15 +46397,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-185478
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Bluepharma 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Bluepharma 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100058580-55188-50042181"
 
 * name = "Tramadol + Paracetamol Bluepharma 37.5 mg + 325 mg Comprimido 20 Comprimido Blister"
 
@@ -47474,15 +46442,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-185494
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Bluepharma 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Bluepharma 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50059700"
+
+* identifier[pcid].value = "PT-100058580-55189-50059700"
 
 * name = "Tramadol + Paracetamol Bluepharma 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -47520,15 +46487,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2030913
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Alter 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Alter 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100001305-55272-50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Alter 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -47566,15 +46532,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1993640
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006240"
+
+* identifier[pcid].value = "PT-100004397-55309-50006240"
 
 * name = "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 10 Comprimido Blister"
 
@@ -47612,15 +46577,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1993645
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Description: "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006231"
+
+* identifier[pcid].value = "PT-100004397-55309-50006231"
 
 * name = "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido 60 Comprimido Blister"
 
@@ -47658,15 +46622,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1991792
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Mepha 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Perindopril + Indapamida Mepha 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100001799-55331-50133489"
 
 * name = "Perindopril + Indapamida Mepha 2.5 mg + 0.625 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -47704,15 +46667,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1991590
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Teva 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Perindopril Teva 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100002967-55336-50062255"
 
 * name = "Perindopril Teva 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -47750,15 +46712,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1991539
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Teva 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Perindopril Teva 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100002967-55337-50062280"
 
 * name = "Perindopril Teva 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -47796,15 +46757,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186214
 InstanceOf: PPLPackagedProductDefinition
 Title: "Voltaren Plast 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Description: "Voltaren Plast 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026445"
+
+* identifier[pcid].value = "PT-100004086-55349-50026445"
 
 * name = "Voltaren Plast 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 
@@ -47842,15 +46802,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997618
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína Baxter 10 mg/ml Solução injetável 10 Ampola"
 Description: "Lidocaína Baxter 10 mg/ml Solução injetável 10 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142119"
+
+* identifier[pcid].value = "PT-100019061-55383-50142119"
 
 * name = "Lidocaína Baxter 10 mg/ml Solução injetável 10 Ampola"
 
@@ -47888,15 +46847,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997620
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína Baxter 10 mg/ml Solução injetável 10 Frasco para injetáveis"
 Description: "Lidocaína Baxter 10 mg/ml Solução injetável 10 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142135"
+
+* identifier[pcid].value = "PT-100019061-55383-50142135"
 
 * name = "Lidocaína Baxter 10 mg/ml Solução injetável 10 Frasco para injetáveis"
 
@@ -47934,15 +46892,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997673
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína Baxter 20 mg/ml Solução injetável 25 Ampola"
 Description: "Lidocaína Baxter 20 mg/ml Solução injetável 25 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142178"
+
+* identifier[pcid].value = "PT-100019061-55384-50142178"
 
 * name = "Lidocaína Baxter 20 mg/ml Solução injetável 25 Ampola"
 
@@ -47980,15 +46937,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997675
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína Baxter 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 Description: "Lidocaína Baxter 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142194"
+
+* identifier[pcid].value = "PT-100019061-55384-50142194"
 
 * name = "Lidocaína Baxter 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 
@@ -48026,15 +46982,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186338
 InstanceOf: PPLPackagedProductDefinition
 Title: "Supofen 1000 mg Comprimido 18 Comprimido Blister"
 Description: "Supofen 1000 mg Comprimido 18 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100000339-55397-50036432"
 
 * name = "Supofen 1000 mg Comprimido 18 Comprimido Blister"
 
@@ -48072,15 +47027,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186707
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 Description: "Diazepam Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006649"
+
+* identifier[pcid].value = "PT-100010538-55471-50006649"
 
 * name = "Diazepam Pharmakern 5 mg Comprimido 60 Comprimido Blister"
 
@@ -48118,15 +47072,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186703
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Pharmakern 5 mg Comprimido 20 Comprimido Blister"
 Description: "Diazepam Pharmakern 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006622"
+
+* identifier[pcid].value = "PT-100010538-55471-50006622"
 
 * name = "Diazepam Pharmakern 5 mg Comprimido 20 Comprimido Blister"
 
@@ -48164,15 +47117,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186708
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Pharmakern 10 mg Comprimido 20 Comprimido Blister"
 Description: "Diazepam Pharmakern 10 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006665"
+
+* identifier[pcid].value = "PT-100010538-55472-50006665"
 
 * name = "Diazepam Pharmakern 10 mg Comprimido 20 Comprimido Blister"
 
@@ -48210,15 +47162,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-186712
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diazepam Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 Description: "Diazepam Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50006681"
+
+* identifier[pcid].value = "PT-100010538-55472-50006681"
 
 * name = "Diazepam Pharmakern 10 mg Comprimido 60 Comprimido Blister"
 
@@ -48256,15 +47207,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-189375
 InstanceOf: PPLPackagedProductDefinition
 Title: "Demilos 1500 mg + 1000 U.I. Comprimido orodispersível 30 Comprimido Frasco"
 Description: "Demilos 1500 mg + 1000 U.I. Comprimido orodispersível 30 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50158660"
+
+* identifier[pcid].value = "PT-100057661-55700-50158660"
 
 * name = "Demilos 1500 mg + 1000 U.I. Comprimido orodispersível 30 Comprimido Frasco"
 
@@ -48302,15 +47252,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-190189
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50043951"
+
+* identifier[pcid].value = "PT-100004397-55760-50043951"
 
 * name = "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -48348,15 +47297,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2020151
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50043960"
+
+* identifier[pcid].value = "PT-100004397-55760-50043960"
 
 * name = "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -48394,15 +47342,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-190190
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Description: "Drospirenona + Etinilestradiol Mylan 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026690"
+
+* identifier[pcid].value = "PT-100004397-55761-50026690"
 
 * name = "Drospirenona + Etinilestradiol Mylan 3 mg + 0.03 mg Comprimido revestido por película 21 Comprimido Blister"
 
@@ -48440,15 +47387,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-190229
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050028"
+
+* identifier[pcid].value = "PT-100004397-55765-50050028"
 
 * name = "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -48486,15 +47432,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2027752
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050036"
+
+* identifier[pcid].value = "PT-100004397-55765-50050036"
 
 * name = "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -48532,15 +47477,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-192236
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Bluepharma 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Bluepharma 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100058580-56004-50036432"
 
 * name = "Paracetamol Bluepharma 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -48578,15 +47522,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012091
 InstanceOf: PPLPackagedProductDefinition
 Title: "Chariva 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Description: "Chariva 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042947"
+
+* identifier[pcid].value = "PT-100001653-56015-50042947"
 
 * name = "Chariva 2 mg + 0.03 mg Comprimido revestido por película 63 Comprimido Blister"
 
@@ -48624,15 +47567,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-192395
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Farmoz 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Farmoz 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004417"
+
+* identifier[pcid].value = "PT-100002998-56069-50004417"
 
 * name = "Clotrimazol Farmoz 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -48670,15 +47612,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-192399
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Farmoz 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Clotrimazol Farmoz 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008943"
+
+* identifier[pcid].value = "PT-100002998-56070-50008943"
 
 * name = "Clotrimazol Farmoz 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -48716,15 +47657,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-192790
 InstanceOf: PPLPackagedProductDefinition
 Title: "Hidrocortisona Bluepharma 10 mg/g Creme 1 Bisnaga 30 g"
 Description: "Hidrocortisona Bluepharma 10 mg/g Creme 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009478"
+
+* identifier[pcid].value = "PT-100058580-56176-50009478"
 
 * name = "Hidrocortisona Bluepharma 10 mg/g Creme 1 Bisnaga 30 g"
 
@@ -48762,15 +47702,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2006112
 InstanceOf: PPLPackagedProductDefinition
 Title: "Triplixam 5 mg + 1.25 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Triplixam 5 mg + 1.25 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146114"
+
+* identifier[pcid].value = "PT-100000973-56443-50146114"
 
 * name = "Triplixam 5 mg + 1.25 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -48808,15 +47747,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194109
 InstanceOf: PPLPackagedProductDefinition
 Title: "Triplixam 5 mg + 1.25 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Triplixam 5 mg + 1.25 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146130"
+
+* identifier[pcid].value = "PT-100000973-56444-50146130"
 
 * name = "Triplixam 5 mg + 1.25 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -48854,15 +47792,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194110
 InstanceOf: PPLPackagedProductDefinition
 Title: "Triplixam 10 mg + 2.5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Triplixam 10 mg + 2.5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146165"
+
+* identifier[pcid].value = "PT-100000973-56445-50146165"
 
 * name = "Triplixam 10 mg + 2.5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -48900,15 +47837,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194111
 InstanceOf: PPLPackagedProductDefinition
 Title: "Triplixam 10 mg + 2.5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Triplixam 10 mg + 2.5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146190"
+
+* identifier[pcid].value = "PT-100000973-56446-50146190"
 
 * name = "Triplixam 10 mg + 2.5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -48946,15 +47882,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194223
 InstanceOf: PPLPackagedProductDefinition
 Title: "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50123556"
+
+* identifier[pcid].value = "PT-100005764-56477-50123556"
 
 * name = "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -48992,15 +47927,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194217
 InstanceOf: PPLPackagedProductDefinition
 Title: "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50123548"
+
+* identifier[pcid].value = "PT-100005764-56477-50123548"
 
 * name = "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -49038,15 +47972,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194218
 InstanceOf: PPLPackagedProductDefinition
 Title: "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50123564"
+
+* identifier[pcid].value = "PT-100005764-56492-50123564"
 
 * name = "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -49084,15 +48017,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194236
 InstanceOf: PPLPackagedProductDefinition
 Title: "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50123572"
+
+* identifier[pcid].value = "PT-100005764-56492-50123572"
 
 * name = "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -49130,15 +48062,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2004875
 InstanceOf: PPLPackagedProductDefinition
 Title: "Flutensif 1.5 mg + 10 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Description: "Flutensif 1.5 mg + 10 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50143220"
+
+* identifier[pcid].value = "PT-100000973-56549-50143220"
 
 * name = "Flutensif 1.5 mg + 10 mg Comprimido de libertação modificada 60 Comprimido Blister"
 
@@ -49176,15 +48107,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2004884
 InstanceOf: PPLPackagedProductDefinition
 Title: "Flutensif 1.5 mg + 5 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Description: "Flutensif 1.5 mg + 5 mg Comprimido de libertação modificada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50143263"
+
+* identifier[pcid].value = "PT-100000973-56548-50143263"
 
 * name = "Flutensif 1.5 mg + 5 mg Comprimido de libertação modificada 60 Comprimido Blister"
 
@@ -49222,15 +48152,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194734
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Hikma 75 mg/3 ml Solução injetável 5 Ampola"
 Description: "Diclofenac Hikma 75 mg/3 ml Solução injetável 5 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008269"
+
+* identifier[pcid].value = "PT-100002356-56576-50008269"
 
 * name = "Diclofenac Hikma 75 mg/3 ml Solução injetável 5 Ampola"
 
@@ -49268,15 +48197,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194762
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100009540-56587-50116304"
 
 * name = "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -49314,15 +48242,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194752
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116282"
+
+* identifier[pcid].value = "PT-100009540-56587-50116282"
 
 * name = "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -49360,15 +48287,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194763
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116320"
+
+* identifier[pcid].value = "PT-100009540-56588-50116320"
 
 * name = "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -49406,15 +48332,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-194768
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100009540-56588-50116347"
 
 * name = "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -49452,15 +48377,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2005057
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lisonorm 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Lisonorm 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50143271"
+
+* identifier[pcid].value = "PT-100000197-56598-50143271"
 
 * name = "Lisonorm 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -49498,15 +48422,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2004716
 InstanceOf: PPLPackagedProductDefinition
 Title: "Saval 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Saval 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50143271"
+
+* identifier[pcid].value = "PT-100000369-56599-50143271"
 
 * name = "Saval 20 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -49544,15 +48467,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2013886
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carzap Am 5 mg + 8 mg Comprimido 56 Comprimido Blister"
 Description: "Carzap Am 5 mg + 8 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146254"
+
+* identifier[pcid].value = "PT-100022865-56600-50146254"
 
 * name = "Carzap Am 5 mg + 8 mg Comprimido 56 Comprimido Blister"
 
@@ -49590,15 +48512,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2013905
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carzap Am 10 mg + 16 mg Comprimido 56 Comprimido Blister"
 Description: "Carzap Am 10 mg + 16 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146289"
+
+* identifier[pcid].value = "PT-100022865-56602-50146289"
 
 * name = "Carzap Am 10 mg + 16 mg Comprimido 56 Comprimido Blister"
 
@@ -49636,15 +48557,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2025021
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116320"
+
+* identifier[pcid].value = "PT-100000372-56611-50116320"
 
 * name = "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -49682,15 +48602,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2025026
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100000372-56611-50116347"
 
 * name = "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -49728,15 +48647,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2025015
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Generis 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Generis 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100000372-56612-50116304"
 
 * name = "Enalapril + Lercanidipina Generis 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -49774,15 +48692,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2008403
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Kabi 1000 mg + 200 mg Pó para solução injetável ou para perfusão 50 Frasco para injetáveis"
 Description: "Amoxicilina + Ácido Clavulânico Kabi 1000 mg + 200 mg Pó para solução injetável ou para perfusão 50 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50145517"
+
+* identifier[pcid].value = "PT-100000366-56738-50145517"
 
 * name = "Amoxicilina + Ácido Clavulânico Kabi 1000 mg + 200 mg Pó para solução injetável ou para perfusão 50 Frasco para injetáveis"
 
@@ -49820,15 +48737,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1996245
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Aurovitas 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Aurovitas 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100000372-56779-50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Aurovitas 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -49866,15 +48782,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1995172
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida TAD 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida TAD 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100006727-56819-50133519"
 
 * name = "Perindopril + Indapamida TAD 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -49912,15 +48827,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1995993
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cholib 20 mg + 145 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Cholib 20 mg + 145 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50138502"
+
+* identifier[pcid].value = "PT-100010527-56871-50138502"
 
 * name = "Cholib 20 mg + 145 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -49958,15 +48872,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1995994
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cholib 20 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Cholib 20 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50138510"
+
+* identifier[pcid].value = "PT-100010527-56871-50138510"
 
 * name = "Cholib 20 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -50004,15 +48917,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2062402
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Aurovitas 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Aurovitas 20 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018442"
+
+* identifier[pcid].value = "PT-100000372-56967-50018442"
 
 * name = "Sinvastatina Aurovitas 20 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -50050,15 +48962,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2062416
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Aurovitas 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Aurovitas 40 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018469"
+
+* identifier[pcid].value = "PT-100000372-56968-50018469"
 
 * name = "Sinvastatina Aurovitas 40 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -50096,15 +49007,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2062385
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100000372-56966-50018426"
 
 * name = "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -50142,15 +49052,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2062390
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018418"
+
+* identifier[pcid].value = "PT-100000372-56966-50018418"
 
 * name = "Sinvastatina Aurovitas 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -50188,15 +49097,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-197910
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trifene 400 400 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Trifene 400 400 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100000197-57019-50004271"
 
 * name = "Trifene 400 400 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -50234,15 +49142,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-197911
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trifene 400 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Trifene 400 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100000197-57019-50004271"
 
 * name = "Trifene 400 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -50280,15 +49187,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-197950
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Generis 40 mg/ml Xarope 1 Frasco 85 ml"
 Description: "Paracetamol Generis 40 mg/ml Xarope 1 Frasco 85 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003461"
+
+* identifier[pcid].value = "PT-100000372-57034-50003461"
 
 * name = "Paracetamol Generis 40 mg/ml Xarope 1 Frasco 85 ml"
 
@@ -50326,15 +49232,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-197976
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Farmoz 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Farmoz 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100002998-57043-50133462"
 
 * name = "Perindopril + Indapamida Farmoz 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -50372,15 +49277,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-197979
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Tecazo 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Tecazo 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100001538-57044-50133462"
 
 * name = "Perindopril + Indapamida Tecazo 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -50418,15 +49322,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2011623
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanipress 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Zanipress 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50145010"
+
+* identifier[pcid].value = "PT-100044004-57048-50145010"
 
 * name = "Zanipress 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -50464,15 +49367,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2011629
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanipress 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Zanipress 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50145029"
+
+* identifier[pcid].value = "PT-100044004-57048-50145029"
 
 * name = "Zanipress 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -50510,15 +49412,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2011718
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zanitek 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Zanitek 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50145029"
+
+* identifier[pcid].value = "PT-100000760-57045-50145029"
 
 * name = "Zanitek 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -50556,15 +49457,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-198245
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100002348-57099-50133489"
 
 * name = "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -50602,15 +49502,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2136772
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 Description: "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100002348-57099-50133470"
 
 * name = "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido 10 Comprimido Blister"
 
@@ -50648,15 +49547,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-198246
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Tolife 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Tolife 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100002348-57100-50133519"
 
 * name = "Perindopril + Indapamida Tolife 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -50694,15 +49592,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-198247
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida toLife 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida toLife 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100002348-57101-50133462"
 
 * name = "Perindopril + Indapamida toLife 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -50740,15 +49637,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-198400
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-u-ron Caff 500 mg + 65 mg Comprimido 20 Comprimido Blister"
 Description: "Ben-u-ron Caff 500 mg + 65 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50100939"
+
+* identifier[pcid].value = "PT-100004422-57113-50100939"
 
 * name = "Ben-u-ron Caff 500 mg + 65 mg Comprimido 20 Comprimido Blister"
 
@@ -50786,15 +49682,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2008212
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Vitória 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Vitória 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100002880-46181-50019082"
 
 * name = "Omeprazol Vitória 40 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -50832,15 +49727,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-123855
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drosure 3 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Drosure 3 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050800"
+
+* identifier[pcid].value = "PT-100049542-46494-50050800"
 
 * name = "Drosure 3 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -50878,15 +49772,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-123850
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050028"
+
+* identifier[pcid].value = "PT-100049542-46493-50050028"
 
 * name = "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -50924,15 +49817,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-123851
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50050036"
+
+* identifier[pcid].value = "PT-100049542-46493-50050036"
 
 * name = "Drosurall 3 mg + 0.02 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -50970,15 +49862,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-158547
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Bluepharma 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Bluepharma 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100058580-46650-50062255"
 
 * name = "Perindopril Bluepharma 4 mg Comprimido 30 Comprimido Blister"
 
@@ -51016,15 +49907,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-158552
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Bluepharma 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Bluepharma 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100058580-46728-50062280"
 
 * name = "Perindopril Bluepharma 8 mg Comprimido 30 Comprimido Blister"
 
@@ -51062,15 +49952,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-128757
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nurofen Musc 400 mg Comprimido revestido 24 Comprimido Blister"
 Description: "Nurofen Musc 400 mg Comprimido revestido 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004280"
+
+* identifier[pcid].value = "PT-100002888-47235-50004280"
 
 * name = "Nurofen Musc 400 mg Comprimido revestido 24 Comprimido Blister"
 
@@ -51108,15 +49997,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-129221
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100005505-47274-50008714"
 
 * name = "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -51154,15 +50042,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-129216
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100005505-47274-50008692"
 
 * name = "Omeprazol Ciclum 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -51200,15 +50087,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-129937
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coversyl 10 mg Comprimido orodispersível 30 Comprimido Recipiente para comprimidos"
 Description: "Coversyl 10 mg Comprimido orodispersível 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50052608"
+
+* identifier[pcid].value = "PT-100009505-47384-50052608"
 
 * name = "Coversyl 10 mg Comprimido orodispersível 30 Comprimido Recipiente para comprimidos"
 
@@ -51246,15 +50132,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-159239
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Mylan 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Mylan 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009010"
+
+* identifier[pcid].value = "PT-100004397-48145-50009010"
 
 * name = "Metformina Mylan 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -51292,15 +50177,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-159233
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Mylan 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Mylan 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009028"
+
+* identifier[pcid].value = "PT-100004397-48145-50009028"
 
 * name = "Metformina Mylan 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -51338,15 +50222,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-159255
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Mylan 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Mylan 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100004397-48146-50014870"
 
 * name = "Metformina Mylan 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -51384,15 +50267,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-159271
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Mylan 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Mylan 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100004397-48147-50031171"
 
 * name = "Metformina Mylan 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -51430,15 +50312,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984452
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Pharmakern 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Pharmakern 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100010538-571320-50004271"
 
 * name = "Ibuprofeno Pharmakern 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -51476,15 +50357,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984456
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100010538-571321-50004298"
 
 * name = "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -51522,15 +50402,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984457
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100010538-571321-50004301"
 
 * name = "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -51568,15 +50447,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984512
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004417"
+
+* identifier[pcid].value = "PT-100000372-571340-50004417"
 
 * name = "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -51614,15 +50492,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984516
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 50 g"
 Description: "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019805"
+
+* identifier[pcid].value = "PT-100000372-571340-50019805"
 
 * name = "Clotrimazol Generis 10 mg/g Creme 1 Bisnaga 50 g"
 
@@ -51660,15 +50537,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984532
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Generis 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Clotrimazol Generis 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008943"
+
+* identifier[pcid].value = "PT-100000372-571341-50008943"
 
 * name = "Clotrimazol Generis 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -51706,15 +50582,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984523
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Bluepharma 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Clotrimazol Bluepharma 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004417"
+
+* identifier[pcid].value = "PT-100058580-571342-50004417"
 
 * name = "Clotrimazol Bluepharma 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -51752,15 +50627,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984529
 InstanceOf: PPLPackagedProductDefinition
 Title: "Clotrimazol Bluepharma 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Clotrimazol Bluepharma 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008943"
+
+* identifier[pcid].value = "PT-100058580-571343-50008943"
 
 * name = "Clotrimazol Bluepharma 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -51798,15 +50672,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1984907
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Bluepharma 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Bluepharma 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100058580-571380-50008285"
 
 * name = "Diclofenac Bluepharma 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -51844,15 +50717,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1985876
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Mylan 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Mylan 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100004397-571820-50004271"
 
 * name = "Ibuprofeno Mylan 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -51890,15 +50762,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1985877
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Mylan 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Mylan 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004263"
+
+* identifier[pcid].value = "PT-100004397-571820-50004263"
 
 * name = "Ibuprofeno Mylan 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -51936,15 +50807,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1996132
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Mylan 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Mylan 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100004397-571821-50004301"
 
 * name = "Ibuprofeno Mylan 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -51982,15 +50852,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1996133
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Mylan 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Mylan 600 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004298"
+
+* identifier[pcid].value = "PT-100004397-571821-50004298"
 
 * name = "Ibuprofeno Mylan 600 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -52028,15 +50897,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1988225
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dimidon 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Dimidon 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100000339-573040-50004271"
 
 * name = "Dimidon 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -52074,15 +50942,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1988227
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dimidon 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Dimidon 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004263"
+
+* identifier[pcid].value = "PT-100000339-573040-50004263"
 
 * name = "Dimidon 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -52120,15 +50987,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1988533
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol GP 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol GP 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100000976-573300-50036432"
 
 * name = "Paracetamol GP 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -52166,15 +51032,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1988718
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Farmoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Farmoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100002998-573441-50004271"
 
 * name = "Ibuprofeno Farmoz 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -52212,15 +51077,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1989816
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156829"
+
+* identifier[pcid].value = "PT-100001750-574221-50156829"
 
 * name = "Amelye 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -52258,15 +51122,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095990
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156837"
+
+* identifier[pcid].value = "PT-100001750-574221-50156837"
 
 * name = "Amelye 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -52304,15 +51167,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095991
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 168 Comprimido Blister"
 Description: "Amelye 2 mg + 0.03 mg Comprimido revestido por película 168 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156845"
+
+* identifier[pcid].value = "PT-100001750-574221-50156845"
 
 * name = "Amelye 2 mg + 0.03 mg Comprimido revestido por película 168 Comprimido Blister"
 
@@ -52350,15 +51212,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2032455
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Description: "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100004397-574740-50133470"
 
 * name = "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -52396,15 +51257,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2032456
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100004397-574740-50133489"
 
 * name = "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -52442,15 +51302,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2028230
 InstanceOf: PPLPackagedProductDefinition
 Title: "Taptiqom 0.015 mg/ml + 5 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,3 ml"
 Description: "Taptiqom 0.015 mg/ml + 5 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,3 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50151240"
+
+* identifier[pcid].value = "PT-100003380-575020-50151240"
 
 * name = "Taptiqom 0.015 mg/ml + 5 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,3 ml"
 
@@ -52488,15 +51347,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2062031
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Accord 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Imatinib Accord 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040324"
+
+* identifier[pcid].value = "PT-100002098-575820-50040324"
 
 * name = "Imatinib Accord 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -52534,15 +51392,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2062041
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Accord 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Imatinib Accord 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040308"
+
+* identifier[pcid].value = "PT-100002098-575840-50040308"
 
 * name = "Imatinib Accord 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -52580,15 +51437,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997131
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50141015"
+
+* identifier[pcid].value = "PT-100035243-576341-50141015"
 
 * name = "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -52626,15 +51482,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997134
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50141023"
+
+* identifier[pcid].value = "PT-100035243-576341-50141023"
 
 * name = "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -52672,15 +51527,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1996017
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cholib 40 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Cholib 40 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50138600"
+
+* identifier[pcid].value = "PT-100010527-578000-50138600"
 
 * name = "Cholib 40 mg + 145 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -52718,15 +51572,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997143
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50141112"
+
+* identifier[pcid].value = "PT-100035243-578520-50141112"
 
 * name = "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -52764,15 +51617,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997146
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50141120"
+
+* identifier[pcid].value = "PT-100035243-578520-50141120"
 
 * name = "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -52810,15 +51662,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-1997291
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Farmoz 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Farmoz 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100002998-578582-50036432"
 
 * name = "Paracetamol Farmoz 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -52856,15 +51707,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2074654
 InstanceOf: PPLPackagedProductDefinition
 Title: "Fortacin 150 mg/ml + 50 mg/ml Solução para pulverização cutânea 1 Recipiente pressurizado"
 Description: "Fortacin 150 mg/ml + 50 mg/ml Solução para pulverização cutânea 1 Recipiente pressurizado"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50160141"
+
+* identifier[pcid].value = "PT-100000760-580280-50160141"
 
 * name = "Fortacin 150 mg/ml + 50 mg/ml Solução para pulverização cutânea 1 Recipiente pressurizado"
 
@@ -52902,15 +51752,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001054
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Teva 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Teva 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100002967-580961-50116304"
 
 * name = "Enalapril + Lercanidipina Teva 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -52948,15 +51797,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001057
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Teva 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Teva 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100002967-580962-50116347"
 
 * name = "Enalapril + Lercanidipina Teva 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -52994,15 +51842,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001060
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ratiopharm 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ratiopharm 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100004619-580981-50116304"
 
 * name = "Enalapril + Lercanidipina Ratiopharm 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -53040,15 +51887,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001063
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ratiopharm 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ratiopharm 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100004619-580982-50116347"
 
 * name = "Enalapril + Lercanidipina Ratiopharm 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -53086,15 +51932,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2002004
 InstanceOf: PPLPackagedProductDefinition
 Title: "Xigduo 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Xigduo 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142518"
+
+* identifier[pcid].value = "PT-100014112-581021-50142518"
 
 * name = "Xigduo 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -53132,15 +51977,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2002006
 InstanceOf: PPLPackagedProductDefinition
 Title: "Xigduo 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Xigduo 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142526"
+
+* identifier[pcid].value = "PT-100014112-581021-50142526"
 
 * name = "Xigduo 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -53178,15 +52022,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001203
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Description: "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100001305-581121-50133470"
 
 * name = "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -53224,15 +52067,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001210
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100001305-581121-50133489"
 
 * name = "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -53270,15 +52112,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001225
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Alter 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Alter 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100001305-581122-50133519"
 
 * name = "Perindopril + Indapamida Alter 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -53316,15 +52157,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001228
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Alter 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Alter 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100001305-581123-50133462"
 
 * name = "Perindopril + Indapamida Alter 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -53362,15 +52202,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001424
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Description: "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193929"
+
+* identifier[pcid].value = "PT-100001950-581201-50193929"
 
 * name = "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -53408,15 +52247,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001433
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Description: "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50193996"
+
+* identifier[pcid].value = "PT-100001950-581202-50193996"
 
 * name = "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido efervescente 20 Comprimido Recipiente para comprimidos"
 
@@ -53454,15 +52292,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2001642
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ben-u-ron direct 500 mg Granulado 10 Saqueta"
 Description: "Ben-u-ron direct 500 mg Granulado 10 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50041320"
+
+* identifier[pcid].value = "PT-100004422-581342-50041320"
 
 * name = "Ben-u-ron direct 500 mg Granulado 10 Saqueta"
 
@@ -53500,15 +52337,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2002016
 InstanceOf: PPLPackagedProductDefinition
 Title: "Xigduo 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Xigduo 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142534"
+
+* identifier[pcid].value = "PT-100014112-581561-50142534"
 
 * name = "Xigduo 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -53546,15 +52382,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2002018
 InstanceOf: PPLPackagedProductDefinition
 Title: "Xigduo 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Xigduo 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142542"
+
+* identifier[pcid].value = "PT-100014112-581561-50142542"
 
 * name = "Xigduo 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -53592,15 +52427,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2002204
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidofon 1 mg + 5 mg Comprimido para chupar 24 Comprimido Blister"
 Description: "Lidofon 1 mg + 5 mg Comprimido para chupar 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50151800"
+
+* identifier[pcid].value = "PT-100001274-581643-50151800"
 
 * name = "Lidofon 1 mg + 5 mg Comprimido para chupar 24 Comprimido Blister"
 
@@ -53638,15 +52472,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2009768
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Generis 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Generis 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100000372-584241-50133462"
 
 * name = "Perindopril + Indapamida Generis 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -53684,15 +52517,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2009917
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 20 Comprimido Frasco"
 Description: "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 20 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50143905"
+
+* identifier[pcid].value = "PT-100000853-584381-50143905"
 
 * name = "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 20 Comprimido Frasco"
 
@@ -53730,15 +52562,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2009918
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Frasco"
 Description: "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50143913"
+
+* identifier[pcid].value = "PT-100000853-584381-50143913"
 
 * name = "Vokanamet 1000 mg + 50 mg Comprimido revestido por película 60 Comprimido Frasco"
 
@@ -53776,15 +52607,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2011696
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100022865-585101-50133446"
 
 * name = "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -53822,15 +52652,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2047670
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 15 Comprimido Blister"
 Description: "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 15 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133454"
+
+* identifier[pcid].value = "PT-100022865-585101-50133454"
 
 * name = "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido 15 Comprimido Blister"
 
@@ -53868,15 +52697,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2011703
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Zentiva 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Zentiva 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100022865-585102-50133438"
 
 * name = "Perindopril + Amlodipina Zentiva 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -53914,15 +52742,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2011704
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Zentiva 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Zentiva 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100022865-585103-50133420"
 
 * name = "Perindopril + Amlodipina Zentiva 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -53960,15 +52787,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2011709
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Zentiva 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Zentiva 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100022865-585104-50129066"
 
 * name = "Perindopril + Amlodipina Zentiva 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -54006,15 +52832,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2011778
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mydrane Associação Solução injetável 20 Ampola"
 Description: "Mydrane Associação Solução injetável 20 Ampola"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50154478"
+
+* identifier[pcid].value = "PT-100005605-585141-50154478"
 
 * name = "Mydrane Associação Solução injetável 20 Ampola"
 
@@ -54052,15 +52877,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012046
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nioben 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 Description: "Nioben 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121723"
+
+* identifier[pcid].value = "PT-100022865-585282-50121723"
 
 * name = "Nioben 10 mg + 40 mg Comprimido 14 Comprimido Blister"
 
@@ -54098,15 +52922,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012054
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nioben 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Nioben 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121731"
+
+* identifier[pcid].value = "PT-100022865-585282-50121731"
 
 * name = "Nioben 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -54144,15 +52967,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012060
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nioben 5 mg + 80 mg Comprimido 14 Comprimido Blister"
 Description: "Nioben 5 mg + 80 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121758"
+
+* identifier[pcid].value = "PT-100022865-585283-50121758"
 
 * name = "Nioben 5 mg + 80 mg Comprimido 14 Comprimido Blister"
 
@@ -54190,15 +53012,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012061
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nioben 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Description: "Nioben 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121766"
+
+* identifier[pcid].value = "PT-100022865-585283-50121766"
 
 * name = "Nioben 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 
@@ -54236,15 +53057,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012574
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gaviscon Morango 250 mg + 133.5 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Description: "Gaviscon Morango 250 mg + 133.5 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50150669"
+
+* identifier[pcid].value = "PT-100002888-585441-50150669"
 
 * name = "Gaviscon Morango 250 mg + 133.5 mg + 80 mg Comprimido para mastigar 24 Comprimido Blister"
 
@@ -54282,15 +53102,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012852
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100004397-585561-50107704"
 
 * name = "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -54328,15 +53147,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012854
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100004397-585561-50107712"
 
 * name = "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54374,15 +53192,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012860
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Mylan 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Mylan 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100004397-585562-50107755"
 
 * name = "Sinvastatina + Ezetimiba Mylan 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54420,15 +53237,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2012878
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Mylan 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Mylan 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100004397-585563-50107798"
 
 * name = "Sinvastatina + Ezetimiba Mylan 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -54466,15 +53282,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2017639
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Vitória 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Vitória 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100002880-587065-50008692"
 
 * name = "Omeprazol Vitória 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -54512,15 +53327,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2017641
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Vitória 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Vitória 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100002880-587065-50008714"
 
 * name = "Omeprazol Vitória 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -54558,15 +53372,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021192
 InstanceOf: PPLPackagedProductDefinition
 Title: "Co-Amlessa 2 mg + 0.625 mg + 5 mg Comprimido 10 Comprimido Blister"
 Description: "Co-Amlessa 2 mg + 0.625 mg + 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146092"
+
+* identifier[pcid].value = "PT-100009540-587765-50146092"
 
 * name = "Co-Amlessa 2 mg + 0.625 mg + 5 mg Comprimido 10 Comprimido Blister"
 
@@ -54604,15 +53417,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021239
 InstanceOf: PPLPackagedProductDefinition
 Title: "Co-Amlessa 4 mg + 1.25 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Co-Amlessa 4 mg + 1.25 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146114"
+
+* identifier[pcid].value = "PT-100009540-587766-50146114"
 
 * name = "Co-Amlessa 4 mg + 1.25 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -54650,15 +53462,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021241
 InstanceOf: PPLPackagedProductDefinition
 Title: "Co-Amlessa 4 mg + 1.25 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Co-Amlessa 4 mg + 1.25 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146130"
+
+* identifier[pcid].value = "PT-100009540-587767-50146130"
 
 * name = "Co-Amlessa 4 mg + 1.25 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -54696,15 +53507,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021250
 InstanceOf: PPLPackagedProductDefinition
 Title: "Co-Amlessa 8 mg + 2.5 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Co-Amlessa 8 mg + 2.5 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146165"
+
+* identifier[pcid].value = "PT-100009540-587768-50146165"
 
 * name = "Co-Amlessa 8 mg + 2.5 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -54742,15 +53552,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021263
 InstanceOf: PPLPackagedProductDefinition
 Title: "Co-Amlessa 8 mg + 2.5 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Co-Amlessa 8 mg + 2.5 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146190"
+
+* identifier[pcid].value = "PT-100009540-587769-50146190"
 
 * name = "Co-Amlessa 8 mg + 2.5 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -54788,15 +53597,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021272
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Description: "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133470"
+
+* identifier[pcid].value = "PT-100002880-587771-50133470"
 
 * name = "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 14 Comprimido Blister"
 
@@ -54834,15 +53642,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021276
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133489"
+
+* identifier[pcid].value = "PT-100002880-587771-50133489"
 
 * name = "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido 30 Comprimido Blister"
 
@@ -54880,15 +53687,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021280
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Vitória 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Vitória 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100002880-587772-50133519"
 
 * name = "Perindopril + Indapamida Vitória 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -54926,15 +53732,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021282
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Vitória 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Vitória 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100002880-587773-50133462"
 
 * name = "Perindopril + Indapamida Vitória 8 mg + 2.5 mg Comprimido 30 Comprimido Blister"
 
@@ -54972,15 +53777,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2021935
 InstanceOf: PPLPackagedProductDefinition
 Title: "Panadol Gripus 500 mg + 6.1 mg + 100 mg Cápsula 16 Cápsula Blister"
 Description: "Panadol Gripus 500 mg + 6.1 mg + 100 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50158201"
+
+* identifier[pcid].value = "PT-100004086-588062-50158201"
 
 * name = "Panadol Gripus 500 mg + 6.1 mg + 100 mg Cápsula 16 Cápsula Blister"
 
@@ -55018,15 +53822,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2022355
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100001950-588381-50042181"
 
 * name = "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -55064,15 +53867,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2022362
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50059700"
+
+* identifier[pcid].value = "PT-100001950-588382-50059700"
 
 * name = "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -55110,15 +53912,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2023242
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dimidon 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Dimidon 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004336"
+
+* identifier[pcid].value = "PT-100000339-588661-50004336"
 
 * name = "Dimidon 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -55156,15 +53957,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2023244
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dimidon 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Dimidon 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50057642"
+
+* identifier[pcid].value = "PT-100000339-588662-50057642"
 
 * name = "Dimidon 40 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -55202,15 +54002,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2023457
 InstanceOf: PPLPackagedProductDefinition
 Title: "Wergyl 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Wergyl 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100057827-588675-50008285"
 
 * name = "Wergyl 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -55248,15 +54047,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2110856
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enoxaparina Rovi 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Enoxaparina Rovi 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172360"
+
+* identifier[pcid].value = "PT-100005626-588921-50172360"
 
 * name = "Enoxaparina Rovi 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -55294,15 +54092,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2052193
 InstanceOf: PPLPackagedProductDefinition
 Title: "Abasaglar 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 Description: "Abasaglar 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50159658"
+
+* identifier[pcid].value = "PT-100005434-588949-50159658"
 
 * name = "Abasaglar 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 
@@ -55340,15 +54137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2025431
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Wellsmed 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Wellsmed 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100004123-589641-50001981"
 
 * name = "Paracetamol Wellsmed 500 mg Comprimido 20 Comprimido Blister"
 
@@ -55386,15 +54182,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2025459
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Wellsmed 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Wellsmed 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100004123-589646-50008285"
 
 * name = "Diclofenac Wellsmed 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -55432,15 +54227,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2026137
 InstanceOf: PPLPackagedProductDefinition
 Title: "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156314"
+
+* identifier[pcid].value = "PT-100000973-590004-50156314"
 
 * name = "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -55478,15 +54272,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2026144
 InstanceOf: PPLPackagedProductDefinition
 Title: "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156306"
+
+* identifier[pcid].value = "PT-100000973-590005-50156306"
 
 * name = "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -55524,15 +54317,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2026154
 InstanceOf: PPLPackagedProductDefinition
 Title: "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156284"
+
+* identifier[pcid].value = "PT-100000973-590006-50156284"
 
 * name = "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -55570,15 +54362,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2026173
 InstanceOf: PPLPackagedProductDefinition
 Title: "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156276"
+
+* identifier[pcid].value = "PT-100000973-590008-50156276"
 
 * name = "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -55616,15 +54407,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2027411
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Alter 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Alter 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100001305-590281-50001981"
 
 * name = "Paracetamol Alter 500 mg Comprimido 20 Comprimido Blister"
 
@@ -55662,15 +54452,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2027540
 InstanceOf: PPLPackagedProductDefinition
 Title: "Flucavex 500 mg + 25 mg + 200 mg Granulado para solução oral em saqueta 8 Saqueta"
 Description: "Flucavex 500 mg + 25 mg + 200 mg Granulado para solução oral em saqueta 8 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50163329"
+
+* identifier[pcid].value = "PT-100059447-590301-50163329"
 
 * name = "Flucavex 500 mg + 25 mg + 200 mg Granulado para solução oral em saqueta 8 Saqueta"
 
@@ -55708,15 +54497,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2030041
 InstanceOf: PPLPackagedProductDefinition
 Title: "Softacort 3.35 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,4 ml"
 Description: "Softacort 3.35 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,4 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50167219"
+
+* identifier[pcid].value = "PT-100005605-591462-50167219"
 
 * name = "Softacort 3.35 mg/ml Colírio, solução em recipiente unidose 30 Recipiente unidose 0,4 ml"
 
@@ -55754,15 +54542,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2030106
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Normon 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Imatinib Normon 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040308"
+
+* identifier[pcid].value = "PT-100000292-591522-50040308"
 
 * name = "Imatinib Normon 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -55800,15 +54587,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2030139
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cosyrel 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Cosyrel 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156373"
+
+* identifier[pcid].value = "PT-100000973-591542-50156373"
 
 * name = "Cosyrel 5 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -55846,15 +54632,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2030146
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cosyrel 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Cosyrel 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156390"
+
+* identifier[pcid].value = "PT-100000973-591543-50156390"
 
 * name = "Cosyrel 5 mg + 10 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -55892,15 +54677,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2030151
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cosyrel 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Description: "Cosyrel 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156403"
+
+* identifier[pcid].value = "PT-100000973-591544-50156403"
 
 * name = "Cosyrel 10 mg + 5 mg Comprimido revestido por película 30 Comprimido Recipiente para comprimidos"
 
@@ -55938,15 +54722,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2030966
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50056182"
+
+* identifier[pcid].value = "PT-100009540-591964-50056182"
 
 * name = "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -55984,15 +54767,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2032261
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido clavulânico Pentafarma 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido clavulânico Pentafarma 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100001538-592542-50003178"
 
 * name = "Amoxicilina + Ácido clavulânico Pentafarma 875 mg + 125 mg Comprimido revestido 16 Comprimido Blister"
 
@@ -56030,15 +54812,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061608
 InstanceOf: PPLPackagedProductDefinition
 Title: "Skudexa 75 mg + 25 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Skudexa 75 mg + 25 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50157310"
+
+* identifier[pcid].value = "PT-100005744-592922-50157310"
 
 * name = "Skudexa 75 mg + 25 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -56076,15 +54857,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2032959
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ciclum 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ciclum 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100005505-592961-50116304"
 
 * name = "Enalapril + Lercanidipina Ciclum 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56122,15 +54902,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2032966
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116320"
+
+* identifier[pcid].value = "PT-100005505-592962-50116320"
 
 * name = "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -56168,15 +54947,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2032969
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100005505-592962-50116347"
 
 * name = "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56214,15 +54992,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033121
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112147"
+
+* identifier[pcid].value = "PT-100006727-593021-50112147"
 
 * name = "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -56260,15 +55037,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033129
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112163"
+
+* identifier[pcid].value = "PT-100006727-593021-50112163"
 
 * name = "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56306,15 +55082,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2067932
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan TAD 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan TAD 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112201"
+
+* identifier[pcid].value = "PT-100006727-593022-50112201"
 
 * name = "Amlodipina + Valsartan TAD 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56352,15 +55127,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033218
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Aurovitas 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Aurovitas 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100000372-593082-50062255"
 
 * name = "Perindopril Aurovitas 4 mg Comprimido 30 Comprimido Blister"
 
@@ -56398,15 +55172,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033219
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Aurovitas 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Aurovitas 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100000372-593083-50062280"
 
 * name = "Perindopril Aurovitas 8 mg Comprimido 30 Comprimido Blister"
 
@@ -56444,15 +55217,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033388
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112147"
+
+* identifier[pcid].value = "PT-100000372-593201-50112147"
 
 * name = "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -56490,15 +55262,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061532
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112163"
+
+* identifier[pcid].value = "PT-100000372-593201-50112163"
 
 * name = "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56536,15 +55307,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061832
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Aurovitas 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan Aurovitas 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112201"
+
+* identifier[pcid].value = "PT-100000372-593202-50112201"
 
 * name = "Amlodipina + Valsartan Aurovitas 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56582,15 +55352,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033518
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112147"
+
+* identifier[pcid].value = "PT-100022865-593261-50112147"
 
 * name = "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -56628,15 +55397,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033528
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112163"
+
+* identifier[pcid].value = "PT-100022865-593261-50112163"
 
 * name = "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56674,15 +55442,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033542
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Zentiva 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan Zentiva 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112201"
+
+* identifier[pcid].value = "PT-100022865-593262-50112201"
 
 * name = "Amlodipina + Valsartan Zentiva 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56720,15 +55487,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033618
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Alter 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Alter 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100001305-593301-50116304"
 
 * name = "Enalapril + Lercanidipina Alter 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56766,15 +55532,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033619
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116320"
+
+* identifier[pcid].value = "PT-100001305-593302-50116320"
 
 * name = "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -56812,15 +55577,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2033621
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100001305-593302-50116347"
 
 * name = "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56858,15 +55622,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2034553
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112147"
+
+* identifier[pcid].value = "PT-100005505-593662-50112147"
 
 * name = "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -56904,15 +55667,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2034556
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112163"
+
+* identifier[pcid].value = "PT-100005505-593662-50112163"
 
 * name = "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56950,15 +55712,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2076471
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Ciclum 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan Ciclum 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112201"
+
+* identifier[pcid].value = "PT-100005505-593663-50112201"
 
 * name = "Amlodipina + Valsartan Ciclum 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -56996,15 +55757,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2036208
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Aurovitas 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Aurovitas 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042181"
+
+* identifier[pcid].value = "PT-100000372-594243-50042181"
 
 * name = "Tramadol + Paracetamol Aurovitas 37.5 mg + 325 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -57042,15 +55802,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2036233
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ikervis 1 mg/ml Colírio, emulsão 30 Recipiente unidose 0,3 ml"
 Description: "Ikervis 1 mg/ml Colírio, emulsão 30 Recipiente unidose 0,3 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50158279"
+
+* identifier[pcid].value = "PT-100003380-594282-50158279"
 
 * name = "Ikervis 1 mg/ml Colírio, emulsão 30 Recipiente unidose 0,3 ml"
 
@@ -57088,15 +55847,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2092771
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Ciclum 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Ciclum 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100005505-594402-50133446"
 
 * name = "Perindopril + Amlodipina Ciclum 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -57134,15 +55892,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2036643
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Ciclum 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Ciclum 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100005505-594404-50133420"
 
 * name = "Perindopril + Amlodipina Ciclum 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -57180,15 +55937,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2036649
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Ciclum 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Ciclum 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100005505-594405-50129066"
 
 * name = "Perindopril + Amlodipina Ciclum 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -57226,15 +55982,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2037502
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan ratiopharm 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Valsartan ratiopharm 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112147"
+
+* identifier[pcid].value = "PT-100004619-594744-50112147"
 
 * name = "Amlodipina + Valsartan ratiopharm 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -57272,15 +56027,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2037529
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan ratiopharm 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan ratiopharm 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112201"
+
+* identifier[pcid].value = "PT-100004619-594745-50112201"
 
 * name = "Amlodipina + Valsartan ratiopharm 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -57318,15 +56072,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2038071
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Algik 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Algik 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100004123-595042-50004271"
 
 * name = "Ibuprofeno Algik 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -57364,15 +56117,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2080010
 InstanceOf: PPLPackagedProductDefinition
 Title: "Holsigrip 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Description: "Holsigrip 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50085379"
+
+* identifier[pcid].value = "PT-100057827-595226-50085379"
 
 * name = "Holsigrip 500 mg + 30 mg Comprimido 20 Comprimido Blister"
 
@@ -57410,15 +56162,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2039373
 InstanceOf: PPLPackagedProductDefinition
 Title: "Bisolgripal 200 mg + 30 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Bisolgripal 200 mg + 30 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50155920"
+
+* identifier[pcid].value = "PT-100049955-595542-50155920"
 
 * name = "Bisolgripal 200 mg + 30 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -57456,15 +56207,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2040111
 InstanceOf: PPLPackagedProductDefinition
 Title: "Toujeo 300 U/ml Solução injetável em caneta pré-cheia 3 Caneta pré-cheia"
 Description: "Toujeo 300 U/ml Solução injetável em caneta pré-cheia 3 Caneta pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50173669"
+
+* identifier[pcid].value = "PT-100000869-595643-50173669"
 
 * name = "Toujeo 300 U/ml Solução injetável em caneta pré-cheia 3 Caneta pré-cheia"
 
@@ -57502,15 +56252,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2041730
 InstanceOf: PPLPackagedProductDefinition
 Title: "Synjardy 5 mg + 850 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Synjardy 5 mg + 850 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50153838"
+
+* identifier[pcid].value = "PT-100005764-596302-50153838"
 
 * name = "Synjardy 5 mg + 850 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -57548,15 +56297,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2041973
 InstanceOf: PPLPackagedProductDefinition
 Title: "Synjardy 5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Synjardy 5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50153846"
+
+* identifier[pcid].value = "PT-100005764-596302-50153846"
 
 * name = "Synjardy 5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -57594,15 +56342,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2042605
 InstanceOf: PPLPackagedProductDefinition
 Title: "Synjardy 5 mg + 1000 mg Comprimido revestido por película 10 Comprimido Blister"
 Description: "Synjardy 5 mg + 1000 mg Comprimido revestido por película 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50153854"
+
+* identifier[pcid].value = "PT-100005764-596582-50153854"
 
 * name = "Synjardy 5 mg + 1000 mg Comprimido revestido por película 10 Comprimido Blister"
 
@@ -57640,15 +56387,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2042609
 InstanceOf: PPLPackagedProductDefinition
 Title: "Synjardy 5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Synjardy 5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50153862"
+
+* identifier[pcid].value = "PT-100005764-596582-50153862"
 
 * name = "Synjardy 5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -57686,15 +56432,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2042618
 InstanceOf: PPLPackagedProductDefinition
 Title: "Synjardy 12.5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Synjardy 12.5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50153889"
+
+* identifier[pcid].value = "PT-100005764-596602-50153889"
 
 * name = "Synjardy 12.5 mg + 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -57732,15 +56477,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2042627
 InstanceOf: PPLPackagedProductDefinition
 Title: "Synjardy 12.5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Synjardy 12.5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50153900"
+
+* identifier[pcid].value = "PT-100005764-596603-50153900"
 
 * name = "Synjardy 12.5 mg + 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -57778,15 +56522,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2042736
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Vitória 4 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Vitória 4 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062255"
+
+* identifier[pcid].value = "PT-100002880-596664-50062255"
 
 * name = "Perindopril Vitória 4 mg Comprimido 30 Comprimido Blister"
 
@@ -57824,15 +56567,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2054770
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Vitória 4 mg Comprimido 10 Comprimido Blister"
 Description: "Perindopril Vitória 4 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062247"
+
+* identifier[pcid].value = "PT-100002880-596664-50062247"
 
 * name = "Perindopril Vitória 4 mg Comprimido 10 Comprimido Blister"
 
@@ -57870,15 +56612,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2042740
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Vitória 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Vitória 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100002880-596665-50062280"
 
 * name = "Perindopril Vitória 8 mg Comprimido 30 Comprimido Blister"
 
@@ -57916,15 +56657,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2043193
 InstanceOf: PPLPackagedProductDefinition
 Title: "Teriparatida ratiopharm 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 Description: "Teriparatida ratiopharm 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50101390"
+
+* identifier[pcid].value = "PT-100004619-596822-50101390"
 
 * name = "Teriparatida ratiopharm 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 
@@ -57962,15 +56702,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2043497
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Farmoz 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Imatinib Farmoz 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040324"
+
+* identifier[pcid].value = "PT-100002998-596902-50040324"
 
 * name = "Imatinib Farmoz 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -58008,15 +56747,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2043508
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Farmoz 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Imatinib Farmoz 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040308"
+
+* identifier[pcid].value = "PT-100002998-596903-50040308"
 
 * name = "Imatinib Farmoz 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -58054,15 +56792,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2044103
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Mylan 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Imatinib Mylan 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040324"
+
+* identifier[pcid].value = "PT-100004397-597203-50040324"
 
 * name = "Imatinib Mylan 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -58100,15 +56837,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2044107
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Mylan 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Imatinib Mylan 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040308"
+
+* identifier[pcid].value = "PT-100004397-597204-50040308"
 
 * name = "Imatinib Mylan 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -58146,15 +56882,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2048181
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dolostop Duo 150 mg + 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Dolostop Duo 150 mg + 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50173316"
+
+* identifier[pcid].value = "PT-100010538-598942-50173316"
 
 * name = "Dolostop Duo 150 mg + 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -58192,15 +56927,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2048701
 InstanceOf: PPLPackagedProductDefinition
 Title: "Seasonique (0.03 mg+0.15 mg) + (0.01 mg) Comprimido revestido por película 91 Comprimido Blister"
 Description: "Seasonique (0.03 mg+0.15 mg) + (0.01 mg) Comprimido revestido por película 91 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50158317"
+
+* identifier[pcid].value = "PT-100019815-599185-50158317"
 
 * name = "Seasonique (0.03 mg+0.15 mg) + (0.01 mg) Comprimido revestido por película 91 Comprimido Blister"
 
@@ -58238,15 +56972,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2051552
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Aurovitas 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Aurovitas 850 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014862"
+
+* identifier[pcid].value = "PT-100000372-600542-50014862"
 
 * name = "Metformina Aurovitas 850 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -58284,15 +57017,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2051553
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Aurovitas 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Aurovitas 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100000372-600542-50014870"
 
 * name = "Metformina Aurovitas 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -58330,15 +57062,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2051557
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Aurovitas 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Aurovitas 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100000372-600543-50031171"
 
 * name = "Metformina Aurovitas 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -58376,15 +57107,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2067991
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zilpen LP 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Zilpen LP 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50056182"
+
+* identifier[pcid].value = "PT-100000369-600583-50056182"
 
 * name = "Zilpen LP 75 mg + 650 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -58422,15 +57152,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2052047
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50059700"
+
+* identifier[pcid].value = "PT-100004365-600764-50059700"
 
 * name = "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -58468,15 +57197,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2052133
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Algik 32 mg/ml Solução oral 1 Frasco"
 Description: "Paracetamol Algik 32 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013920"
+
+* identifier[pcid].value = "PT-100004123-600803-50013920"
 
 * name = "Paracetamol Algik 32 mg/ml Solução oral 1 Frasco"
 
@@ -58514,15 +57242,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053397
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Aurovitas 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Aurovitas 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100000372-601162-50013335"
 
 * name = "Amlodipina Aurovitas 5 mg Comprimido 20 Comprimido Blister"
 
@@ -58560,15 +57287,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053401
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Aurovitas 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Aurovitas 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100000372-601162-50013343"
 
 * name = "Amlodipina Aurovitas 5 mg Comprimido 60 Comprimido Blister"
 
@@ -58606,15 +57332,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053415
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Aurovitas 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Aurovitas 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100000372-601163-50013360"
 
 * name = "Amlodipina Aurovitas 10 mg Comprimido 60 Comprimido Blister"
 
@@ -58652,15 +57377,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053631
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100005531-601262-50107704"
 
 * name = "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -58698,15 +57422,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053633
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100005531-601262-50107712"
 
 * name = "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -58744,15 +57467,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053670
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Sandoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Sandoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100005531-601263-50107755"
 
 * name = "Sinvastatina + Ezetimiba Sandoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -58790,15 +57512,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053696
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Sandoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Sandoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100005531-601264-50107798"
 
 * name = "Sinvastatina + Ezetimiba Sandoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -58836,15 +57557,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2053731
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diflac 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diflac 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100057827-601282-50008285"
 
 * name = "Diflac 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -58882,15 +57602,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2054130
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ebymect 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Ebymect 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142518"
+
+* identifier[pcid].value = "PT-100014112-601402-50142518"
 
 * name = "Ebymect 850 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -58928,15 +57647,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2054132
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ebymect 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Ebymect 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142526"
+
+* identifier[pcid].value = "PT-100014112-601402-50142526"
 
 * name = "Ebymect 850 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -58974,15 +57692,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2054136
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ebymect 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Ebymect 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142534"
+
+* identifier[pcid].value = "PT-100014112-601502-50142534"
 
 * name = "Ebymect 1000 mg + 5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -59020,15 +57737,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2054138
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ebymect 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Ebymect 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50142542"
+
+* identifier[pcid].value = "PT-100014112-601502-50142542"
 
 * name = "Ebymect 1000 mg + 5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -59066,15 +57782,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2054937
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Krka d.d. 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Imatinib Krka d.d. 100 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040324"
+
+* identifier[pcid].value = "PT-100009540-601842-50040324"
 
 * name = "Imatinib Krka d.d. 100 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -59112,15 +57827,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2054946
 InstanceOf: PPLPackagedProductDefinition
 Title: "Imatinib Krka d.d. 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Imatinib Krka d.d. 400 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040308"
+
+* identifier[pcid].value = "PT-100009540-601843-50040308"
 
 * name = "Imatinib Krka d.d. 400 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -59158,15 +57872,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2055173
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gino-Canesten 1 500 mg Cápsula mole vaginal 1 Cápsula Blister"
 Description: "Gino-Canesten 1 500 mg Cápsula mole vaginal 1 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008951"
+
+* identifier[pcid].value = "PT-100007476-601922-50008951"
 
 * name = "Gino-Canesten 1 500 mg Cápsula mole vaginal 1 Cápsula Blister"
 
@@ -59204,15 +57917,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2055533
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidocaína Medinfar 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 Description: "Lidocaína Medinfar 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50160621"
+
+* identifier[pcid].value = "PT-100000197-602183-50160621"
 
 * name = "Lidocaína Medinfar 20 mg/ml Solução injetável 10 Frasco para injetáveis"
 
@@ -59250,15 +57962,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2056275
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100005505-602664-50107712"
 
 * name = "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -59296,15 +58007,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2088570
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100005505-602664-50107704"
 
 * name = "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -59342,15 +58052,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2056289
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Ciclum 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Ciclum 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100005505-602665-50107755"
 
 * name = "Sinvastatina + Ezetimiba Ciclum 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -59388,15 +58097,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2056297
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Ciclum 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Ciclum 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100005505-602666-50107798"
 
 * name = "Sinvastatina + Ezetimiba Ciclum 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -59434,15 +58142,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2056575
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Farmoz 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Farmoz 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100002998-602762-50116304"
 
 * name = "Enalapril + Lercanidipina Farmoz 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -59480,15 +58187,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2056581
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Farmoz 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Farmoz 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100002998-602763-50116347"
 
 * name = "Enalapril + Lercanidipina Farmoz 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -59526,15 +58232,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2056590
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Pentafarma 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Pentafarma 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100001538-602764-50116304"
 
 * name = "Enalapril + Lercanidipina Pentafarma 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -59572,15 +58277,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2056593
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Pentafarma 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Pentafarma 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100001538-602765-50116347"
 
 * name = "Enalapril + Lercanidipina Pentafarma 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -59618,15 +58322,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2056678
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nurofen Migrxpress 400 mg Comprimido revestido 12 Comprimido Blister"
 Description: "Nurofen Migrxpress 400 mg Comprimido revestido 12 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100002888-602842-50004271"
 
 * name = "Nurofen Migrxpress 400 mg Comprimido revestido 12 Comprimido Blister"
 
@@ -59664,15 +58367,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2057032
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Generis 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Generis 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100000372-602986-50133519"
 
 * name = "Perindopril + Indapamida Generis 4 mg + 1.25 mg Comprimido 30 Comprimido Blister"
 
@@ -59710,15 +58412,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2059041
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100009540-603722-50107712"
 
 * name = "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -59756,15 +58457,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2059049
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100009540-603722-50107704"
 
 * name = "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -59802,15 +58502,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2059051
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Krka 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Krka 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100009540-603723-50107755"
 
 * name = "Sinvastatina + Ezetimiba Krka 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -59848,15 +58547,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2059068
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Krka 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Krka 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100009540-603724-50107798"
 
 * name = "Sinvastatina + Ezetimiba Krka 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -59894,15 +58592,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2060055
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Aurovitas 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Aurovitas 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016717"
+
+* identifier[pcid].value = "PT-100000372-604038-50016717"
 
 * name = "Tramadol Aurovitas 50 mg Cápsula 20 Cápsula Blister"
 
@@ -59940,15 +58637,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2087210
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Telmisartan Krka 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Amlodipina + Telmisartan Krka 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121707"
+
+* identifier[pcid].value = "PT-100009540-604542-50121707"
 
 * name = "Amlodipina + Telmisartan Krka 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -59986,15 +58682,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2087226
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Telmisartan Krka 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Amlodipina + Telmisartan Krka 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121731"
+
+* identifier[pcid].value = "PT-100009540-604543-50121731"
 
 * name = "Amlodipina + Telmisartan Krka 10 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -60032,15 +58727,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2087254
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Telmisartan Krka 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Description: "Amlodipina + Telmisartan Krka 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121766"
+
+* identifier[pcid].value = "PT-100009540-604544-50121766"
 
 * name = "Amlodipina + Telmisartan Krka 5 mg + 80 mg Comprimido 28 Comprimido Blister"
 
@@ -60078,15 +58772,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061375
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Pentafarma 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Pentafarma 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100001538-604703-50133446"
 
 * name = "Perindopril + Amlodipina Pentafarma 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -60124,15 +58817,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061379
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Pentafarma 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Pentafarma 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100001538-604704-50133438"
 
 * name = "Perindopril + Amlodipina Pentafarma 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -60170,15 +58862,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061385
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Pentafarma 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Pentafarma 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100001538-604705-50133420"
 
 * name = "Perindopril + Amlodipina Pentafarma 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -60216,15 +58907,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061387
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Pentafarma 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Pentafarma 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100001538-604706-50129066"
 
 * name = "Perindopril + Amlodipina Pentafarma 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -60262,15 +58952,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061781
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Farmoz 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Ibuprofeno Farmoz 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004336"
+
+* identifier[pcid].value = "PT-100002998-604943-50004336"
 
 * name = "Ibuprofeno Farmoz 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -60308,15 +58997,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061936
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Farmoz 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Farmoz 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100002998-605003-50133446"
 
 * name = "Perindopril + Amlodipina Farmoz 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -60354,15 +59042,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061880
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Farmoz 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Farmoz 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100002998-605005-50133420"
 
 * name = "Perindopril + Amlodipina Farmoz 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -60400,15 +59087,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061884
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Farmoz 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Farmoz 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100002998-605006-50129066"
 
 * name = "Perindopril + Amlodipina Farmoz 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -60446,15 +59132,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2061950
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Farmoz 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Farmoz 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100002998-605004-50133438"
 
 * name = "Perindopril + Amlodipina Farmoz 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -60492,15 +59177,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2062712
 InstanceOf: PPLPackagedProductDefinition
 Title: "Supofen 24 mg/ml Solução oral 1 Frasco"
 Description: "Supofen 24 mg/ml Solução oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50147064"
+
+* identifier[pcid].value = "PT-100000339-605362-50147064"
 
 * name = "Supofen 24 mg/ml Solução oral 1 Frasco"
 
@@ -60538,15 +59222,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2064378
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dilaclan 500 mg Cápsula 16 Cápsula Blister"
 Description: "Dilaclan 500 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001795"
+
+* identifier[pcid].value = "PT-100000339-606069-50001795"
 
 * name = "Dilaclan 500 mg Cápsula 16 Cápsula Blister"
 
@@ -60584,15 +59267,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2064952
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112147"
+
+* identifier[pcid].value = "PT-100054211-606142-50112147"
 
 * name = "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -60630,15 +59312,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2064956
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112163"
+
+* identifier[pcid].value = "PT-100054211-606142-50112163"
 
 * name = "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -60676,15 +59357,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2064959
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Valsartan Mylan 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Valsartan Mylan 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50112201"
+
+* identifier[pcid].value = "PT-100054211-606162-50112201"
 
 * name = "Amlodipina + Valsartan Mylan 5 mg + 160 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -60722,15 +59402,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2090830
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula 30 Cápsula Blister"
 Description: "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166883"
+
+* identifier[pcid].value = "PT-100009540-606242-50166883"
 
 * name = "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula 30 Cápsula Blister"
 
@@ -60768,15 +59447,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2090840
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula 30 Cápsula Blister"
 Description: "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166891"
+
+* identifier[pcid].value = "PT-100009540-606243-50166891"
 
 * name = "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula 30 Cápsula Blister"
 
@@ -60814,15 +59492,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2090810
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula 30 Cápsula Blister"
 Description: "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166905"
+
+* identifier[pcid].value = "PT-100009540-606244-50166905"
 
 * name = "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula 30 Cápsula Blister"
 
@@ -60860,15 +59537,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2091070
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula 30 Cápsula Blister"
 Description: "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166913"
+
+* identifier[pcid].value = "PT-100009540-606245-50166913"
 
 * name = "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula 30 Cápsula Blister"
 
@@ -60906,15 +59582,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2065726
 InstanceOf: PPLPackagedProductDefinition
 Title: "Blocan 50 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Blocan 50 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50167260"
+
+* identifier[pcid].value = "PT-100004531-606822-50167260"
 
 * name = "Blocan 50 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -60952,15 +59627,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2065740
 InstanceOf: PPLPackagedProductDefinition
 Title: "Blocan 50 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Blocan 50 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50167294"
+
+* identifier[pcid].value = "PT-100004531-606823-50167294"
 
 * name = "Blocan 50 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -60998,15 +59672,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2065754
 InstanceOf: PPLPackagedProductDefinition
 Title: "Blocan 100 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Blocan 100 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50167324"
+
+* identifier[pcid].value = "PT-100004531-606824-50167324"
 
 * name = "Blocan 100 mg + 5 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -61044,15 +59717,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2065761
 InstanceOf: PPLPackagedProductDefinition
 Title: "Blocan 100 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Blocan 100 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50167359"
+
+* identifier[pcid].value = "PT-100004531-606825-50167359"
 
 * name = "Blocan 100 mg + 10 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -61090,15 +59762,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2066409
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nurofen Xpress 200 mg Cápsula mole 20 Cápsula Blister"
 Description: "Nurofen Xpress 200 mg Cápsula mole 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100002888-607162-50004247"
 
 * name = "Nurofen Xpress 200 mg Cápsula mole 20 Cápsula Blister"
 
@@ -61136,15 +59807,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2067227
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol ben-u-ron 40 mg/ml Xarope 1 Frasco 150 ml"
 Description: "Paracetamol ben-u-ron 40 mg/ml Xarope 1 Frasco 150 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156810"
+
+* identifier[pcid].value = "PT-100004422-607506-50156810"
 
 * name = "Paracetamol ben-u-ron 40 mg/ml Xarope 1 Frasco 150 ml"
 
@@ -61182,15 +59852,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2086874
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Ciclum 5 mg Comprimido 20 Comprimido Blister"
 Description: "Amlodipina Ciclum 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100005505-607762-50013335"
 
 * name = "Amlodipina Ciclum 5 mg Comprimido 20 Comprimido Blister"
 
@@ -61228,15 +59897,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2086879
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Ciclum 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Ciclum 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100005505-607762-50013343"
 
 * name = "Amlodipina Ciclum 5 mg Comprimido 60 Comprimido Blister"
 
@@ -61274,15 +59942,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2086920
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Ciclum 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Ciclum 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100005505-607763-50013360"
 
 * name = "Amlodipina Ciclum 10 mg Comprimido 60 Comprimido Blister"
 
@@ -61320,15 +59987,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068031
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Description: "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50099485"
+
+* identifier[pcid].value = "PT-100004595-607842-50099485"
 
 * name = "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -61366,15 +60032,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2146655
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Description: "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50099493"
+
+* identifier[pcid].value = "PT-100004595-607842-50099493"
 
 * name = "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 
@@ -61412,15 +60077,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068033
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mystrelle 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Description: "Mystrelle 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50099485"
+
+* identifier[pcid].value = "PT-100004397-607843-50099485"
 
 * name = "Mystrelle 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -61458,15 +60122,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068035
 InstanceOf: PPLPackagedProductDefinition
 Title: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Description: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50099485"
+
+* identifier[pcid].value = "PT-100019553-607844-50099485"
 
 * name = "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 1 Sistema"
 
@@ -61504,15 +60167,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2128410
 InstanceOf: PPLPackagedProductDefinition
 Title: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Description: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50099493"
+
+* identifier[pcid].value = "PT-100019553-607844-50099493"
 
 * name = "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 3 Sistema"
 
@@ -61550,15 +60212,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2128411
 InstanceOf: PPLPackagedProductDefinition
 Title: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 6 Sistema"
 Description: "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 6 Sistema"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50174479"
+
+* identifier[pcid].value = "PT-100019553-607844-50174479"
 
 * name = "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal 6 Sistema"
 
@@ -61596,15 +60257,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068360
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coartil 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Coartil 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100059447-607962-50133446"
 
 * name = "Coartil 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -61642,15 +60302,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068367
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coartil 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Coartil 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100059447-607963-50133438"
 
 * name = "Coartil 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -61688,15 +60347,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068388
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coartil 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Coartil 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100059447-607964-50133420"
 
 * name = "Coartil 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -61734,15 +60392,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2068396
 InstanceOf: PPLPackagedProductDefinition
 Title: "Coartil 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Coartil 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100059447-607965-50129066"
 
 * name = "Coartil 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -61780,15 +60437,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2072107
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina TAD 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina TAD 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100006727-609193-50133446"
 
 * name = "Perindopril + Amlodipina TAD 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -61826,15 +60482,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2072114
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina TAD 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina TAD 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100006727-609194-50133420"
 
 * name = "Perindopril + Amlodipina TAD 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -61872,15 +60527,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2072145
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina TAD 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina TAD 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100006727-609195-50129066"
 
 * name = "Perindopril + Amlodipina TAD 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -61918,15 +60572,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2072154
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina TAD 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina TAD 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100006727-609196-50133438"
 
 * name = "Perindopril + Amlodipina TAD 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -61964,15 +60617,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2072623
 InstanceOf: PPLPackagedProductDefinition
 Title: "Augmentin Duo 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Augmentin Duo 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022202"
+
+* identifier[pcid].value = "PT-100002296-609403-50022202"
 
 * name = "Augmentin Duo 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -62010,15 +60662,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2072771
 InstanceOf: PPLPackagedProductDefinition
 Title: "Proctorrane 10 mg/g Pomada retal 1 Bisnaga 30 g"
 Description: "Proctorrane 10 mg/g Pomada retal 1 Bisnaga 30 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50168576"
+
+* identifier[pcid].value = "PT-100002880-609502-50168576"
 
 * name = "Proctorrane 10 mg/g Pomada retal 1 Bisnaga 30 g"
 
@@ -62056,15 +60707,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2072953
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido clavulânico Tolife 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido clavulânico Tolife 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100002348-609543-50003178"
 
 * name = "Amoxicilina + Ácido clavulânico Tolife 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -62102,15 +60752,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2073493
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina toLife 500 mg Cápsula 16 Cápsula Blister"
 Description: "Amoxicilina toLife 500 mg Cápsula 16 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001795"
+
+* identifier[pcid].value = "PT-100002348-609823-50001795"
 
 * name = "Amoxicilina toLife 500 mg Cápsula 16 Cápsula Blister"
 
@@ -62148,15 +60797,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2073495
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina toLife 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Description: "Amoxicilina toLife 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50032364"
+
+* identifier[pcid].value = "PT-100002348-609824-50032364"
 
 * name = "Amoxicilina toLife 1000 mg Comprimido dispersível 16 Comprimido Blister"
 
@@ -62194,15 +60842,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2074396
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nioben 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 Description: "Nioben 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121693"
+
+* identifier[pcid].value = "PT-100022865-610182-50121693"
 
 * name = "Nioben 5 mg + 40 mg Comprimido 14 Comprimido Blister"
 
@@ -62240,15 +60887,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2074397
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nioben 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Description: "Nioben 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121707"
+
+* identifier[pcid].value = "PT-100022865-610182-50121707"
 
 * name = "Nioben 5 mg + 40 mg Comprimido 28 Comprimido Blister"
 
@@ -62286,15 +60932,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2075450
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Description: "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172220"
+
+* identifier[pcid].value = "PT-100023179-610702-50172220"
 
 * name = "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -62332,15 +60977,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2125994
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172212"
+
+* identifier[pcid].value = "PT-100023179-610702-50172212"
 
 * name = "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -62378,15 +61022,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2075653
 InstanceOf: PPLPackagedProductDefinition
 Title: "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156829"
+
+* identifier[pcid].value = "PT-100004595-610822-50156829"
 
 * name = "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -62424,15 +61067,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2075654
 InstanceOf: PPLPackagedProductDefinition
 Title: "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156837"
+
+* identifier[pcid].value = "PT-100004595-610822-50156837"
 
 * name = "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -62470,15 +61112,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2075690
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Description: "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172298"
+
+* identifier[pcid].value = "PT-100023179-610842-50172298"
 
 * name = "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -62516,15 +61157,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126014
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172280"
+
+* identifier[pcid].value = "PT-100023179-610842-50172280"
 
 * name = "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -62562,15 +61202,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2075692
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Description: "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172417"
+
+* identifier[pcid].value = "PT-100023179-610843-50172417"
 
 * name = "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -62608,15 +61247,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126073
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172425"
+
+* identifier[pcid].value = "PT-100023179-610843-50172425"
 
 * name = "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -62654,15 +61292,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2075694
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Description: "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172441"
+
+* identifier[pcid].value = "PT-100023179-610844-50172441"
 
 * name = "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -62700,15 +61337,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126094
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172450"
+
+* identifier[pcid].value = "PT-100023179-610844-50172450"
 
 * name = "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -62746,15 +61382,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2075696
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Description: "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172352"
+
+* identifier[pcid].value = "PT-100023179-610845-50172352"
 
 * name = "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -62792,15 +61427,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126151
 InstanceOf: PPLPackagedProductDefinition
 Title: "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172360"
+
+* identifier[pcid].value = "PT-100023179-610845-50172360"
 
 * name = "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -62838,15 +61472,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2076561
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115898"
+
+* identifier[pcid].value = "PT-100005505-611182-50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -62884,15 +61517,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2076564
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100005505-611182-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -62930,15 +61562,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2076672
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115898"
+
+* identifier[pcid].value = "PT-100005531-611222-50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -62976,15 +61607,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2076675
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100005531-611222-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -63022,15 +61652,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2076724
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115898"
+
+* identifier[pcid].value = "PT-100004397-611225-50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -63068,15 +61697,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2076726
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100004397-611225-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -63114,15 +61742,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2077374
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115898"
+
+* identifier[pcid].value = "PT-100002348-611502-50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -63160,15 +61787,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2077375
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100002348-611502-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -63206,15 +61832,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2078399
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115898"
+
+* identifier[pcid].value = "PT-100009540-611842-50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -63252,15 +61877,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2078411
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100009540-611842-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -63298,15 +61922,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2079140
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116282"
+
+* identifier[pcid].value = "PT-100004397-612042-50116282"
 
 * name = "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -63344,15 +61967,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2079143
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116304"
+
+* identifier[pcid].value = "PT-100004397-612042-50116304"
 
 * name = "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -63390,15 +62012,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2079145
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116320"
+
+* identifier[pcid].value = "PT-100004397-612043-50116320"
 
 * name = "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -63436,15 +62057,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2079148
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50116347"
+
+* identifier[pcid].value = "PT-100004397-612043-50116347"
 
 * name = "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -63482,15 +62102,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2079597
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cegrinaso 200 mg + 30 mg Comprimido revestido por película 24 Comprimido Blister"
 Description: "Cegrinaso 200 mg + 30 mg Comprimido revestido por película 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50169122"
+
+* identifier[pcid].value = "PT-100015280-612182-50169122"
 
 * name = "Cegrinaso 200 mg + 30 mg Comprimido revestido por película 24 Comprimido Blister"
 
@@ -63528,15 +62147,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2080490
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina Aurobindo 500 mg Comprimido dispersível 16 Comprimido Blister"
 Description: "Amoxicilina Aurobindo 500 mg Comprimido dispersível 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50160010"
+
+* identifier[pcid].value = "PT-100000372-612502-50160010"
 
 * name = "Amoxicilina Aurobindo 500 mg Comprimido dispersível 16 Comprimido Blister"
 
@@ -63574,15 +62192,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2080511
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina Aurobindo 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Description: "Amoxicilina Aurobindo 1000 mg Comprimido dispersível 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50032364"
+
+* identifier[pcid].value = "PT-100000372-612503-50032364"
 
 * name = "Amoxicilina Aurobindo 1000 mg Comprimido dispersível 16 Comprimido Blister"
 
@@ -63620,15 +62237,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2081017
 InstanceOf: PPLPackagedProductDefinition
 Title: "Betamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Betamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040278"
+
+* identifier[pcid].value = "PT-100070132-612642-50040278"
 
 * name = "Betamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -63666,15 +62282,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2104165
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido clavulânico toLife 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido clavulânico toLife 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040278"
+
+* identifier[pcid].value = "PT-100002348-612983-50040278"
 
 * name = "Amoxicilina + Ácido clavulânico toLife 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -63712,15 +62327,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2082776
 InstanceOf: PPLPackagedProductDefinition
 Title: "Roxiper 10 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Roxiper 10 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50174231"
+
+* identifier[pcid].value = "PT-100009540-613642-50174231"
 
 * name = "Roxiper 10 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -63758,15 +62372,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2082787
 InstanceOf: PPLPackagedProductDefinition
 Title: "Roxiper 20 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Roxiper 20 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50174240"
+
+* identifier[pcid].value = "PT-100009540-613643-50174240"
 
 * name = "Roxiper 20 mg + 4 mg + 1.25 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -63804,15 +62417,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2082811
 InstanceOf: PPLPackagedProductDefinition
 Title: "Roxiper 20 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Roxiper 20 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50174258"
+
+* identifier[pcid].value = "PT-100009540-613645-50174258"
 
 * name = "Roxiper 20 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -63850,15 +62462,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2082817
 InstanceOf: PPLPackagedProductDefinition
 Title: "Roxiper 10 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 Description: "Roxiper 10 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50174266"
+
+* identifier[pcid].value = "PT-100009540-613646-50174266"
 
 * name = "Roxiper 10 mg + 8 mg + 2.5 mg Comprimido revestido por película 30 Comprimido Blister"
 
@@ -63896,15 +62507,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2082926
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol + Paracetamol ratiopharm 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Description: "Tramadol + Paracetamol ratiopharm 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50059700"
+
+* identifier[pcid].value = "PT-100004619-613742-50059700"
 
 * name = "Tramadol + Paracetamol ratiopharm 75 mg + 650 mg Comprimido 20 Comprimido Blister"
 
@@ -63942,15 +62552,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2083726
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Alter 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Description: "Omeprazol Alter 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008692"
+
+* identifier[pcid].value = "PT-100001305-614263-50008692"
 
 * name = "Omeprazol Alter 20 mg Cápsula gastrorresistente 14 Cápsula Blister"
 
@@ -63988,15 +62597,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2083728
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Alter 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Description: "Omeprazol Alter 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008714"
+
+* identifier[pcid].value = "PT-100001305-614263-50008714"
 
 * name = "Omeprazol Alter 20 mg Cápsula gastrorresistente 56 Cápsula Blister"
 
@@ -64034,15 +62642,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2083743
 InstanceOf: PPLPackagedProductDefinition
 Title: "Omeprazol Alter 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Description: "Omeprazol Alter 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019082"
+
+* identifier[pcid].value = "PT-100001305-614264-50019082"
 
 * name = "Omeprazol Alter 40 mg Cápsula gastrorresistente 56 Cápsula Frasco"
 
@@ -64080,15 +62687,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2084752
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100000372-614642-50004271"
 
 * name = "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -64126,15 +62732,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2129491
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004263"
+
+* identifier[pcid].value = "PT-100000372-614642-50004263"
 
 * name = "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -64172,15 +62777,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2084753
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Aurovitas 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Aurovitas 600 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004301"
+
+* identifier[pcid].value = "PT-100000372-614643-50004301"
 
 * name = "Ibuprofeno Aurovitas 600 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -64218,15 +62822,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2085640
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 100 g"
 Description: "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50184121"
+
+* identifier[pcid].value = "PT-100010538-614902-50184121"
 
 * name = "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 100 g"
 
@@ -64264,15 +62867,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2085643
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 180 g"
 Description: "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 180 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50184148"
+
+* identifier[pcid].value = "PT-100010538-614902-50184148"
 
 * name = "Diclofenac Pharmakern 20 mg/g Gel 1 Bisnaga 180 g"
 
@@ -64310,15 +62912,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2116650
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100004619-615787-50107712"
 
 * name = "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -64356,15 +62957,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2116655
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100004619-615787-50107704"
 
 * name = "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -64402,15 +63002,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2087737
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba ratiopharm 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba ratiopharm 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100004619-615788-50107755"
 
 * name = "Sinvastatina + Ezetimiba ratiopharm 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -64448,15 +63047,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2087749
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba ratiopharm 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba ratiopharm 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100004619-615789-50107798"
 
 * name = "Sinvastatina + Ezetimiba ratiopharm 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -64494,15 +63092,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2087956
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115898"
+
+* identifier[pcid].value = "PT-100022865-615902-50115898"
 
 * name = "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -64540,15 +63137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2087959
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100022865-615902-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -64586,15 +63182,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2088658
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Krka 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Krka 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016717"
+
+* identifier[pcid].value = "PT-100009540-616082-50016717"
 
 * name = "Tramadol Krka 50 mg Cápsula 20 Cápsula Blister"
 
@@ -64632,15 +63227,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2104749
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Teva 10 mg + 10 mg Comprimido 28 Comprimido Frasco"
 Description: "Sinvastatina + Ezetimiba Teva 10 mg + 10 mg Comprimido 28 Comprimido Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100002967-616102-50107712"
 
 * name = "Sinvastatina + Ezetimiba Teva 10 mg + 10 mg Comprimido 28 Comprimido Frasco"
 
@@ -64678,15 +63272,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2092384
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Vitória 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Vitória 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100002880-618123-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Vitória 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -64724,15 +63317,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2092778
 InstanceOf: PPLPackagedProductDefinition
 Title: "Hadazin 10 mg/g Creme 1 Bisnaga 20 g"
 Description: "Hadazin 10 mg/g Creme 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004417"
+
+* identifier[pcid].value = "PT-100071854-618202-50004417"
 
 * name = "Hadazin 10 mg/g Creme 1 Bisnaga 20 g"
 
@@ -64770,15 +63362,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2092783
 InstanceOf: PPLPackagedProductDefinition
 Title: "Gino-Hadazin 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Gino-Hadazin 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008943"
+
+* identifier[pcid].value = "PT-100071854-618203-50008943"
 
 * name = "Gino-Hadazin 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -64816,15 +63407,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2093093
 InstanceOf: PPLPackagedProductDefinition
 Title: "Altensil 5 mg + 8 mg Cápsula 14 Cápsula Blister"
 Description: "Altensil 5 mg + 8 mg Cápsula 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146238"
+
+* identifier[pcid].value = "PT-100000197-618342-50146238"
 
 * name = "Altensil 5 mg + 8 mg Cápsula 14 Cápsula Blister"
 
@@ -64862,15 +63452,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2093094
 InstanceOf: PPLPackagedProductDefinition
 Title: "Altensil 5 mg + 8 mg Cápsula 28 Cápsula Blister"
 Description: "Altensil 5 mg + 8 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146246"
+
+* identifier[pcid].value = "PT-100000197-618342-50146246"
 
 * name = "Altensil 5 mg + 8 mg Cápsula 28 Cápsula Blister"
 
@@ -64908,15 +63497,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2093108
 InstanceOf: PPLPackagedProductDefinition
 Title: "Altensil 10 mg + 8 mg Cápsula 28 Cápsula Blister"
 Description: "Altensil 10 mg + 8 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50175203"
+
+* identifier[pcid].value = "PT-100000197-618343-50175203"
 
 * name = "Altensil 10 mg + 8 mg Cápsula 28 Cápsula Blister"
 
@@ -64954,15 +63542,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2093129
 InstanceOf: PPLPackagedProductDefinition
 Title: "Altensil 5 mg + 16 mg Cápsula 28 Cápsula Blister"
 Description: "Altensil 5 mg + 16 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50175211"
+
+* identifier[pcid].value = "PT-100000197-618344-50175211"
 
 * name = "Altensil 5 mg + 16 mg Cápsula 28 Cápsula Blister"
 
@@ -65000,15 +63587,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2093136
 InstanceOf: PPLPackagedProductDefinition
 Title: "Altensil 10 mg + 16 mg Cápsula 28 Cápsula Blister"
 Description: "Altensil 10 mg + 16 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50146270"
+
+* identifier[pcid].value = "PT-100000197-618345-50146270"
 
 * name = "Altensil 10 mg + 16 mg Cápsula 28 Cápsula Blister"
 
@@ -65046,15 +63632,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2121833
 InstanceOf: PPLPackagedProductDefinition
 Title: "Skudexa 75 mg + 25 mg Granulado para solução oral em saqueta 20 Saqueta"
 Description: "Skudexa 75 mg + 25 mg Granulado para solução oral em saqueta 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50171909"
+
+* identifier[pcid].value = "PT-100005744-618463-50171909"
 
 * name = "Skudexa 75 mg + 25 mg Granulado para solução oral em saqueta 20 Saqueta"
 
@@ -65092,15 +63677,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095400
 InstanceOf: PPLPackagedProductDefinition
 Title: "Asutam 10 mg + 5 mg Cápsula 14 Cápsula Blister"
 Description: "Asutam 10 mg + 5 mg Cápsula 14 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172590"
+
+* identifier[pcid].value = "PT-100000197-619662-50172590"
 
 * name = "Asutam 10 mg + 5 mg Cápsula 14 Cápsula Blister"
 
@@ -65138,15 +63722,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095401
 InstanceOf: PPLPackagedProductDefinition
 Title: "Asutam 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Asutam 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156870"
+
+* identifier[pcid].value = "PT-100000197-619662-50156870"
 
 * name = "Asutam 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -65184,15 +63767,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095419
 InstanceOf: PPLPackagedProductDefinition
 Title: "Asutam 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 Description: "Asutam 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156896"
+
+* identifier[pcid].value = "PT-100000197-619663-50156896"
 
 * name = "Asutam 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 
@@ -65230,15 +63812,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095437
 InstanceOf: PPLPackagedProductDefinition
 Title: "Asutam 20 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Asutam 20 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156918"
+
+* identifier[pcid].value = "PT-100000197-619664-50156918"
 
 * name = "Asutam 20 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -65276,15 +63857,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095455
 InstanceOf: PPLPackagedProductDefinition
 Title: "Asutam 20 mg + 10 mg Cápsula 28 Cápsula Blister"
 Description: "Asutam 20 mg + 10 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50156934"
+
+* identifier[pcid].value = "PT-100000197-619665-50156934"
 
 * name = "Asutam 20 mg + 10 mg Cápsula 28 Cápsula Blister"
 
@@ -65322,15 +63902,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095739
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Pentafarma 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Pentafarma 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100001538-619802-50036432"
 
 * name = "Paracetamol Pentafarma 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -65368,15 +63947,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095925
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Generis 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Generis 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001639"
+
+* identifier[pcid].value = "PT-100000372-619914-50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico Generis 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -65414,15 +63992,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095927
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Generis 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Generis 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50003178"
+
+* identifier[pcid].value = "PT-100000372-619915-50003178"
 
 * name = "Amoxicilina + Ácido Clavulânico Generis 875 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -65460,15 +64037,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095982
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cefuroxima Generis 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Cefuroxima Generis 250 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018299"
+
+* identifier[pcid].value = "PT-100000372-619946-50018299"
 
 * name = "Cefuroxima Generis 250 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -65506,15 +64082,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2095983
 InstanceOf: PPLPackagedProductDefinition
 Title: "Cefuroxima Generis 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Cefuroxima Generis 500 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018337"
+
+* identifier[pcid].value = "PT-100000372-619947-50018337"
 
 * name = "Cefuroxima Generis 500 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -65552,15 +64127,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2096828
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Generis 4 mg Comprimido 15 Comprimido Blister"
 Description: "Perindopril Generis 4 mg Comprimido 15 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062247"
+
+* identifier[pcid].value = "PT-100000372-620268-50062247"
 
 * name = "Perindopril Generis 4 mg Comprimido 15 Comprimido Blister"
 
@@ -65598,15 +64172,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2096831
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril Generis 8 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril Generis 8 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50062280"
+
+* identifier[pcid].value = "PT-100000372-620269-50062280"
 
 * name = "Perindopril Generis 8 mg Comprimido 30 Comprimido Blister"
 
@@ -65644,15 +64217,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2096849
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol Generis 50 mg Cápsula 20 Cápsula Blister"
 Description: "Tramadol Generis 50 mg Cápsula 20 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016717"
+
+* identifier[pcid].value = "PT-100000372-620275-50016717"
 
 * name = "Tramadol Generis 50 mg Cápsula 20 Cápsula Blister"
 
@@ -65690,15 +64262,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2096860
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ib-u-ron Gel Mentol 50 mg/g Gel 1 Bisnaga 100 g"
 Description: "Ib-u-ron Gel Mentol 50 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009672"
+
+* identifier[pcid].value = "PT-100004422-620278-50009672"
 
 * name = "Ib-u-ron Gel Mentol 50 mg/g Gel 1 Bisnaga 100 g"
 
@@ -65736,15 +64307,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098367
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paniltri 5 mg + 5 mg + 12.5 mg Cápsula 30 Cápsula Blister"
 Description: "Paniltri 5 mg + 5 mg + 12.5 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50179063"
+
+* identifier[pcid].value = "PT-100000197-621003-50179063"
 
 * name = "Paniltri 5 mg + 5 mg + 12.5 mg Cápsula 30 Cápsula Blister"
 
@@ -65782,15 +64352,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098397
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paniltri 10 mg + 5 mg + 25 mg Cápsula 30 Cápsula Blister"
 Description: "Paniltri 10 mg + 5 mg + 25 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50179071"
+
+* identifier[pcid].value = "PT-100000197-621006-50179071"
 
 * name = "Paniltri 10 mg + 5 mg + 25 mg Cápsula 30 Cápsula Blister"
 
@@ -65828,15 +64397,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098407
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paniltri 10 mg + 10 mg + 25 mg Cápsula 30 Cápsula Blister"
 Description: "Paniltri 10 mg + 10 mg + 25 mg Cápsula 30 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50179098"
+
+* identifier[pcid].value = "PT-100000197-621007-50179098"
 
 * name = "Paniltri 10 mg + 10 mg + 25 mg Cápsula 30 Cápsula Blister"
 
@@ -65874,15 +64442,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098638
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mepranil 2.5 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 2.5 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50174495"
+
+* identifier[pcid].value = "PT-100000197-621144-50174495"
 
 * name = "Mepranil 2.5 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -65920,15 +64487,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098655
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mepranil 5 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 5 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166883"
+
+* identifier[pcid].value = "PT-100000197-621145-50166883"
 
 * name = "Mepranil 5 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -65966,15 +64532,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098676
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mepranil 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166905"
+
+* identifier[pcid].value = "PT-100000197-621146-50166905"
 
 * name = "Mepranil 10 mg + 5 mg Cápsula 28 Cápsula Blister"
 
@@ -66012,15 +64577,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098695
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mepranil 5 mg + 10 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 5 mg + 10 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166891"
+
+* identifier[pcid].value = "PT-100000197-621147-50166891"
 
 * name = "Mepranil 5 mg + 10 mg Cápsula 28 Cápsula Blister"
 
@@ -66058,15 +64622,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098716
 InstanceOf: PPLPackagedProductDefinition
 Title: "Mepranil 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 Description: "Mepranil 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166913"
+
+* identifier[pcid].value = "PT-100000197-621148-50166913"
 
 * name = "Mepranil 10 mg + 10 mg Cápsula 28 Cápsula Blister"
 
@@ -66104,15 +64667,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2105110
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dolostop 500 mg/10 ml Solução oral 20 Saqueta"
 Description: "Dolostop 500 mg/10 ml Solução oral 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50171950"
+
+* identifier[pcid].value = "PT-100010538-621186-50171950"
 
 * name = "Dolostop 500 mg/10 ml Solução oral 20 Saqueta"
 
@@ -66150,15 +64712,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2098809
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dolostop 1000 mg/10 ml Solução oral 10 Saqueta"
 Description: "Dolostop 1000 mg/10 ml Solução oral 10 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50171968"
+
+* identifier[pcid].value = "PT-100010538-621187-50171968"
 
 * name = "Dolostop 1000 mg/10 ml Solução oral 10 Saqueta"
 
@@ -66196,15 +64757,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2110871
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enoxaparina Rovi 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Enoxaparina Rovi 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172450"
+
+* identifier[pcid].value = "PT-100005626-622802-50172450"
 
 * name = "Enoxaparina Rovi 80 mg/0.8 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -66242,15 +64802,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2110890
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Description: "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172417"
+
+* identifier[pcid].value = "PT-100005626-622803-50172417"
 
 * name = "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -66288,15 +64847,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2110891
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172425"
+
+* identifier[pcid].value = "PT-100005626-622803-50172425"
 
 * name = "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -66334,15 +64892,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2110910
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Description: "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172298"
+
+* identifier[pcid].value = "PT-100005626-622804-50172298"
 
 * name = "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -66380,15 +64937,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2110911
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172280"
+
+* identifier[pcid].value = "PT-100005626-622804-50172280"
 
 * name = "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -66426,15 +64982,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2110930
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Description: "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172220"
+
+* identifier[pcid].value = "PT-100005626-622805-50172220"
 
 * name = "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 2 Seringa pré-cheia"
 
@@ -66472,15 +65027,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2110931
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Description: "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172212"
+
+* identifier[pcid].value = "PT-100005626-622805-50172212"
 
 * name = "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia 6 Seringa pré-cheia"
 
@@ -66518,15 +65072,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2103954
 InstanceOf: PPLPackagedProductDefinition
 Title: "Descontran 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 Description: "Descontran 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50064428"
+
+* identifier[pcid].value = "PT-100004123-623627-50064428"
 
 * name = "Descontran 500 mg + 2 mg Comprimido 60 Comprimido Blister"
 
@@ -66564,15 +65117,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2103955
 InstanceOf: PPLPackagedProductDefinition
 Title: "Descontran 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 Description: "Descontran 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50064436"
+
+* identifier[pcid].value = "PT-100004123-623627-50064436"
 
 * name = "Descontran 500 mg + 2 mg Comprimido 30 Comprimido Blister"
 
@@ -66610,15 +65162,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2104676
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Generis 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina Generis 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009028"
+
+* identifier[pcid].value = "PT-100000372-623964-50009028"
 
 * name = "Metformina Generis 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -66656,15 +65207,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2104678
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Generis 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Generis 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009010"
+
+* identifier[pcid].value = "PT-100000372-623964-50009010"
 
 * name = "Metformina Generis 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -66702,15 +65252,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2104679
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Generis 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Generis 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100000372-623965-50014870"
 
 * name = "Metformina Generis 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -66748,15 +65297,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2104681
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina Generis 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina Generis 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50031171"
+
+* identifier[pcid].value = "PT-100000372-623966-50031171"
 
 * name = "Metformina Generis 1000 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -66794,15 +65342,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106321
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100001538-624662-50107704"
 
 * name = "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -66840,15 +65387,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106322
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100001538-624662-50107712"
 
 * name = "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -66886,15 +65432,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106371
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Pentafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Pentafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100001538-624682-50107755"
 
 * name = "Sinvastatina + Ezetimiba Pentafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -66932,15 +65477,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106380
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Pentafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Pentafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100001538-624702-50107798"
 
 * name = "Sinvastatina + Ezetimiba Pentafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -66978,15 +65522,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106410
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100002998-624722-50107704"
 
 * name = "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -67024,15 +65567,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106411
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100002998-624722-50107712"
 
 * name = "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67070,15 +65612,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106427
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Farmoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Farmoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100002998-624723-50107755"
 
 * name = "Sinvastatina + Ezetimiba Farmoz 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67116,15 +65657,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106438
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Farmoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Farmoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100002998-624724-50107798"
 
 * name = "Sinvastatina + Ezetimiba Farmoz 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67162,15 +65702,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106791
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Azevedos 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Azevedos 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100004123-624822-50107712"
 
 * name = "Sinvastatina + Ezetimiba Azevedos 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67208,15 +65747,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106622
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Azevedos 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Azevedos 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100004123-624842-50107755"
 
 * name = "Sinvastatina + Ezetimiba Azevedos 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67254,15 +65792,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106630
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Azevedos 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Azevedos 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100004123-624862-50107798"
 
 * name = "Sinvastatina + Ezetimiba Azevedos 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67300,15 +65837,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106671
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Tetrafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Tetrafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100004531-624882-50107712"
 
 * name = "Sinvastatina + Ezetimiba Tetrafarma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67346,15 +65882,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106679
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Tetrafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Tetrafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100004531-624883-50107755"
 
 * name = "Sinvastatina + Ezetimiba Tetrafarma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67392,15 +65927,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106702
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Tetrafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Tetrafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100004531-624884-50107798"
 
 * name = "Sinvastatina + Ezetimiba Tetrafarma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67438,15 +65972,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106730
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100002348-624902-50107704"
 
 * name = "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -67484,15 +66017,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106731
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100002348-624902-50107712"
 
 * name = "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67530,15 +66062,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2106747
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba toLife 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba toLife 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100002348-624903-50107755"
 
 * name = "Sinvastatina + Ezetimiba toLife 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67576,15 +66107,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2108293
 InstanceOf: PPLPackagedProductDefinition
 Title: "Taflotan 15 µg/ml Colírio, solução 1 Frasco 3 ml"
 Description: "Taflotan 15 µg/ml Colírio, solução 1 Frasco 3 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172018"
+
+* identifier[pcid].value = "PT-100003380-625562-50172018"
 
 * name = "Taflotan 15 µg/ml Colírio, solução 1 Frasco 3 ml"
 
@@ -67622,15 +66152,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2122490
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina Labesfal 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Sinvastatina Labesfal 10 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50018426"
+
+* identifier[pcid].value = "PT-100000372-626322-50018426"
 
 * name = "Sinvastatina Labesfal 10 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -67668,15 +66197,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2111598
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100001305-627062-50107712"
 
 * name = "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67714,15 +66242,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2111599
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100001305-627062-50107704"
 
 * name = "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -67760,15 +66287,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2111604
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Alter 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Alter 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100001305-627082-50107755"
 
 * name = "Sinvastatina + Ezetimiba Alter 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67806,15 +66332,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2111622
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Alter 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Alter 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100001305-627102-50107798"
 
 * name = "Sinvastatina + Ezetimiba Alter 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -67852,15 +66377,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2112868
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Bluepharma 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Bluepharma 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100058580-627522-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Bluepharma 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -67898,15 +66422,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2112935
 InstanceOf: PPLPackagedProductDefinition
 Title: "Zofiren 750 mg Pó para solução injetável ou para perfusão 10 Frasco para injetáveis"
 Description: "Zofiren 750 mg Pó para solução injetável ou para perfusão 10 Frasco para injetáveis"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50042700"
+
+* identifier[pcid].value = "PT-100011398-627542-50042700"
 
 * name = "Zofiren 750 mg Pó para solução injetável ou para perfusão 10 Frasco para injetáveis"
 
@@ -67944,15 +66467,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2121530
 InstanceOf: PPLPackagedProductDefinition
 Title: "Candiset 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Candiset 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008943"
+
+* identifier[pcid].value = "PT-100001653-627702-50008943"
 
 * name = "Candiset 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -67990,15 +66512,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2132550
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol TAD 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol TAD 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016776"
+
+* identifier[pcid].value = "PT-100006727-627762-50016776"
 
 * name = "Tramadol TAD 100 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -68036,15 +66557,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2132552
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol TAD 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol TAD 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016792"
+
+* identifier[pcid].value = "PT-100006727-627762-50016792"
 
 * name = "Tramadol TAD 100 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -68082,15 +66602,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2132590
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol TAD 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol TAD 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016806"
+
+* identifier[pcid].value = "PT-100006727-627763-50016806"
 
 * name = "Tramadol TAD 150 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -68128,15 +66647,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2132592
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol TAD 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol TAD 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016822"
+
+* identifier[pcid].value = "PT-100006727-627763-50016822"
 
 * name = "Tramadol TAD 150 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -68174,15 +66692,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2132637
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol TAD 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Description: "Tramadol TAD 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016830"
+
+* identifier[pcid].value = "PT-100006727-627764-50016830"
 
 * name = "Tramadol TAD 200 mg Comprimido de libertação prolongada 20 Comprimido Blister"
 
@@ -68220,15 +66737,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2132639
 InstanceOf: PPLPackagedProductDefinition
 Title: "Tramadol TAD 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Description: "Tramadol TAD 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50016857"
+
+* identifier[pcid].value = "PT-100006727-627764-50016857"
 
 * name = "Tramadol TAD 200 mg Comprimido de libertação prolongada 30 Comprimido Blister"
 
@@ -68266,15 +66782,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2115035
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo Alter 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo Alter 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50115910"
+
+* identifier[pcid].value = "PT-100001305-628562-50115910"
 
 * name = "Amlodipina + Olmesartan medoxomilo Alter 5 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -68312,15 +66827,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2146493
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107704"
+
+* identifier[pcid].value = "PT-100001538-629042-50107704"
 
 * name = "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 14 Comprimido Blister"
 
@@ -68358,15 +66872,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2146494
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100001538-629042-50107712"
 
 * name = "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -68404,15 +66917,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2115910
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Tecnigen 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Tecnigen 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100001538-629043-50107755"
 
 * name = "Sinvastatina + Ezetimiba Tecnigen 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -68450,15 +66962,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2115930
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Tecnigen 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Tecnigen 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100001538-629044-50107798"
 
 * name = "Sinvastatina + Ezetimiba Tecnigen 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -68496,15 +67007,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2116232
 InstanceOf: PPLPackagedProductDefinition
 Title: "Semglee 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 Description: "Semglee 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50174010"
+
+* identifier[pcid].value = "PT-100054215-629162-50174010"
 
 * name = "Semglee 100 U/ml Solução injetável em caneta pré-cheia 5 Caneta pré-cheia"
 
@@ -68542,15 +67052,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2117112
 InstanceOf: PPLPackagedProductDefinition
 Title: "Brufen Sem Açúcar 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Description: "Brufen Sem Açúcar 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004336"
+
+* identifier[pcid].value = "PT-100001337-629482-50004336"
 
 * name = "Brufen Sem Açúcar 20 mg/ml Suspensão oral 1 Frasco 200 ml"
 
@@ -68588,15 +67097,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2117331
 InstanceOf: PPLPackagedProductDefinition
 Title: "Holuren 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Holuren 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100015474-629542-50004271"
 
 * name = "Holuren 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -68634,15 +67142,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2118198
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina ToLife 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Metformina ToLife 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009028"
+
+* identifier[pcid].value = "PT-100002348-629943-50009028"
 
 * name = "Metformina ToLife 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -68680,15 +67187,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2118199
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina ToLife 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina ToLife 500 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50009010"
+
+* identifier[pcid].value = "PT-100002348-629943-50009010"
 
 * name = "Metformina ToLife 500 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -68726,15 +67232,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2118201
 InstanceOf: PPLPackagedProductDefinition
 Title: "Metformina ToLife 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Description: "Metformina ToLife 850 mg Comprimido revestido por película 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50014870"
+
+* identifier[pcid].value = "PT-100002348-629944-50014870"
 
 * name = "Metformina ToLife 850 mg Comprimido revestido por película 60 Comprimido Blister"
 
@@ -68772,15 +67277,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2119016
 InstanceOf: PPLPackagedProductDefinition
 Title: "Segluromet 2.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Segluromet 2.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172034"
+
+* identifier[pcid].value = "PT-100005784-630242-50172034"
 
 * name = "Segluromet 2.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -68818,15 +67322,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2119156
 InstanceOf: PPLPackagedProductDefinition
 Title: "Segluromet 7.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Segluromet 7.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50172050"
+
+* identifier[pcid].value = "PT-100005784-630322-50172050"
 
 * name = "Segluromet 7.5 mg + 1000 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -68864,15 +67367,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2119892
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Labesfal 5 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Labesfal 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013343"
+
+* identifier[pcid].value = "PT-100000372-630722-50013343"
 
 * name = "Amlodipina Labesfal 5 mg Comprimido 60 Comprimido Blister"
 
@@ -68910,15 +67412,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2131670
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Labesfal 5 mg Comprimido 10 Comprimido Blister"
 Description: "Amlodipina Labesfal 5 mg Comprimido 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013335"
+
+* identifier[pcid].value = "PT-100000372-630722-50013335"
 
 * name = "Amlodipina Labesfal 5 mg Comprimido 10 Comprimido Blister"
 
@@ -68956,15 +67457,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2119895
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina Labesfal 10 mg Comprimido 60 Comprimido Blister"
 Description: "Amlodipina Labesfal 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50013360"
+
+* identifier[pcid].value = "PT-100000372-630723-50013360"
 
 * name = "Amlodipina Labesfal 10 mg Comprimido 60 Comprimido Blister"
 
@@ -69002,15 +67502,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2120347
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Mylan 500 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Mylan 500 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001981"
+
+* identifier[pcid].value = "PT-100004397-630962-50001981"
 
 * name = "Paracetamol Mylan 500 mg Comprimido 20 Comprimido Blister"
 
@@ -69048,15 +67547,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2120354
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paracetamol Mylan 1000 mg Comprimido 20 Comprimido Blister"
 Description: "Paracetamol Mylan 1000 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50036432"
+
+* identifier[pcid].value = "PT-100004397-630963-50036432"
 
 * name = "Paracetamol Mylan 1000 mg Comprimido 20 Comprimido Blister"
 
@@ -69094,15 +67592,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2120590
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50145010"
+
+* identifier[pcid].value = "PT-100004619-631103-50145010"
 
 * name = "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -69140,15 +67637,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2120594
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50145029"
+
+* identifier[pcid].value = "PT-100004619-631103-50145029"
 
 * name = "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -69186,15 +67682,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2120731
 InstanceOf: PPLPackagedProductDefinition
 Title: "Danofen 200 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 Description: "Danofen 200 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50194003"
+
+* identifier[pcid].value = "PT-100010538-631163-50194003"
 
 * name = "Danofen 200 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 
@@ -69232,15 +67727,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2120733
 InstanceOf: PPLPackagedProductDefinition
 Title: "Danofen 400 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 Description: "Danofen 400 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50194011"
+
+* identifier[pcid].value = "PT-100010538-631164-50194011"
 
 * name = "Danofen 400 mg/10 ml Suspensão oral em saqueta 20 Saqueta"
 
@@ -69278,15 +67772,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2120739
 InstanceOf: PPLPackagedProductDefinition
 Title: "Danofen 600 mg/15 ml Suspensão oral em saqueta 20 Saqueta"
 Description: "Danofen 600 mg/15 ml Suspensão oral em saqueta 20 Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50194020"
+
+* identifier[pcid].value = "PT-100010538-631165-50194020"
 
 * name = "Danofen 600 mg/15 ml Suspensão oral em saqueta 20 Saqueta"
 
@@ -69324,15 +67817,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2121753
 InstanceOf: PPLPackagedProductDefinition
 Title: "Holpemic 10 mg/g Creme 1 Bisnaga 50 g"
 Description: "Holpemic 10 mg/g Creme 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50019805"
+
+* identifier[pcid].value = "PT-100057827-631822-50019805"
 
 * name = "Holpemic 10 mg/g Creme 1 Bisnaga 50 g"
 
@@ -69370,15 +67862,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2121903
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno + Cafeína Aspegic 400 mg + 100 mg                Comprimido revestido por película 24 Comprimido Blister"
 Description: "Ibuprofeno + Cafeína Aspegic 400 mg + 100 mg                Comprimido revestido por película 24 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50186523"
+
+* identifier[pcid].value = "PT-100049955-631902-50186523"
 
 * name = "Ibuprofeno + Cafeína Aspegic 400 mg + 100 mg                Comprimido revestido por película 24 Comprimido Blister"
 
@@ -69416,15 +67907,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2123495
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nurofen Musc 200 mg Emplastro medicamentoso 2 Emplastro Saqueta"
 Description: "Nurofen Musc 200 mg Emplastro medicamentoso 2 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50178156"
+
+* identifier[pcid].value = "PT-100002888-632842-50178156"
 
 * name = "Nurofen Musc 200 mg Emplastro medicamentoso 2 Emplastro Saqueta"
 
@@ -69462,15 +67952,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2123496
 InstanceOf: PPLPackagedProductDefinition
 Title: "Nurofen Musc 200 mg Emplastro medicamentoso 4 Emplastro Saqueta"
 Description: "Nurofen Musc 200 mg Emplastro medicamentoso 4 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50178164"
+
+* identifier[pcid].value = "PT-100002888-632842-50178164"
 
 * name = "Nurofen Musc 200 mg Emplastro medicamentoso 4 Emplastro Saqueta"
 
@@ -69508,15 +67997,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2123934
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Bluepharma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Bluepharma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100058580-633082-50107712"
 
 * name = "Sinvastatina + Ezetimiba Bluepharma 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69554,15 +68042,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2124001
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Bluepharma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Bluepharma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100058580-633083-50107755"
 
 * name = "Sinvastatina + Ezetimiba Bluepharma 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69600,15 +68087,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2124034
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Bluepharma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Bluepharma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100058580-633084-50107798"
 
 * name = "Sinvastatina + Ezetimiba Bluepharma 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69646,15 +68132,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126834
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Generis 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Generis 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100000372-634202-50107712"
 
 * name = "Sinvastatina + Ezetimiba Generis 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69692,15 +68177,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126836
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Generis 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Generis 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100000372-634203-50107755"
 
 * name = "Sinvastatina + Ezetimiba Generis 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69738,15 +68222,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126840
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Generis 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Generis 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100000372-634204-50107798"
 
 * name = "Sinvastatina + Ezetimiba Generis 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69784,15 +68267,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126893
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Aurovitas 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Aurovitas 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107712"
+
+* identifier[pcid].value = "PT-100000372-634242-50107712"
 
 * name = "Sinvastatina + Ezetimiba Aurovitas 10 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69830,15 +68312,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126915
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Aurovitas 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Aurovitas 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100000372-634262-50107755"
 
 * name = "Sinvastatina + Ezetimiba Aurovitas 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69876,15 +68357,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126917
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sinvastatina + Ezetimiba Aurovitas 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Sinvastatina + Ezetimiba Aurovitas 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107798"
+
+* identifier[pcid].value = "PT-100000372-634263-50107798"
 
 * name = "Sinvastatina + Ezetimiba Aurovitas 40 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -69922,15 +68402,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2126933
 InstanceOf: PPLPackagedProductDefinition
 Title: "Latesil 10 mg/g Gel 1 Bisnaga 100 g"
 Description: "Latesil 10 mg/g Gel 1 Bisnaga 100 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008285"
+
+* identifier[pcid].value = "PT-100004123-634282-50008285"
 
 * name = "Latesil 10 mg/g Gel 1 Bisnaga 100 g"
 
@@ -69968,15 +68447,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2128980
 InstanceOf: PPLPackagedProductDefinition
 Title: "Holginec 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Description: "Holginec 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50008943"
+
+* identifier[pcid].value = "PT-100057827-635543-50008943"
 
 * name = "Holginec 10 mg/g Creme vaginal 1 Bisnaga 50 g"
 
@@ -70014,15 +68492,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2129739
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carzap Am 5 mg + 16 mg Comprimido 14 Comprimido Blister"
 Description: "Carzap Am 5 mg + 16 mg Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50170929"
+
+* identifier[pcid].value = "PT-100022865-636082-50170929"
 
 * name = "Carzap Am 5 mg + 16 mg Comprimido 14 Comprimido Blister"
 
@@ -70060,15 +68537,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2129749
 InstanceOf: PPLPackagedProductDefinition
 Title: "Carzap Am 5 mg + 16 mg Comprimido 56 Comprimido Blister"
 Description: "Carzap Am 5 mg + 16 mg Comprimido 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50170937"
+
+* identifier[pcid].value = "PT-100022865-636082-50170937"
 
 * name = "Carzap Am 5 mg + 16 mg Comprimido 56 Comprimido Blister"
 
@@ -70106,15 +68582,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2129964
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diltix 200 mg                         Comprimido revestido por película 20 Comprimido Blister"
 Description: "Diltix 200 mg                         Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004247"
+
+* identifier[pcid].value = "PT-100005728-636182-50004247"
 
 * name = "Diltix 200 mg                         Comprimido revestido por película 20 Comprimido Blister"
 
@@ -70152,15 +68627,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2131418
 InstanceOf: PPLPackagedProductDefinition
 Title: "Slinda 4 mg                           Comprimido revestido por película 28 Comprimido Blister"
 Description: "Slinda 4 mg                           Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50181610"
+
+* identifier[pcid].value = "PT-100004595-637084-50181610"
 
 * name = "Slinda 4 mg                           Comprimido revestido por película 28 Comprimido Blister"
 
@@ -70198,15 +68672,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2131451
 InstanceOf: PPLPackagedProductDefinition
 Title: "Slinda 4 mg                           Comprimido revestido por película 84 Comprimido Blister"
 Description: "Slinda 4 mg                           Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50181637"
+
+* identifier[pcid].value = "PT-100004595-637084-50181637"
 
 * name = "Slinda 4 mg                           Comprimido revestido por película 84 Comprimido Blister"
 
@@ -70244,15 +68717,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2131892
 InstanceOf: PPLPackagedProductDefinition
 Title: "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 28 Comprimido Blister"
 Description: "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50105574"
+
+* identifier[pcid].value = "PT-100001653-637402-50105574"
 
 * name = "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 28 Comprimido Blister"
 
@@ -70290,15 +68762,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2131893
 InstanceOf: PPLPackagedProductDefinition
 Title: "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 84 Comprimido Blister"
 Description: "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50105582"
+
+* identifier[pcid].value = "PT-100001653-637402-50105582"
 
 * name = "Klimedix 2 mg + 1 mg                    Comprimido revestido por película 84 Comprimido Blister"
 
@@ -70336,15 +68807,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2151596
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 10 Comprimido Blister"
 Description: "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 10 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017675"
+
+* identifier[pcid].value = "PT-100004397-638523-50017675"
 
 * name = "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 10 Comprimido Blister"
 
@@ -70382,15 +68852,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2151597
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 60 Comprimido Blister"
 Description: "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50017683"
+
+* identifier[pcid].value = "PT-100004397-638523-50017683"
 
 * name = "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada 60 Comprimido Blister"
 
@@ -70428,15 +68897,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2134361
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Zentiva 4 mg + 1.25 mg                 Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Zentiva 4 mg + 1.25 mg                 Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133519"
+
+* identifier[pcid].value = "PT-100022865-638544-50133519"
 
 * name = "Perindopril + Indapamida Zentiva 4 mg + 1.25 mg                 Comprimido 30 Comprimido Blister"
 
@@ -70474,15 +68942,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2134363
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Indapamida Zentiva 8 mg + 2.5 mg                  Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Indapamida Zentiva 8 mg + 2.5 mg                  Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133462"
+
+* identifier[pcid].value = "PT-100022865-638545-50133462"
 
 * name = "Perindopril + Indapamida Zentiva 8 mg + 2.5 mg                  Comprimido 30 Comprimido Blister"
 
@@ -70520,15 +68987,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2134378
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 14 Comprimido Blister"
 Description: "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121693"
+
+* identifier[pcid].value = "PT-100000372-638583-50121693"
 
 * name = "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 14 Comprimido Blister"
 
@@ -70566,15 +69032,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2134379
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 28 Comprimido Blister"
 Description: "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121707"
+
+* identifier[pcid].value = "PT-100000372-638583-50121707"
 
 * name = "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido 28 Comprimido Blister"
 
@@ -70612,15 +69077,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2134389
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 28 Comprimido Blister"
 Description: "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121731"
+
+* identifier[pcid].value = "PT-100000372-638584-50121731"
 
 * name = "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 28 Comprimido Blister"
 
@@ -70658,15 +69122,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2134401
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 14 Comprimido Blister"
 Description: "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121723"
+
+* identifier[pcid].value = "PT-100000372-638584-50121723"
 
 * name = "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido 14 Comprimido Blister"
 
@@ -70704,15 +69167,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2134409
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Telmisartan Generis 5 mg + 80 mg                  Comprimido 28 Comprimido Blister"
 Description: "Amlodipina + Telmisartan Generis 5 mg + 80 mg                  Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50121766"
+
+* identifier[pcid].value = "PT-100000372-638585-50121766"
 
 * name = "Amlodipina + Telmisartan Generis 5 mg + 80 mg                  Comprimido 28 Comprimido Blister"
 
@@ -70750,15 +69212,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2135093
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lidbree 42 mg/ml                     Gel intrauterino 1 Seringa 10 ml"
 Description: "Lidbree 42 mg/ml                     Gel intrauterino 1 Seringa 10 ml"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50187503"
+
+* identifier[pcid].value = "PT-100001653-639123-50187503"
 
 * name = "Lidbree 42 mg/ml                     Gel intrauterino 1 Seringa 10 ml"
 
@@ -70796,15 +69257,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2137413
 InstanceOf: PPLPackagedProductDefinition
 Title: "Candigen 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 Description: "Candigen 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50181386"
+
+* identifier[pcid].value = "PT-100000339-640143-50181386"
 
 * name = "Candigen 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 
@@ -70842,15 +69302,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2138459
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina toLife 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina toLife 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100002348-640643-50133446"
 
 * name = "Perindopril + Amlodipina toLife 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -70888,15 +69347,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2138465
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina toLife 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina toLife 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100002348-640644-50133438"
 
 * name = "Perindopril + Amlodipina toLife 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -70934,15 +69392,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2138468
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina toLife 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina toLife 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100002348-640645-50133420"
 
 * name = "Perindopril + Amlodipina toLife 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -70980,15 +69437,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2138474
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina toLife 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina toLife 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100002348-640646-50129066"
 
 * name = "Perindopril + Amlodipina toLife 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -71026,15 +69482,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2139758
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Bluepharma 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina + Ácido Clavulânico Bluepharma 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001639"
+
+* identifier[pcid].value = "PT-100058580-641323-50001639"
 
 * name = "Amoxicilina + Ácido Clavulânico Bluepharma 500 mg + 125 mg Comprimido revestido por película 16 Comprimido Blister"
 
@@ -71072,15 +69527,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2140078
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120816"
+
+* identifier[pcid].value = "PT-100005505-641463-50120816"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -71118,15 +69572,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2140081
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120824"
+
+* identifier[pcid].value = "PT-100005505-641463-50120824"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -71164,15 +69617,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2141127
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dimidon 75 mg                          Supositório 10 Supositório Fita termossoldada"
 Description: "Dimidon 75 mg                          Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50057677"
+
+* identifier[pcid].value = "PT-100000339-641904-50057677"
 
 * name = "Dimidon 75 mg                          Supositório 10 Supositório Fita termossoldada"
 
@@ -71210,15 +69662,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2141139
 InstanceOf: PPLPackagedProductDefinition
 Title: "Dimidon 150 mg                         Supositório 10 Supositório Fita termossoldada"
 Description: "Dimidon 150 mg                         Supositório 10 Supositório Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50057685"
+
+* identifier[pcid].value = "PT-100000339-641905-50057685"
 
 * name = "Dimidon 150 mg                         Supositório 10 Supositório Fita termossoldada"
 
@@ -71256,15 +69707,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2143279
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120816"
+
+* identifier[pcid].value = "PT-100009540-642763-50120816"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -71302,15 +69752,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2143283
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120824"
+
+* identifier[pcid].value = "PT-100009540-642763-50120824"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -71348,15 +69797,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2162560
 InstanceOf: PPLPackagedProductDefinition
 Title: "Olfen Artic 10 mg/g Gel 1 Bisnaga 120 g"
 Description: "Olfen Artic 10 mg/g Gel 1 Bisnaga 120 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50166212"
+
+* identifier[pcid].value = "PT-100002967-643904-50166212"
 
 * name = "Olfen Artic 10 mg/g Gel 1 Bisnaga 120 g"
 
@@ -71394,15 +69842,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2145576
 InstanceOf: PPLPackagedProductDefinition
 Title: "Olfenex Artic  20 mg/g Gel 1 Bisnaga 180 g"
 Description: "Olfenex Artic  20 mg/g Gel 1 Bisnaga 180 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50184148"
+
+* identifier[pcid].value = "PT-100002967-643905-50184148"
 
 * name = "Olfenex Artic  20 mg/g Gel 1 Bisnaga 180 g"
 
@@ -71440,15 +69887,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2145697
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril  + Amlodipina Generis 4 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 Description: "Perindopril  + Amlodipina Generis 4 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100000372-643963-50133446"
 
 * name = "Perindopril  + Amlodipina Generis 4 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 
@@ -71486,15 +69932,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2145701
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril  + Amlodipina Generis 4 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 Description: "Perindopril  + Amlodipina Generis 4 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100000372-643964-50133438"
 
 * name = "Perindopril  + Amlodipina Generis 4 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 
@@ -71532,15 +69977,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2145705
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril  + Amlodipina Generis 8 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 Description: "Perindopril  + Amlodipina Generis 8 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100000372-643965-50133420"
 
 * name = "Perindopril  + Amlodipina Generis 8 mg + 5 mg                    Comprimido 30 Comprimido Blister"
 
@@ -71578,15 +70022,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2145707
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril  + Amlodipina Generis 8 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 Description: "Perindopril  + Amlodipina Generis 8 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100000372-643966-50129066"
 
 * name = "Perindopril  + Amlodipina Generis 8 mg + 10 mg                   Comprimido 30 Comprimido Blister"
 
@@ -71624,15 +70067,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2147147
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido Clavulânico Zentiva 600 mg/5 ml + 42.9 mg/5 ml     Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido Clavulânico Zentiva 600 mg/5 ml + 42.9 mg/5 ml     Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040278"
+
+* identifier[pcid].value = "PT-100022865-644825-50040278"
 
 * name = "Amoxicilina + Ácido Clavulânico Zentiva 600 mg/5 ml + 42.9 mg/5 ml     Pó para suspensão oral 1 Frasco"
 
@@ -71670,15 +70112,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2147634
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 14 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50145010"
+
+* identifier[pcid].value = "PT-100005505-645127-50145010"
 
 * name = "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 14 Comprimido Blister"
 
@@ -71716,15 +70157,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2147638
 InstanceOf: PPLPackagedProductDefinition
 Title: "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 56 Comprimido Blister"
 Description: "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50145029"
+
+* identifier[pcid].value = "PT-100005505-645127-50145029"
 
 * name = "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película 56 Comprimido Blister"
 
@@ -71762,15 +70202,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2147766
 InstanceOf: PPLPackagedProductDefinition
 Title: "Candiset 3 dias 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 Description: "Candiset 3 dias 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50181386"
+
+* identifier[pcid].value = "PT-100001653-645245-50181386"
 
 * name = "Candiset 3 dias 20 mg/g                        Creme vaginal 1 Bisnaga 20 g"
 
@@ -71808,15 +70247,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2147975
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina Generis 500 mg                         Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina Generis 500 mg                         Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001795"
+
+* identifier[pcid].value = "PT-100000372-645424-50001795"
 
 * name = "Amoxicilina Generis 500 mg                         Comprimido revestido por película 16 Comprimido Blister"
 
@@ -71854,15 +70292,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2147987
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina Generis 1000 mg                        Comprimido revestido por película 16 Comprimido Blister"
 Description: "Amoxicilina Generis 1000 mg                        Comprimido revestido por película 16 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50001817"
+
+* identifier[pcid].value = "PT-100000372-645426-50001817"
 
 * name = "Amoxicilina Generis 1000 mg                        Comprimido revestido por película 16 Comprimido Blister"
 
@@ -71900,15 +70337,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2148222
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amoxicilina + Ácido clavulânico Sandoz 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Amoxicilina + Ácido clavulânico Sandoz 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040278"
+
+* identifier[pcid].value = "PT-100005531-645604-50040278"
 
 * name = "Amoxicilina + Ácido clavulânico Sandoz 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -71946,15 +70382,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2148401
 InstanceOf: PPLPackagedProductDefinition
 Title: "Vyeve Duo 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Description: "Vyeve Duo 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50107755"
+
+* identifier[pcid].value = "PT-100000339-645665-50107755"
 
 * name = "Vyeve Duo 20 mg + 10 mg Comprimido 28 Comprimido Blister"
 
@@ -71992,15 +70427,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2148479
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120816"
+
+* identifier[pcid].value = "PT-100004619-645687-50120816"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 14 Comprimido Blister"
 
@@ -72038,15 +70472,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2148482
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120824"
+
+* identifier[pcid].value = "PT-100004619-645687-50120824"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película 56 Comprimido Blister"
 
@@ -72084,15 +70517,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2149851
 InstanceOf: PPLPackagedProductDefinition
 Title: "Paramolan Caf 500 mg + 65 mg                 Comprimido 20 Comprimido Blister"
 Description: "Paramolan Caf 500 mg + 65 mg                 Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50100939"
+
+* identifier[pcid].value = "PT-100001274-646424-50100939"
 
 * name = "Paramolan Caf 500 mg + 65 mg                 Comprimido 20 Comprimido Blister"
 
@@ -72130,15 +70562,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2154398
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Mylan 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Mylan 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100004397-648764-50133446"
 
 * name = "Perindopril + Amlodipina Mylan 4 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -72176,15 +70607,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2154403
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Mylan 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Mylan 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100004397-648765-50133438"
 
 * name = "Perindopril + Amlodipina Mylan 4 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -72222,15 +70652,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2154407
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Mylan 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Mylan 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100004397-648766-50133420"
 
 * name = "Perindopril + Amlodipina Mylan 8 mg + 5 mg Comprimido 30 Comprimido Blister"
 
@@ -72268,15 +70697,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2154412
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina Mylan 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Description: "Perindopril + Amlodipina Mylan 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100004397-648767-50129066"
 
 * name = "Perindopril + Amlodipina Mylan 8 mg + 10 mg Comprimido 30 Comprimido Blister"
 
@@ -72314,15 +70742,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2155260
 InstanceOf: PPLPackagedProductDefinition
 Title: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022199"
+
+* identifier[pcid].value = "PT-100069480-649288-50022199"
 
 * name = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72357,7 +70784,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72367,8 +70793,8 @@ Title: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022199"
+
+* identifier[pcid].value = "PT-100069480-649288-50022199"
 
 * name = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72403,7 +70829,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72413,8 +70838,8 @@ Title: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022202"
+
+* identifier[pcid].value = "PT-100069480-649288-50022202"
 
 * name = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72449,7 +70874,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72459,8 +70883,8 @@ Title: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50038338"
+
+* identifier[pcid].value = "PT-100069480-649288-50038338"
 
 * name = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72498,15 +70922,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2155355
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022199"
+
+* identifier[pcid].value = "PT-100014508-649324-50022199"
 
 * name = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72541,7 +70964,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72551,8 +70973,8 @@ Title: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022202"
+
+* identifier[pcid].value = "PT-100014508-649324-50022202"
 
 * name = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72587,7 +71009,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72597,8 +71018,8 @@ Title: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50038338"
+
+* identifier[pcid].value = "PT-100014508-649324-50038338"
 
 * name = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72633,7 +71054,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72643,8 +71063,8 @@ Title: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022199"
+
+* identifier[pcid].value = "PT-100014508-649324-50022199"
 
 * name = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72682,15 +71102,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2155357
 InstanceOf: PPLPackagedProductDefinition
 Title: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022199"
+
+* identifier[pcid].value = "PT-100031673-649325-50022199"
 
 * name = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72725,7 +71144,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72735,8 +71153,8 @@ Title: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022202"
+
+* identifier[pcid].value = "PT-100031673-649325-50022202"
 
 * name = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72771,7 +71189,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72781,8 +71198,8 @@ Title: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50022199"
+
+* identifier[pcid].value = "PT-100031673-649325-50022199"
 
 * name = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72817,7 +71234,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72827,8 +71243,8 @@ Title: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50038338"
+
+* identifier[pcid].value = "PT-100031673-649325-50038338"
 
 * name = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72866,15 +71282,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2155359
 InstanceOf: PPLPackagedProductDefinition
 Title: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040278"
+
+* identifier[pcid].value = "PT-100031673-649326-50040278"
 
 * name = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72909,7 +71324,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72919,8 +71333,8 @@ Title: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040251"
+
+* identifier[pcid].value = "PT-100031673-649326-50040251"
 
 * name = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -72955,7 +71369,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -72965,8 +71378,8 @@ Title: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50040251"
+
+* identifier[pcid].value = "PT-100031673-649326-50040251"
 
 * name = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -73001,7 +71414,6 @@ Usage: #example
 
 // Reference to Organization: MAH
 //* manufacturer = Reference()
-
 
 
 
@@ -73011,8 +71423,8 @@ Title: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Description: "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50182501"
+
+* identifier[pcid].value = "PT-100031673-649326-50182501"
 
 * name = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral 1 Frasco"
 
@@ -73050,15 +71462,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2157300
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina ratiopharm 5 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Description: "Perindopril + Amlodipina ratiopharm 5 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133446"
+
+* identifier[pcid].value = "PT-100004619-651664-50133446"
 
 * name = "Perindopril + Amlodipina ratiopharm 5 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -73096,15 +71507,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2157307
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina ratiopharm 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Description: "Perindopril + Amlodipina ratiopharm 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133438"
+
+* identifier[pcid].value = "PT-100004619-651665-50133438"
 
 * name = "Perindopril + Amlodipina ratiopharm 5 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -73142,15 +71552,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2157313
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina ratiopharm 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Description: "Perindopril + Amlodipina ratiopharm 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50133420"
+
+* identifier[pcid].value = "PT-100004619-651666-50133420"
 
 * name = "Perindopril + Amlodipina ratiopharm 10 mg + 5 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -73188,15 +71597,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2157319
 InstanceOf: PPLPackagedProductDefinition
 Title: "Perindopril + Amlodipina ratiopharm 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Description: "Perindopril + Amlodipina ratiopharm 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50129066"
+
+* identifier[pcid].value = "PT-100004619-651667-50129066"
 
 * name = "Perindopril + Amlodipina ratiopharm 10 mg + 10 mg Comprimido 30 Comprimido Recipiente para comprimidos"
 
@@ -73234,15 +71642,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2169118
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lisinopril + Amlodipina Zentiva 20 mg + 10 mg Comprimido 60 Comprimido Blister"
 Description: "Lisinopril + Amlodipina Zentiva 20 mg + 10 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50143280"
+
+* identifier[pcid].value = "PT-100022865-653425-50143280"
 
 * name = "Lisinopril + Amlodipina Zentiva 20 mg + 10 mg Comprimido 60 Comprimido Blister"
 
@@ -73280,15 +71687,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2169096
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Description: "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50122150"
+
+* identifier[pcid].value = "PT-100022865-653426-50122150"
 
 * name = "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 60 Comprimido Blister"
 
@@ -73326,15 +71732,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2169157
 InstanceOf: PPLPackagedProductDefinition
 Title: "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 Description: "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50136267"
+
+* identifier[pcid].value = "PT-100022865-653426-50136267"
 
 * name = "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido 20 Comprimido Blister"
 
@@ -73372,15 +71777,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161589
 InstanceOf: PPLPackagedProductDefinition
 Title: "Diclofenac Farmoz 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Description: "Diclofenac Farmoz 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50026445"
+
+* identifier[pcid].value = "PT-100002998-654926-50026445"
 
 * name = "Diclofenac Farmoz 140 mg Emplastro medicamentoso 5 Emplastro Saqueta"
 
@@ -73418,15 +71822,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161695
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120816"
+
+* identifier[pcid].value = "PT-100001305-655004-50120816"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 14 Comprimido Blister"
 
@@ -73464,15 +71867,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2161696
 InstanceOf: PPLPackagedProductDefinition
 Title: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Description: "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50120824"
+
+* identifier[pcid].value = "PT-100001305-655004-50120824"
 
 * name = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película 56 Comprimido Blister"
 
@@ -73510,15 +71912,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2168977
 InstanceOf: PPLPackagedProductDefinition
 Title: "Rennie Dual Action 625 mg + 73.5 mg + 150 mg Comprimido para mastigar 24 Comprimido Fita termossoldada"
 Description: "Rennie Dual Action 625 mg + 73.5 mg + 150 mg Comprimido para mastigar 24 Comprimido Fita termossoldada"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50189050"
+
+* identifier[pcid].value = "PT-100007476-660024-50189050"
 
 * name = "Rennie Dual Action 625 mg + 73.5 mg + 150 mg Comprimido para mastigar 24 Comprimido Fita termossoldada"
 
@@ -73556,15 +71957,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2172118
 InstanceOf: PPLPackagedProductDefinition
 Title: "Trifeduo 200 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Trifeduo 200 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50186620"
+
+* identifier[pcid].value = "PT-100001274-662124-50186620"
 
 * name = "Trifeduo 200 mg + 500 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -73602,15 +72002,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2172995
 InstanceOf: PPLPackagedProductDefinition
 Title: "Ibuprofeno Alter 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Description: "Ibuprofeno Alter 400 mg Comprimido revestido por película 20 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50004271"
+
+* identifier[pcid].value = "PT-100001305-662684-50004271"
 
 * name = "Ibuprofeno Alter 400 mg Comprimido revestido por película 20 Comprimido Blister"
 
@@ -73648,15 +72047,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2179095
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 28 Comprimido Blister"
 Description: "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 28 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50189190"
+
+* identifier[pcid].value = "PT-100001653-666264-50189190"
 
 * name = "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 28 Comprimido Blister"
 
@@ -73694,15 +72092,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2179096
 InstanceOf: PPLPackagedProductDefinition
 Title: "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 84 Comprimido Blister"
 Description: "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 84 Comprimido Blister"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50189204"
+
+* identifier[pcid].value = "PT-100001653-666264-50189204"
 
 * name = "Drovelis 3 mg + 14.2 mg Comprimido revestido por película 84 Comprimido Blister"
 
@@ -73740,15 +72137,14 @@ Usage: #example
 
 
 
-
 Instance: ppd-2207175
 InstanceOf: PPLPackagedProductDefinition
 Title: "Sondelbay 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 Description: "Sondelbay 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 Usage: #example
 
-//true??
-* identifier[pcid].value = "50101390"
+
+* identifier[pcid].value = "PT-100002098-670104-50101390"
 
 * name = "Sondelbay 0.25 mg/ml Solução injetável em caneta pré-cheia 1 Caneta pré-cheia"
 
