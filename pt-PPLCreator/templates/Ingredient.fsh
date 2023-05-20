@@ -7,7 +7,7 @@
 {% if ns.ing_id|string != "nan" %}
 {% for idx in range(0,ns.ing_id.count(";")+1) %} 
 {% set ns.ing_name = ns.ing_id.split(";")[idx]|float| get_data_from_sheet(data["data"],"Ingredient","Nome Substância\n(Substance name)","Ingredient ID") %}
-{% set ns.ing_strength = ns.ing_id.split(";")[idx]|float| get_data_from_sheet(data["data"],"Ingredient","Tipo Ingrediente\n(Ingredient role)","Ingredient ID") %}
+{% set ns.ing_type = ns.ing_id.split(";")[idx]|float| get_data_from_sheet(data["data"],"Ingredient","Tipo Ingrediente\n(Ingredient role)","Ingredient ID") %}
 
 {% set ns.ing_reference_descr = ns.ing_id.split(";")[idx]|float| get_data_from_sheet(data["data"],"Ingredient","Descrição\n(Description)","Ingredient ID") %}
 {% set ns.ing_reference_id = ns.ing_id.split(";")[idx]|float| get_data_from_sheet(data["data"],"Ingredient","EU-SMS/SRS","Ingredient ID") %}
@@ -37,11 +37,11 @@
 {% if ns.ing_name|string != "None" %}
 
 //{{ns.ing_name}}//{{ns.ing_id}}
-
-Instance: ingredient-{{ ns.ing_name|create_hash_id}}
+{% set ns.ing_id_hash = ns.ing_name~row["MED ID"]~ns.num_value %}
+Instance: ingredient-{{ ns.ing_id_hash|create_hash_id}}
 InstanceOf: PPLIngredient
 Title: "{{ ns.ing_name}}"
-Description: "ingredient {{ns.ing_name}} with strength {{ ns.ing_strength}} for {{ row["MED ID"]}}"
+Description: "ingredient {{ns.ing_name}} with strength {{ns.num_value}} as {{ ns.ing_type}} for {{ row["MED ID"]}}"
 Usage: #example
 
 * role = $100000072050#100000072072 "active"
