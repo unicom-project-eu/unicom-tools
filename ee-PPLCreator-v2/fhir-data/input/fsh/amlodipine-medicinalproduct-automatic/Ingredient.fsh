@@ -13,13 +13,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //ALNETATablett5mg
@@ -40,13 +41,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //ALNETATablett10mg
@@ -67,13 +69,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLOCARD 10MGTablett10mg
@@ -94,13 +97,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLOCARD 5 MGTablett5mg
@@ -121,13 +125,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIGAMMA 10MGTablett10mg
@@ -148,13 +153,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIGAMMA 5MGTablett5mg
@@ -175,13 +181,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIPIN-RATIOPHARM 10 MGTablett10mg
@@ -202,13 +209,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIPIN-RATIOPHARM 5 MGTablett5mg
@@ -229,13 +237,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIPINE MEDOCHEMIETablett10mg
@@ -256,13 +265,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIPINE MEDOCHEMIETablett5mg
@@ -283,13 +293,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIPINE TEVATablett10mg
@@ -310,13 +321,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIPINE VITABALANSTablett10mg
@@ -337,13 +349,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //AMLODIPINE VITABALANSTablett5mg
@@ -364,13 +377,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //NORVASCTablett5mg
@@ -391,13 +405,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //NORVASCTablett5mg
@@ -418,13 +433,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //NORVASCTablett10mg
@@ -445,13 +461,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 5mg
 
-* substance.strength.presentationRatio.numerator = 6.94  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 6.94 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 5mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 5  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 5 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //NORVASCTablett5mg
@@ -472,13 +489,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //NORVASCTablett10mg
@@ -499,13 +517,14 @@ Usage: #example
 * substance.code.concept = $sms#100000090079 "Amlodipine besilate"
 //full: 10mg
 
-* substance.strength.presentationRatio.numerator = 13.87  $100000110633#100000110655  "mg"
+* substance.strength.presentationRatio.numerator = 13.87 $100000110633#100000110655  "mg"
 * substance.strength.presentationRatio.denominator = 1 $200000000014#200000002152 "Tablet"
 //* substance.code.concept = $sms#100000085259 "Amlodipine"
 
 //full: 10mg
-* substance.strength.referenceStrength.strengthRatio.numerator  = 10  $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#None "Tablet"
+* substance.strength.referenceStrength.strengthRatio.numerator  = 10 $100000110633#100000110655 "mg"
+//Tablett
+* substance.strength.referenceStrength.strengthRatio.denominator =  1 $200000000014#200000002152 "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000085259 "Amlodipine"
 // Reference to products item
 //NORVASCTablett10mg

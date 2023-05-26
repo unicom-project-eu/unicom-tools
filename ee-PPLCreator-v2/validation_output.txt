@@ -2,7 +2,17 @@ Ingredient.fsh:{'error_count': 0, 'description': {}}
 AdministrableProductDefinition.fsh:{'error_count': 0, 'description': {}}
 RegulatedAuthorization.fsh:{'error_count': 0, 'description': {}}
 Organization.fsh:{'error_count': 0, 'description': {}}
-PackagedProductDefinition.fsh:{'error_count': 0, 'description': {}}
+PackagedProductDefinition.fsh:{'error_count': 10, 'description': {'ERROR[7]': 10}}
 MedicinalProductDefinition.fsh:{'error_count': 0, 'description': {}}
 ManufacturedItemDefinition.fsh:{'error_count': 0, 'description': {}}
 
+no package at 22
+no package at 24
+no package at 25
+no package at 26
+no package at 29
+no package at 113
+no package at 114
+no package at 115
+no package at 118
+no package at 119

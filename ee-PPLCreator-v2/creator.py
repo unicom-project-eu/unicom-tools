@@ -274,6 +274,33 @@ def remove_duplicate(DATA_FILE, OUTPUT_FOLDER):
             f.writelines("".join(clean_data))
 
 
+def quality_checks(DATA_FILE, OUTPUT_FOLDER):
+    if OUTPUT_FOLDER[-1] != "/":
+        OUTPUT_FOLDER += "/"
+
+    major_name = DATA_FILE.lower().split("/")[-1].split(".")[0]
+
+    real_output_folder = OUTPUT_FOLDER + major_name + "-automatic/"
+
+    # writing to file
+
+    for path in listdir(real_output_folder):
+        print(path)
+        file = open(real_output_folder + "/" + path, "r")
+        # with open(file) as f:
+        lines = file.readlines()
+        for idx, line in enumerate(lines):
+            if "None" in line:
+                print("ISSUE on line: ", str(idx), "file ->", path)
+                print(line)
+            if "nan" in line:
+                print("ANOTHER ISSUE on line: ", str(idx), "file ->", path)
+                print(line)
+            if ".0" in line:
+                print("ANOTHER ISSUE on line: ", str(idx), "file ->", path)
+                print(line)
+
+
 def remove_double_lines(DATA_FILE, OUTPUT_FOLDER):
     if OUTPUT_FOLDER[-1] != "/":
         OUTPUT_FOLDER += "/"
@@ -302,3 +329,4 @@ if __name__ == "__main__":
     validate_data(DATA_FILE=DATA_FILE, OUTPUT_FOLDER=OUTPUT_FOLDER)
     remove_double_lines(DATA_FILE=DATA_FILE, OUTPUT_FOLDER=OUTPUT_FOLDER)
     remove_duplicate(DATA_FILE=DATA_FILE, OUTPUT_FOLDER=OUTPUT_FOLDER)
+    quality_checks(DATA_FILE=DATA_FILE, OUTPUT_FOLDER=OUTPUT_FOLDER)

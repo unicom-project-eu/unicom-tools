@@ -19,6 +19,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
@@ -52,6 +53,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
@@ -85,6 +87,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
@@ -118,6 +121,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
@@ -151,6 +155,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
@@ -184,6 +189,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
@@ -217,6 +223,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
@@ -250,6 +257,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0b5de376a6e3694afd4c906d71a20a93)
@@ -283,6 +291,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -317,6 +326,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -348,6 +358,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -381,6 +392,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -412,6 +424,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000174066 "Unit-dose blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -446,6 +459,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -480,6 +494,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -514,6 +529,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -545,6 +561,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -578,6 +595,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -612,6 +630,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -646,6 +665,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -679,6 +699,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-e7ee4d9735c9b48b2998e52eb7179ed5)
@@ -710,6 +731,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:22
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -741,6 +764,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -772,6 +796,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:24
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -803,6 +829,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:25
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -834,6 +862,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:26
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -865,6 +895,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -896,6 +927,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -930,6 +962,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:29
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -961,6 +995,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-8ecdc31c688fde866ba554202ab24480)
@@ -992,6 +1027,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1025,6 +1061,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1058,6 +1095,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1091,6 +1129,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1124,6 +1163,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1157,6 +1197,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1190,6 +1231,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1223,6 +1265,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1256,6 +1299,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1290,6 +1334,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1324,6 +1369,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1357,6 +1403,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1390,6 +1437,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-17aa3bb6faec404ef2e078cb38f6d778)
@@ -1423,6 +1471,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-9030bbd21e461a4d7993890e64808084)
@@ -1457,6 +1506,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1491,6 +1541,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1524,6 +1575,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1557,6 +1609,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1590,6 +1643,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1624,6 +1678,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1658,6 +1713,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1691,6 +1747,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1724,6 +1781,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1757,6 +1815,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1790,6 +1849,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1824,6 +1884,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1858,6 +1919,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1891,6 +1953,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1924,6 +1987,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7237aa8d3abcc0e1ce1df7ef512a0eb0)
@@ -1957,6 +2021,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
@@ -1990,6 +2055,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
@@ -2023,6 +2089,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
@@ -2056,6 +2123,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-938b248e75affacf29383e0738b98ea2)
@@ -2089,6 +2157,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2122,6 +2191,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2155,6 +2225,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2188,6 +2259,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2221,6 +2293,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2254,6 +2327,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2287,6 +2361,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2320,6 +2395,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2353,6 +2429,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2386,6 +2463,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2419,6 +2497,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-a0a5c6fec3f94cc85dd264a42dc34740)
@@ -2452,6 +2531,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2485,6 +2565,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2518,6 +2599,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2551,6 +2633,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2584,6 +2667,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2617,6 +2701,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2650,6 +2735,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2683,6 +2769,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2716,6 +2803,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2749,6 +2837,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2782,6 +2871,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2815,6 +2905,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2848,6 +2939,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2881,6 +2973,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-78ea828e8c2e0f9915b779973ab0c27c)
@@ -2914,6 +3007,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2947,6 +3041,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-15a3485fca0150bf08be1d4cb03d6e36)
@@ -2980,6 +3075,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
@@ -3013,6 +3109,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
@@ -3046,6 +3143,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
@@ -3079,6 +3177,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
@@ -3112,6 +3211,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
@@ -3145,6 +3245,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
@@ -3178,6 +3279,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
@@ -3211,6 +3313,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-1679e02bd535d5bf19f330ce4bcf681e)
@@ -3244,6 +3347,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3277,6 +3381,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3311,6 +3416,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3342,6 +3448,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3376,6 +3483,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3409,6 +3517,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3442,6 +3551,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3473,6 +3583,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3504,6 +3615,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000174066 "Unit-dose blister"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3538,6 +3650,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3572,6 +3685,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3606,6 +3720,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3640,6 +3755,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000137702 "Container"
     * containedItem.item.reference = Reference(mid-9cddcc96feade261665f0a3ef5dbe6ea)
@@ -3671,6 +3787,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3705,6 +3822,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:113
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3736,6 +3855,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:114
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3767,6 +3888,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:115
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3798,6 +3921,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3829,6 +3953,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3860,6 +3985,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:118
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3891,6 +4018,8 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+// ERROR[7] - no package at INDEX:119
+ 
   * packaging.
     * type = $100000073346#None "None"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3922,6 +4051,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-2e5db5eb34247c26e6a5068649e59e59)
@@ -3953,6 +4083,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -3986,6 +4117,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4020,6 +4152,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4053,6 +4186,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4086,6 +4220,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4119,6 +4254,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4152,6 +4288,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4185,6 +4322,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4218,6 +4356,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4252,6 +4391,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4285,6 +4425,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4318,6 +4459,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4351,6 +4493,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-0117d414f0e94ef69e054e81654d62c7)
@@ -4384,6 +4527,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-790c3262fcb36ab4153d147d79fb4390)
@@ -4418,6 +4562,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
@@ -4451,6 +4596,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
@@ -4484,6 +4630,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
@@ -4517,6 +4664,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4b4b41bca51db4ce2a7ae1853bc6ea85)
@@ -4550,6 +4698,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4583,6 +4732,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4616,6 +4766,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -4649,6 +4800,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4682,6 +4834,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4715,6 +4868,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4748,6 +4902,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4781,6 +4936,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -4814,6 +4970,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4847,6 +5004,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4880,6 +5038,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4913,6 +5072,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4946,6 +5106,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -4979,6 +5140,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ab811c9807131a6fe102e644fd451c1f)
@@ -5012,6 +5174,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-7622a96b7cdac59b9ebbffcc7e1a4fa4)
@@ -5045,6 +5208,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5078,6 +5242,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5111,6 +5276,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5144,6 +5310,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5177,6 +5344,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5210,6 +5378,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5243,6 +5412,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5276,6 +5446,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5309,6 +5480,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)
@@ -5342,6 +5514,7 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
+ 
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-820a0f5b4d1867edcdb92826125560f3)

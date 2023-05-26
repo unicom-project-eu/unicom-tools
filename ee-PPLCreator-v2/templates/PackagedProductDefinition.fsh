@@ -49,7 +49,9 @@ Usage: #example
   * quantity = 1
   * type = $100000073346#100000073498 "Box"
   
-
+{% if row["Sisepakendi liik"]|string == "nan" %}
+{{ "// ERROR[7] - no package at INDEX:{}".format(index+1)  }}
+{% endif %} 
   * packaging.
     * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini nimi","RMS nimi eesti keeles") }}"
     * containedItem.item.reference = Reference(mid-{{row["Müügiloa number"]|trim|create_hash_id}})
