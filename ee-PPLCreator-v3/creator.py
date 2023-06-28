@@ -130,6 +130,31 @@ def strip_spaces(string):
 env.filters["strip_spaces"] = strip_spaces
 
 
+def calculate_stregngth(original, w):
+    """w1 --- 1 mol
+    o_value -- x
+
+    w2 --- 1 mol
+    f_value --- x
+    """
+    print("or", original)
+    print("w", w)
+    o_value = float("".join(re.findall("\d+|\.", original)))
+    print(o_value)
+    reference = w.split("|")[0]
+    conc = w.split("|")[1]
+    print(reference, conc)
+
+    mol = o_value / float(reference)
+
+    f_value = float(conc) * mol
+    print(f_value)
+    return round(f_value, 2)
+
+
+env.filters["calculate_stregngth"] = calculate_stregngth
+
+
 def create_from_template(DATA_FILE, TEMPLATE_FOLDER, OUTPUT_FOLDER):
 
     # create temp_folder:

@@ -57,12 +57,11 @@ Usage: #example
   * packaging.
     * type = $100000073346#{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini id","RMS nimi eesti keeles") }} "{{ row["Sisepakendi liik"]|get_data_dictionary_info(100000073346,"RMS termini nimi","RMS nimi eesti keeles") }}"
     * containedItem.item.reference = Reference(mid-{{row["Müügiloa number"]|trim|create_hash_id}})
-    
-    {% if row["Pakendi suurus"]|string !="nan"  %}
+{% if row["Pakendi suurus"]|string !="nan"  %}
     * containedItem.amount.value = {{ row["Pakendi suurus"]|get_by_regex("\d+") }}
-    {% else %}
-    {{"// ERROR[9] - no Quantity: {} for this package in the medicinal sheet for INDEX:{}".format(row["Müügiloa number"],index+1) }}
-    {%- endif %}
+{% else %}
+{{"// ERROR[9] - no Quantity: {} for this package in the medicinal sheet for INDEX:{}".format(row["Müügiloa number"],index+1) }}
+{%- endif %}
 
 
     {% for idx in range(0,row["Sisepakendi materjal"].count(",")+1) %} 

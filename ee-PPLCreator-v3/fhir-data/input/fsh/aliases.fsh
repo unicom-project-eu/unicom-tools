@@ -73,7 +73,7 @@ Alias: $org-id = https://spor.ema.europa.eu/v1/organisations // EMA OMS Organisa
 Alias: $who-atc = http://www.whocc.no/atc // WHO ATC
 Alias: $edqm-standardterms = https://standardterms.edqm.eu // EDQM standard terms
 
-
+Alias: $atc = http://www.whocc.no/atc
 // ===== Value Sets
 Alias: $BCP47 = http://hl7.org/fhir/ValueSet/all-languages // FHIR all languages value set
 Alias: $iso-country = https://www.hl7.org/fhir/valueset-country.html // FHIR Country value set based on ISO 3166-1-2

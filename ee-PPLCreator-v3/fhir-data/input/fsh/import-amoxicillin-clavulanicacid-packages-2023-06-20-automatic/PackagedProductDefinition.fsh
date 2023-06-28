@@ -24,9 +24,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-aef16e777350a038f9907b2f30d0cd3e)
-    
-        * containedItem.amount.value = 1
-    
+    * containedItem.amount.value = 1
+
      
     * material[+] = $200000003199#200000003206 "Glass type III"
 //1013820 -> True
@@ -59,9 +58,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-63f5adb8aee673b5cbc8f5e123ede45b)
-    
-        * containedItem.amount.value = 1
-    
+    * containedItem.amount.value = 1
+
      
     * material[+] = $200000003199#200000003206 "Glass type III"
 //1029021 -> True
@@ -94,9 +92,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ae0f709e7d41e835a22b84e847a7aa95)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
@@ -131,9 +128,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073563 "Vial"
     * containedItem.item.reference = Reference(mid-0c3865762feeeda0cda92ded3764200c)
-    
-        * containedItem.amount.value = 5
-    
+    * containedItem.amount.value = 5
+
      
     * material[+] = $200000003199#200000003203 "Glass"
 //149896 -> True
@@ -166,9 +162,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-cc91bd35cacafbd07310b5140b983ca2)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003200 "Aluminium" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
@@ -204,9 +199,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-6c440b58a82f2b326e5d2212bc4c28f3)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003200 "Aluminium"
 //345301 -> True
@@ -239,9 +233,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-8395fd1100b827d4553f55467401cec1)
-    
-        * containedItem.amount.value = 1
-    
+    * containedItem.amount.value = 1
+
      
     * material[+] = $200000003199#200000003203 "Glass"
 //345401 -> True
@@ -274,9 +267,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-a183d02763ad3ec233f3868e33c3a7c1)
-    
-        * containedItem.amount.value = 10
-    
+    * containedItem.amount.value = 10
+
      
     * material[+] = $200000003199#200000003200 "Aluminium"
 //345501 -> True
@@ -309,9 +301,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-a183d02763ad3ec233f3868e33c3a7c1)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003200 "Aluminium"
 //345501 -> True
@@ -344,9 +335,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-3db2464750d10c42a5def393db852f42)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003200 "Aluminium"
 //521706 -> True
@@ -379,9 +369,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073563 "Vial"
     * containedItem.item.reference = Reference(mid-fe9d30ca141748f551f66c0b61345011)
-    
-        * containedItem.amount.value = 10
-    
+    * containedItem.amount.value = 10
+
      
     * material[+] = $200000003199#200000003205 "Glass type II"
 //785412 -> True
@@ -414,9 +403,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-3274dad3c464912ca6b376ec36383c72)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003200 "Aluminium"
 //864515 -> True
@@ -449,9 +437,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073559 "Strip"
     * containedItem.item.reference = Reference(mid-fb141b1fc2fa85a52c41173030cd9869)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium" 
@@ -486,9 +473,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-ddbfe1991540036d24c62d77a8ff9c0c)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003209 "PolyAmide" 
     * material[+] = $200000003199#200000003225 "PolyVinylidene Chloride" 
@@ -524,9 +510,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-8946929ce94a7eb4ba6090b17bfedf25)
-    
-        * containedItem.amount.value = 1
-    
+    * containedItem.amount.value = 1
+
      
     * material[+] = $200000003199#200000003206 "Glass type III"
 //933817 -> True
@@ -559,9 +544,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073497 "Bottle"
     * containedItem.item.reference = Reference(mid-697d34dff506a59ef85855f0b5abfa39)
-    
-        * containedItem.amount.value = 1
-    
+    * containedItem.amount.value = 1
+
      
     * material[+] = $200000003199#200000003206 "Glass type III"
 //947217 -> True
@@ -594,9 +578,8 @@ Usage: #example
   * packaging.
     * type = $100000073346#100000073496 "Blister"
     * containedItem.item.reference = Reference(mid-4da3cdc94188d30935c062b4e8c9353a)
-    
-        * containedItem.amount.value = 14
-    
+    * containedItem.amount.value = 14
+
      
     * material[+] = $200000003199#200000003222 "PolyVinyl Chloride" 
     * material[+] = $200000003199#200000003200 "Aluminium"
