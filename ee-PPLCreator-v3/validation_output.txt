@@ -1,0 +1,42 @@
+Ingredient.fsh:{'error_count': 34, 'description': {'ERROR[5]': 34}}
+AdministrableProductDefinition.fsh:{'error_count': 0, 'description': {}}
+RegulatedAuthorization.fsh:{'error_count': 0, 'description': {}}
+Organization.fsh:{'error_count': 0, 'description': {}}
+PackagedProductDefinition.fsh:{'error_count': 0, 'description': {}}
+MedicinalProductDefinition.fsh:{'error_count': 0, 'description': {}}
+ManufacturedItemDefinition.fsh:{'error_count': 0, 'description': {}}
+
+reference strengths and principles are wrong for 1
+reference strengths and principles are wrong for 1
+reference strengths and principles are wrong for 2
+reference strengths and principles are wrong for 2
+reference strengths and principles are wrong for 3
+reference strengths and principles are wrong for 3
+reference strengths and principles are wrong for 4
+reference strengths and principles are wrong for 4
+reference strengths and principles are wrong for 5
+reference strengths and principles are wrong for 5
+reference strengths and principles are wrong for 6
+reference strengths and principles are wrong for 6
+reference strengths and principles are wrong for 7
+reference strengths and principles are wrong for 7
+reference strengths and principles are wrong for 8
+reference strengths and principles are wrong for 8
+reference strengths and principles are wrong for 9
+reference strengths and principles are wrong for 9
+reference strengths and principles are wrong for 10
+reference strengths and principles are wrong for 10
+reference strengths and principles are wrong for 11
+reference strengths and principles are wrong for 11
+reference strengths and principles are wrong for 12
+reference strengths and principles are wrong for 12
+reference strengths and principles are wrong for 13
+reference strengths and principles are wrong for 13
+reference strengths and principles are wrong for 14
+reference strengths and principles are wrong for 14
+reference strengths and principles are wrong for 15
+reference strengths and principles are wrong for 15
+reference strengths and principles are wrong for 16
+reference strengths and principles are wrong for 16
+reference strengths and principles are wrong for 17
+reference strengths and principles are wrong for 17
