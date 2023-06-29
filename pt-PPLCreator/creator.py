@@ -186,6 +186,8 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
     real_output_folder = OUTPUT_FOLDER + "pt/"
     # writing to file
     erros = {}
+    description = []
+
     for path in listdir(real_output_folder):
         print(path)
         file = open(real_output_folder + "/" + path, "r")
@@ -195,19 +197,19 @@ def validate_data(DATA_FILE, OUTPUT_FOLDER):
         count = 0
         final_count = {}
         ids_to_skip = {}
-        description = []
         # Strips the newline character
         for line in Lines:
             count += 1
             if "// ERROR" in line:
                 # print(line)
                 error_nr = re.search("ERROR\[\d{1,2}\]", line)
-                id_ = re.findall("INDEX:(\d{1,7})", line)
-                #  print(id_)
+                id_ = re.search("INDEX:(\d{1,7})", line)
+                # print(id_[0])
                 message = re.findall("- (.+) INDEX:", line)
-                description.append(message[0] + " " + id_[0])
+                # print(message[0])
+                description.append(str(message[0]) + " " + str(id_[0]))
 
-                # print(id_[0], message)
+                #   print(id_[0], message)
                 # print(error_nr[0])
                 if error_nr[0] in final_count.keys():
                     final_count[error_nr[0]] += 1

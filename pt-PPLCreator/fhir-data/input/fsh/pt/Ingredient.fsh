@@ -70,8 +70,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:2
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:2
+
 //Amoxicilina tri-hidratada//411; 413
 Instance: ingredient-fa113063a90b9c5e88e41dd43c16feaa
 InstanceOf: PPLIngredient
@@ -105,8 +107,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:2
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:2
+
 //Clavulanato de potássio//411; 413
 Instance: ingredient-995936cb3157f2c7cd2882a63b3b0989
 InstanceOf: PPLIngredient
@@ -306,8 +310,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:8
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:8
+
 //Paracetamol//9495
 Instance: ingredient-a2e3dcf10ca5325207266d57fcf9bb93
 InstanceOf: PPLIngredient
@@ -507,8 +513,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:16
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:16
+
 //Amoxicilina tri-hidratada//15770
 Instance: ingredient-e6db5be4f8e2c871be3ddf3b8f4befa7
 InstanceOf: PPLIngredient
@@ -806,8 +814,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:26
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:26
+
 //Clotrimazol//4200
 Instance: ingredient-6ac067e08586aaa15a5b47cfd177ee6a
 InstanceOf: PPLIngredient
@@ -1363,8 +1373,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:44
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:44
+
 //Hidrocortisona//41090
 Instance: ingredient-8db940cb1b84ba4d0653299971445a7c
 InstanceOf: PPLIngredient
@@ -1399,8 +1411,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:45
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:45
+
 //Paracetamol//79781
 Instance: ingredient-db0a9a55382cd07c3619be29dfce8e4f
 InstanceOf: PPLIngredient
@@ -1600,8 +1614,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:53
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:53
+
 //Ciclosporina//4334
 Instance: ingredient-3273e0ba73f4f005ba8a03ee539c96e6
 InstanceOf: PPLIngredient
@@ -1834,8 +1850,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:62
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:62
+
 //Tramadol, cloridrato//2509
 Instance: ingredient-11ebd33874ef2672f7ad1dee822e3da3
 InstanceOf: PPLIngredient
@@ -1870,8 +1888,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:63
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:63
+
 //Tramadol, cloridrato//2565
 Instance: ingredient-3b53acf6616c263a9c0654699d858795
 InstanceOf: PPLIngredient
@@ -2266,8 +2286,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:79
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:79
+
 //Diclofenac sódico//25432
 Instance: ingredient-c5ca41ad5706c977852c0a0b9ed8f5cc
 InstanceOf: PPLIngredient
@@ -2368,8 +2390,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:83
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:83
+
 //Diclofenac sódico//58486
 Instance: ingredient-25a734450ebc1b78a347f52376ca07af
 InstanceOf: PPLIngredient
@@ -2404,8 +2428,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:84
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:84
+
 //Diclofenac, dietilamónio//5352
 Instance: ingredient-3e85dd9e176c4509eb4b28af62308c00
 InstanceOf: PPLIngredient
@@ -2440,8 +2466,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:85
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:85
+
 //Diclofenac, dietilamónio//5352
 Instance: ingredient-02f05108764a5cb969e95c2291836f72
 InstanceOf: PPLIngredient
@@ -2542,8 +2570,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:91
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:91
+
 //Cefuroxima axetil//58232
 Instance: ingredient-53e0bb7295063df3cb9ed2b6dccfad3c
 InstanceOf: PPLIngredient
@@ -2578,8 +2608,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:92
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:92
+
 //Amoxicilina tri-hidratada//387; 389
 Instance: ingredient-4c9cccbe8b630ae5aa8405f72e0250aa
 InstanceOf: PPLIngredient
@@ -2613,8 +2645,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:92
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:92
+
 //Clavulanato de potássio//387; 389
 Instance: ingredient-9343fff194ab098186d2e2142055a9fe
 InstanceOf: PPLIngredient
@@ -2846,8 +2880,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:99
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:99
+
 //Brometo de ipratrópio mono-hidratado//72208; 72209
 Instance: ingredient-a9d4030207e18e4f9fe88902df52ddea
 InstanceOf: PPLIngredient
@@ -2915,8 +2951,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:101
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:101
+
 //Hidrocortisona, succinato sódico//74998
 Instance: ingredient-e1de758e063e6d07a1366894b534cf3c
 InstanceOf: PPLIngredient
@@ -3116,8 +3154,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:107
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:107
+
 //Lidocaína, cloridrato//117693
 Instance: ingredient-a82c1dd444b97c0b3d2c0691522e3a73
 InstanceOf: PPLIngredient
@@ -3152,8 +3192,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:108
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:108
+
 //Lidocaína, cloridrato//117693
 Instance: ingredient-3634058d7df003d6b35abe8d4358d4d0
 InstanceOf: PPLIngredient
@@ -3188,8 +3230,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:110
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:110
+
 //Lidocaína, cloridrato//117706
 Instance: ingredient-14e28ebd80b1a5f91b2e49d2f5541f1a
 InstanceOf: PPLIngredient
@@ -4333,8 +4377,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:143
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:143
+
 //Cefuroxima axetil//55274
 Instance: ingredient-fce2d41121dcfa25ebc7eea038649a70
 InstanceOf: PPLIngredient
@@ -4435,8 +4481,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:146
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:146
+
 //Amoxicilina tri-hidratada//12938; 71074
 Instance: ingredient-24a614ed328bc7b75317e3d3dded592c
 InstanceOf: PPLIngredient
@@ -4470,8 +4518,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:146
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:146
+
 //Clavulanato de potássio//12938; 71074
 Instance: ingredient-8b41004fecde8fad3e038af4a78252b0
 InstanceOf: PPLIngredient
@@ -4506,8 +4556,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:147
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:147
+
 //Hidrocortisona, butirato//3674
 Instance: ingredient-cb3c87143680959771c4afd98bc57c0a
 InstanceOf: PPLIngredient
@@ -4607,8 +4659,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:150
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:150
+
 //Hidrocortisona, acetato//4721; 4722
 Instance: ingredient-666cabc98c2f445967012b7c9086abbd
 InstanceOf: PPLIngredient
@@ -4643,8 +4697,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:151
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:151
+
 //Amoxicilina tri-hidratada//9726; 71086
 Instance: ingredient-b14c292bef1d6287bad7638a588b75e3
 InstanceOf: PPLIngredient
@@ -4678,8 +4734,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:151
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:151
+
 //Clavulanato de potássio//9726; 71086
 Instance: ingredient-a7562611ff6629584bb8f5037bcd4f04
 InstanceOf: PPLIngredient
@@ -4714,8 +4772,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:152
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:152
+
 //Morfina, cloridrato tri-hidratado//16455
 Instance: ingredient-2d1cc98311e482d5a758d69259612453
 InstanceOf: PPLIngredient
@@ -4750,8 +4810,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:153
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:153
+
 //Clotrimazol//16564
 Instance: ingredient-5bd98d564b437d2cb88ffed0cd2d2571
 InstanceOf: PPLIngredient
@@ -4786,8 +4848,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:154
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:154
+
 //Clotrimazol//16564
 Instance: ingredient-52ca02ed0168540521dd3685f94ec2dd
 InstanceOf: PPLIngredient
@@ -4822,8 +4886,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:156
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:156
+
 //Tramadol, cloridrato//25937
 Instance: ingredient-3c3f1963f5336f6e746b91a77bf58d16
 InstanceOf: PPLIngredient
@@ -4858,8 +4924,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:157
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:157
+
 //Diclofenac, dietilamónio//26288
 Instance: ingredient-f854213927b638b0c646287404a097c2
 InstanceOf: PPLIngredient
@@ -4894,8 +4962,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:158
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:158
+
 //Enoxaparina sódica//30732
 Instance: ingredient-d4741e0461df34004a7c4cf6849ac834
 InstanceOf: PPLIngredient
@@ -4930,8 +5000,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:159
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:159
+
 //Enoxaparina sódica//30732
 Instance: ingredient-bbd7986e6f1dc03cdaac4ff374ad8286
 InstanceOf: PPLIngredient
@@ -4966,8 +5038,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:161
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:161
+
 //Enoxaparina sódica//30734
 Instance: ingredient-d43893278b83bc860cef69dcdeb16365
 InstanceOf: PPLIngredient
@@ -5001,8 +5075,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:162
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:162
+
 //Clavulanato de potássio//37343; 37344
 Instance: ingredient-3f9d8629a7cd5033a3d1e8bbba702ae5
 InstanceOf: PPLIngredient
@@ -5038,8 +5114,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:164
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:164
+
 //Amoxicilina sódica//37347; 37348
 Instance: ingredient-64714ce705e5c4dbe2f39940195ce5e3
 InstanceOf: PPLIngredient
@@ -5073,8 +5151,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:164
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:164
+
 //Clavulanato de potássio//37347; 37348
 Instance: ingredient-2ea651e11c527c077bfbd1bcd6575043
 InstanceOf: PPLIngredient
@@ -5208,8 +5288,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:168
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:168
+
 //Insulina glargina//48606
 Instance: ingredient-0a9f6e580ef4d0e66ac7140d42333780
 InstanceOf: PPLIngredient
@@ -5310,8 +5392,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:171
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:171
+
 //Diclofenac sódico//54196
 Instance: ingredient-c6e8f5d57b4d11ba41448115a384d2f3
 InstanceOf: PPLIngredient
@@ -5346,8 +5430,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:172
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:172
+
 //Diclofenac sódico//54196
 Instance: ingredient-e95a269ee501d7ea8d38324c523a6546
 InstanceOf: PPLIngredient
@@ -5447,8 +5533,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:175
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:175
+
 //Ibuprofeno//56419
 Instance: ingredient-a03cca480eecf5cddf2609d7d0f95f79
 InstanceOf: PPLIngredient
@@ -5483,8 +5571,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:176
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:176
+
 //Amoxicilina tri-hidratada//57384; 57385
 Instance: ingredient-5d53290b97110a124684a1050efb2972
 InstanceOf: PPLIngredient
@@ -5518,8 +5608,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:176
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:176
+
 //Clavulanato de potássio//57384; 57385
 Instance: ingredient-1598f150682290b1b42b2b036fd678ad
 InstanceOf: PPLIngredient
@@ -5554,8 +5646,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:177
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:177
+
 //Enoxaparina sódica//57918
 Instance: ingredient-351edeaf84027fb31ccd63d8081d6b9b
 InstanceOf: PPLIngredient
@@ -5590,8 +5684,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:178
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:178
+
 //Enoxaparina sódica//57918
 Instance: ingredient-7dcc40760f85a9ce74bff91d11dd0c63
 InstanceOf: PPLIngredient
@@ -5626,8 +5722,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:180
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:180
+
 //Enoxaparina sódica//57921
 Instance: ingredient-8ea0521f10748da37d42f9ac6b933bf6
 InstanceOf: PPLIngredient
@@ -5826,8 +5924,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:188
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:188
+
 //Morfina, cloridrato tri-hidratado//59295
 Instance: ingredient-be015ebe6b8921a725cace789fb09e97
 InstanceOf: PPLIngredient
@@ -5862,8 +5962,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:189
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:189
+
 //Morfina, cloridrato tri-hidratado//59319
 Instance: ingredient-2e248be229e949218067f09d43564c11
 InstanceOf: PPLIngredient
@@ -5898,8 +6000,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:190
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:190
+
 //Morfina, cloridrato tri-hidratado//59326
 Instance: ingredient-42acfece66be13d8e21824ea7a6496bc
 InstanceOf: PPLIngredient
@@ -6361,8 +6465,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:206
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:206
+
 //Morfina, sulfato//63843
 Instance: ingredient-70d098abd7b0aefde381691744cb3905
 InstanceOf: PPLIngredient
@@ -6462,8 +6568,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:209
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:209
+
 //Amoxicilina tri-hidratada//64565; 64566
 Instance: ingredient-62a1ee72f5398fb60fff9df478f14aee
 InstanceOf: PPLIngredient
@@ -6498,8 +6606,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:210
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:210
+
 //Lidocaína//66220
 Instance: ingredient-eb1c58922b2596d354eb4b9624d841bc
 InstanceOf: PPLIngredient
@@ -6599,8 +6709,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:213
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:213
+
 //Amoxicilina tri-hidratada//67693; 67694
 Instance: ingredient-2ba32a817d3364b0005fb558d7f11339
 InstanceOf: PPLIngredient
@@ -7487,8 +7599,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:242
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:242
+
 //Amoxicilina tri-hidratada//11336; 71075
 Instance: ingredient-785d25b0f2ebd4f9b5b3dba523c851fa
 InstanceOf: PPLIngredient
@@ -7522,8 +7636,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:242
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:242
+
 //Clavulanato de potássio//11336; 71075
 Instance: ingredient-b07ddc21b47f9e017e2b26c1518694aa
 InstanceOf: PPLIngredient
@@ -7690,8 +7806,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:248
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:248
+
 //Clomipramina, cloridrato//7158
 Instance: ingredient-f2da6050715411d4e586fb89981ce309
 InstanceOf: PPLIngredient
@@ -7921,8 +8039,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:254
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:254
+
 //Dexametasona, acetato//8944; 8945
 Instance: ingredient-a1bf5cc345198cee9e51f0702a2fb7e6
 InstanceOf: PPLIngredient
@@ -8417,8 +8537,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:271
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:271
+
 //Amoxicilina tri-hidratada//15425
 Instance: ingredient-6f7f8856f7ad3aafcd76ee3b51380d3c
 InstanceOf: PPLIngredient
@@ -8486,8 +8608,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:273
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:273
+
 //Amoxicilina tri-hidratada//534; 535
 Instance: ingredient-19ce931d4f0e232d76cc44565bd86cd2
 InstanceOf: PPLIngredient
@@ -8521,8 +8645,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:273
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:273
+
 //Clavulanato de potássio//534; 535
 Instance: ingredient-b53280f82c302d508ddb183a57b2c9b5
 InstanceOf: PPLIngredient
@@ -8557,8 +8683,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:274
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:274
+
 //Amoxicilina tri-hidratada//531; 532
 Instance: ingredient-1c7d27c84a7fb9ff93a70c7a32298608
 InstanceOf: PPLIngredient
@@ -8592,8 +8720,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:274
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:274
+
 //Clavulanato de potássio//531; 532
 Instance: ingredient-2558853d8341554c5fa09320c44735e8
 InstanceOf: PPLIngredient
@@ -8758,8 +8888,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:277
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:277
+
 //Morfina, cloridrato tri-hidratado//16452
 Instance: ingredient-26649712be28c22216acedc534119d90
 InstanceOf: PPLIngredient
@@ -8794,8 +8926,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:278
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:278
+
 //Miconazol, nitrato//28422; 28423
 Instance: ingredient-20a5af968c683db7eb066c0a665109eb
 InstanceOf: PPLIngredient
@@ -8829,8 +8963,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:278
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:278
+
 //Hidrocortisona//28422; 28423
 Instance: ingredient-0229d343e2396ed372e7989b190ab62d
 InstanceOf: PPLIngredient
@@ -8865,8 +9001,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:279
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:279
+
 //Metilprednisolona, acetato//19570; 19571
 Instance: ingredient-00a40b47ea4971bc88d708b0090787cd
 InstanceOf: PPLIngredient
@@ -8900,8 +9038,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:279
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:279
+
 //Lidocaína, cloridrato//19570; 19571
 Instance: ingredient-cbf03ee35203b475720ade2cd4650a0e
 InstanceOf: PPLIngredient
@@ -9166,8 +9306,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:290
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:290
+
 //Dobesilato de cálcio mono-hidratado//21809; 21810
 Instance: ingredient-6ba7ce57366166c2e58657831557bb09
 InstanceOf: PPLIngredient
@@ -9201,8 +9343,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:290
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:290
+
 //Lidocaína, cloridrato//21809; 21810
 Instance: ingredient-175f97fa0d5980ae801f8b9c9d73a6ff
 InstanceOf: PPLIngredient
@@ -9270,8 +9414,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:292
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:292
+
 //Lidocaína//22598; 22599
 Instance: ingredient-5bee4dbdcacb6d79543c5cce64de27f3
 InstanceOf: PPLIngredient
@@ -9305,8 +9451,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:292
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:292
+
 //Prilocaína//22598; 22599
 Instance: ingredient-64c756f3036ad8f73569523e571660ea
 InstanceOf: PPLIngredient
@@ -9341,8 +9489,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:293
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:293
+
 //Lidocaína//22621; 22622
 Instance: ingredient-7e59e08b4f9a7155b6417d6cd946e671
 InstanceOf: PPLIngredient
@@ -9376,8 +9526,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:293
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:293
+
 //Prilocaína//22621; 22622
 Instance: ingredient-1eb4211937378563ffb1f0e44a16c1eb
 InstanceOf: PPLIngredient
@@ -9543,8 +9695,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:299
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:299
+
 //Betametasona, dipropionato//26898; 26899
 Instance: ingredient-776c5f002e29f228680aec344732f43d
 InstanceOf: PPLIngredient
@@ -9578,8 +9732,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:299
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:299
+
 //Clotrimazol//26898; 26899
 Instance: ingredient-05e743b5932791765782392cca143e25
 InstanceOf: PPLIngredient
@@ -9614,8 +9770,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:300
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:300
+
 //Clotrimazol//26902; 26903
 Instance: ingredient-6eb38a324036b8a0f1c3ea855a4e77a3
 InstanceOf: PPLIngredient
@@ -9649,8 +9807,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:300
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:300
+
 //Betametasona, dipropionato//26902; 26903
 Instance: ingredient-253fc904eaf33438ba332a4e3f469151
 InstanceOf: PPLIngredient
@@ -10240,8 +10400,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:316
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:316
+
 //Lidocaína, cloridrato//33294; 33295
 Instance: ingredient-e5fe4d6b9b5ae813e02902b43809247a
 InstanceOf: PPLIngredient
@@ -10275,8 +10437,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:316
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:316
+
 //Adrenalina, tartarato//33294; 33295
 Instance: ingredient-680bf59588a6fe4b955cb0168748caf4
 InstanceOf: PPLIngredient
@@ -10311,8 +10475,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:317
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:317
+
 //Lidocaína, cloridrato//33304; 33305
 Instance: ingredient-051a5305cb3ba533f0e1246bc75d05d7
 InstanceOf: PPLIngredient
@@ -10346,8 +10512,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:317
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:317
+
 //Adrenalina, tartarato//33304; 33305
 Instance: ingredient-ad3d90d00905f805a74ed022a96059cd
 InstanceOf: PPLIngredient
@@ -10382,8 +10550,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:318
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:318
+
 //Lidocaína, cloridrato//33255
 Instance: ingredient-0ace9b4fb3829d6ceeaeb57c574cfe63
 InstanceOf: PPLIngredient
@@ -10418,8 +10588,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:319
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:319
+
 //Lidocaína//33280
 Instance: ingredient-0ac3169a6eaa15abd4803f69f71e4bcf
 InstanceOf: PPLIngredient
@@ -10454,8 +10626,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:320
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:320
+
 //Lidocaína, cloridrato//33342
 Instance: ingredient-1bca9a8a9efbdc3cf9e9786d4f2f30de
 InstanceOf: PPLIngredient
@@ -10490,8 +10664,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:321
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:321
+
 //Lidocaína, cloridrato//33355
 Instance: ingredient-8205aa20fe7d5dd6483598eec33ac874
 InstanceOf: PPLIngredient
@@ -10526,8 +10702,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:322
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:322
+
 //Enoxaparina sódica//1582
 Instance: ingredient-f56e7e49b066b77054574dd21e6d2415
 InstanceOf: PPLIngredient
@@ -10562,8 +10740,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:323
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:323
+
 //Enoxaparina sódica//1582
 Instance: ingredient-63404b6fc2528312dadfa53496d34c9f
 InstanceOf: PPLIngredient
@@ -10598,8 +10778,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:325
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:325
+
 //Enoxaparina sódica//25472
 Instance: ingredient-a0509b07c0f5a287f212561ecfd3d09b
 InstanceOf: PPLIngredient
@@ -10634,8 +10816,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:326
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:326
+
 //Enoxaparina sódica//25472
 Instance: ingredient-a5228d19e3734039192e2cb388788f08
 InstanceOf: PPLIngredient
@@ -10670,8 +10854,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:328
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:328
+
 //Hidrocortisona, butirato//3691
 Instance: ingredient-b2e397208961bb5b26c262d9ac02cfef
 InstanceOf: PPLIngredient
@@ -10706,8 +10892,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:329
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:329
+
 //Hidrocortisona, butirato//3602
 Instance: ingredient-c9f592214f914e2734772f0a246914d2
 InstanceOf: PPLIngredient
@@ -10808,8 +10996,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:333
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:333
+
 //Clotrimazol//35794
 Instance: ingredient-436f932f430cf1c73e5be8cf43371dac
 InstanceOf: PPLIngredient
@@ -11138,8 +11328,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:340
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:340
+
 //Clotrimazol//262753
 Instance: ingredient-6df732f8d7f494ba5c2c55f953773fb1
 InstanceOf: PPLIngredient
@@ -11174,8 +11366,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:341
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:341
+
 //Clotrimazol//37518
 Instance: ingredient-831bb041c4f38dc7676ee28422edc129
 InstanceOf: PPLIngredient
@@ -11309,8 +11503,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:345
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:345
+
 //Ibuprofeno//34873
 Instance: ingredient-7a53277e005fe4230f63251e10c37b3e
 InstanceOf: PPLIngredient
@@ -11345,8 +11541,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:346
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:346
+
 //Amoxicilina tri-hidratada//40393
 Instance: ingredient-aa67a35b57ed897d776d2cb27ee70290
 InstanceOf: PPLIngredient
@@ -11381,8 +11579,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:347
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:347
+
 //Amoxicilina tri-hidratada//40381
 Instance: ingredient-5ce5b432e674bce4c83f2e2ee6b8b8fe
 InstanceOf: PPLIngredient
@@ -11450,8 +11650,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:349
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:349
+
 //Hidrocortisona, probutato//41041
 Instance: ingredient-75979ffa537506c8fcaca4b1f9e3ba26
 InstanceOf: PPLIngredient
@@ -11486,8 +11688,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:350
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:350
+
 //Hidrocortisona//41061
 Instance: ingredient-73dc12b09f26f0bb8b7dd03924b90fca
 InstanceOf: PPLIngredient
@@ -11752,8 +11956,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:357
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:357
+
 //Hidrocortisona//42345; 42344; 42343
 Instance: ingredient-57b65de68faf9ffd23ae3db9c4062683
 InstanceOf: PPLIngredient
@@ -11787,8 +11993,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:357
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:357
+
 //Neomicina, sulfato//42345; 42344; 42343
 Instance: ingredient-ec0c084592199cd7d037daae18a22910
 InstanceOf: PPLIngredient
@@ -11822,8 +12030,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:357
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:357
+
 //Natamicina//42345; 42344; 42343
 Instance: ingredient-7b0c1db57f4c03fb74f44e0d57306ff6
 InstanceOf: PPLIngredient
@@ -11989,8 +12199,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:362
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:362
+
 //Lidocaína, cloridrato//43567; 43568
 Instance: ingredient-1431a38476be581f69c8c3063e9dc652
 InstanceOf: PPLIngredient
@@ -12058,8 +12270,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:364
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:364
+
 //Ciclosporina//4271
 Instance: ingredient-e134dfc2ad3bc20b29eea4eacabba1e1
 InstanceOf: PPLIngredient
@@ -12256,8 +12470,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:367
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:367
+
 //Itraconazol//2191
 Instance: ingredient-e93efc1e09646e8e9ee87143316659c4
 InstanceOf: PPLIngredient
@@ -12358,8 +12574,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:371
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:371
+
 //Diazepam//48359
 Instance: ingredient-faa1e287baeb088c6f16af896208a3ff
 InstanceOf: PPLIngredient
@@ -12526,8 +12744,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:376
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:376
+
 //Fluocinolona, acetonido//48936; 48938; 48939
 Instance: ingredient-51d16b7808d18e70d447ced5571ed65a
 InstanceOf: PPLIngredient
@@ -12561,8 +12781,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:376
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:376
+
 //Bismuto, subgalhato//48936; 48938; 48939
 Instance: ingredient-7c0400c6d778e6f7959a7259ebc6109a
 InstanceOf: PPLIngredient
@@ -12596,8 +12818,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:376
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:376
+
 //Lidocaína, cloridrato//48936; 48938; 48939
 Instance: ingredient-1a5c1388743002c9b48c81185177f456
 InstanceOf: PPLIngredient
@@ -12632,8 +12856,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:377
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:377
+
 //Carbamazepina//2362
 Instance: ingredient-9dfaebc6961aec75aac9355f80023bea
 InstanceOf: PPLIngredient
@@ -12701,8 +12927,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:379
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:379
+
 //Tramadol, cloridrato//25798
 Instance: ingredient-b750b1ebb7227f1ced4b74cf92618481
 InstanceOf: PPLIngredient
@@ -13097,8 +13325,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:396
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:396
+
 //Lidocaína, cloridrato//52296; 52297
 Instance: ingredient-ae7df242df67ca7b684f08f9e7c40e16
 InstanceOf: PPLIngredient
@@ -13264,8 +13494,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:401
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:401
+
 //Salbutamol, sulfato//5362
 Instance: ingredient-6930b5dc9baa54dc5796917388f64055
 InstanceOf: PPLIngredient
@@ -13300,8 +13532,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:402
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:402
+
 //Salbutamol, sulfato//5308
 Instance: ingredient-2b1dc8c379083f5f10d291a8ba25cc17
 InstanceOf: PPLIngredient
@@ -13336,8 +13570,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:403
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:403
+
 //Salbutamol, sulfato//5367
 Instance: ingredient-e861c912b8b706828d5a29774cf625de
 InstanceOf: PPLIngredient
@@ -13471,8 +13707,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:409
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:409
+
 //Lidocaína//54890
 Instance: ingredient-f12ae83fbc0d09ac62d70da943f1c726
 InstanceOf: PPLIngredient
@@ -13540,8 +13778,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:411
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:411
+
 //Tramadol, cloridrato//71764
 Instance: ingredient-719708e73459922a21887cd80011e61a
 InstanceOf: PPLIngredient
@@ -13740,8 +13980,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:417
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:417
+
 //Tramadol, cloridrato//72792
 Instance: ingredient-58cdd2f04e5afba2e74fccbc99349711
 InstanceOf: PPLIngredient
@@ -14597,8 +14839,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:449
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:449
+
 //Tramadol, cloridrato//92528
 Instance: ingredient-be5deb0bc5e66b146b5ea63ffa1c29c3
 InstanceOf: PPLIngredient
@@ -14633,8 +14877,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:450
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:450
+
 //Tramadol, cloridrato//92539
 Instance: ingredient-f04fa5851230b36b31ec58e8cfe81d84
 InstanceOf: PPLIngredient
@@ -15454,8 +15700,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:474
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:474
+
 //Ibuprofeno//166316
 Instance: ingredient-05c6014177c2c38477b4e4adbed15945
 InstanceOf: PPLIngredient
@@ -15523,8 +15771,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:476
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:476
+
 //Nitroglicerina//167898
 Instance: ingredient-5068b4f3bd2772db0c35eba364ec93f9
 InstanceOf: PPLIngredient
@@ -15625,8 +15875,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:480
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:480
+
 //Diclofenac sódico//169824
 Instance: ingredient-7b69d99f84523a1a1d8a2c8524d4dfd9
 InstanceOf: PPLIngredient
@@ -16572,8 +16824,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:502
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:502
+
 //Morfina, cloridrato tri-hidratado//179636
 Instance: ingredient-85653c7bf64da28b889311a13bedc19d
 InstanceOf: PPLIngredient
@@ -16608,8 +16862,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:503
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:503
+
 //Morfina, cloridrato tri-hidratado//179640
 Instance: ingredient-1a0e9d8d5b8a7139a5bbdad8d11b04f0
 InstanceOf: PPLIngredient
@@ -16710,8 +16966,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:507
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:507
+
 //Diclofenac, dietilamónio//179749
 Instance: ingredient-1924843406693ab79b8c3dd414bf874b
 InstanceOf: PPLIngredient
@@ -16746,8 +17004,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:508
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:508
+
 //Diclofenac, dietilamónio//179749
 Instance: ingredient-72781632a6ff82acfcf46daa753342f4
 InstanceOf: PPLIngredient
@@ -17207,8 +17467,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:524
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:524
+
 //Diclofenac sódico//185375
 Instance: ingredient-88bfc0d1fcc856ceb94f95da7e16cf07
 InstanceOf: PPLIngredient
@@ -17800,8 +18062,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:545
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:545
+
 //Salbutamol, sulfato//201135; 201136
 Instance: ingredient-503c1c917994c56ccad95dce66fac577
 InstanceOf: PPLIngredient
@@ -18817,8 +19081,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:573
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:573
+
 //Lidocaína//211828
 Instance: ingredient-02e03cb115327dbc88f016c0c03ba9ea
 InstanceOf: PPLIngredient
@@ -19474,8 +19740,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:593
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:593
+
 //Hidrocortisona//223555
 Instance: ingredient-2fe0657b1d703476398ceb1c89091899
 InstanceOf: PPLIngredient
@@ -20820,8 +21088,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:636
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:636
+
 //Tafluprost//255673
 Instance: ingredient-6e131e377a8584b13daf8926a2c93f38
 InstanceOf: PPLIngredient
@@ -21350,8 +21620,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:662
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:662
+
 //Diclofenac, dietilamónio//257903
 Instance: ingredient-bda36a0be4d5a7cb341dd3fd985154dc
 InstanceOf: PPLIngredient
@@ -22728,8 +23000,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:706
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:706
+
 //Clotrimazol//279003
 Instance: ingredient-392ce12a60d9647831fb42dc025dde36
 InstanceOf: PPLIngredient
@@ -22764,8 +23038,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:707
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:707
+
 //Clotrimazol//279011
 Instance: ingredient-8a421827876f3519dcd67394cb8d52b9
 InstanceOf: PPLIngredient
@@ -22800,8 +23076,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:708
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:708
+
 //Clotrimazol//279011
 Instance: ingredient-d3acce9039e41bdac722b88a98e2b251
 InstanceOf: PPLIngredient
@@ -22836,8 +23114,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:710
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:710
+
 //Amoxicilina tri-hidratada//279372; 279373
 Instance: ingredient-fa9bbbf5b620021d43c54b5d5c3317f8
 InstanceOf: PPLIngredient
@@ -22871,8 +23151,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:710
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:710
+
 //Clavulanato de potássio//279372; 279373
 Instance: ingredient-1e45f3f1c30f4f3aa8dc6581707b0d33
 InstanceOf: PPLIngredient
@@ -23266,8 +23548,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:718
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:718
+
 //Diclofenac, dietilamónio//286193
 Instance: ingredient-fa15dd9cf73806af37a075b87fd4c8a7
 InstanceOf: PPLIngredient
@@ -23302,8 +23586,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:719
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:719
+
 //Diclofenac, dietilamónio//286193
 Instance: ingredient-913779005157dd60aafe07d1978eac5a
 InstanceOf: PPLIngredient
@@ -24152,8 +24438,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:740
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:740
+
 //Diclofenac, dietilamónio//98734
 Instance: ingredient-5dcd8d1c363af6d0607936af95e03a8e
 InstanceOf: PPLIngredient
@@ -24681,8 +24969,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:763
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:763
+
 //Cefuroxima sódica//98045
 Instance: ingredient-028e7e98b481bfd90e2105e62062ad2e
 InstanceOf: PPLIngredient
@@ -24914,8 +25204,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:770
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:770
+
 //Amoxicilina tri-hidratada//102803; 102804
 Instance: ingredient-adaf686878e4f615b782f4160d5f340b
 InstanceOf: PPLIngredient
@@ -24949,8 +25241,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:770
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:770
+
 //Clavulanato de potássio//102803; 102804
 Instance: ingredient-f540e6be13ea8a076805076563849410
 InstanceOf: PPLIngredient
@@ -25051,8 +25345,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:774
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:774
+
 //Insulina glargina//104443
 Instance: ingredient-a7e7f8c451a3f28ab6c076ac03d8abf2
 InstanceOf: PPLIngredient
@@ -25713,8 +26009,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:797
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:797
+
 //Adrenalina, tartarato//111936; 111942
 Instance: ingredient-30eef6a7ff8ab24925b8e1c8b8f11a4e
 InstanceOf: PPLIngredient
@@ -25748,8 +26046,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:797
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:797
+
 //Lidocaína, cloridrato//111936; 111942
 Instance: ingredient-e18c111e79b4de41149461b789932714
 InstanceOf: PPLIngredient
@@ -26114,8 +26414,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:811
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:811
+
 //Diclofenac sódico//117146
 Instance: ingredient-53e9d184dd3fbdb4fea74c07209f64f4
 InstanceOf: PPLIngredient
@@ -26150,8 +26452,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:812
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:812
+
 //Diclofenac sódico//117146
 Instance: ingredient-0a19f8fd82986f7ccaac4f2c3df33e23
 InstanceOf: PPLIngredient
@@ -26186,8 +26490,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:814
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:814
+
 //Diclofenac//117981
 Instance: ingredient-bb410d3ecd66242ee52443544a4e5f4d
 InstanceOf: PPLIngredient
@@ -27013,8 +27319,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:851
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:851
+
 //Amoxicilina tri-hidratada//126982
 Instance: ingredient-0a1dc598296475eafe4294f43f350985
 InstanceOf: PPLIngredient
@@ -27839,8 +28147,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:884
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:884
+
 //Clavulanato de potássio//134920; 134924
 Instance: ingredient-cceba4e95af8ff9efee0213d320b01a0
 InstanceOf: PPLIngredient
@@ -27874,8 +28184,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:884
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:884
+
 //Amoxicilina tri-hidratada//134920; 134924
 Instance: ingredient-d146c31391aa451d22343a43a5c631ef
 InstanceOf: PPLIngredient
@@ -28041,8 +28353,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:889
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:889
+
 //Amoxicilina tri-hidratada//138327; 138329
 Instance: ingredient-dbf98d0a0ce7ff01611b78abf922336a
 InstanceOf: PPLIngredient
@@ -29027,8 +29341,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:922
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:922
+
 //Diclofenac, dietilamónio//151607
 Instance: ingredient-0cb87545c248323a9144894d633812ea
 InstanceOf: PPLIngredient
@@ -29259,8 +29575,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:931
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:931
+
 //Amoxicilina tri-hidratada//157418; 157417
 Instance: ingredient-28e07f27e7f7bdc816c7d0b3a732fd1d
 InstanceOf: PPLIngredient
@@ -29295,8 +29613,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:932
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:932
+
 //Amoxicilina tri-hidratada//157770; 157771
 Instance: ingredient-5ecf2131134323abdabd1ffed525f735
 InstanceOf: PPLIngredient
@@ -29330,8 +29650,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:932
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:932
+
 //Clavulanato de potássio//157770; 157771
 Instance: ingredient-04992d8b9a1ae568a6be1db327bf2d73
 InstanceOf: PPLIngredient
@@ -29693,8 +30015,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:946
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:946
+
 //Ibuprofeno//317322
 Instance: ingredient-42c4867179b89e1c466df9c53c7efb16
 InstanceOf: PPLIngredient
@@ -29827,8 +30151,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:952
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:952
+
 //Lidocaína, cloridrato//77070; 77071
 Instance: ingredient-6cebf91975d2677f03ad0979c4197fdf
 InstanceOf: PPLIngredient
@@ -29862,8 +30188,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:952
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:952
+
 //Cloro-hexidina, gluconato//77070; 77071
 Instance: ingredient-95336549eef8a13294a92f5a9ede6f48
 InstanceOf: PPLIngredient
@@ -29898,8 +30226,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:953
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:953
+
 //Lidocaína, cloridrato//77070; 77071
 Instance: ingredient-d3abef8608e182a12f389d3e5f27ffd2
 InstanceOf: PPLIngredient
@@ -29966,8 +30296,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:955
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:955
+
 //Diclofenac, dietilamónio//96320
 Instance: ingredient-f804fb825c84dc662dce655631951242
 InstanceOf: PPLIngredient
@@ -30002,8 +30334,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:956
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:956
+
 //Ibuprofeno//87083
 Instance: ingredient-cb4558a5426cecfcb4d4188818fb9451
 InstanceOf: PPLIngredient
@@ -30267,8 +30601,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:964
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:964
+
 //Lidocaína, cloridrato//103357; 103358
 Instance: ingredient-13264d32e3aae12d7f00532a02807494
 InstanceOf: PPLIngredient
@@ -30302,8 +30638,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:964
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:964
+
 //Adrenalina, tartarato//103357; 103358
 Instance: ingredient-997143231c726257ed6962fb514fcdee
 InstanceOf: PPLIngredient
@@ -30338,8 +30676,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:965
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:965
+
 //Lidocaína, cloridrato//103364; 103365
 Instance: ingredient-a2878a6afc50eb764d152978ded6ec3c
 InstanceOf: PPLIngredient
@@ -30373,8 +30713,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:965
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:965
+
 //Adrenalina, tartarato//103364; 103365
 Instance: ingredient-9713437b59634896032b759c337061e2
 InstanceOf: PPLIngredient
@@ -30442,8 +30784,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:967
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:967
+
 //Diclofenac sódico//146472
 Instance: ingredient-5b52bf8086f62e440416d9f0fd251b12
 InstanceOf: PPLIngredient
@@ -30478,8 +30822,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:968
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:968
+
 //Ibuprofeno//171533
 Instance: ingredient-e10a92f74425562b534c47e72177e32e
 InstanceOf: PPLIngredient
@@ -30514,8 +30860,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:969
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:969
+
 //Diclofenac, dietilamónio//181346
 Instance: ingredient-c16afb208a7d035855cf9ea9683eb28a
 InstanceOf: PPLIngredient
@@ -30842,8 +31190,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:977
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:977
+
 //Paracetamol//255725
 Instance: ingredient-00350ccd8848f1be7766cf8b49f4e68e
 InstanceOf: PPLIngredient
@@ -30878,8 +31228,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:978
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:978
+
 //Adrenalina, tartarato//257166; 257167
 Instance: ingredient-1e57ccf373ec77ccfc7dd9005e488983
 InstanceOf: PPLIngredient
@@ -30913,8 +31265,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:978
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:978
+
 //Lidocaína, cloridrato//257166; 257167
 Instance: ingredient-b5fe5addf5d259171a0a821c1fa7ba1b
 InstanceOf: PPLIngredient
@@ -31113,8 +31467,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:984
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:984
+
 //Aciclovir//273747; 273846
 Instance: ingredient-490451ab1f61c44db7be32dfffce9462
 InstanceOf: PPLIngredient
@@ -31148,8 +31504,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:984
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:984
+
 //Hidrocortisona//273747; 273846
 Instance: ingredient-5e65c90b845efd3b1840443ea10b34ba
 InstanceOf: PPLIngredient
@@ -31217,8 +31575,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:986
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:986
+
 //Diclofenac sódico//277189
 Instance: ingredient-800bec2f6de52cdd22312fa211c774f9
 InstanceOf: PPLIngredient
@@ -32230,8 +32590,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1012
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1012
+
 //Paracetamol//302272
 Instance: ingredient-1694cf06e60194c71043d98aa5a91ab6
 InstanceOf: PPLIngredient
@@ -33147,8 +33509,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1035
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1035
+
 //Paracetamol//316189
 Instance: ingredient-4068bb1e8f4713d0a1d4662d0a0d188c
 InstanceOf: PPLIngredient
@@ -33937,8 +34301,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1066
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1066
+
 //Lidocaína, cloridrato//325299
 Instance: ingredient-c42e6657a15a9934af233d9e94bee88d
 InstanceOf: PPLIngredient
@@ -33973,8 +34339,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1067
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1067
+
 //Lidocaína, cloridrato//325299
 Instance: ingredient-fd1192d8996483afc18d1624eaac5001
 InstanceOf: PPLIngredient
@@ -34009,8 +34377,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1069
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1069
+
 //Lidocaína, cloridrato//325300
 Instance: ingredient-61db765396a0344e847d2a0aa1b47806
 InstanceOf: PPLIngredient
@@ -34469,8 +34839,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1085
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1085
+
 //Clotrimazol//333410
 Instance: ingredient-8da00fd1e272898d268440e9a69fec35
 InstanceOf: PPLIngredient
@@ -34505,8 +34877,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1086
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1086
+
 //Clotrimazol//333419
 Instance: ingredient-2c17975992433979b279ea51d5980e02
 InstanceOf: PPLIngredient
@@ -34541,8 +34915,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1087
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1087
+
 //Hidrocortisona//334650
 Instance: ingredient-b62d6dde1b594c1efc608b18a9fcbc60
 InstanceOf: PPLIngredient
@@ -35225,8 +35601,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1098
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1098
+
 //Diclofenac sódico//339169
 Instance: ingredient-40dce70d1ff9ac469c74ee78cc978464
 InstanceOf: PPLIngredient
@@ -37253,8 +37631,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1153
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1153
+
 //Clotrimazol//3456134
 Instance: ingredient-0df58371df9452aa34b14f7e722dd8d8
 InstanceOf: PPLIngredient
@@ -37289,8 +37669,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1155
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1155
+
 //Clotrimazol//3456172
 Instance: ingredient-68da4a42fe00996e12510cd0b8fe191e
 InstanceOf: PPLIngredient
@@ -37325,8 +37707,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1156
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1156
+
 //Clotrimazol//3456175
 Instance: ingredient-dc97d836c416569ef99e146799acdedd
 InstanceOf: PPLIngredient
@@ -37361,8 +37745,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1157
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1157
+
 //Diclofenac sódico//3456290
 Instance: ingredient-f04cc9d9db765054b1bd798f8383630d
 InstanceOf: PPLIngredient
@@ -37724,8 +38110,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1171
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1171
+
 //Timolol, maleato//3464706; 3464707
 Instance: ingredient-839c9b0a8085a5a131bb1f33adb7a4c4
 InstanceOf: PPLIngredient
@@ -38054,8 +38442,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1180
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1180
+
 //Lidocaína//3477286; 3477287
 Instance: ingredient-5a81f12de26f5892355599696095f5f2
 InstanceOf: PPLIngredient
@@ -38089,8 +38479,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1180
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1180
+
 //Prilocaína//3477286; 3477287
 Instance: ingredient-6ba788ff0cdeea6e88c8fbca461dddd6
 InstanceOf: PPLIngredient
@@ -39328,8 +39720,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1205
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1205
+
 //Lidocaína, cloridrato//3491907; 3491908; 3491909
 Instance: ingredient-4e5bf45596fc687e867d5728a42f0c6b
 InstanceOf: PPLIngredient
@@ -39363,8 +39757,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1205
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1205
+
 //Cloridrato de fenilefrina//3491907; 3491908; 3491909
 Instance: ingredient-ea336c5abcdde69f587a6ad9c0b6ab32
 InstanceOf: PPLIngredient
@@ -39398,8 +39794,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1205
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1205
+
 //Tropicamida//3491907; 3491908; 3491909
 Instance: ingredient-e20309b05b1262c015face7ad27e6a7c
 InstanceOf: PPLIngredient
@@ -40796,8 +41194,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1229
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1229
+
 //Ibuprofeno//3507871
 Instance: ingredient-c42c55e58c60d29f04833a60191b7ec7
 InstanceOf: PPLIngredient
@@ -40832,8 +41232,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1230
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1230
+
 //Ibuprofeno//3507892
 Instance: ingredient-27032fbd2dedb373f0b5587b464b520f
 InstanceOf: PPLIngredient
@@ -40868,8 +41270,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1231
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1231
+
 //Diclofenac sódico//3508220
 Instance: ingredient-16c82385e3a0f866968a77cb3c2f5468
 InstanceOf: PPLIngredient
@@ -40904,8 +41308,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1232
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1232
+
 //Enoxaparina sódica//3508941
 Instance: ingredient-0f3c40bdf050d4514090159c1f7ac23a
 InstanceOf: PPLIngredient
@@ -40940,8 +41346,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1233
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1233
+
 //Insulina glargina//3508934
 Instance: ingredient-2a21255c1a4e89c9c707f8a4764978ae
 InstanceOf: PPLIngredient
@@ -41009,8 +41417,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1235
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1235
+
 //Diclofenac, dietilamónio//3511295
 Instance: ingredient-322f4ae3913cc854dcf5438a184cffec
 InstanceOf: PPLIngredient
@@ -41563,8 +41973,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1242
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1242
+
 //Hidrocortisona, fosfato sódico//3518963
 Instance: ingredient-005374d72ecabcf9a36b0b3e41d2b99c
 InstanceOf: PPLIngredient
@@ -41890,9 +42302,11 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
-//ERROR[7] - No Ingredient Id for ns.ing_id at INDEX:1247
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1247
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1247
+
+// ERROR[7] - No Ingredient Id for ns.ing_id at INDEX:1247
 
 
 
@@ -42940,8 +43354,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1271
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1271
+
 //Ciclosporina//3529104
 Instance: ingredient-c11aba8bfc0762faa4b1e880c896bba5
 InstanceOf: PPLIngredient
@@ -43464,8 +43880,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1280
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1280
+
 //Insulina glargina//3533804
 Instance: ingredient-ba3412853cdc65b4b2931039a6456482
 InstanceOf: PPLIngredient
@@ -43826,8 +44244,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1290
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1290
+
 //Teriparatida//3538373
 Instance: ingredient-f4d0bb9d901022657a8a7358a406d551
 InstanceOf: PPLIngredient
@@ -44253,9 +44673,11 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
-//ERROR[7] - No Ingredient Id for ns.ing_id at INDEX:1300
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1300
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1300
+
+// ERROR[7] - No Ingredient Id for ns.ing_id at INDEX:1300
 
 
 
@@ -44327,8 +44749,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1302
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1302
+
 //Paracetamol//3552823
 Instance: ingredient-6d4bac36c53155756262407a95bd61ce
 InstanceOf: PPLIngredient
@@ -44624,8 +45048,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1310
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1310
+
 //Diclofenac sódico//3555541
 Instance: ingredient-59fe6dbc27237bc47893951009a21a08
 InstanceOf: PPLIngredient
@@ -44889,8 +45315,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1318
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1318
+
 //Lidocaína, cloridrato//3558245
 Instance: ingredient-b041e9e4ac53d0f4efba7af3fcf5ab93
 InstanceOf: PPLIngredient
@@ -46161,8 +46589,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1341
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1341
+
 //Ibuprofeno//3567454
 Instance: ingredient-94cb24aedc715943a828f6341cfea9a9
 InstanceOf: PPLIngredient
@@ -46457,8 +46887,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1346
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1346
+
 //Paracetamol//3568974
 Instance: ingredient-e5d292c5956cc882807427eaf0703904
 InstanceOf: PPLIngredient
@@ -47209,8 +47641,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1360
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1360
+
 //Paracetamol//3575300
 Instance: ingredient-130bf1773c431322246d05e99674bcab
 InstanceOf: PPLIngredient
@@ -48026,8 +48460,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1378
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1378
+
 //Amoxicilina tri-hidratada//3583415; 3583405
 Instance: ingredient-21e2069859af8f2ebab6a4af41e39e6e
 InstanceOf: PPLIngredient
@@ -48061,8 +48497,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1378
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1378
+
 //Clavulanato de potássio//3583415; 3583405
 Instance: ingredient-caefc8123c58973619d0e98d604cf47d
 InstanceOf: PPLIngredient
@@ -48097,8 +48535,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1379
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1379
+
 //Hidrocortisona, acetato//3583807
 Instance: ingredient-f5658f88de6de0a8a80e12f677db43b0
 InstanceOf: PPLIngredient
@@ -48362,8 +48802,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1386
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1386
+
 //Enoxaparina sódica//3588284
 Instance: ingredient-3d07357c5e29bfcfe19a87d37514eda8
 InstanceOf: PPLIngredient
@@ -48463,8 +48905,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1390
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1390
+
 //Enoxaparina sódica//3588584
 Instance: ingredient-2d379ea1b0674e05573be731c2124ad4
 InstanceOf: PPLIngredient
@@ -48499,8 +48943,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1392
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1392
+
 //Enoxaparina sódica//3588586
 Instance: ingredient-7c1dbb132600ce3fc308343970b55c62
 InstanceOf: PPLIngredient
@@ -48535,8 +48981,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1394
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1394
+
 //Enoxaparina sódica//3588588
 Instance: ingredient-4c7ad07b3c65a2008daad114fe69cede
 InstanceOf: PPLIngredient
@@ -48571,8 +49019,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1396
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1396
+
 //Enoxaparina sódica//3588590
 Instance: ingredient-1aaa77c5e8280febedf21b7ac92a84f5
 InstanceOf: PPLIngredient
@@ -49160,8 +49610,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1414
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1414
+
 //Amoxicilina tri-hidratada//3595418; 3595419
 Instance: ingredient-0b8dc2b6345a633094e4ce1a20f1d357
 InstanceOf: PPLIngredient
@@ -49195,8 +49647,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1414
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1414
+
 //Clavulanato de potássio diluído//3595418; 3595419
 Instance: ingredient-ae540e603740ee89f9b5f36fe3c81166
 InstanceOf: PPLIngredient
@@ -49231,8 +49685,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1415
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1415
+
 //Amoxicilina tri-hidratada//3596319; 3596320
 Instance: ingredient-852cfc6075129181decc937f68bc6d56
 InstanceOf: PPLIngredient
@@ -49266,8 +49722,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1415
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1415
+
 //Clavulanato de potássio//3596319; 3596320
 Instance: ingredient-fa8c785fb2bbc0c2fb924e8865e7f7d6
 InstanceOf: PPLIngredient
@@ -49887,8 +50345,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1427
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1427
+
 //Diclofenac, dietilamónio//3602417
 Instance: ingredient-dd8cf384e8fc74818d2a86f41e3ce1fa
 InstanceOf: PPLIngredient
@@ -49923,8 +50383,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1428
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1428
+
 //Diclofenac, dietilamónio//3602417
 Instance: ingredient-db7cdd860d4066f3ea599146a603cba0
 InstanceOf: PPLIngredient
@@ -50349,8 +50811,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1438
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1438
+
 //Clotrimazol//3610195
 Instance: ingredient-c04f2c21130908e3467313ba147fd129
 InstanceOf: PPLIngredient
@@ -50385,8 +50849,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1439
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1439
+
 //Clotrimazol//3610215
 Instance: ingredient-84366d98da1894636e2ecba149ea9b15
 InstanceOf: PPLIngredient
@@ -51334,8 +51800,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1459
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1459
+
 //Ibuprofeno//3618806
 Instance: ingredient-9e8b4007ab922814689a0b326ad2183f
 InstanceOf: PPLIngredient
@@ -52052,8 +52520,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1470
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1470
+
 //Enoxaparina sódica//3627606
 Instance: ingredient-737f7fd6864483f73908a444eac9caea
 InstanceOf: PPLIngredient
@@ -52088,8 +52558,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1471
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1471
+
 //Enoxaparina sódica//3627610
 Instance: ingredient-024b48884186562527f3a0c0247e2677
 InstanceOf: PPLIngredient
@@ -52124,8 +52596,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1472
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1472
+
 //Enoxaparina sódica//3627610
 Instance: ingredient-0d17ecf9785e18e6a6b58b6d7719784e
 InstanceOf: PPLIngredient
@@ -52160,8 +52634,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1474
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1474
+
 //Enoxaparina sódica//3627614
 Instance: ingredient-c2f2f6d8e2032eb95f91d97613ff3c28
 InstanceOf: PPLIngredient
@@ -52196,8 +52672,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1476
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1476
+
 //Enoxaparina sódica//3627618
 Instance: ingredient-467725709a55293e8db42cda4cb01941
 InstanceOf: PPLIngredient
@@ -53273,8 +53751,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1500
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1500
+
 //Tafluprost//3638312
 Instance: ingredient-f0990d6b29005be336f7bb6905e8cc53
 InstanceOf: PPLIngredient
@@ -53635,8 +54115,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1508
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1508
+
 //Clotrimazol//3644153
 Instance: ingredient-760b493b0f28891b1c87e3cb8b0af7b6
 InstanceOf: PPLIngredient
@@ -54030,8 +54512,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1520
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1520
+
 //Insulina glargina//3647964
 Instance: ingredient-16cece8e205963854ecf501d7e7eac0b
 InstanceOf: PPLIngredient
@@ -54066,8 +54550,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1521
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1521
+
 //Ibuprofeno//3648938
 Instance: ingredient-d589ecb1ac4b81c23b77f6e9a282df95
 InstanceOf: PPLIngredient
@@ -54561,8 +55047,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1536
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1536
+
 //Ibuprofeno//3653636
 Instance: ingredient-0733cc2519bd81bc484c2e5a602b3711
 InstanceOf: PPLIngredient
@@ -54597,8 +55085,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1537
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1537
+
 //Ibuprofeno//3653655
 Instance: ingredient-dd5425718192ed147bc9f796c471fea6
 InstanceOf: PPLIngredient
@@ -54633,8 +55123,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1538
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1538
+
 //Clotrimazol//3655642
 Instance: ingredient-43ac5fe2623c46dd8f3af847ab66ba01
 InstanceOf: PPLIngredient
@@ -55352,8 +55844,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1551
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1551
+
 //Diclofenac, dietilamónio//3664162
 Instance: ingredient-eaa2816c3cadabc1b042fab5b4182743
 InstanceOf: PPLIngredient
@@ -55388,8 +55882,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1552
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1552
+
 //Clotrimazol//3667754
 Instance: ingredient-300b4ffb28b058a0295358ae937a9e7f
 InstanceOf: PPLIngredient
@@ -55978,8 +56474,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1569
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1569
+
 //Lidocaína//3676831
 Instance: ingredient-1dbf53f99256ed8b5d9f0533f5f40cf5
 InstanceOf: PPLIngredient
@@ -56014,8 +56512,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1570
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1570
+
 //Clotrimazol//3679118
 Instance: ingredient-7c93d9205980467fcf5691344e5917c5
 InstanceOf: PPLIngredient
@@ -56668,8 +57168,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1583
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1583
+
 //Diclofenac, dietilamónio//3690560
 Instance: ingredient-eced7902c63985394e1f4d03e6389109
 InstanceOf: PPLIngredient
@@ -56964,8 +57466,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1588
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1588
+
 //Amoxicilina tri-hidratada//3693166; 3693167
 Instance: ingredient-61b8ad3e162d2e446a249eac666550b0
 InstanceOf: PPLIngredient
@@ -56999,8 +57503,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1588
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1588
+
 //Clavulanato de potássio diluído//3693166; 3693167
 Instance: ingredient-98b3ed06c75fca6aace23f7efb42a3f5
 InstanceOf: PPLIngredient
@@ -57199,8 +57705,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1594
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1594
+
 //Amoxicilina tri-hidratada//3694921; 3694922
 Instance: ingredient-040f5fa90d26759caa1bded2b599d4ac
 InstanceOf: PPLIngredient
@@ -57234,8 +57742,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1594
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1594
+
 //Clavulanato de potássio//3694921; 3694922
 Instance: ingredient-ef58df43ea4ae6d137eaae67dc97be30
 InstanceOf: PPLIngredient
@@ -57757,8 +58267,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1603
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1603
+
 //Amoxicilina tri-hidratada//3705517; 3705518
 Instance: ingredient-f0333e9df0d895711647ab9fb3cd1368
 InstanceOf: PPLIngredient
@@ -57792,8 +58304,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1603
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1603
+
 //Clavulanato de potássio diluído//3705517; 3705518
 Instance: ingredient-43cfc9a700f9ab5ef6def71ff5efcdf3
 InstanceOf: PPLIngredient
@@ -57828,8 +58342,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1604
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1604
+
 //Amoxicilina tri-hidratada//3705517; 3705518
 Instance: ingredient-197c8741d12e1c7e21ca124f535ea093
 InstanceOf: PPLIngredient
@@ -57863,8 +58379,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1607
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1607
+
 //Clavulanato de potássio diluído//3705596; 3705597
 Instance: ingredient-98973cfd0997029d665e335b918289b1
 InstanceOf: PPLIngredient
@@ -57899,8 +58417,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1608
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1608
+
 //Amoxicilina tri-hidratada//3705596; 3705597
 Instance: ingredient-326de9f44c47e84e8656294b9b2935f0
 InstanceOf: PPLIngredient
@@ -57934,8 +58454,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1611
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1611
+
 //Clavulanato de potássio diluído//3705606; 3705607
 Instance: ingredient-115110eb9df26ad774394989da988723
 InstanceOf: PPLIngredient
@@ -57970,8 +58492,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1612
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1612
+
 //Amoxicilina tri-hidratada//3705606; 3705607
 Instance: ingredient-ec6a7f1deea0f36e859bf7bb33afd864
 InstanceOf: PPLIngredient
@@ -58005,8 +58529,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1615
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1615
+
 //Clavulanato de potássio diluído//3705616; 3705617
 Instance: ingredient-4808e8efd127679cbc3914d07d296792
 InstanceOf: PPLIngredient
@@ -58041,8 +58567,10 @@ Usage: #example
 
 
 
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:1616
+
+// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:1616
+
 //Amoxicilina tri-hidratada//3705616; 3705617
 Instance: ingredient-76d4fd6df7cfd301040ee434c5ffa688
 InstanceOf: PPLIngredient

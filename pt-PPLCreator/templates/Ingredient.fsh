@@ -47,12 +47,14 @@
 {%- endif -%}
 
 {%- if ns.den_unit_desc_en|string == "None" -%}
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1)
+{{"// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014]  for unit denominator at INDEX:{}".format(index+1) }}
+
 {% set ns.den_unit_desc_en = ns.den_unit|get_data_from_sheet(data["data"],"SPOR_EN","100000110633_descr","100000110633") %}
 {%- endif -%}
 
 {%- if ns.ref_den_unit_desc_en|string == "None" -%}
-//ERROR[10]: Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1)
+{{"// ERROR[10] - Code wrong on the sheet [100000110633 vs 200000000014] for unit reference denominator at INDEX:{}".format(index+1) }}
+
 {% set ns.ref_den_unit_desc_en = ns.ref_den_unit|get_data_from_sheet(data["data"],"SPOR_EN","100000110633_descr","100000110633") %}
 {%- endif -%}
 
@@ -99,7 +101,7 @@ Usage: #example
 * for[+] = Reference(mid-{{row["MED ID"]}})
 
 {%- else  -%}
-{{"//ERROR[7] - No Ingredient Id for ns.ing_id at INDEX:{}".format(index+1) }}
+{{"// ERROR[7] - No Ingredient Id for ns.ing_id at INDEX:{}".format(index+1) }}
 {%- endif -%}
 
 {%- endfor -%}

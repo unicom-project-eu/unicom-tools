@@ -1,5 +1,5 @@
 {% for index,row in data["data"]["Package"].iterrows() %}
-{% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
+{%- if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
 
 {% set ns = namespace() %}
@@ -32,8 +32,8 @@ Usage: #example
 {{ "// ERROR[3] - no statusDate INDEX:{}".format(index+1) }}
 
 * holder = Reference({{ row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Titular AIM - OMS LOC-ID 2.8\n(SPOR-OMS LOC-ID)","MED ID") }})
-{%- endif %}
+{%- endif -%}
 
-{%- endfor %}
+{%- endfor -%}
 
 
