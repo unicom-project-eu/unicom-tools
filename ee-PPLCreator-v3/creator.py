@@ -137,18 +137,18 @@ def calculate_stregngth(original, w):
     w2 --- 1 mol
     f_value --- x
     """
-    print("or", original)
-    print("w", w)
+    #  print("or", original)
+    #  print("w", w)
     o_value = float("".join(re.findall("\d+|\.", original)))
-    print(o_value)
+    #  print(o_value)
     reference = w.split("|")[0]
     conc = w.split("|")[1]
-    print(reference, conc)
+    #  print(reference, conc)
 
     mol = o_value / float(reference)
 
     f_value = float(conc) * mol
-    print(f_value)
+    # print(f_value)
     return round(f_value, 2)
 
 
