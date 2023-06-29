@@ -40,18 +40,27 @@
 {% if "/" in row["Ravimi tugevus"].split(ns.parser)[idx] %}
 {% set ns.num_unit = row["Ravimi tugevus"].split(ns.parser)[idx]|splitpart(0,"/")| get_by_regex("[a-z]+")|get_data_dictionary_info(100000110633,"RMS termini id","Termini sümbol") %}
 {% set ns.num_unit_desc = row["Ravimi tugevus"].split(ns.parser)[idx]|splitpart(0,"/")| get_by_regex("[a-z]+") %}
+{% set ns.den_unit = 100000110662 %}
+{% set ns.den_unit_desc = "millilitre(s)" %}
+
 {% else %}
 {% set ns.num_unit = row["Ravimi tugevus"].split(ns.parser)[idx]| get_by_regex("[a-z]+")|get_data_dictionary_info(100000110633,"RMS termini id","Termini sümbol") %}
 {% set ns.num_unit_desc = row["Ravimi tugevus"].split(ns.parser)[idx]| get_by_regex("[a-z]+") %}
+{% set ns.den_unit = 200000002152 %}
+{% set ns.den_unit_desc = "Tablet" %}
 {% endif %}
 
 {% set ns.ref_num_value =  row["Referentstoimeaine tugevus"].split(ns.parser)[idx]| get_by_regex("(\d+|\.)")   %}
 {% if "/" in row["Referentstoimeaine tugevus"].split(ns.parser)[idx] %}
 {% set ns.ref_num_unit = row["Referentstoimeaine tugevus"].split(ns.parser)[idx]|splitpart(0,"/")| get_by_regex("[a-z]+")|get_data_dictionary_info(100000110633,"RMS termini id","Termini sümbol") %}
 {% set ns.ref_num_unit_desc = row["Referentstoimeaine tugevus"].split(ns.parser)[idx]|splitpart(0,"/")| get_by_regex("[a-z]+") %}
+{% set ns.ref_den_unit = 100000110662 %}
+{% set ns.ref_den_unit_desc = "millilitre(s)" %}
 {% else %}
 {% set ns.ref_num_unit = row["Referentstoimeaine tugevus"].split(ns.parser)[idx]|splitpart(0,"/")| get_by_regex("[a-z]+")|get_data_dictionary_info(100000110633,"RMS termini id","Termini sümbol") %}
 {% set ns.ref_num_unit_desc = row["Referentstoimeaine tugevus"].split(ns.parser)[idx]| get_by_regex("[a-z]+") %}
+{% set ns.ref_den_unit = 200000002152 %}
+{% set ns.ref_den_unit_desc = "Tablet" %}
 {% endif %}
 
 {% set ns.concept_id = row["Toimeaine"].split(",")[idx]|strip_spaces|get_data_dictionary_info("substance","Concept Code","National Description")  %}
@@ -77,12 +86,12 @@ Usage: #example
 //full: {{row["Ravimi tugevus"].split(ns.parser)[idx]}}
 
 * substance.strength.presentationRatio.numerator = {{ns.num_value}}  $100000110633#{{ ns.num_unit}}  "{{ ns.num_unit_desc }}"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#{{ns.den_unit}}  "{{ns.den_unit_desc}}"
 
 {{"// ERROR[5] - reference strengths and principles are wrong for INDEX:{}".format(index+1) if row["Referentstoimeaine"].split(ns.parser)|length != row["Referentstoimeaine tugevus"].split(ns.parser)|length }}
 //full: {{row["Referentstoimeaine tugevus"].split(ns.parser)[idx]}}
 * substance.strength.referenceStrength.strengthRatio.numerator  = {{ ns.ref_num_value  }} $100000110633#{{ ns.ref_num_unit}} "{{ ns.ref_num_unit_desc }}"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#{{ns.ref_den_unit}}  "{{ns.ref_den_unit_desc}}"
 
 * substance.strength.referenceStrength.substance.concept = $sms#{{ ns.ref_concept_id }} "{{ns.ref_concept}}"
 

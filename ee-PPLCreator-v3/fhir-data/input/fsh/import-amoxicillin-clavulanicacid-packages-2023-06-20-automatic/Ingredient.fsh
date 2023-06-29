@@ -21,17 +21,18 @@ Usage: #example
 
 //full: 11.4mg
 * substance.strength.presentationRatio.numerator = 13.58  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:1
 //full: 11.4mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 11.4 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AUGMENTIN FRUITSuukaudse suspensiooni pulber11.4mg+80mg/ml
 * for[0] = Reference(mp-aef16e777350a038f9907b2f30d0cd3e)
 * for[+] = Reference(ap-aef16e777350a038f9907b2f30d0cd3e)
 * for[+] = Reference(mid-aef16e777350a038f9907b2f30d0cd3e) 
+
 
 
 
@@ -57,7 +58,7 @@ Usage: #example
 // ERROR[5] - reference strengths and principles are wrong for INDEX:1
 //full: 80mg/ml
 * substance.strength.referenceStrength.strengthRatio.numerator  = 80 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#100000110662  "millilitre(s)"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AUGMENTIN FRUITSuukaudse suspensiooni pulber11.4mg+80mg/ml
@@ -86,17 +87,18 @@ Usage: #example
 
 //full: 80mg
 * substance.strength.presentationRatio.numerator = 91.84  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:2
 //full: 11.4mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 11.4 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AUGMENTIN FRUITSuukaudse suspensiooni pulber80mg+11.4mg/ml
 * for[0] = Reference(mp-63f5adb8aee673b5cbc8f5e123ede45b)
 * for[+] = Reference(ap-63f5adb8aee673b5cbc8f5e123ede45b)
 * for[+] = Reference(mid-63f5adb8aee673b5cbc8f5e123ede45b) 
+
 
 
 
@@ -122,7 +124,7 @@ Usage: #example
 // ERROR[5] - reference strengths and principles are wrong for INDEX:2
 //full: 80mg/ml
 * substance.strength.referenceStrength.strengthRatio.numerator  = 80 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#100000110662  "millilitre(s)"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AUGMENTIN FRUITSuukaudse suspensiooni pulber80mg+11.4mg/ml
@@ -151,11 +153,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 143.51  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:3
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AUGMENTINÕhukese polümeerikattega tablett125mg+500mg
@@ -183,11 +185,11 @@ Usage: #example
 
 //full: 500mg
 * substance.strength.presentationRatio.numerator = 595.63  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:3
 //full: 500mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 500 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AUGMENTINÕhukese polümeerikattega tablett125mg+500mg
@@ -216,11 +218,11 @@ Usage: #example
 
 //full: 0.2g
 * substance.strength.presentationRatio.numerator = 0.23  $100000110633#100000110654  "g"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:4
 //full: 0.2g
 * substance.strength.referenceStrength.strengthRatio.numerator  = 0.2 $100000110633#100000110654 "g"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AMOKSIKLAVSüste-/infusioonilahuse pulber0.2g+1g
@@ -248,11 +250,11 @@ Usage: #example
 
 //full: 1g
 * substance.strength.presentationRatio.numerator = 1.19  $100000110633#100000110654  "g"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:4
 //full: 1g
 * substance.strength.referenceStrength.strengthRatio.numerator  = 1 $100000110633#100000110654 "g"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AMOKSIKLAVSüste-/infusioonilahuse pulber0.2g+1g
@@ -281,11 +283,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 143.51  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:5
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AUGMENTINÕhukese polümeerikattega tablett125mg+875mg
@@ -313,11 +315,11 @@ Usage: #example
 
 //full: 875mg
 * substance.strength.presentationRatio.numerator = 1042.35  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:5
 //full: 875mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 875 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AUGMENTINÕhukese polümeerikattega tablett125mg+875mg
@@ -346,11 +348,11 @@ Usage: #example
 
 //full: 875mg
 * substance.strength.presentationRatio.numerator = 1042.35  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:6
 //full: 875mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 875 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AMOKSIKLAVÕhukese polümeerikattega tablett875mg+125mg
@@ -378,11 +380,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 143.51  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:6
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AMOKSIKLAVÕhukese polümeerikattega tablett875mg+125mg
@@ -411,17 +413,18 @@ Usage: #example
 
 //full: 80mg
 * substance.strength.presentationRatio.numerator = 95.3  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:7
 //full: 80mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 80 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AMOKSIKLAVSuukaudse suspensiooni pulber80mg+11.4mg/ml
 * for[0] = Reference(mp-8395fd1100b827d4553f55467401cec1)
 * for[+] = Reference(ap-8395fd1100b827d4553f55467401cec1)
 * for[+] = Reference(mid-8395fd1100b827d4553f55467401cec1) 
+
 
 
 
@@ -447,7 +450,7 @@ Usage: #example
 // ERROR[5] - reference strengths and principles are wrong for INDEX:7
 //full: 11.4mg/ml
 * substance.strength.referenceStrength.strengthRatio.numerator  = 11.4 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#100000110662  "millilitre(s)"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AMOKSIKLAVSuukaudse suspensiooni pulber80mg+11.4mg/ml
@@ -476,11 +479,11 @@ Usage: #example
 
 //full: 500mg
 * substance.strength.presentationRatio.numerator = 574.03  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:8
 //full: 500mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 500 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AMOKSIKLAVÕhukese polümeerikattega tablett500mg+125mg
@@ -508,11 +511,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 148.91  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:8
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AMOKSIKLAVÕhukese polümeerikattega tablett500mg+125mg
@@ -541,11 +544,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 148.91  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:10
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AMOKSIKLAVDispergeeruv tablett125mg+875mg
@@ -573,11 +576,11 @@ Usage: #example
 
 //full: 875mg
 * substance.strength.presentationRatio.numerator = 1004.55  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:10
 //full: 875mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 875 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AMOKSIKLAVDispergeeruv tablett125mg+875mg
@@ -606,11 +609,11 @@ Usage: #example
 
 //full: 1000mg
 * substance.strength.presentationRatio.numerator = 1191.25  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:11
 //full: 1000mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 1000 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //MEDOCLAVSüste-/infusioonilahuse pulber1000mg+200mg
@@ -638,11 +641,11 @@ Usage: #example
 
 //full: 200mg
 * substance.strength.presentationRatio.numerator = 229.61  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:11
 //full: 200mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 200 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //MEDOCLAVSüste-/infusioonilahuse pulber1000mg+200mg
@@ -671,11 +674,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 143.51  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:12
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AMOXICILLIN/CLAVULANIC ACID ACTAVISÕhukese polümeerikattega tablett125mg+875mg
@@ -703,11 +706,11 @@ Usage: #example
 
 //full: 875mg
 * substance.strength.presentationRatio.numerator = 1042.35  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:12
 //full: 875mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 875 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AMOXICILLIN/CLAVULANIC ACID ACTAVISÕhukese polümeerikattega tablett125mg+875mg
@@ -736,11 +739,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 143.51  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:13
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //BETAKLAVÕhukese polümeerikattega tablett125mg+875mg
@@ -768,11 +771,11 @@ Usage: #example
 
 //full: 875mg
 * substance.strength.presentationRatio.numerator = 1042.35  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:13
 //full: 875mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 875 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //BETAKLAVÕhukese polümeerikattega tablett125mg+875mg
@@ -801,11 +804,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 148.91  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:14
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AUGMENTINÕhukese polümeerikattega tablett125mg+875mg
@@ -833,11 +836,11 @@ Usage: #example
 
 //full: 875mg
 * substance.strength.presentationRatio.numerator = 1004.55  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:14
 //full: 875mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 875 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AUGMENTINÕhukese polümeerikattega tablett125mg+875mg
@@ -866,17 +869,18 @@ Usage: #example
 
 //full: 80mg
 * substance.strength.presentationRatio.numerator = 91.84  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:15
 //full: 80mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 80 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //MEDOCLAVSuukaudse suspensiooni pulber80mg+11.4mg/ml
 * for[0] = Reference(mp-8946929ce94a7eb4ba6090b17bfedf25)
 * for[+] = Reference(ap-8946929ce94a7eb4ba6090b17bfedf25)
 * for[+] = Reference(mid-8946929ce94a7eb4ba6090b17bfedf25) 
+
 
 
 
@@ -902,7 +906,7 @@ Usage: #example
 // ERROR[5] - reference strengths and principles are wrong for INDEX:15
 //full: 11.4mg/ml
 * substance.strength.referenceStrength.strengthRatio.numerator  = 11.4 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#100000110662  "millilitre(s)"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //MEDOCLAVSuukaudse suspensiooni pulber80mg+11.4mg/ml
@@ -931,17 +935,18 @@ Usage: #example
 
 //full: 11.4mg
 * substance.strength.presentationRatio.numerator = 13.58  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:16
 //full: 11.4mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 11.4 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //AUGMENTIN FRUITSuukaudse suspensiooni pulber11.4mg+80mg/ml
 * for[0] = Reference(mp-697d34dff506a59ef85855f0b5abfa39)
 * for[+] = Reference(ap-697d34dff506a59ef85855f0b5abfa39)
 * for[+] = Reference(mid-697d34dff506a59ef85855f0b5abfa39) 
+
 
 
 
@@ -967,7 +972,7 @@ Usage: #example
 // ERROR[5] - reference strengths and principles are wrong for INDEX:16
 //full: 80mg/ml
 * substance.strength.referenceStrength.strengthRatio.numerator  = 80 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#100000110662  "millilitre(s)"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //AUGMENTIN FRUITSuukaudse suspensiooni pulber11.4mg+80mg/ml
@@ -996,11 +1001,11 @@ Usage: #example
 
 //full: 875mg
 * substance.strength.presentationRatio.numerator = 1004.55  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:17
 //full: 875mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 875 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000091596 "Amoxicillin"
 // Reference to products item
 //MEDOCLAVÕhukese polümeerikattega tablett875mg+125mg
@@ -1028,11 +1033,11 @@ Usage: #example
 
 //full: 125mg
 * substance.strength.presentationRatio.numerator = 148.91  $100000110633#100000110655  "mg"
-* substance.strength.presentationRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.presentationRatio.denominator = 1  $200000000014#200000002152  "Tablet"
 // ERROR[5] - reference strengths and principles are wrong for INDEX:17
 //full: 125mg
 * substance.strength.referenceStrength.strengthRatio.numerator  = 125 $100000110633#100000110655 "mg"
-* substance.strength.referenceStrength.strengthRatio.denominator = 1  $200000000014#100000110662  "millilitre(s)"
+* substance.strength.referenceStrength.strengthRatio.denominator =  1  $200000000014#200000002152  "Tablet"
 * substance.strength.referenceStrength.substance.concept = $sms#100000089842 "Clavulanic acid"
 // Reference to products item
 //MEDOCLAVÕhukese polümeerikattega tablett875mg+125mg
