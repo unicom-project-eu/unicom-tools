@@ -1,0 +1,10 @@
+canonical: http://example.org
+fhirVersion: 5.0.0
+FSHOnly: true
+applyExtensionMetadataToRoot: false
+id: example
+name: Example
+
+
+dependencies:
+  hl7.eu.fhir.unicom: current
