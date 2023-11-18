@@ -1,8 +1,7 @@
 Instance: Alvedon250mgMunsonderTablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-07-13T09:58:01.261+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "16408"
 * subject = Reference(Alvedon250mgMunsonderTablett-SE-PLC-MedicinalProductDef)

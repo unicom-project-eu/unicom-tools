@@ -1,8 +1,7 @@
 Instance: Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-I
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T21:58:48.074+00:00"
+
 * status = #active
 * for[0] = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MPD)
 * for[+] = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MID)

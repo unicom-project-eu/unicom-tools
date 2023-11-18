@@ -1,16 +1,13 @@
 Instance: Diclofenac-Mylan-180mg-Medicated-plaster-EE-PPD-1788419
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T21:07:05.752+00:00"
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
+
+
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002140 "Plaster"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100022866-36016-1788419"
 * packageFor = Reference(Diclofenac-Mylan-180mg-Medicated-plaster-EE-MPD)
 * description = "Suletava ümbrise materjal on paber/PE/alumiinium/etüleen ja metüülakrüülhappe kopolümeer. Ümbrises on 5 ravimplaastrit. Pakendi suurus: 5 või 10 ravimplaastrit karbis."
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

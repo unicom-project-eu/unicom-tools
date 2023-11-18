@@ -1,8 +1,7 @@
 Instance: MetforminActavis-500mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-15T18:41:33.305+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12785"
 * subject = Reference(MetforminActavis-500mg-Tablet-SE-BS-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: Oxascand-10mg-Tablet-SE-IS-Ingredient04
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-10T06:37:54.511+00:00"
+
 * status = #active
 * for[0] = Reference(Oxascand-10mg-Tablet-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(Oxascand-10mg-Tablet-SE-IS-ManufacturedItemDefinition)

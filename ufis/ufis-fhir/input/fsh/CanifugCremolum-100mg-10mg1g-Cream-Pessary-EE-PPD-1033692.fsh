@@ -1,15 +1,12 @@
 Instance: CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-PPD-1033692
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T14:38:47.244+00:00"
+
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100004795-10280-1033692"
 * packageFor = Reference(CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-MPD)
 * description = "Alu/PE-fooliumist valmistatud ribapakend, mis on asetatud väliskarpi. Kreem on alumiiniumtuubis ja omakorda pappkarbis. Kombineeritud pakend sisaldab: 6 vaginaalsuposiiti ja 20 g kreemi"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

@@ -1,8 +1,7 @@
 Instance: LidokainAgu-10mgml-InjSol-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T17:10:05.775+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56122"
 * subject = Reference(LidokainAgu-10mgml-InjSol-SE-AJ-MedicinalProductDefinition)

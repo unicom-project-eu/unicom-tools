@@ -1,8 +1,7 @@
 Instance: Tiparol50mgbrustablett-SE-PLC-Ingredient02
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-10-24T15:58:45.311+00:00"
+
 * status = #active
 * for[0] = Reference(Tiparol50mgbrustablett-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(Tiparol50mgbrustablett-SE-PLC-ManufacturedItemDef)

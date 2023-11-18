@@ -1,8 +1,7 @@
 Instance: Metfogamma850-850mg-Film-coated-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:07:09.709+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "490805"
 * subject = Reference(Metfogamma850-850mg-Film-coated-tablet-EE-MPD)

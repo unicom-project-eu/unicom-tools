@@ -1,16 +1,13 @@
 Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-PPD-1424056
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-08-14T19:51:59.759+00:00"
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
+
+
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002166 "Bag"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100008123-25101-1424056"
 * packageFor = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MPD)
 * description = "50 ml ja 100 ml plastkotid, millel on manustamisport (infusiooniport) ja lisamisport (süsteport); kotid koosnevad polüolefiinist sisekihist ja alumiiniumisisaldusega kattekihist ning sisaldavad hapnikuabsorbenti. Kotid on suletud polüisopreenist korgi ja polüpropüleenist kaanega."
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

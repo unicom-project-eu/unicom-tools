@@ -1,8 +1,7 @@
 Instance: LidoMylan-10mgml-InjSol-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T21:15:43.588+00:00"
+
 * status = #active
 * for[0] = Reference(LidoMylan-10mgml-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(LidoMylan-10mgml-InjSol-SE-AJ-ManufacturedItemDefinition)

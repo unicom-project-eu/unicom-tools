@@ -1,8 +1,7 @@
 Instance: MorfinAlt-20mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-28T06:30:03.739+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49754"
 * subject = Reference(MorfinAlt-20mg-Tablet-SE-BS-MedicinalProductDefinition)

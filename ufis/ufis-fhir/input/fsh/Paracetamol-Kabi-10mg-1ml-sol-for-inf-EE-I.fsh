@@ -1,8 +1,7 @@
 Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-I
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:50:00.796+00:00"
+
 * status = #active
 * for[0] = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MPD)
 * for[+] = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MID-1424034)

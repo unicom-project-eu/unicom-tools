@@ -1,8 +1,7 @@
 Instance: Zeldox20mgml2-SE-PLC-Ingredient02
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-14T16:14:33.288+00:00"
+
 * status = #active
 * for[0] = Reference(Zeldox20mgml2-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(Zeldox20mgml2-SE-PLC-ManufacturedItemDef01)

@@ -1,10 +1,9 @@
 Instance: ccdb8e56-4520-4a02-bfad-fa0cb2f07eef
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-06-23T16:14:08.746+00:00"
+
 * language = #FI
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
+
 * containedItemQuantity.value = 30
 * containedItemQuantity.unit = "tablets"
 * identifier.system = "http://ema.europa.eu/fhir/pcId"

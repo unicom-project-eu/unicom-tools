@@ -1,8 +1,7 @@
 Instance: Zoladex-10.8mg-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-27T09:41:02.748+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12377"
 * subject = Reference(Zoladex-10.8mg-Solution-SE-IS-MedicinalProductDefinition)

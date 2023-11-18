@@ -1,8 +1,7 @@
 Instance: Sandimmun50mgmlkoncentrat-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-02T13:09:40.506+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10263"
 * subject = Reference(Sandimmun50mgmlkoncentrat-SE-PLC-MedicinalProductDef)

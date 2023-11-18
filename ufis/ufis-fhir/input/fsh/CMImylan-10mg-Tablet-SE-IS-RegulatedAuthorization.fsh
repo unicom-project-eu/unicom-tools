@@ -1,8 +1,7 @@
 Instance: CMImylan-10mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-07T06:19:00.293+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11339"
 * subject = Reference(CMImylan-10mg-Tablet-SE-IS-MedicinalProductDefinition)

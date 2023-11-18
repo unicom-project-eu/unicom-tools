@@ -1,8 +1,7 @@
 Instance: VentilastinNovolizer100mginhalationspulver-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-06-30T19:52:24.567+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "24458"
 * subject = Reference(VentilastinNovolizer100mginhalationspulver-SE-PLC-MedProdDef)

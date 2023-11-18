@@ -1,8 +1,7 @@
 Instance: Glytrin04mgdossublingualspray-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T16:15:22.075+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "13574"
 * subject = Reference(Glytrin04mgdossublingualspray-SE-PLC-MedicinalProductDef)

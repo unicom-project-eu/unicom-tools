@@ -1,8 +1,7 @@
 Instance: AMLvitabalans-5mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T11:37:06.948+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "43520"
 * subject = Reference(AMLvitabalans-5mg-Tablet-SE-IS-MedicinalProductDefinition)

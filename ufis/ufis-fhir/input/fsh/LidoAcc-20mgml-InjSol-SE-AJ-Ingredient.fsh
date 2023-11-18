@@ -1,8 +1,7 @@
 Instance: LidoAcc-20mgml-InjSol-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T21:05:25.627+00:00"
+
 * status = #active
 * for[0] = Reference(LidoAcc-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(LidoAcc-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition)

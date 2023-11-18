@@ -1,8 +1,7 @@
 Instance: Zeldox20mgmlpulvervatskainjek-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T17:07:47.139+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "15002"
 * subject = Reference(Zeldox20mgmlpulvervatskainjek-SE-PLC-MedicinalProductDef)

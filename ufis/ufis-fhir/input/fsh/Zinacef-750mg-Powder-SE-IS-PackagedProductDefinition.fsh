@@ -1,14 +1,11 @@
 Instance: Zinacef-750mg-Powder-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-10T06:23:18.806+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
+
+
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"
 * packageFor = Reference(Zinacef-750mg-Powder-SE-IS-MedicinalProductDefinition)
 * description = "Injektionsflaska, 5 st (5 x 750 mg)"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072288 "Swedish"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

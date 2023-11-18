@@ -1,9 +1,8 @@
 Instance: Aprokam-50mg-Powder-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-07-13T16:25:47.54+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Powder for solution for injection"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100001677-00046149"
@@ -33,5 +32,3 @@ Usage: #inline
 * name.usage.language.coding.system = "http://spor.ema.europa.eu/v1/lists/100000072057"
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

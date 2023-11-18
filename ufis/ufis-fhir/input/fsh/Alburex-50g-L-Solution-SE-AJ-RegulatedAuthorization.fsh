@@ -1,8 +1,7 @@
 Instance: Alburex-50g-L-Solution-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-06-29T09:03:06.076+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50242"
 * subject = Reference(Alburex-50g-L-Solution-SE-AJ-MedicinalProductDefinition)

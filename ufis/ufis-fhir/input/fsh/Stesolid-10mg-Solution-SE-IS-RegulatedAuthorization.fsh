@@ -1,8 +1,7 @@
 Instance: Stesolid-10mg-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T13:36:39.519+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9292"
 * subject = Reference(Stesolid-10mg-Solution-SE-IS-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: 0cf52436-fced-4094-bc1f-01ad656685b6
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "3"
-* meta.lastUpdated = "2022-06-22T10:22:00.894+00:00"
+
 * extension.url = "http://ema.europa.eu/fhir/extension/subject"
 * extension.valueReference = Reference(bb8c2306-04c5-42df-94c9-aa6d6e68050b)
 * status = #active

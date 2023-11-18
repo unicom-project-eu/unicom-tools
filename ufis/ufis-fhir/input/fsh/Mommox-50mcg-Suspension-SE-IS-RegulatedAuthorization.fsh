@@ -1,8 +1,7 @@
 Instance: Mommox-50mcg-Suspension-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-17T06:42:08.975+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "44664"
 * subject = Reference(Mommox-50mcg-Suspension-SE-IS-MedicinalProductDefinition)

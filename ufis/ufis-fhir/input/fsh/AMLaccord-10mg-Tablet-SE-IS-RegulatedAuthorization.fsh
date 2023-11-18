@@ -1,8 +1,7 @@
 Instance: AMLaccord-10mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-09-30T11:56:59.508+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "26704"
 * subject = Reference(AMLaccord-10mg-Tablet-SE-IS-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: Sandimmun-Neoral-25mg-Soft-Capsule-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T21:55:44.297+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "093194"
 * subject = Reference(Sandimmun-Neoral-25mg-Soft-Capsule-EE-MPD)

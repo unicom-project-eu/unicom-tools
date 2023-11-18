@@ -1,8 +1,7 @@
 Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:50:00.718+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "715010"
 * subject = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MPD)

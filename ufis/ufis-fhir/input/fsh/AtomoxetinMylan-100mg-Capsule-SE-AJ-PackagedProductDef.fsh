@@ -1,14 +1,11 @@
 Instance: AtomoxetinMylan-100mg-Capsule-SE-AJ-PackagedProductDef
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-23T19:55:06.017+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
+
+
 * containedItemQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
 * packageFor = Reference(AtomoxetinMylan-100mg-Capsule-SE-AJ-MedicinalProductDef)
 * description = "Blister, 28 kapslar"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072288 "Swedish"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

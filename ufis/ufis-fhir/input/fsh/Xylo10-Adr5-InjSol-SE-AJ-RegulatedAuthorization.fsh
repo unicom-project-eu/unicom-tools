@@ -1,8 +1,7 @@
 Instance: Xylo10-Adr5-InjSol-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T16:13:11.382+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8318"
 * subject = Reference(Xylo10-Adr5-InjSol-SE-AJ-MedicinalProductDefinition)

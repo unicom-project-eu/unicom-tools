@@ -1,8 +1,7 @@
 Instance: Sporanox-10mgml-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-11T06:42:17.827+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "13358"
 * subject = Reference(Sporanox-10mgml-Solution-SE-IS-MedicinalProductDefinition)

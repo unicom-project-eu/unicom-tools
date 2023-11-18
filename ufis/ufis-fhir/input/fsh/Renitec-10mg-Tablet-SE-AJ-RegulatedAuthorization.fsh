@@ -1,8 +1,7 @@
 Instance: Renitec-10mg-Tablet-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-06-30T09:49:28.438+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10840"
 * subject = Reference(Renitec-10mg-Tablet-SE-AJ-MedicinalProductDefinition)

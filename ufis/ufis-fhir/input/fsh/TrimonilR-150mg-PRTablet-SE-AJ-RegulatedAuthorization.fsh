@@ -1,8 +1,7 @@
 Instance: TrimonilR-150mg-PRTablet-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-09T12:51:58.702+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12919"
 * subject = Reference(TrimonilR-150mg-PRTablet-SE-AJ-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: TramadolRetardActavis100mgdepot-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T16:42:17.381+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "24560"
 * subject = Reference(TramadolRetardActavis100mgdepot-SE-PLC-MedicinalProductDef)

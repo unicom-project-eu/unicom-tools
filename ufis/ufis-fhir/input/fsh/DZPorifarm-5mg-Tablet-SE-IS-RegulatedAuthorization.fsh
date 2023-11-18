@@ -1,8 +1,7 @@
 Instance: DZPorifarm-5mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T13:06:29.65+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "57369"
 * subject = Reference(DZPorifarm-5mg-Tablet-SE-IS-MedicinalProductDefinition)

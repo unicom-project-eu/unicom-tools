@@ -1,8 +1,7 @@
 Instance: Xylocain-WOP-10mgml-InjSol-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T10:01:01.845+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10598"
 * subject = Reference(Xylocain-WOP-10mgml-InjSol-SE-AJ-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: BupTest-5h-Transderm-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-27T15:04:48.428+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "52809"
 * subject = Reference(BupTest-5h-Transderm-SE-BS-MedicinalProductDefinition)

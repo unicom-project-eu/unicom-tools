@@ -1,8 +1,7 @@
 Instance: Nitrolingual04mgdossublingualspray-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T16:20:42.3+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11928"
 * subject = Reference(Nitrolingual04mgdossublingualspray-SE-PLC-MedicinalProductDef)

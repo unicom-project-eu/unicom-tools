@@ -1,8 +1,7 @@
 Instance: Taflotan-0.015mg-1ml-eye-drops-solution-EE-I
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:53:57.061+00:00"
+
 * status = #active
 * for[0] = Reference(Taflotan-0.015mg-1ml-eye-drops-solution-EE-MPD)
 * for[+] = Reference(Taflotan-0.015mg-1ml-eye-drops-solution-EE-MID)

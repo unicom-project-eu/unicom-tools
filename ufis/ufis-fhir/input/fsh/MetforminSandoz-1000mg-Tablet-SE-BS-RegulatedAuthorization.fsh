@@ -1,8 +1,7 @@
 Instance: MetforminSandoz-1000mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-16T09:10:03.044+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53521"
 * subject = Reference(MetforminSandoz-1000mg-Tablet-SE-BS-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: Xylocain-2-Gel-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T09:58:13.214+00:00"
+
 * status = #active
 * for[0] = Reference(Xylocain-2-Gel-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xylocain-2-Gel-SE-AJ-ManufacturedItemDefinition)

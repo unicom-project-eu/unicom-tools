@@ -1,8 +1,7 @@
 Instance: Anafranil-12mgml-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-07T06:43:43.181+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8757"
 * subject = Reference(Anafranil-12mgml-Solution-SE-IS-MedicinalProductDefinition)

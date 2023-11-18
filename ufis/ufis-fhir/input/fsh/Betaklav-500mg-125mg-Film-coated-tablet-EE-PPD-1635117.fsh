@@ -1,16 +1,13 @@
 Instance: Betaklav-500mg-125mg-Film-coated-tablet-EE-PPD-1635117
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T14:20:02.833+00:00"
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
+
+
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100009540-30722-1635117"
 * packageFor = Reference(Betaklav-500mg-125mg-Film-coated-tablet-EE-MPD)
 * description = "Ribapakend (Al/Al) 10 õhukese polümeerikattega tabletti karbis"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

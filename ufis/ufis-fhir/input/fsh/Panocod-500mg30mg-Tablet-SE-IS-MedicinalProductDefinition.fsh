@@ -1,9 +1,8 @@
 Instance: Panocod-500mg30mg-Tablet-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-20T16:09:39.071+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100004157-00010233"
@@ -34,5 +33,3 @@ Usage: #inline
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
 * characteristic.type = $200000003186#200000003187 "combined therapeutic medicine / device"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

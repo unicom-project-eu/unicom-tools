@@ -1,8 +1,7 @@
 Instance: AMLjubilant-10mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T10:48:00.792+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "21305"
 * subject = Reference(AMLjubilant-10mg-Tablet-SE-IS-MedicinalProductDefinition)

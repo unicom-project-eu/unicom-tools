@@ -1,8 +1,7 @@
 Instance: BuprenorSTADA-5h-Transderm-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-04T08:03:23.995+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "52809"
 * subject = Reference(BuprenorSTADA-5h-Transderm-SE-BS-MedicinalProductDefinition)

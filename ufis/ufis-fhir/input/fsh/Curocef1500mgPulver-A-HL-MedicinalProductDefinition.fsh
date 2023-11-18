@@ -1,9 +1,8 @@
 Instance: Curocef1500mgPulver-A-HL-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-09-01T20:20:03.316+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
 * identifier.system = "http://ema.europa.eu/fhir/mpId"
@@ -104,5 +103,3 @@ Usage: #inline
 * operation[=].confidentialityIndicator.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
 * operation[=].confidentialityIndicator.coding.extension.valueInteger = 1
 * operation[=].confidentialityIndicator.coding = $200000004983#200000004984 "Confidential"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

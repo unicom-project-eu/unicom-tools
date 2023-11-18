@@ -1,8 +1,7 @@
 Instance: Xylocard-20mgml-InjSol-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T10:02:33.941+00:00"
+
 * status = #active
 * for[0] = Reference(Xylocard-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xylocard-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition)

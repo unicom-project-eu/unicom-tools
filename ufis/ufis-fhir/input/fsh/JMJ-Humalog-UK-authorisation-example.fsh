@@ -1,8 +1,7 @@
 Instance: JMJ-Humalog-UK-authorisation-example
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-06-23T20:35:06.474+00:00"
+
 * subject = Reference(JMJ-Humalog-Kwikpen-product-example)
 * type = $220000000060#220000000061 "Marketing Authorisation"
 * region.coding[0] = $100000000002#100000000556 "United Kingdom of Great Britain and Northern Irelan"

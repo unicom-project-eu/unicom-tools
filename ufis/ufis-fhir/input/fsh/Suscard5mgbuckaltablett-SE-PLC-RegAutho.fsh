@@ -1,8 +1,7 @@
 Instance: Suscard5mgbuckaltablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T16:27:27.135+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10410"
 * subject = Reference(Suscard5mgbuckaltablett-SE-PLC-MedicinalProductDef)

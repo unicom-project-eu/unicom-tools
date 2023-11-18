@@ -1,8 +1,7 @@
 Instance: LidokainAgu-10mgml-InjSol-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T17:10:05.941+00:00"
+
 * status = #active
 * for[0] = Reference(LidokainAgu-10mgml-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(LidokainAgu-10mgml-InjSol-SE-AJ-ManufacturedItemDefinition)

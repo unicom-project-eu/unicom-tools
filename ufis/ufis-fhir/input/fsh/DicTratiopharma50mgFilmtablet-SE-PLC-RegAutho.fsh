@@ -1,8 +1,7 @@
 Instance: DicTratiopharma50mgFilmtablet-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T17:22:18.144+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "16703"
 * subject = Reference(DicTratiopharma50mgFilmtablet-SE-PLC-MedicinalProductDef)

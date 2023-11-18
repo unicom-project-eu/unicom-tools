@@ -1,8 +1,7 @@
 Instance: AMLteva-10mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T11:28:41.807+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "26392"
 * subject = Reference(AMLteva-10mg-Tablet-SE-IS-MedicinalProductDefinition)

@@ -1,14 +1,11 @@
 Instance: CefuroximMIP-750mg-Powder-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T14:04:58.808+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
+
+
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"
 * packageFor = Reference(CefuroximMIP-750mg-Powder-SE-IS-MedicinalProductDefinition)
 * description = "Injektionsflaska, 10 x 1 st (750 mg)"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072288 "Swedish"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

@@ -1,8 +1,7 @@
 Instance: Zoladex-3.6mg-Implant-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:15:01.138+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "062494"
 * subject = Reference(Zoladex-3.6mg-Implant-EE-MPD)

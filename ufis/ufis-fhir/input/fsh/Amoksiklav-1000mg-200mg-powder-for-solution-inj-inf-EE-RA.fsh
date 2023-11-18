@@ -1,8 +1,7 @@
 Instance: Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T21:51:04.861+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "149896"
 * subject = Reference(Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-MPD)

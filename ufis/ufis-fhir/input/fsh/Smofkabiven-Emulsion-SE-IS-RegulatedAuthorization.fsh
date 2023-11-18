@@ -1,8 +1,7 @@
 Instance: Smofkabiven-Emulsion-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-29T06:44:56.811+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "22810"
 * subject = Reference(Smofkabiven-Emulsion-SE-IS-MedicinalProductDefinition)

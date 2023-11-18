@@ -1,8 +1,7 @@
 Instance: JMJ-Humalog-Kwikpen-package
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-06-23T20:35:06.523+00:00"
+
 * name = "Humalog 100 units/ml KwikPen, solution for injection in a pre-filled pen; pack of 5 3ml pens"
 * packageFor = Reference(JMJ-Humalog-Kwikpen-product-example)
 * status = $publication-status#active "Active"

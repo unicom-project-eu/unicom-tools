@@ -1,8 +1,7 @@
 Instance: JMJ-Humalog-Kwikpen-manufacturedItem-example
 InstanceOf: PPLManufacturedItemDefinition
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-06-23T20:35:06.49+00:00"
+
 * status = #active
 * manufacturedDoseForm.coding[0] = $standardterms#11201000 "Solution for injection"
 * manufacturedDoseForm.coding[+] = $200000000004#100000073863 "Solution for injection"

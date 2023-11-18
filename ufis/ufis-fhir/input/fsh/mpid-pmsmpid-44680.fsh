@@ -1,8 +1,7 @@
 Instance: mpid-pmsmpid-44680
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "3"
-* meta.lastUpdated = "2022-06-23T16:14:08.596+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "32012"
 * subject = Reference(d37bfa6f-ea90-4645-8be4-e7c649dd64f2)

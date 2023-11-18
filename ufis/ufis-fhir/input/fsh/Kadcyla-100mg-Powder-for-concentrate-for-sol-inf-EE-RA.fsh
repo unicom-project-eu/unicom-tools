@@ -1,8 +1,7 @@
 Instance: Kadcyla-100mg-Powder-for-concentrate-for-sol-inf-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T18:57:32.323+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "EU/1/13/885"
 * subject = Reference(Kadcyla-100mg-Powder-for-concentrate-for-sol-inf-EE-MPD)

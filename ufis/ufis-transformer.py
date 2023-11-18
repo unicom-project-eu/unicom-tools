@@ -97,9 +97,10 @@ for file in listdir(FOLDER):
                 contents = contents.replace(value, hashed_value)
                 # print("Replaced value:", hashed_value)
                 print(contents)
+        contents = re.sub(r"\* meta.versionId = \"(\S+)\"", "", contents)
+        contents = re.sub(r"\* meta.lastUpdated = \"(.+)\"\n", "", contents)
 
         contents = contents.replace("$220000000060_1", "$220000000060")
-
         contents = contents.replace("$200000000004_1", "$200000000004")
         contents = contents.replace("$100000000004_1", "$100000000004")
         contents = contents.replace("$100000072051_1", "$100000072051")
@@ -153,8 +154,9 @@ for file in listdir(FOLDER):
                 '//DUMMY\n* marketingStatus.status.coding[0] = $100000072052#100000072083 "Marketed"',
             )
 
-            if "* legalStatusofSupply" not in contents:
+            if "* legalStatusOfSupply" not in contents:
                 contents += '\n//DUMMY\n* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"'
+
             if "* domain" not in contents:
                 contents += (
                     '\n//DUMMY\n* domain = $100000000004#100000000012 "Human use"'
@@ -196,7 +198,19 @@ for file in listdir(FOLDER):
                 """* classification[=].coding = $200000000324#200000003517 "Other"\n""",
                 """* classification[+].coding = $200000000324#200000003517 "Other"\n""",
             )
-
+            contents = contents.replace(
+                '* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"',
+                "",
+            )
+            contents = contents.replace(
+                '* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"',
+                "",
+            )
+            contents = contents.replace(
+                """* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
+* description.extension.valueCoding = $100000072057#100000072288 "Swedish"\n""",
+                "",
+            )
         ####### INGREDIENT ####################################
         if "InstanceOf: Ingredient" in contents:
             #    print("yes")
@@ -207,6 +221,16 @@ for file in listdir(FOLDER):
             contents = contents.replace(
                 '* role = $100000072072#100000072072 "Active"',
                 '* role = $100000072050#100000072072 "Active"',
+            )
+
+            contents = contents.replace(
+                """* substance.strength.presentationRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"
+* substance.strength.presentationRatio.numerator.comparator.extension.valueCoding = $100000000008#100000000049 "equal to"\n""",
+                "",
+            )
+            contents = contents.replace(
+                """* substance.strength.referenceStrength.strengthRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"\n""",
+                "",
             )
 
             if "substance.strength" not in contents:
@@ -240,6 +264,16 @@ for file in listdir(FOLDER):
                 "",
             )
 
+            contents = contents.replace(
+                '* substance.strength.presentationRatio.numerator.comparator.extension.valueCoding = $100000000008#100000000051 "more than"',
+                "",
+            )
+
+            contents = contents.replace(
+                '* substance.strength.presentationRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"',
+                "",
+            )
+
             if (
                 "* substance.strength.concentrationRatio.numerator " in contents
                 and "* substance.strength.concentrationRatio.denominator"
@@ -265,6 +299,19 @@ for file in listdir(FOLDER):
 
             if "unitOfPresentation" not in contents:
                 contents += '\n//DUMMY\n* unitOfPresentation = $200000000014#200000002152 "Tablet"'
+
+            contents = contents.replace(
+                """* unitOfPresentation.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* unitOfPresentation.coding.extension.valueInteger = 1\n""",
+                "",
+            )
+
+            contents = contents.replace(
+                """* manufacturedDoseForm.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* manufacturedDoseForm.coding.extension.valueInteger = 1\n""",
+                "",
+            )
+
         ####### PACKAGED PRODUCT DEFINITION ####################################
 
         if "InstanceOf: PackagedProductDefinition" in contents:
@@ -319,8 +366,7 @@ for file in listdir(FOLDER):
                 '* marketingStatus.status.coding[0] = xx#xx "xx"',
                 '//DUMMY\n* marketingStatus.status.coding[0] = $100000072052#100000072083 "Marketed"',
             )
-            if "* description" not in contents:
-                contents += '\n//DUMMY\n* description = "dummy"'
+
             contents = contents.replace(
                 '* packaging.packaging.type.coding[=].code = "?"',
                 "* packaging.packaging.type.coding[=].code = #?",
@@ -333,7 +379,36 @@ for file in listdir(FOLDER):
 * extension[=].valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"\n""",
                 """* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"\n""",
             )
-
+            contents = contents.replace(
+                '* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"',
+                "",
+            )
+            contents = contents.replace(
+                '* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"',
+                "",
+            )
+            contents = contents.replace(
+                """* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
+* description.extension.valueCoding = $100000072057#100000072288 "Swedish"\n""",
+                "",
+            )
+            contents = contents.replace(
+                """* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
+* description.extension.valueCoding = $100000072057#100000072172 "Estonian"\n""",
+                "",
+            )
+            contents = contents.replace(
+                """* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
+* description.extension.valueCoding = $100000072251#100000072251 "Portuguese"\n""",
+                "",
+            )
+            contents = contents.replace(
+                """* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
+* description.extension.valueCoding = $100000072057#100000072178 "German"\n""",
+                "",
+            )
+            if "* description" not in contents:
+                contents += '\n//DUMMY\n* description = "dummy"'
         ####### RegulatedAuthorization ########################################################################
 
         if "InstanceOf: RegulatedAuthorization" in contents:
@@ -369,6 +444,16 @@ for file in listdir(FOLDER):
                 '* type = $220000000060#220000000061 "Marketing Authorisation"',
             )
             contents = create_org(contents)
+        if "InstanceOf: Bundle" in contents:
+            contents = contents.replace(
+                "* type = #transaction",
+                "* type = #collection",
+            )
+            contents = contents.replace(
+                "* entry[=].request.method = #PUT",
+                "",
+            )
+            contents = re.sub(r"\* entry\[=\].request.url = \"(.+)\"", "", contents)
 
         f = open("ufis-fhir/input/fsh/" + file, "w")
         f.write(contents)

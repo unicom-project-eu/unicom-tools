@@ -1,8 +1,7 @@
 Instance: Carbalex-200mg-Tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T21:54:00.19+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "391302"
 * subject = Reference(Carbalex-200mg-Tablet-EE-MPD)

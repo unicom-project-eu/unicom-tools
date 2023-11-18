@@ -1,10 +1,9 @@
 Instance: 20170630100020
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "3"
-* meta.lastUpdated = "2022-06-22T09:50:57.101+00:00"
+
 * language = #EN
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
+
 * containedItemQuantity.value = 10
 * containedItemQuantity.unit = "tablets"
 * identifier.system = "http://ema.europa.eu/fhir/pcId"

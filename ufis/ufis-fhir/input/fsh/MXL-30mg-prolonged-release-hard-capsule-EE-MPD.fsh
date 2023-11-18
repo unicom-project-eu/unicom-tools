@@ -1,9 +1,8 @@
 Instance: MXL-30mg-prolonged-release-hard-capsule-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T20:51:26.133+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
 * identifier.system = "http://ema.europa.eu/fhir/mpId"
 * identifier.value = "EE-100044010-10216"
@@ -31,5 +30,3 @@ Usage: #inline
 * name.usage.language.coding.system = "http://spor.ema.europa.eu/v1/lists/100000072057"
 * name.usage.language.coding.code = #100000072172
 * name.usage.language.coding.display = "Estonian"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

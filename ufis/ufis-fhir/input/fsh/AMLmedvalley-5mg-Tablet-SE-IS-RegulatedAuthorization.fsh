@@ -1,8 +1,7 @@
 Instance: AMLmedvalley-5mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T10:56:09.381+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "57541"
 * subject = Reference(AMLmedvalley-5mg-Tablet-SE-IS-MedicinalProductDefinition)

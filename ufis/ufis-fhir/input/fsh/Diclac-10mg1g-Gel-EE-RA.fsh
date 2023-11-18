@@ -1,8 +1,7 @@
 Instance: Diclac-10mg1g-Gel-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T21:05:51.258+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "475405"
 * subject = Reference(Diclac-10mg1g-Gel-EE-MPD)

@@ -1,8 +1,7 @@
 Instance: CefStragen-750mg-Powder-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-10T05:51:57.676+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50005"
 * subject = Reference(CefStragen-750mg-Powder-SE-IS-MedicinalProductDefinition)

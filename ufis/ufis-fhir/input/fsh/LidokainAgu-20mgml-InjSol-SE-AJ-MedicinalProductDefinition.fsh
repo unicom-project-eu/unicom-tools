@@ -1,9 +1,8 @@
 Instance: LidokainAgu-20mgml-InjSol-SE-AJ-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T17:11:30.429+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000007#100000074047 "Solution for injection in pre-filled syringe"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100000357-00056123"
@@ -33,5 +32,3 @@ Usage: #inline
 * name.usage.language.coding.system = "http://spor.ema.europa.eu/v1/lists/100000072057"
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

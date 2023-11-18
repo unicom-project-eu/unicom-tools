@@ -1,8 +1,7 @@
 Instance: AMLaurobindo-10mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-09-30T12:01:35.666+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "28120"
 * subject = Reference(AMLaurobindo-10mg-Tablet-SE-IS-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: Tapin-2525-Plaster-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T09:29:00.306+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49407"
 * subject = Reference(Tapin-2525-Plaster-SE-AJ-MedicinalProductDefinition)

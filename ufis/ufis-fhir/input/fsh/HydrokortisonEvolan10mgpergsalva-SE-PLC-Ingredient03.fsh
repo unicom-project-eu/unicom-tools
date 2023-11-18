@@ -1,8 +1,7 @@
 Instance: HydrokortisonEvolan10mgpergsalva-SE-PLC-Ingredient03
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-10-13T14:54:51.612+00:00"
+
 * status = #active
 * for[0] = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef)

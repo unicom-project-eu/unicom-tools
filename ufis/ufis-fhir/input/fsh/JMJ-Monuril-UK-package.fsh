@@ -1,8 +1,7 @@
 Instance: JMJ-Monuril-UK-package
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "4"
-* meta.lastUpdated = "2022-06-23T21:13:05.071+00:00"
+
 * name = "Monuril 3g granules for solution; pack of 1 sachet"
 * packageFor = Reference(JMJ-Monuril-product-example)
 * status = $publication-status#active "Active"

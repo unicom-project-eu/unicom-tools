@@ -1,9 +1,8 @@
 Instance: TPTDteva-20mcg80mcl-Solution-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-08T17:35:45.165+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000007#100000074039 "Solution for injection in pre-filled pen"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100001594-00053004"
@@ -33,5 +32,3 @@ Usage: #inline
 * name.usage.language.coding.system = "http://spor.ema.europa.eu/v1/lists/100000072057"
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

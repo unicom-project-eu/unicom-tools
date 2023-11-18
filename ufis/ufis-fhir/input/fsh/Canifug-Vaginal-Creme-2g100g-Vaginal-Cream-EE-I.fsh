@@ -1,8 +1,7 @@
 Instance: Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-I
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-08-17T06:43:08.53+00:00"
+
 * status = #active
 * for[0] = Reference(Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-MPD)
 * for[+] = Reference(Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-MID)

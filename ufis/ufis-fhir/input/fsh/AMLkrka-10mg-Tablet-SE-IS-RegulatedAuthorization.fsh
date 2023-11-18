@@ -1,8 +1,7 @@
 Instance: AMLkrka-10mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-09-21T16:52:48.669+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "23829"
 * subject = Reference(AMLkrka-10mg-Tablet-SE-IS-MedicinalProductDefinition)

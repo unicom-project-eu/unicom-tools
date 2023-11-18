@@ -1,8 +1,7 @@
 Instance: Zoloft20mgpermlkoncentrat-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T17:03:26.798+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "15504"
 * subject = Reference(Zoloft20mgpermlkoncentrat-SE-PLC-MedicinalProductDef)

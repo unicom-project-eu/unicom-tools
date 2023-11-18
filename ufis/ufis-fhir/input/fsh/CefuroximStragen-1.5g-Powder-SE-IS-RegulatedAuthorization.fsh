@@ -1,8 +1,7 @@
 Instance: CefuroximStragen-1.5g-Powder-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-02T10:58:54.482+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50006"
 * subject = Reference(CefuroximStragen-1.5g-Powder-SE-IS-MedicinalProductDefinition)

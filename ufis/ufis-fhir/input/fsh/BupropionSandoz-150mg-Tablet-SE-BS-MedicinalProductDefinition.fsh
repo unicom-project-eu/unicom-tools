@@ -1,9 +1,8 @@
 Instance: BupropionSandoz-150mg-Tablet-SE-BS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-02T08:16:43.974+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073668 "Modified-release tablet"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100002152-00050226"
@@ -33,5 +32,3 @@ Usage: #inline
 * name.usage.language.coding.system = "http://spor.ema.europa.eu/v1/lists/100000072057"
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

@@ -1,8 +1,7 @@
 Instance: Toujeo-300units-ml-sol-inj-pen-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:47:46.229+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "EU/1/00/133"
 * subject = Reference(Toujeo-300units-ml-sol-inj-pen-EE-MPD)

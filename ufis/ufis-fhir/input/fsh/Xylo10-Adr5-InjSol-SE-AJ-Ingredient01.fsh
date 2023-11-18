@@ -1,8 +1,7 @@
 Instance: Xylo10-Adr5-InjSol-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T16:13:11.979+00:00"
+
 * status = #active
 * for[0] = Reference(Xylo10-Adr5-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xylo10-Adr5-InjSol-SE-AJ-ManufacturedItemDefinition)

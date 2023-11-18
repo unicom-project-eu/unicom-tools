@@ -1,8 +1,7 @@
 Instance: Tiparol50mgbrustablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T15:52:16.834+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "14106"
 * subject = Reference(Tiparol50mgbrustablett-SE-PLC-MedicinalProductDef)

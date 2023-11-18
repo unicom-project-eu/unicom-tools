@@ -1,8 +1,7 @@
 Instance: Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T14:56:09.415+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "260599"
 * subject = Reference(Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-MPD)

@@ -1,13 +1,10 @@
 Instance: DZPorifarm-5mg-Solution-SE-IS-PackagedProductDefinition02
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T12:51:47.905+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
+
+
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
 * packageFor = Reference(DZPorifarm-5mg-Solution-SE-IS-MedicinalProductDefinition)
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072288 "Swedish"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"
@@ -32,3 +29,5 @@ Usage: #inline
 * packaging.packaging.containedItem.amount.code = #Tablet
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/200000000014"
 * packaging.packaging.containedItem.amount.unit = "200000002152"
+//DUMMY
+* description = "dummy"

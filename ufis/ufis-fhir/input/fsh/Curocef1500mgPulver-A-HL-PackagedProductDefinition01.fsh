@@ -1,8 +1,7 @@
 Instance: Curocef1500mgPulver-A-HL-PackagedProductDefinition01
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-09-01T20:20:05.83+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/pcId"
 * identifier.value = "128827001"
 * packageFor = Reference(Curocef1500mgPulver-A-HL-MedicinalProductDefinition)
@@ -10,8 +9,6 @@ Usage: #inline
 * containedItemQuantity.code.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
 * containedItemQuantity.code.extension.valueInteger = 1
 * description = "Farblose Glasampulle mit einem Brombutylkautschuk-Stopfen und Aluminium-Verschluss mit aufklappbarem Kunststoffdeckel, die 1500 mg Cefuroxim (als Cefuroxim-Natrium) Pulver enthält"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072178 "German"
 * marketingStatus.extension.url = "http://ema.europa.eu/fhir/extension/riskOfSupplyShortage"
 * marketingStatus.extension.valueCoding = $riskOfSupplyShortage#False "False"
 * marketingStatus.country.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"

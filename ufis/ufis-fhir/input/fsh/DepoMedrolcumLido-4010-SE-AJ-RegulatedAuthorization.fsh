@@ -1,8 +1,7 @@
 Instance: DepoMedrolcumLido-4010-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T09:44:44.702+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9493"
 * subject = Reference(DepoMedrolcumLido-4010-SE-AJ-MedicinalProductDefinition)

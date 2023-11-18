@@ -1,8 +1,7 @@
 Instance: IMASTADA-100mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-02T15:15:36.773+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50150"
 * subject = Reference(IMASTADA-100mg-Tablet-SE-IS-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: Anafranil-25mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "3"
-* meta.lastUpdated = "2022-10-07T06:45:42.523+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8757"
 * subject = Reference(Anafranil-25mg-Tablet-SE-IS-MedicinalProductDefinition)

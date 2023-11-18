@@ -1,8 +1,7 @@
 Instance: TramadolRetardActavis100mgdepot-SE-PLC-Ingredient04
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-10-24T16:46:51.914+00:00"
+
 * status = #active
 * for[0] = Reference(TramadolRetardActavis100mgdepot-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(TramadolRetardActavis100mgdepot-SE-PLC-ManufacturedItemDef)

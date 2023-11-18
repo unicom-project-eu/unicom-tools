@@ -1,8 +1,7 @@
 Instance: Airomir0.1Spray-SE-PLC-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "3"
-* meta.lastUpdated = "2022-06-29T07:42:20.658+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12324"
 * subject = Reference(Airomir0.1Spray-SE-PLC-MedicinalProductDefinition)

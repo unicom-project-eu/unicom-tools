@@ -1,8 +1,7 @@
 Instance: Simvacor-10mg-Film-coated-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T21:13:40.437+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "402302"
 * subject = Reference(Simvacor-10mg-Film-coated-tablet-EE-MPD)

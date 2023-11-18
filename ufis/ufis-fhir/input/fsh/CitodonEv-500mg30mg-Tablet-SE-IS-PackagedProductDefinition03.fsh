@@ -1,14 +1,11 @@
 Instance: CitodonEv-500mg30mg-Tablet-SE-IS-PackagedProductDefinition03
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-20T16:51:24.624+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
+
+
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
 * packageFor = Reference(CitodonEv-500mg30mg-Tablet-SE-IS-MedicinalProductDefinition)
 * description = "Blister, 20 tabletter"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072288 "Swedish"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

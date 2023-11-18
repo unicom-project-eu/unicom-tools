@@ -1,8 +1,7 @@
 Instance: AtomoxetinActavis-10mg-Capsule-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-23T19:03:15.714+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "52682"
 * subject = Reference(AtomoxetinActavis-10mg-Capsule-SE-AJ-MedicinalProductDef)

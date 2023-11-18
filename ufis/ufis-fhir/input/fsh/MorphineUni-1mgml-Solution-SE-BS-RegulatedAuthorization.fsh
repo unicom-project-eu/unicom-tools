@@ -1,8 +1,7 @@
 Instance: MorphineUni-1mgml-Solution-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-28T07:02:00.283+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56117"
 * subject = Reference(MorphineUni-1mgml-Solution-SE-BS-MedicinalProductDefinition)

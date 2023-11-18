@@ -1,8 +1,7 @@
 Instance: PinexJordgubb250mggranulat-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-23T10:48:59.7+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "27963"
 * subject = Reference(PinexJordgubb250mggranulat-SE-PLC-MedicinalProductDef)

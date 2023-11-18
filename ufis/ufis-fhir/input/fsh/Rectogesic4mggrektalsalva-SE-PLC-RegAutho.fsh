@@ -1,8 +1,7 @@
 Instance: Rectogesic4mggrektalsalva-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T16:23:26.877+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "22988"
 * subject = Reference(Rectogesic4mggrektalsalva-SE-PLC-MedicinalProductDef)

@@ -1,8 +1,7 @@
 Instance: Cortimyk20mgml10mgmlkram-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-09T14:17:07.093+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12627"
 * subject = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-MedicinalProductDef)

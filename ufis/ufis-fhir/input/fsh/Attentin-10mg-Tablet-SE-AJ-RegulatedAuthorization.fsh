@@ -1,8 +1,7 @@
 Instance: Attentin-10mg-Tablet-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-24T16:45:11.72+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53180"
 * subject = Reference(Attentin-10mg-Tablet-SE-AJ-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: Orimox-50mcg-Suspension-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-17T06:51:17.785+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "55400"
 * subject = Reference(Orimox-50mcg-Suspension-SE-IS-MedicinalProductDefinition)

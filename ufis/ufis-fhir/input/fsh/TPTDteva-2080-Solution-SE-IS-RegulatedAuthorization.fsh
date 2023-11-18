@@ -1,8 +1,7 @@
 Instance: TPTDteva-2080-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-03T06:41:26.542+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53004"
 * subject = Reference(TPTDteva-2080-Solution-SE-IS-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: SoluCortef100mgpulvervatskainj-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-26T14:45:40.856+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "MTnumber"
 * subject = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-MedicinalProductDef)

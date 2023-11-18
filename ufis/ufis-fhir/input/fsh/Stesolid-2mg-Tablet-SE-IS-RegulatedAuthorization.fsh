@@ -1,8 +1,7 @@
 Instance: Stesolid-2mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T13:09:18.016+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8012"
 * subject = Reference(Stesolid-2mg-Tablet-SE-IS-MedicinalProductDefinition)

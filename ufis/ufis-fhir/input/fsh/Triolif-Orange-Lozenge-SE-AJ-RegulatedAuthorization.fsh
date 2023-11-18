@@ -1,8 +1,7 @@
 Instance: Triolif-Orange-Lozenge-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T16:27:26.607+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49613"
 * subject = Reference(Triolif-Orange-Lozenge-SE-AJ-MedicinalProductDefinition)

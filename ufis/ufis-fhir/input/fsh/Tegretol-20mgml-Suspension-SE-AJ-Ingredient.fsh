@@ -1,8 +1,7 @@
 Instance: Tegretol-20mgml-Suspension-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-08T17:35:12.098+00:00"
+
 * status = #active
 * for[0] = Reference(Tegretol-20mgml-Suspension-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Tegretol-20mgml-Suspension-SE-AJ-ManufacturedItemDefinition)
@@ -14,7 +13,6 @@ Usage: #inline
 * substance.strength.concentrationRatio.numerator = 20 http://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"
 * substance.strength.concentrationRatio.denominator = 1 http://spor.ema.europa.eu/v1/lists/100000110633#100000110662 "millilitre(s)"
 * substance.strength.referenceStrength.substance.concept = $SubstanceDefinition#100000092127 "Carbamazepine"
-* substance.strength.referenceStrength.strengthRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 20 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"
 * substance.strength.referenceStrength.strengthRatio.denominator = 1 https://spor.ema.europa.eu/v1/lists/100000110633#100000110662 "millilitre(s)"

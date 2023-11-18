@@ -1,8 +1,7 @@
 Instance: MForion-50mcg-Suspension-SE-IS-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-17T06:31:40.824+00:00"
+
 * status = #active
 * for[0] = Reference(MForion-50mcg-Suspension-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(MForion-50mcg-Suspension-SE-IS-ManufacturedItemDefinition)
@@ -13,7 +12,6 @@ Usage: #inline
 
 * substance.strength.concentrationRatio.numerator = 52 http://spor.ema.europa.eu/v1/lists/100000110633#100000110920 "microgram(s)/dose"
 * substance.strength.referenceStrength.substance.concept = $SubstanceDefinition#100000091860 "Mometasone furoate"
-* substance.strength.referenceStrength.strengthRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 50 http://spor.ema.europa.eu/v1/lists/100000110633#100000110920 "microgram(s)/dose"
 * substance.strength.concentrationRatio[=].denominator = 1 http://spor.ema.europa.eu/v1/lists/100000110633#200000025238 "dose"

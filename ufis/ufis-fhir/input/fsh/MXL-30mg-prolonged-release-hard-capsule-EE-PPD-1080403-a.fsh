@@ -1,16 +1,13 @@
 Instance: MXL-30mg-prolonged-release-hard-capsule-EE-PPD-1080403-a
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T20:51:26.2+00:00"
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
+
+
 * containedItemQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100044010-10216-1080403-a"
 * packageFor = Reference(MXL-30mg-prolonged-release-hard-capsule-EE-MPD)
 * description = "Polüetüleenkorgiga suletud polüpropüleenpakend."
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

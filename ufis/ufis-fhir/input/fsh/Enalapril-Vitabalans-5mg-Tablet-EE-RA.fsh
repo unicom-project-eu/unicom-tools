@@ -1,8 +1,7 @@
 Instance: Enalapril-Vitabalans-5mg-Tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:20:35.944+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "633909"
 * subject = Reference(Enalapril-Vitabalans-5mg-Tablet-EE-MPD)

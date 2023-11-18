@@ -1,16 +1,13 @@
 Instance: Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-PPD-1001462
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T21:58:48.087+00:00"
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
+
+
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100007515-8998-1001462"
 * packageFor = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MPD)
 * description = "Ümar, kollakast klaasist pudel, mis sisaldab 25 ml lahust."
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072172 "Estonian"
 * marketingStatus.country = $100000000002#100000000388 "Republic of Estonia"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

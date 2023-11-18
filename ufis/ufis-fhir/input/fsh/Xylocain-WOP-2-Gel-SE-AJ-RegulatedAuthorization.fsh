@@ -1,8 +1,7 @@
 Instance: Xylocain-WOP-2-Gel-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T09:59:30.609+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10445"
 * subject = Reference(Xylocain-WOP-2-Gel-SE-AJ-MedicinalProductDefinition)

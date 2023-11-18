@@ -1,9 +1,8 @@
 Instance: AnafranilRet-75mg-Tablet-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-09T09:15:48.325+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100012657-00010568"
@@ -35,5 +34,3 @@ Usage: #inline
 * name.usage.language.coding.display = "Swedish"
 * characteristic.type = $200000000010#200000002078 "Prolonged"
 * characteristic.type.text = "Depottablett"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

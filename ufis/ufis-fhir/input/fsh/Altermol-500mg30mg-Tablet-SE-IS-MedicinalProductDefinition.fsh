@@ -1,9 +1,8 @@
 Instance: Altermol-500mg30mg-Tablet-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-10-20T16:57:10.238+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100001659-00050802"
@@ -34,5 +33,3 @@ Usage: #inline
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
 * characteristic.type = $200000003186#200000003187 "combined therapeutic medicine / device"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

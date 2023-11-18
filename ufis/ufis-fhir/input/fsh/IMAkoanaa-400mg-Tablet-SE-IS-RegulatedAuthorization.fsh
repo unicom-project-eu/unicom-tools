@@ -1,8 +1,7 @@
 Instance: IMAkoanaa-400mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T16:25:42.749+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53085"
 * subject = Reference(IMAkoanaa-400mg-Tablet-SE-IS-MedicinalProductDefinition)

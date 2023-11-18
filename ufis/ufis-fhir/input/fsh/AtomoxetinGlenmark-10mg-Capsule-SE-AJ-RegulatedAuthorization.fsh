@@ -1,8 +1,7 @@
 Instance: AtomoxetinGlenmark-10mg-Capsule-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-23T19:49:49.109+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "56494"
 * subject = Reference(AtomoxetinGlenmark-10mg-Capsule-SE-AJ-MedicinalProductDef)

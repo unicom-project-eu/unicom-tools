@@ -1,8 +1,7 @@
 Instance: IMASTADA-600mg-Tablet-SE-IS-Ingredient03
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T16:56:28.415+00:00"
+
 * status = #active
 * for[0] = Reference(IMASTADA-600mg-Tablet-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(IMASTADA-600mg-Tablet-SE-IS-ManufacturedItemDefinition)

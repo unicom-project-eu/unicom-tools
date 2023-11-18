@@ -1,8 +1,7 @@
 Instance: MorfinMeda-10mgml-Solution-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-04T20:00:52.504+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8820"
 * subject = Reference(MorfinMeda-10mgml-Solution-SE-BS-MedicinalProductDefinition)

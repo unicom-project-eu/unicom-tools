@@ -1,8 +1,7 @@
 Instance: Panodil60mgsuppositorium-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-23T10:54:21.41+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9621"
 * subject = Reference(Panodil60mgsuppositorium-SE-PLC-MedicinalProductDef)

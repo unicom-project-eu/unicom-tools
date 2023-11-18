@@ -1,8 +1,7 @@
 Instance: ISOactavis-20mg-Capsule-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-27T07:50:21.841+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "48556"
 * subject = Reference(ISOactavis-20mg-Capsule-SE-IS-MedicinalProductDefinition)

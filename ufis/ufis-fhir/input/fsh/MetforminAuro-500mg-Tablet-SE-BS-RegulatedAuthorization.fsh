@@ -1,8 +1,7 @@
 Instance: MetforminAuro-500mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-15T18:54:19.476+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "27668"
 * subject = Reference(MetforminAuro-500mg-Tablet-SE-BS-MedicinalProductDefinition)

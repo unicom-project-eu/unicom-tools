@@ -1,8 +1,7 @@
 Instance: ABASAGLAR-100eml-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-27T07:36:25.788+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49703"
 * subject = Reference(ABASAGLAR-100eml-Solution-SE-IS-MedicinalProductDefinition)

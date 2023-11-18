@@ -1,14 +1,11 @@
 Instance: Yasminelle28-tablet-SE-AJ-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T09:05:52.323+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
+
+
 * containedItemQuantity = 84 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"
 * packageFor = Reference(Yasminelle28-tablet-SE-AJ-MedicinalProductDefinition)
 * description = "Blister, 3 x 28 tabletter"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072288 "Swedish"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

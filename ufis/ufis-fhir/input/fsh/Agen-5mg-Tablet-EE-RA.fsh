@@ -1,8 +1,7 @@
 Instance: Agen-5mg-Tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T21:45:20.832+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "418303"
 * subject = Reference(Agen-5mg-Tablet-EE-MPD)

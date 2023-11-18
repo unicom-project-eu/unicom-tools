@@ -1,8 +1,7 @@
 Instance: TramadolRetardHexal100mgdepot-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T16:48:47.324+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "21235"
 * subject = Reference(TramadolRetardHexal100mgdepot-SE-PLC-MedicinalProductDef)

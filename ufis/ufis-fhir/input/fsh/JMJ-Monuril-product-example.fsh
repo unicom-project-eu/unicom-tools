@@ -1,8 +1,7 @@
 Instance: JMJ-Monuril-product-example
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "6"
-* meta.lastUpdated = "2022-06-23T21:13:04.986+00:00"
+
 * type.coding[0] = $medicinal-product-type#MedicinalProduct "Medicinal Product"
 * type.coding[+] = $200000025915#200000025916 "Authorised Medicinal Product"
 * domain.coding[0] = $medicinal-product-domain#Human "Human use"
@@ -22,7 +21,5 @@ Usage: #inline
 * marketingStatus.status.coding[+] = $100000072052#100000072083 "Marketed"
 * marketingStatus.dateRange.start = "1994-03-18"
 * name.productName = "Monuril 3g granules for oral solution"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 //DUMMY
 * combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"

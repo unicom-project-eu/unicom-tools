@@ -1,8 +1,7 @@
 Instance: SimvastatinBluefish-10mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-08T17:34:34.53+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "26677"
 * subject = Reference(SimvastatinBluefish-10mg-Tablet-SE-BS-MedicinalProductDef)

@@ -1,8 +1,7 @@
 Instance: Triolif-HonLem-Lozenge-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T17:01:33.744+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "49614"
 * subject = Reference(Triolif-HonLem-Lozenge-SE-AJ-MedicinalProductDefinition)

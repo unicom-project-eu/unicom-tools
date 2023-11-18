@@ -1,8 +1,7 @@
 Instance: Diclofenac-Mylan-180mg-Medicated-plaster-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T21:07:05.707+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "1008820"
 * subject = Reference(Diclofenac-Mylan-180mg-Medicated-plaster-EE-MPD)

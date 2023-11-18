@@ -1,8 +1,7 @@
 Instance: Xylocain-Dental-Adrenalin-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T16:23:59.885+00:00"
+
 * status = #active
 * for[0] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-ManufacturedItemDefinition)

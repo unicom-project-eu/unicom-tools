@@ -1,8 +1,7 @@
 Instance: e571fcab-5886-473a-b627-f72238cd4cdd
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-06-22T09:51:53.378+00:00"
+
 * contained.resourceType = "Organization"
 * contained.id = "1"
 * contained.identifier.system = "https://spor.ema.europa.eu/v1/locations/LOC-100002296"

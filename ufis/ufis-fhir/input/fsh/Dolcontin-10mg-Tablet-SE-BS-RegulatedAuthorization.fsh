@@ -1,8 +1,7 @@
 Instance: Dolcontin-10mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-04T20:17:46.385+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10847"
 * subject = Reference(Dolcontin-10mg-Tablet-SE-BS-MedicinalProductDefinition)

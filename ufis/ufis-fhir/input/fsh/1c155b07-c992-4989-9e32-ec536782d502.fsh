@@ -1,10 +1,9 @@
 Instance: 1c155b07-c992-4989-9e32-ec536782d502
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-06-23T16:14:08.62+00:00"
+
 * language = #FI
-* extension.url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
+
 * containedItemQuantity.value = 20
 * containedItemQuantity.unit = "tablettia"
 * identifier.system = "http://ema.europa.eu/fhir/pcId"

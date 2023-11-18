@@ -1,8 +1,7 @@
 Instance: SertralinTeva50mgfilmtablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T16:59:38.824+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "23781"
 * subject = Reference(SertralinTeva50mgfilmtablett-SE-PLC-MedicinalProductDef)

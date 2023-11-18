@@ -1,8 +1,7 @@
 Instance: Herceptin-150mg-Powder-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-09T15:00:04.671+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "15488"
 * subject = Reference(Herceptin-150mg-Powder-SE-IS-MedicinalProductDefinition)

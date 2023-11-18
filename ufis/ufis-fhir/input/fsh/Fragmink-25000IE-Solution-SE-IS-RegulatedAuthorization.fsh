@@ -1,8 +1,7 @@
 Instance: Fragmink-25000IE-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-10-27T12:14:56.989+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12690"
 * subject = Reference(Fragmink-25000IE-Solution-SE-IS-MedicinalProductDefinition)

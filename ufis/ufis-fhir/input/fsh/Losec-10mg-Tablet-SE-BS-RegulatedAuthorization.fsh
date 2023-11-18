@@ -1,8 +1,7 @@
 Instance: Losec-10mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-03T09:28:23.061+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "13670"
 * subject = Reference(Losec-10mg-Tablet-SE-BS-MedicinalProductDefinition)

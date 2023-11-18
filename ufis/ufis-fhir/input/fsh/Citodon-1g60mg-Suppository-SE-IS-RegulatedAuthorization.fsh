@@ -1,8 +1,7 @@
 Instance: Citodon-1g60mg-Suppository-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-20T16:03:19.557+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11529"
 * subject = Reference(Citodon-1g60mg-Suppository-SE-IS-MedicinalProductDefinition)

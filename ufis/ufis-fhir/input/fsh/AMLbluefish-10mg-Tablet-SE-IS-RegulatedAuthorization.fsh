@@ -1,8 +1,7 @@
 Instance: AMLbluefish-10mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T10:07:31.675+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "23988"
 * subject = Reference(AMLbluefish-10mg-Tablet-SE-IS-MedicinalProductDefinition)

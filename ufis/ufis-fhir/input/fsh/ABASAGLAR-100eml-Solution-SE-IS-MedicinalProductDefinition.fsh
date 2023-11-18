@@ -1,9 +1,8 @@
 Instance: ABASAGLAR-100eml-Solution-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-27T07:36:25.76+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000004#200000016493 "Solution for injection in cartridge"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "SE-100000426-00049703"
@@ -37,5 +36,3 @@ Usage: #inline
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
 * characteristic.type = $100000155526#100000155530 "Biological Medicinal Product"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

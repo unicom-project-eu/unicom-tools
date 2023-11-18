@@ -1,8 +1,7 @@
 Instance: Tegretol-200mg-Tablet-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-09T12:43:14.948+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "7679"
 * subject = Reference(Tegretol-200mg-Tablet-SE-AJ-MedicinalProductDefinition)

@@ -1,8 +1,7 @@
 Instance: DiklofenakTeva116mgggel-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T17:27:09.933+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "60736"
 * subject = Reference(DiklofenakTeva116mgggel-SE-PLC-MedicinalProductDef)

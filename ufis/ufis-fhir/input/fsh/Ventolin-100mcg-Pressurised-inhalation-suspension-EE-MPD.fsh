@@ -1,9 +1,8 @@
 Instance: Ventolin-100mcg-Pressurised-inhalation-suspension-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T21:09:11.957+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
 * identifier[+].system = "http://ema.europa.eu/fhir/mpId"
 * identifier[=].value = "EE-100001573-10745"
@@ -34,5 +33,3 @@ Usage: #inline
 * name.usage.language.coding.system = "https://spor.ema.europa.eu/v1/lists/100000072057"
 * name.usage.language.coding.code = #100000072172
 * name.usage.language.coding.display = "Estonian"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

@@ -1,8 +1,7 @@
 Instance: hevicain5-SE-ManItem001
 InstanceOf: PPLManufacturedItemDefinition
 Usage: #inline
-* meta.versionId = "4"
-* meta.lastUpdated = "2022-06-23T16:40:19.239+00:00"
+
 * extension.url = "http://ema.europa.eu/fhir/extension/manufacturedItemDefinitionSubject"
 * extension.valueReference = Reference(20180126000017)
 * status = #active

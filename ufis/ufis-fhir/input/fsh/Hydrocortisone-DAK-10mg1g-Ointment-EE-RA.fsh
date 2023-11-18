@@ -1,8 +1,7 @@
 Instance: Hydrocortisone-DAK-10mg1g-Ointment-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:23:26.888+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "242998"
 * subject = Reference(Hydrocortisone-DAK-10mg1g-Ointment-EE-MPD)

@@ -1,10 +1,9 @@
 Instance: 7f81d47e-9a74-44b3-8ed7-07990093d878
 InstanceOf: PPLMedicinalProductDefinition
 Usage: #inline
-* meta.versionId = "3"
-* meta.lastUpdated = "2022-06-22T09:50:55.777+00:00"
+
 * language = #EN
-* extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
 * identifier[+].system = "http://ema.europa.eu/fhir/pmsId"
 * identifier[=].value = "???????"
@@ -35,5 +34,3 @@ Usage: #inline
 * name.usage.language.coding.system = "https://spor.ema.europa.eu/v1/lists/100000072057"
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
-//DUMMY
-* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

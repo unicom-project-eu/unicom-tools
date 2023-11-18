@@ -1,8 +1,7 @@
 Instance: Sobril-15mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-10T06:48:41.553+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "7856"
 * subject = Reference(Sobril-15mg-Tablet-SE-IS-MedicinalProductDefinition)

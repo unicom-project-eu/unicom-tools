@@ -1,8 +1,7 @@
 Instance: HydrokortisonOrifarm20mgTablett-SE-PLC-Ingredient02
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T15:01:18.581+00:00"
+
 * status = #active
 * for[0] = Reference(HydrokortisonOrifarm20mgTablett-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(HydrokortisonOrifarm20mgTablett-SE-PLC-ManufacturedItemDef)

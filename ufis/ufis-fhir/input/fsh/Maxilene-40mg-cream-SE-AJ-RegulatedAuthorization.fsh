@@ -1,8 +1,7 @@
 Instance: Maxilene-40mg-cream-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T09:10:53.172+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50469"
 * subject = Reference(Maxilene-40mg-cream-SE-AJ-MedicinalProductDefinition)

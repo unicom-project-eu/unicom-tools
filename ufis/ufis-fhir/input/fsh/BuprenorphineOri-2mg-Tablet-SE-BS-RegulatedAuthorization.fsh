@@ -1,8 +1,7 @@
 Instance: BuprenorphineOri-2mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-04T20:48:35.091+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "43164"
 * subject = Reference(BuprenorphineOri-2mg-Tablet-SE-BS-MedicinalProductDefinition)

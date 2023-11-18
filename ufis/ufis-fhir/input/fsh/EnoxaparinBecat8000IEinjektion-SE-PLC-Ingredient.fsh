@@ -1,8 +1,7 @@
 Instance: EnoxaparinBecat8000IEinjektion-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T16:51:08.611+00:00"
+
 * status = #active
 * for[0] = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(EnoxaparinBecat8000IEinjektion-SE-PLC-ManufacturedItemDef)
@@ -14,7 +13,6 @@ Usage: #inline
 * substance.strength.concentrationRatio.numerator = 8000 https://spor.ema.europa.eu/v1/lists/100000110633#100000110671 "international unit(s)"
 * substance.strength.concentrationRatio.denominator = 0.8 https://spor.ema.europa.eu/v1/lists/100000110633#100000110662 "millilitre(s)"
 * substance.strength.referenceStrength.substance.concept = $SubstanceDefinition#100000085598 "Enoxaparin"
-* substance.strength.referenceStrength.strengthRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"
 
 * substance.strength.referenceStrength.strengthRatio.numerator = 8000 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "international unit(s)"
 * substance.strength.referenceStrength.strengthRatio.denominator = 0.8 https://spor.ema.europa.eu/v1/lists/100000110633#100000110662 "millilitre(s)"

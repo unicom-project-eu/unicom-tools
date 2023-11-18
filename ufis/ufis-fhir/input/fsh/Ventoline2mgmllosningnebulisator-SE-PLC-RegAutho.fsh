@@ -1,8 +1,7 @@
 Instance: Ventoline2mgmllosningnebulisator-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T17:15:32.275+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11088"
 * subject = Reference(Ventoline2mgmllosningnebulisator-SE-PLC-MedicinalProductDef)

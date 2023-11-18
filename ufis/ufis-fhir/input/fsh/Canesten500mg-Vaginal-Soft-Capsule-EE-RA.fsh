@@ -1,8 +1,7 @@
 Instance: Canesten500mg-Vaginal-Soft-Capsule-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-12T21:43:40.237+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "921416"
 * subject = Reference(Canesten500mg-Vaginal-Soft-Capsule-EE-MPD)

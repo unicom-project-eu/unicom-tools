@@ -1,8 +1,7 @@
 Instance: Trombyl160mgtablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-24T18:51:07.64+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11063"
 * subject = Reference(Trombyl160mgtablett-SE-PLC-MedicinalProductDef)

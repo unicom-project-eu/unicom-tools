@@ -1,8 +1,7 @@
 Instance: EMLA-2525-Cream-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T09:16:21.48+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10129"
 * subject = Reference(EMLA-2525-Cream-SE-AJ-MedicinalProductDefinition)

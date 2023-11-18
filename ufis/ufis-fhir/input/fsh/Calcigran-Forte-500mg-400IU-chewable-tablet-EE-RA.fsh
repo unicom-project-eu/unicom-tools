@@ -1,8 +1,7 @@
 Instance: Calcigran-Forte-500mg-400IU-chewable-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T20:03:13.474+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "418403"
 * subject = Reference(Calcigran-Forte-500mg-400IU-chewable-tablet-EE-MPD)

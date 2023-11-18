@@ -1,8 +1,7 @@
 Instance: Instillagel-209-Gel-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T17:07:59.425+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10132"
 * subject = Reference(Instillagel-209-Gel-SE-AJ-MedicinalProductDefinition)

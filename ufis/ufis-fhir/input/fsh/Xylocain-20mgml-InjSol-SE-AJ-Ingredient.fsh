@@ -1,8 +1,7 @@
 Instance: Xylocain-20mgml-InjSol-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T21:01:59.852+00:00"
+
 * status = #active
 * for[0] = Reference(Xylocain-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xylocain-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition)

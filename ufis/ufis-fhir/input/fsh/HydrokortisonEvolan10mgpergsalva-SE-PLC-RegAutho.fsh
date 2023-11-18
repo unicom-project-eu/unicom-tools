@@ -1,8 +1,7 @@
 Instance: HydrokortisonEvolan10mgpergsalva-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-13T14:47:19.909+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11277"
 * subject = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef)

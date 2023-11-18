@@ -1,8 +1,7 @@
 Instance: Qlaira-Film-coated-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T18:47:18.891+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "614308"
 * subject = Reference(Qlaira-Film-coated-tablet-EE-MPD)

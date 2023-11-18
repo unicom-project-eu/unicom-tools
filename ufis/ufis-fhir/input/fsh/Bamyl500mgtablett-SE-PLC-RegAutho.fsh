@@ -1,8 +1,7 @@
 Instance: Bamyl500mgtablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-24T14:32:40.37+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "14792"
 * subject = Reference(Bamyl500mgtablett-SE-PLC-MedicinalProductDef)

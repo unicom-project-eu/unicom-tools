@@ -1,8 +1,7 @@
 Instance: Gasec-Gastrocaps-40mg-Hard-Capsules-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:37:51.511+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "433504"
 * subject = Reference(Gasec-Gastrocaps-40mg-Hard-Capsules-EE-MPD)

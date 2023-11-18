@@ -1,8 +1,7 @@
 Instance: Sendolor-1mgml-Solution-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-10-28T07:19:36.179+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "54375"
 * subject = Reference(Sendolor-1mgml-Solution-SE-BS-MedicinalProductDefinition)

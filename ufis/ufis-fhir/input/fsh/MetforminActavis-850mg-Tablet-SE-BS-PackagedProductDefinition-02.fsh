@@ -1,8 +1,7 @@
 Instance: MetforminActavis-850mg-Tablet-SE-BS-PackagedProductDefinition-02
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-15T18:45:36.731+00:00"
+
 * extension[+].url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
 * extension[+].url = "http://ema.europa.eu/fhir/extension/language"

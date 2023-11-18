@@ -1,8 +1,7 @@
 Instance: Toujeo-300units-ml-sol-inj-pen-EE-I
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:47:46.265+00:00"
+
 * status = #active
 * for[0] = Reference(Toujeo-300units-ml-sol-inj-pen-EE-MPD)
 * for[+] = Reference(Toujeo-300units-ml-sol-inj-pen-EE-MID)

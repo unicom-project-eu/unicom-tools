@@ -1,8 +1,7 @@
 Instance: MXL-30mg-prolonged-release-hard-capsule-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T20:51:26.154+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "266599"
 * subject = Reference(MXL-30mg-prolonged-release-hard-capsule-EE-MPD)

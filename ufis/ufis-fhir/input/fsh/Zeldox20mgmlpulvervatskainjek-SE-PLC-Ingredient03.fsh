@@ -1,8 +1,7 @@
 Instance: Zeldox20mgmlpulvervatskainjek-SE-PLC-Ingredient03
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-10-24T17:11:42.805+00:00"
+
 * status = #active
 * for[0] = Reference(Zeldox20mgmlpulvervatskainjek-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(Zeldox20mgmlpulvervatskainjek-SE-PLC-ManufacturedItemDef02)

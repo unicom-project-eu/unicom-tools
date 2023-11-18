@@ -1,8 +1,7 @@
 Instance: DZPorifarm-10mg-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-08T12:56:26.477+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "57370"
 * subject = Reference(DZPorifarm-10mg-Solution-SE-IS-MedicinalProductDefinition)

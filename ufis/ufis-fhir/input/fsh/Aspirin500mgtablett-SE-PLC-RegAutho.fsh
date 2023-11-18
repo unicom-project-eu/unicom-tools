@@ -1,8 +1,7 @@
 Instance: Aspirin500mgtablett-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-18T10:05:11.003+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "137"
 * subject = Reference(Aspirin500mgtablett-SE-PLC-MedicinalProductDef)

@@ -1,8 +1,7 @@
 Instance: Hydrocortisone-DAK-10mg1g-Ointment-EE-I
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:23:26.922+00:00"
+
 * status = #active
 * for[0] = Reference(Hydrocortisone-DAK-10mg1g-Ointment-EE-MPD)
 * for[+] = Reference(Hydrocortisone-DAK-10mg1g-Ointment-EE-MID)

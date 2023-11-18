@@ -1,8 +1,7 @@
 Instance: Yasminelle-tablet-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-16T16:23:04.084+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "23085"
 * subject = Reference(Yasminelle-tablet-SE-AJ-MedicinalProductDefinition)

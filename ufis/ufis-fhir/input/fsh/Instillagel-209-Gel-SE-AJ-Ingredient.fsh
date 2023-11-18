@@ -1,8 +1,7 @@
 Instance: Instillagel-209-Gel-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-10T17:07:59.524+00:00"
+
 * status = #active
 * for[0] = Reference(Instillagel-209-Gel-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Instillagel-209-Gel-SE-AJ-ManufacturedItemDefinition)

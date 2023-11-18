@@ -1,8 +1,7 @@
 Instance: Oxascand-15mg-Tablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-10-10T06:42:47.931+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "11083"
 * subject = Reference(Oxascand-15mg-Tablet-SE-IS-MedicinalProductDefinition)

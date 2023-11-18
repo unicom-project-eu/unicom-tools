@@ -1,8 +1,7 @@
 Instance: MTnr57470
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "4"
-* meta.lastUpdated = "2022-06-23T16:40:19.06+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "57470"
 * subject = Reference(20180126000017)

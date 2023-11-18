@@ -1,8 +1,7 @@
 Instance: Zeldox20mgml2-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-14T16:14:32.813+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "15002"
 * subject = Reference(Zeldox20mgml2-SE-PLC-MedicinalProductDef)

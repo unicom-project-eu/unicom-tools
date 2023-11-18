@@ -1,8 +1,7 @@
 Instance: JMJ-Monuril-UK-authorisation-example
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "7"
-* meta.lastUpdated = "2022-06-23T21:13:05.048+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "PL 31654/0006"
 * subject = Reference(JMJ-Monuril-product-example)

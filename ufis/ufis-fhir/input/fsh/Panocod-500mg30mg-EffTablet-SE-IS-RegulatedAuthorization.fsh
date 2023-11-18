@@ -1,8 +1,7 @@
 Instance: Panocod-500mg30mg-EffTablet-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-20T16:17:30.201+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "10728"
 * subject = Reference(Panocod-500mg30mg-EffTablet-SE-IS-MedicinalProductDefinition)

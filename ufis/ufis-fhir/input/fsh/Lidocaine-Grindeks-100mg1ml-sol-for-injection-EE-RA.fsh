@@ -1,8 +1,7 @@
 Instance: Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-RA
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-14T19:27:02.95+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "410503"
 * subject = Reference(Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-MPD)

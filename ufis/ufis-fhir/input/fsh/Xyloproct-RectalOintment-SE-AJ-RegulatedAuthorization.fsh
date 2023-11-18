@@ -1,8 +1,7 @@
 Instance: Xyloproct-RectalOintment-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T09:42:18.477+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "8340"
 * subject = Reference(Xyloproct-RectalOintment-SE-AJ-MedicinalProductDefinition)

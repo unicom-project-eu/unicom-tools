@@ -1,8 +1,7 @@
 Instance: LidoAcc-20mgml-InjSol-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-11-06T21:05:25.565+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "51170"
 * subject = Reference(LidoAcc-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)

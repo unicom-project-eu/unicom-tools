@@ -1,8 +1,7 @@
 Instance: DiklofenakApofri116gel-SE-PLC-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-24T17:28:32.145+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "46780"
 * subject = Reference(DiklofenakApofri116gel-SE-PLC-MedicinalProductDefinition)

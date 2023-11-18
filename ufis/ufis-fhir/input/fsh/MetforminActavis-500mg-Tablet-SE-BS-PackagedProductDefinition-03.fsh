@@ -1,8 +1,7 @@
 Instance: MetforminActavis-500mg-Tablet-SE-BS-PackagedProductDefinition-03
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-15T18:41:33.397+00:00"
+
 * extension[+].url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
 * containedItemQuantity = 300 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
 * extension[+].url = "http://ema.europa.eu/fhir/extension/language"

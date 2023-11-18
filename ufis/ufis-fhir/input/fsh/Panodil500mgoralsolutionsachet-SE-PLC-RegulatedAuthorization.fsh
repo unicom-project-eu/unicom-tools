@@ -1,8 +1,7 @@
 Instance: Panodil500mgoralsolutionsachet-SE-PLC-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-08-03T12:29:44.406+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12391"
 * subject = Reference(Panodil500mgoralsolutionsachet-SE-PLC-MedicinalProductDef)

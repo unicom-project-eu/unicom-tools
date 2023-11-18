@@ -1,8 +1,7 @@
 Instance: JMJ-Co-amoxiclav-authorisation-example
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "2"
-* meta.lastUpdated = "2022-06-23T17:33:56.955+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "la-la-la-la"
 * subject = Reference(JMJ-Co-amoxiclav-product-example)

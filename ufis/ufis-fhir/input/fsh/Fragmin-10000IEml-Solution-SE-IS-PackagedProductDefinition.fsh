@@ -1,14 +1,11 @@
 Instance: Fragmin-10000IEml-Solution-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
-* meta.versionId = "7"
-* meta.lastUpdated = "2022-07-13T16:05:31.542+00:00"
-* extension.url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
+
+
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
 * packageFor = Reference(Fragmin-10000IEml-Solution-SE-IS-MedicinalProductDefinition)
 * description = "Ampull, 10 x 1 ml"
-* description.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* description.extension.valueCoding = $100000072057#100000072288 "Swedish"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 * packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"

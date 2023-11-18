@@ -1,8 +1,7 @@
 Instance: MorfinAbcur-10mgml-Solution-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-23T10:59:07.159+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "45658"
 * subject = Reference(MorfinAbcur-10mgml-Solution-SE-BS-MedicinalProductDefinition)

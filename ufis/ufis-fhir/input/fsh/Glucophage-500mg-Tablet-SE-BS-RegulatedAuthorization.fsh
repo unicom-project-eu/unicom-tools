@@ -1,8 +1,7 @@
 Instance: Glucophage-500mg-Tablet-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
 Usage: #inline
-* meta.versionId = "1"
-* meta.lastUpdated = "2022-10-15T18:21:23.262+00:00"
+
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "7690"
 * subject = Reference(Glucophage-500mg-Tablet-SE-BS-MedicinalProductDefinition)
