@@ -10,6 +10,5 @@ Usage: #inline
 * region = $100000000002#100000000388 "Republic of Estonia"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 * statusDate = "2015-02-17"
-* holder.identifier.system = "https://spor.ema.europa.eu/v1/locations"
-* holder.identifier.value = "LOC-ML6602"
 * holder.display = "Sanofi-Aventis Deutschland GmbH"
+* holder = Reference(LOC-ML6602)

@@ -10,8 +10,6 @@ Usage: #inline
 * region = $100000000002#100000000535 "Sweden"
 * status = $100000072049#100000072099 "Valid"
 * statusDate = "1949-07-20"
-* holder.identifier.system = "https://spor.ema.europa.eu/v1/locations"
-* holder.identifier.value = "LOC-100001575"
-* holder.display = "Aspen Pharma Trading Limited"
 * case.type = $authorisationDateType#dateOfFirstAuthorisation "First Authorisation"
 * case.dateDateTime = "1949-07-20"
+* holder = Reference(LOC-100001575)

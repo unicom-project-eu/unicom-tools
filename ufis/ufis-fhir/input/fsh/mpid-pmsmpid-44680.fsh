@@ -10,5 +10,5 @@ Usage: #inline
 * region = $100000000002#100000000394 "Finland"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 * statusDate = "2020-12-31"
-* holder.identifier.system = "https://spor.ema.europa.eu/v1/locations"
 * holder.identifier.value = "LOC-100000551"
+* holder = Reference(LOC-100000551)

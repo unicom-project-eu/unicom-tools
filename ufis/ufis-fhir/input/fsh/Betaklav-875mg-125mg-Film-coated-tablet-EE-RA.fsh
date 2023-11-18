@@ -11,6 +11,5 @@ Usage: #inline
 * region.coding[+] = $country#EE "Estonia"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 * statusDate = "2021-02-03"
-* holder.identifier.system = "https://spor.ema.europa.eu/v1/locations"
-* holder.identifier.value = "LOC-100009540"
 * holder.display = "KRKA, tovarna zdravil d.d. Novo mesto"
+* holder = Reference(LOC-100009540)

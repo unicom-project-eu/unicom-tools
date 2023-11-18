@@ -16,9 +16,6 @@ Usage: #inline
 * status.coding.extension.valueInteger = 1
 * status.coding = $100000072049#100000072099 "Valid"
 * statusDate = "2021-08-18"
-* holder.identifier.system = "https://spor.ema.europa.eu/v1/locations"
-* holder.identifier.value = "LOC-100000004"
-* holder.display = "Austrian Agency For Health And Food Safety"
 * regulator.identifier.system = "https://spor.ema.europa.eu/v1/locations"
 * regulator.identifier.value = "LOC-10000032"
 * regulator.display = "Health Products Regulatory Authority"
@@ -35,3 +32,4 @@ Usage: #inline
 * case.application.type.coding.extension.valueInteger = 1
 * case.application.type.coding = $100000155688#100000155693 "Variation Type II"
 * case.application.dateDateTime = "2019-02-17"
+* holder = Reference(LOC-100000004)

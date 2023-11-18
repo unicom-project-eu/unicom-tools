@@ -2,6 +2,74 @@ from os import listdir
 import hashlib
 import re
 
+f = open("ufis-fhir/input/fsh/Organization.fsh", "w")
+f.truncate()
+f.close()
+
+list_of_locs = []
+
+
+def create_org(regauth):
+    # print(regauth)
+    instance_value = re.search(r"Instance:\s*(\S+)", regauth)
+    if instance_value:
+        value = instance_value.group(1)
+    print(value)
+    ### get loc value
+    if "* holder.identifier.value" in regauth:
+        loc_value = re.search(r"\* holder.identifier.value = \"(\S+)\"", regauth)
+        if loc_value:
+            loc = loc_value.group(1)
+
+            print(loc)
+    else:
+        print(
+            "no loc --------------------------------------------------------------------------"
+        )
+        return regauth
+    ### get loc value
+    if "* holder.display" in regauth:
+        disp_value = re.search(r"\* holder.display = \"(.+)\"", regauth)
+        if disp_value:
+            disp = disp_value.group(1)
+            print(disp)
+    else:
+        disp = "No name"
+    if loc not in list_of_locs:
+        f = open("ufis-fhir/input/fsh/Organization.fsh", "a")
+
+        f.write("""Instance:""")
+        f.write(" " + loc)
+        f.write(
+            """\nInstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = """
+        )
+        f.write('"' + loc + '"\n' + '* name = "' + disp + '"\n\n')
+        # f.write(contents)
+        f.close()
+        list_of_locs.append(loc)
+
+    regauth = re.sub("\* holder.+ = .+\n", "", regauth)
+    regauth += "\n* holder = Reference(" + loc + ")\n"
+    print(regauth)
+
+    return regauth
+
+
+"""
+
+Instance: LOC-100009199-Mip
+InstanceOf: PPLOrganization
+Usage: #example
+Description: "Marketing Authorisation Holder / Organisation"
+
+* identifier[loc].value = "LOC-100009199"
+* name = "Mip Pharma GmbH"
+
+"""
 # FOLDER = "ee-PPLCreator-v2/fhir-data/fsh-generated/resources"
 FOLDER = "./ufis-fsh/input/fsh/instances"
 
@@ -270,6 +338,7 @@ for file in listdir(FOLDER):
 
         if "InstanceOf: RegulatedAuthorization" in contents:
             #   print("yes")
+            # print(contents)
             contents = contents.replace(
                 "InstanceOf: RegulatedAuthorization",
                 "InstanceOf: PPLRegulatedAuthorization",
@@ -299,6 +368,7 @@ for file in listdir(FOLDER):
                 '* type = $220000000061#220000000061 "Marketing Authorisation"',
                 '* type = $220000000060#220000000061 "Marketing Authorisation"',
             )
+            contents = create_org(contents)
 
         f = open("ufis-fhir/input/fsh/" + file, "w")
         f.write(contents)

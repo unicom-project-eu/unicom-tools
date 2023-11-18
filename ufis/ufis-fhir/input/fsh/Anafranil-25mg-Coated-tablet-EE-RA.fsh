@@ -10,6 +10,5 @@ Usage: #inline
 * region = $100000000002#100000000388 "Republic of Estonia"
 * status = $100000072049#200000017708 "Valid - Renewed/Varied"
 * statusDate = "2010-04-21"
-* holder.identifier.system = "https://spor.ema.europa.eu/v1/locations"
-* holder.identifier.value = "LOC-100030936"
 * holder.display = "Zr pharma & GmbH"
+* holder = Reference(LOC-100030936)

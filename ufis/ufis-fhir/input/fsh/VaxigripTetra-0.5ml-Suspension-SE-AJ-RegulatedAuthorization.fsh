@@ -10,8 +10,6 @@ Usage: #inline
 * region = $100000000002#100000000535 "Sweden"
 * status = $100000072049#100000072099 "Valid"
 * statusDate = "2016-11-25"
-* holder.identifier.system = "http://spor.ema.europa.eu/v1/locations"
-* holder.identifier.value = "LOC-100010588"
-* holder.display = "Sanofi Pasteur Europe"
 * case.type = $authorisationDateType#dateOfFirstAuthorisation "First Authorisation"
 * case.dateDateTime = "2016-11-25"
+* holder = Reference(LOC-100010588)
