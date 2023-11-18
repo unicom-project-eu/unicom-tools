@@ -5,3 +5,5 @@ Usage: #inline
 * meta.lastUpdated = "2022-06-22T09:51:53.424+00:00"
 * status = #active
 * manufacturedDoseForm = $100000073665#100000073665 "Film-coated tablet"
+//DUMMY
+* unitOfPresentation = $200000000014#200000002152 "Tablet"

@@ -1,4 +1,4 @@
-Instance: BuprenorSTADA-5perh-Transderm-SE-BS-MedicinalProductDefinition-BBDL
+Instance: 71bd1d6656a6cb72933acb3415cd53a2d68a5942e316bbb1c14b6291c146ae9f
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

@@ -4,33 +4,26 @@ Usage: #inline
 * meta.versionId = "1"
 * meta.lastUpdated = "2022-09-01T20:20:03.316+00:00"
 * extension.url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
-* combinedPharmaceuticalDoseForm.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* combinedPharmaceuticalDoseForm.extension.valueInteger = 1
+
 * combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
 * identifier.system = "http://ema.europa.eu/fhir/mpId"
 * identifier.value = "AT-16569"
-* domain.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* domain.coding.extension.valueInteger = 1
+
 * domain.coding = $100000000004#100000000012 "Human use"
 * indication = "Curocef wird angewendet zur Behandlung der nachfolgend genannten Infektionen bei Erwachsenen und Kindern, einschließlich Neugeborenen (von Geburt an) ..."
 * indication.extension.url = "http://ema.europa.eu/fhir/extension/language"
-* indication.combinedPharmaceuticalDoseForm = $100000072057#100000072178 "German"
-* legalStatusOfSupply.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* legalStatusOfSupply.coding.extension.valueInteger = 1
+* indication.extension.valueCoding = $100000072057#100000072178 "German"
+
 * legalStatusOfSupply.coding = $100000072051#100000072079 "Medicinal product on medical prescription for non-renewable delivery"
 * additionalMonitoringIndicator = $additionalMonitoringIndicator#True "True"
 * pediatricUseIndicator = $paediatricUseIndicator#True "True"
-* classification[+].coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* classification[=].coding.extension.valueInteger = 1
-* classification[=].coding = $200000000324#200000003517 "Other"
-* classification[+].coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* classification[=].coding.extension.valueInteger = 1
+
+* classification[+].coding = $200000000324#200000003517 "Other"
+
 * classification[=].coding = $100000116045#100000116053 "Well-established use application (Article 10a of Directive No 2001/83/EC)"
-* classification[+].coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* classification[=].coding.extension.valueInteger = 1
+
 * classification[=].coding = $100000093533#100000096183 "J01DC02"
-* classification[+].coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* classification[=].coding.extension.valueInteger = 1
+
 * classification[=].coding = $100000155526#100000155527 "Chemical"
 * attachedDocument = Reference(DocumentReference/Curocef1500mgPulver-A-HL-DocumentReference01)
 * masterFile = Reference(mfl1)
@@ -111,3 +104,5 @@ Usage: #inline
 * operation[=].confidentialityIndicator.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
 * operation[=].confidentialityIndicator.coding.extension.valueInteger = 1
 * operation[=].confidentialityIndicator.coding = $200000004983#200000004984 "Confidential"
+//DUMMY
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

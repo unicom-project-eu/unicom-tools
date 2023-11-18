@@ -1,4 +1,4 @@
-Instance: BuprenorphineOri-2mg-Tablet-SE-BS-MedicinalProductDefinition-BBDL
+Instance: 4cacbed807653938ef633a3a58f7ce2b8e7e327fdf6b7a17c92d35e7ebddea41
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

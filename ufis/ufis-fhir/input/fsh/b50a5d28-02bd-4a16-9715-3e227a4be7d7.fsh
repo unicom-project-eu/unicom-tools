@@ -9,7 +9,7 @@ Usage: #inline
 * description = "16 comprimido blister"
 * description.extension.url = "http://ema.europa.eu/fhir/extension/language"
 * description.extension.valueCoding = $100000072251#100000072251 "Portuguese"
-* packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346/terms/100000073498"
+* packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"
 * packaging.type.coding.code = #100000073498
 * packaging.type.coding.display = "Box"
 * packaging.quantity = 1

@@ -1,4 +1,4 @@
-Instance: BuprenorSTADA-20h-Transderm-SE-BS-MedicinalProductDefinition-BBDL
+Instance: cc4634a66ca460143206a124a48df7a3e2ce3a02dabaf52111d58cd854355238
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

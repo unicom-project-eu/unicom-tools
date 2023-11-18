@@ -1,4 +1,4 @@
-Instance: Citodon-500mg30mg-EffTablet-SE-IS-MedicinalProductDefinition-BBDL
+Instance: 0000bba9e466f20debb9a4a09ea9d3d7bba382e95e8b82ec376e7e3d2770569e
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

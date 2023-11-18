@@ -1,4 +1,4 @@
-Instance: BupropionSandoz-150mg-Tablet-SE-BS-MedicinalProductDefinition-BBDL
+Instance: 5260e90d6b3ecd7a763c66f8995acb299c325bc98223ed1a31d14b3b188af7b3
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

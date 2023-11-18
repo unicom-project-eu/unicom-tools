@@ -15,7 +15,12 @@ Usage: #inline
 * classification.coding[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
 * marketingStatus.country.coding[0] = urn:iso:std:iso:3166#GB "United Kingdom of Great Britain and Northern Ireland"
 * marketingStatus.country.coding[+] = $100000000002#100000000556 "United Kingdom of Great Britain and Northern Ireland"
-* marketingStatus.status.coding[0] = xx#xx "xx"
+//DUMMY
+* marketingStatus.status.coding[0] = $100000072052#100000072083 "Marketed"
 * marketingStatus.status.coding[+] = $100000072052#100000072083 "Marketed"
 * marketingStatus.dateRange.start = "2009-03-25"
 * name.productName = "Co-amoxiclav 500 mg/125 mg film-coated tablets"
+//DUMMY
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
+//DUMMY
+* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"

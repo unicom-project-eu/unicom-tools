@@ -3,10 +3,7 @@ InstanceOf: PPLPackagedProductDefinition
 Usage: #inline
 * meta.versionId = "1"
 * meta.lastUpdated = "2022-08-12T14:38:47.244+00:00"
-* extension[+].url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
-* extension[=].valueQuantity = 6 http://spor.ema.europa.eu/v1/lists/200000000014#200000002137 "Pessary"
-* extension[+].url = "http://hl7.org/fhir/5.0/StructureDefinition/extension-PackagedProductDefinition.containedItemQuantity"
-* extension[=].valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
+* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
 * identifier.system = "http://ema.europa.eu/example/pcid"
 * identifier.value = "EE-100004795-10280-1033692"
 * packageFor = Reference(CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-MPD)

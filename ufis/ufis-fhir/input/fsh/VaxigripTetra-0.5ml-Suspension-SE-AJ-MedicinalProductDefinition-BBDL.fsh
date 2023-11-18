@@ -1,4 +1,4 @@
-Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-MedicinalProductDefinition-BBDL
+Instance: c4973cdd2c14bfba5d0ce3a56e3bdb03310c74f41efbb07e0c9ce3ce0c3e9920
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

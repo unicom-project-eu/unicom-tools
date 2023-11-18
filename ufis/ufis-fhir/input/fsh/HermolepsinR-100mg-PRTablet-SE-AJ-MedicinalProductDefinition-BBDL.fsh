@@ -1,4 +1,4 @@
-Instance: HermolepsinR-100mg-PRTablet-SE-AJ-MedicinalProductDefinition-BBDL
+Instance: b300e1d658a5d5ca0eb9874456182dbb69d8dd06d00af6ab34cb081b025147ad
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

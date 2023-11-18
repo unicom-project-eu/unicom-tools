@@ -1,4 +1,4 @@
-Instance: MetforminActavis-850mg-Tablet-SE-BS-MedicinalProductDefinition-BBDL
+Instance: 8025e160fbf3c02443ae5e8dad34f0cda8fff8b160067abc50ff38f20cd67131
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

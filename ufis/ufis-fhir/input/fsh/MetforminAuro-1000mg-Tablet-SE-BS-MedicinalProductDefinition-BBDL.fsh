@@ -1,4 +1,4 @@
-Instance: MetforminAuro-1000mg-Tablet-SE-BS-MedicinalProductDefinition-BBDL
+Instance: 3268331d26eb77b00f8ab41d170b7206b06564285304b50ea319f6d64352acdf
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

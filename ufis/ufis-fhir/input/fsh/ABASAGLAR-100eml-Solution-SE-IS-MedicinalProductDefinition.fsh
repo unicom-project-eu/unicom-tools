@@ -37,3 +37,5 @@ Usage: #inline
 * name.usage.language.coding.code = #100000072288
 * name.usage.language.coding.display = "Swedish"
 * characteristic.type = $100000155526#100000155530 "Biological Medicinal Product"
+//DUMMY
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

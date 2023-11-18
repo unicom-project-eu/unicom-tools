@@ -11,3 +11,9 @@ Usage: #inline
 * name.usage.language.coding.system = "https://spor.ema.europa.eu/v1/lists/100000072057/terms/100000072251"
 * name.usage.language.coding.code = #100000072251
 * name.usage.language.coding.display = "Portuguese"
+//DUMMY
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
+//DUMMY
+* domain = $100000000004#100000000012 "Human use"
+//DUMMY
+* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"

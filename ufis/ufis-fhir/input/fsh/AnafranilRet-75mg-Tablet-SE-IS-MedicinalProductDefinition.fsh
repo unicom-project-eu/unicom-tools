@@ -35,3 +35,5 @@ Usage: #inline
 * name.usage.language.coding.display = "Swedish"
 * characteristic.type = $200000000010#200000002078 "Prolonged"
 * characteristic.type.text = "Depottablett"
+//DUMMY
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

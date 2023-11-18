@@ -1,4 +1,4 @@
-Instance: MorfinSpecial-2mgml-Solution-SE-BS-MedicinalProductDefinition-BBDL
+Instance: eefa3421d771bb7eecfb85bd1dd9b777b2a25cc6c2ce71e4602383f7b4f6eba6
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

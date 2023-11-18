@@ -1,4 +1,4 @@
-Instance: Panocod-500mg30mg-EffTablet-SE-IS-MedicinalProductDefinition-BBDL
+Instance: b9f3c4fde6660dbddab76a29cfe765cc357450f18dd81791ad6a932ba786e6e4
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

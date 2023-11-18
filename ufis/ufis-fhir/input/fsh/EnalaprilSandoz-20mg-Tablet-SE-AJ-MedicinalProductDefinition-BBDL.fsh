@@ -1,4 +1,4 @@
-Instance: EnalaprilSandoz-20mg-Tablet-SE-AJ-MedicinalProductDefinition-BBDL
+Instance: b26dbb2edf1d44d5c2430feb8336dd7e8bbe5b678f46979cec17cfea9b0c122c
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

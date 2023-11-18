@@ -1,4 +1,4 @@
-Instance: MetforminSandoz-1000mg-Tablet-SE-BS-MedicinalProductDefinition-BBDL
+Instance: a44255f7e51aeeeea77d593472bbe8f57a53ee24bff29dc63b5ff16f2be0dc16
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

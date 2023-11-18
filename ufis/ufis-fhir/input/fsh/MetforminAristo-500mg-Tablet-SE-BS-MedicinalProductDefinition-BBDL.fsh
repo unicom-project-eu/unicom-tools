@@ -1,4 +1,4 @@
-Instance: MetforminAristo-500mg-Tablet-SE-BS-MedicinalProductDefinition-BBDL
+Instance: c7937a5b019a0abdf7caeef4ad68b7989ed1c25f3cd56b60d6f4db0aa03ec1a7
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

@@ -4,7 +4,7 @@ Usage: #inline
 * meta.versionId = "1"
 * meta.lastUpdated = "2022-10-15T19:04:33.896+00:00"
 * extension[+].url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
-* extension[=].valueQuantity = 200 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
+* containedItemQuantity = 200 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"
 * extension[+].url = "http://ema.europa.eu/fhir/extension/language"
 * extension[=].valueCoding = $100000072057#100000072288 "Swedish"
 * packageFor = Reference(MetforminSandoz-850mg-Tablet-SE-BS-MedicinalProductDefinition)

@@ -33,3 +33,5 @@ Usage: #inline
 * name.usage.language.coding.system = "https://spor.ema.europa.eu/v1/lists/100000072057"
 * name.usage.language.coding.code = #100000072149
 * name.usage.language.coding.display = "Finnish"
+//DUMMY
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"

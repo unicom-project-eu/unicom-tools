@@ -1,4 +1,4 @@
-Instance: Nitrolingual04mgdossublingualspray-SE-PLC-MedicinalProductDef-BBDL
+Instance: e374f6c32fbad480b65b27c849c2c16f96e0ceea6f4914b4fec19c1e1fcfc987
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

@@ -4,9 +4,9 @@ Usage: #inline
 * meta.versionId = "1"
 * meta.lastUpdated = "2022-10-24T17:07:47.165+00:00"
 * extension[+].url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
-* extension[=].valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"
+* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"
 * extension[+].url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
-* extension[=].valueQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
+* containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
 * packageFor = Reference(Zeldox20mgmlpulvervatskainjek-SE-PLC-MedicinalProductDef)
 * description = "Injektionsflaska och ampull, 1 x (I+II)"
 * description.extension.url = "http://ema.europa.eu/fhir/extension/language"

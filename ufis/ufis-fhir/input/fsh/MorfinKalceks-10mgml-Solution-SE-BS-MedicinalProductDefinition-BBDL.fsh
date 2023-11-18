@@ -1,4 +1,4 @@
-Instance: MorfinKalceks-10mgml-Solution-SE-BS-MedicinalProductDefinition-BBDL
+Instance: 8fd994377828bf8e2d8144e90668495d8a6c7f4f883f32041cb10c670973dc20
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

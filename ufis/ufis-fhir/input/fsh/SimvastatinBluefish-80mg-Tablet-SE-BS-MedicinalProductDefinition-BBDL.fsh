@@ -1,4 +1,4 @@
-Instance: SimvastatinBluefish-80mg-Tablet-SE-BS-MedicinalProductDefinition-BBDL
+Instance: 0e995bf0cd7789691e0dc35e7d3b6090fb4d3289af1ff433a965ffa19fcb9bfe
 InstanceOf: Bundle
 Usage: #example
 * type = #transaction

@@ -15,7 +15,12 @@ Usage: #inline
 * classification.coding[+] = $100000093533#100000094016 "insulin lispro"
 * marketingStatus.country.coding[0] = urn:iso:std:iso:3166#GB "United Kingdom of Great Britain and Northern Ireland"
 * marketingStatus.country.coding[+] = $100000000002#100000000556 "United Kingdom of Great Britain and Northern Ireland"
-* marketingStatus.status.coding[0] = xx#xx "xx"
+//DUMMY
+* marketingStatus.status.coding[0] = $100000072052#100000072083 "Marketed"
 * marketingStatus.status.coding[+] = $100000072052#100000072083 "Marketed"
 * marketingStatus.dateRange.start = "1996-04-30"
 * name.productName = "Humalog Mix50 100 units/ml KwikPen, suspension for injection in a pre-filled pen"
+//DUMMY
+* legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
+//DUMMY
+* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
