@@ -25,7 +25,7 @@ Usage: #example
 * containedItemQuantity = {{ row["Pack size 4.3 (qtd)"] }} $200000000014#{{ row["Pack size 4.3 (apresentação).1"]}} "{{ row["Pack size 4.3 (apresentação).1"]|get_data_from_sheet(data["data"],"SPOR_EN","200000000014_descr","200000000014")}}"
 //* containedItemQuantity = {{ row["Pack size 4.3 (qtd)"] }} $200000000014#{{ row["Pack size 4.3 (apresentação).1"]}} "{{ row["Pack size 4.3 (apresentação)"]}}"
 
-{%- endif %}
+{%- endif -%}
 
 
 * marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
@@ -47,7 +47,6 @@ Usage: #example
 
 // for: {{ ns.name_to_has }}
 * packageFor = Reference(mp-{{row["MED ID"]}})
-
 
 // Reference to Organization: MAH
 //* manufacturer = Reference({{ row['Müügiloa hoidja organisatsiooni ORG ID'] }})

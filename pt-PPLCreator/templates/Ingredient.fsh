@@ -80,8 +80,9 @@ Usage: #example
 
 * role = $100000072050#100000072072 "active"
 * status = #active
-//* substance.code.concept = $sms#{{ns.ing_sms_id|int}} "{{ns.ing_name}}"
-* substance.code.concept = $sms#{{ns.ing_reference_id|int}} "{{ns.ing_reference_id|int|get_data_from_sheet(data["data"],"SPOR_EN","sms_descr","sms")}}"
+//* substance.code.concept = $sms#{{ns.ing_sms_id|int}} "{{ns.ing_name}}" //name pt?
+//* substance.code.concept = $sms#{{ns.ing_reference_id|int}} "{{ns.ing_reference_id|int|get_data_from_sheet(data["data"],"SPOR_EN","sms_descr","sms")}}"
+* substance.code.concept = $sms#{{ns.ing_sms_id|int}} "{{ns.ing_sms_id|int|get_data_from_sheet(data["data"],"SPOR_EN","sms_descr","sms")}}"
 
 * substance.strength.presentationRatio.numerator = {{ ns.num_value }}  $100000110633#{{ ns.num_unit|int}}  "{{ ns.num_unit_desc_en }}"
 * substance.strength.presentationRatio.denominator = {{ ns.den_value }}  $200000000014#{{ ns.den_unit|int}}  "{{ ns.den_unit_desc_en }}"
@@ -91,11 +92,10 @@ Usage: #example
 * substance.strength.referenceStrength.strengthRatio.denominator =  {{ ns.ref_den_value|int }}  $200000000014#{{ ns.ref_den_unit|int}}  "{{ ns.ref_den_unit_desc_en }}"
 
 //* substance.strength.referenceStrength.substance.concept = $sms#{{ns.ing_reference_id}} "{{ns.ing_reference_descr}}"
-//is the id wrong?
-* substance.strength.referenceStrength.substance.concept = $sms#{{ns.ing_sms_id|int}} "{{ns.ing_sms_id|get_data_from_sheet(data["data"],"SPOR_EN","sms_descr","sms")}}"
+//* substance.strength.referenceStrength.substance.concept = $sms#{{ns.ing_sms_id|int}} "{{ns.ing_sms_id|get_data_from_sheet(data["data"],"SPOR_EN","sms_descr","sms")}}"
+* substance.strength.referenceStrength.substance.concept = $sms#{{ns.ing_reference_id|int}} "{{ns.ing_reference_id|get_data_from_sheet(data["data"],"SPOR_EN","sms_descr","sms")}}"
 
 // Reference to products item
-
 * for[0] = Reference(mp-{{row["MED ID"]}})
 * for[+] = Reference(ap-{{row["MED ID"]}})
 * for[+] = Reference(mid-{{row["MED ID"]}})
@@ -103,8 +103,6 @@ Usage: #example
 {%- else  -%}
 {{"// ERROR[7] - No Ingredient Id for ns.ing_id at INDEX:{}".format(index+1) }}
 {%- endif -%}
-
 {%- endfor -%}
 {%- endif -%}
-
 {%- endfor -%}

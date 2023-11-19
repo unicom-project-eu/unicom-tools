@@ -24,15 +24,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Augmentin 500 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Augmentin"
@@ -67,15 +60,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Augmentin Forte 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Augmentin Forte"
@@ -110,15 +96,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-U-Ron 500 mg Comprimido"
 * name.part[invented].part = "Ben-U-Ron"
@@ -153,15 +132,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-U-Ron 125 mg Supositório"
 * name.part[invented].part = "Ben-U-Ron"
@@ -196,15 +168,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-U-Ron 250 mg Supositório"
 * name.part[invented].part = "Ben-U-Ron"
@@ -239,15 +204,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-U-Ron 500 mg Supositório"
 * name.part[invented].part = "Ben-U-Ron"
@@ -282,15 +240,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-U-Ron 1000 mg Supositório"
 * name.part[invented].part = "Ben-U-Ron"
@@ -325,15 +276,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-U-Ron 40 mg/ml Xarope"
 * name.part[invented].part = "Ben-U-Ron"
@@ -368,15 +312,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Brufen 600 mg Granulado efervescente"
 * name.part[invented].part = "Brufen"
@@ -411,15 +348,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Brufen 200 mg Comprimido revestido por película"
 * name.part[invented].part = "Brufen"
@@ -454,15 +384,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Brufen 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Brufen"
@@ -497,15 +420,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Brufen 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Brufen"
@@ -540,15 +456,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Canesten 10 mg/g Creme"
 * name.part[invented].part = "Canesten"
@@ -583,15 +492,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Clamoxyl 500 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Clamoxyl"
@@ -626,15 +528,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03HB01 "cyproterone and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03HB01 "cyproterone and estrogen"
 * classification[+] = $100000093533#100000095915 "cyproterone and estrogen"
-
-
 
 * name.productName = "Diane 35 2 mg + 0.035 mg Comprimido revestido"
 * name.part[invented].part = "Diane 35"
@@ -669,15 +564,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granules for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zoref 250 mg/5 ml Granulado para suspensão oral"
 * name.part[invented].part = "Zoref"
@@ -712,15 +600,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Minesse 0.015 mg + 0.06 mg Comprimido revestido por película"
 * name.part[invented].part = "Minesse"
@@ -755,15 +636,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Fenil-V 50 mg Comprimido gastrorresistente"
 * name.part[invented].part = "Fenil-V"
@@ -798,15 +672,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Fenil-V 100 mg Supositório"
 * name.part[invented].part = "Fenil-V"
@@ -841,15 +708,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Fenil-V Retard 100 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Fenil-V Retard"
@@ -884,15 +744,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Gino-Canesten 10 mg/g Creme vaginal"
 * name.part[invented].part = "Gino-Canesten"
@@ -927,15 +780,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Glucophage 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Glucophage"
@@ -970,15 +816,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Gynera 0.03 mg + 0.075 mg Comprimido revestido"
 * name.part[invented].part = "Gynera"
@@ -1013,15 +852,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Harmonet 0.02 mg + 0.075 mg Comprimido revestido"
 * name.part[invented].part = "Harmonet"
@@ -1056,15 +888,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
-
-
 
 * name.productName = "Marvelon 0.15 mg + 0.03 mg Comprimido"
 * name.part[invented].part = "Marvelon"
@@ -1099,15 +924,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
-
-
 
 * name.productName = "Mercilon 0.15 mg + 0.02 mg Comprimido"
 * name.part[invented].part = "Mercilon"
@@ -1142,15 +960,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095780 "levonorgestrel and ethinylestradiol"
-
-
 
 * name.productName = "Microginon 0.03 mg + 0.15 mg Comprimido revestido"
 * name.part[invented].part = "Microginon"
@@ -1185,15 +996,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Minigeste 0.02 mg + 0.075 mg Comprimido revestido"
 * name.part[invented].part = "Minigeste"
@@ -1228,15 +1032,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Minulet 0.03 mg + 0.075 mg Comprimido revestido"
 * name.part[invented].part = "Minulet"
@@ -1271,15 +1068,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Panadol 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Panadol"
@@ -1314,15 +1104,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07AA02 "hydrocortisone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07AA02 "hydrocortisone"
 * classification[+] = $100000093533#100000095413 "hydrocortisone"
-
-
 
 * name.productName = "Pandermil 10 mg/g Creme"
 * name.part[invented].part = "Pandermil"
@@ -1357,15 +1140,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paramolan 24 mg/ml Solução oral"
 * name.part[invented].part = "Paramolan"
@@ -1400,15 +1176,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Renitec 20 mg Comprimido"
 * name.part[invented].part = "Renitec"
@@ -1443,15 +1212,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Risidon 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Risidon"
@@ -1486,15 +1248,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Sandimmun Neoral 25 mg Cápsula mole"
 * name.part[invented].part = "Sandimmun Neoral"
@@ -1529,15 +1284,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Sandimmun Neoral 50 mg Cápsula mole"
 * name.part[invented].part = "Sandimmun Neoral"
@@ -1572,15 +1320,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Sandimmun Neoral 100 mg Cápsula mole"
 * name.part[invented].part = "Sandimmun Neoral"
@@ -1615,15 +1356,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Sandimmun Neoral 100 mg/ml Solução oral"
 * name.part[invented].part = "Sandimmun Neoral"
@@ -1658,15 +1392,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J02AC02 "itraconazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J02AC02 "itraconazole"
 * classification[+] = $100000093533#100000096373 "itraconazole"
-
-
 
 * name.productName = "Sporanox 100 mg Cápsula"
 * name.part[invented].part = "Sporanox"
@@ -1701,15 +1428,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Tegretol 200 mg Comprimido"
 * name.part[invented].part = "Tegretol"
@@ -1744,15 +1464,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Tegretol 400 mg Comprimido"
 * name.part[invented].part = "Tegretol"
@@ -1787,15 +1500,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Tegretol Cr 200 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tegretol Cr"
@@ -1830,15 +1536,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Tegretol Cr 400 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tegretol Cr"
@@ -1873,15 +1572,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramal 50 mg Cápsula"
 * name.part[invented].part = "Tramal"
@@ -1916,15 +1608,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramal 100 mg/2 ml Solução injetável"
 * name.part[invented].part = "Tramal"
@@ -1959,15 +1644,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Oral drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramal 100 mg/ml Gotas orais, solução"
 * name.part[invented].part = "Tramal"
@@ -2002,15 +1680,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramal retard 100 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramal retard"
@@ -2045,15 +1716,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramal retard 150 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramal retard"
@@ -2088,15 +1752,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramal retard 200 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramal retard"
@@ -2131,15 +1788,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AB03 "levonorgestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AB03 "levonorgestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095790 "levonorgestrel and ethinylestradiol"
-
-
 
 * name.productName = "Trinordiol Cor: castanho claro;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.05 mg;  Cor: branco;  Forma: Redondos e biconvexos;: Etinilestradiol 0.04 mg + Levonorgestrel 0.075 mg;  Cor: ocre;  Forma: Redondos e biconvexos;: Etinilestradiol 0.03 mg + Levonorgestrel 0.125 mg Comprimido revestido"
 * name.part[invented].part = "Trinordiol"
@@ -2174,15 +1824,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Valium 10 mg Comprimido"
 * name.part[invented].part = "Valium"
@@ -2217,15 +1860,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Valium 5 mg Comprimido"
 * name.part[invented].part = "Valium"
@@ -2260,15 +1896,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
-
- 
-
-
-* classification[+] = $who-atc#R03AC02 "salbutamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"* classification[+] = $who-atc#R03AC02 "salbutamol"
 * classification[+] = $100000093533#100000098065 "salbutamol"
-
-
 
 * name.productName = "Ventilan-Inalador 100 µg/dose Suspensão pressurizada para inalação"
 * name.part[invented].part = "Ventilan-Inalador"
@@ -2303,15 +1932,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
-
- 
-
-
-* classification[+] = $who-atc#S01BC03 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"* classification[+] = $who-atc#S01BC03 "diclofenac"
 * classification[+] = $100000093533#100000098459 "diclofenac"
-
-
 
 * name.productName = "Voltaren 1 mg/ml Colírio, solução"
 * name.part[invented].part = "Voltaren"
@@ -2346,15 +1968,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Voltaren 50 mg Comprimido gastrorresistente"
 * name.part[invented].part = "Voltaren"
@@ -2389,15 +2004,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Voltaren 100 mg Supositório"
 * name.part[invented].part = "Voltaren"
@@ -2432,15 +2040,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Voltaren 75 mg/3 ml Solução injetável"
 * name.part[invented].part = "Voltaren"
@@ -2475,15 +2076,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Voltaren Emulgel 10 mg/g Gel"
 * name.part[invented].part = "Voltaren Emulgel"
@@ -2518,15 +2112,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Zocor 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Zocor"
@@ -2561,15 +2148,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zoref 250 mg Comprimido revestido por película"
 * name.part[invented].part = "Zoref"
@@ -2604,15 +2184,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zoref 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Zoref"
@@ -2647,15 +2220,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granules for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zoref 125 mg/5 ml Granulado para suspensão oral"
 * name.part[invented].part = "Zoref"
@@ -2690,15 +2256,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Augmentin 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Augmentin"
@@ -2733,15 +2292,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implant"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"
-
- 
-
-
-* classification[+] = $who-atc#L02AE03 "goserelin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"* classification[+] = $who-atc#L02AE03 "goserelin"
 * classification[+] = $100000093533#100000096783 "goserelin"
-
-
 
 * name.productName = "Zoladex LA 10.8 mg Implante"
 * name.part[invented].part = "Zoladex LA"
@@ -2776,15 +2328,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
 * classification[+] = $100000093533#100000170296 "codeine and paracetamol"
-
-
 
 * name.productName = "Dol-U-Ron Forte 500 mg + 30 mg Cápsula"
 * name.part[invented].part = "Dol-U-Ron Forte"
@@ -2819,15 +2364,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Microgeste 0.015 mg + 0.06 mg Comprimido revestido por película"
 * name.part[invented].part = "Microgeste"
@@ -2862,15 +2400,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Nebuliser solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
-
- 
-
-
-* classification[+] = $who-atc#R03AK04 "salbutamol and sodium cromoglicate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"* classification[+] = $who-atc#R03AK04 "salbutamol and sodium cromoglicate"
 * classification[+] = $100000093533#100000098086 "salbutamol and sodium cromoglicate"
-
-
 
 * name.productName = "Combivent Unidose 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização"
 * name.part[invented].part = "Combivent Unidose"
@@ -2905,15 +2436,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Flector Tissugel 140 mg Sistema transdérmico"
 * name.part[invented].part = "Flector Tissugel"
@@ -2948,15 +2472,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#H02AB09 "hydrocortisone"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"* classification[+] = $who-atc#H02AB09 "hydrocortisone"
 * classification[+] = $100000093533#100000096043 "hydrocortisone"
-
-
 
 * name.productName = "Solu-Cortef 100 mg/2 ml Pó e solvente para solução injetável"
 * name.part[invented].part = "Solu-Cortef"
@@ -2991,15 +2508,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Nurofen 200 mg Comprimido revestido"
 * name.part[invented].part = "Nurofen"
@@ -3034,15 +2544,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Risidon 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Risidon"
@@ -3077,15 +2580,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Clamoxyl 1000 mg Comprimido dispersível"
 * name.part[invented].part = "Clamoxyl"
@@ -3120,15 +2616,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
 * classification[+] = $100000093533#100000095881 "dienogest and estrogen"
-
-
 
 * name.productName = "Valette 2 mg + 0.03 mg Comprimido revestido"
 * name.part[invented].part = "Valette"
@@ -3163,15 +2652,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidocaína 1% Braun 10 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína 1% Braun"
@@ -3206,15 +2688,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidocaína 2% Braun 20 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína 2% Braun"
@@ -3249,15 +2724,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Brufen 200 mg Granulado efervescente"
 * name.part[invented].part = "Brufen"
@@ -3292,15 +2760,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Glivec 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Glivec"
@@ -3335,15 +2796,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Zaldiar 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Zaldiar"
@@ -3378,15 +2832,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Coversyl 5 mg 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Coversyl 5 mg"
@@ -3421,15 +2868,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Coversyl 10 mg 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Coversyl 10 mg"
@@ -3464,15 +2904,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
 * classification[+] = $100000093533#100000125024 "chlormadinone and ethinylestradiol"
-
-
 
 * name.productName = "Belara 2 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Belara"
@@ -3507,15 +2940,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Yasminelle 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Yasminelle"
@@ -3550,15 +2976,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Preterax 2.5 mg + 0.625 mg Comprimido revestido por película"
 * name.part[invented].part = "Preterax"
@@ -3593,15 +3012,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Zanitek 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Zanitek"
@@ -3636,15 +3048,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Zanitek 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Zanitek"
@@ -3679,15 +3084,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Zanipress 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Zanipress"
@@ -3722,15 +3120,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Zanipress 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Zanipress"
@@ -3765,15 +3156,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Yaz 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Yaz"
@@ -3808,15 +3192,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Preterax 10 mg + 2.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Preterax"
@@ -3851,15 +3228,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Yasmin 3 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Yasmin"
@@ -3894,15 +3264,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Renidur 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Renidur"
@@ -3937,15 +3300,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Dafalgan 1 g 1000 mg Comprimido efervescente"
 * name.part[invented].part = "Dafalgan 1 g"
@@ -3980,15 +3336,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-U-Ron 1000 mg Comprimido"
 * name.part[invented].part = "Ben-U-Ron"
@@ -4023,15 +3372,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Norvasc 5 mg Comprimido"
 * name.part[invented].part = "Norvasc"
@@ -4066,15 +3408,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Norvasc 10 mg Comprimido"
 * name.part[invented].part = "Norvasc"
@@ -4109,15 +3444,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Losec 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Losec"
@@ -4152,15 +3480,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Augmentin Duo, comprimidos 875/125 mg 875 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Augmentin Duo, comprimidos 875/125 mg"
@@ -4195,15 +3516,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granules for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zipos 125 mg/5 ml Granulado para suspensão oral"
 * name.part[invented].part = "Zipos"
@@ -4238,15 +3552,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implant"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"
-
- 
-
-
-* classification[+] = $who-atc#L02AE03 "goserelin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implante"* classification[+] = $who-atc#L02AE03 "goserelin"
 * classification[+] = $100000093533#100000096783 "goserelin"
-
-
 
 * name.productName = "Zoladex 3.6 mg Implante"
 * name.part[invented].part = "Zoladex"
@@ -4281,15 +3588,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zipos 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Zipos"
@@ -4324,15 +3624,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Sandoz 125 mg + 31,25 mg/5 ml Pó para susp. oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Sandoz 125 mg + 31,25 mg/5 ml Pó para susp. oral"
@@ -4367,15 +3660,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
 * classification[+] = $100000093533#100000095417 "hydrocortisone butyrate"
-
-
 
 * name.productName = "Locoid Lipocreme 1 mg/g Creme"
 * name.part[invented].part = "Locoid Lipocreme"
@@ -4410,15 +3696,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Proton 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Proton"
@@ -4453,15 +3732,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07CA01 "hydrocortisone and antibiotics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07CA01 "hydrocortisone and antibiotics"
 * classification[+] = $100000093533#100000095471 "hydrocortisone and antibiotics"
-
-
 
 * name.productName = "Fucidine H 10 mg/g + 20 mg/g Creme"
 * name.part[invented].part = "Fucidine H"
@@ -4496,15 +3768,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Betamox 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Betamox"
@@ -4539,15 +3804,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Morfina 2% Braun 40 mg/2 ml Solução injetável"
 * name.part[invented].part = "Morfina 2% Braun"
@@ -4582,15 +3840,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Ratiopharm 1% Creme 10 mg/g Creme"
 * name.part[invented].part = "Clotrimazol Ratiopharm 1% Creme"
@@ -4625,15 +3876,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Mylan 50 mg Cápsula"
 * name.part[invented].part = "Tramadol Mylan"
@@ -4668,15 +3912,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Oral drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Mylan 100 mg/ml Gotas orais, solução"
 * name.part[invented].part = "Tramadol Mylan"
@@ -4711,15 +3948,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Painex 10 mg/g Gel"
 * name.part[invented].part = "Painex"
@@ -4754,15 +3984,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Lovenox 60 mg/0.6 ml Solução injetável"
 * name.part[invented].part = "Lovenox"
@@ -4797,15 +4020,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Lovenox 80 mg/0.8 ml Solução injetável"
 * name.part[invented].part = "Lovenox"
@@ -4840,15 +4056,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Betamox 500 mg/10 ml + 50 mg/10 ml Pó e solvente para solução injetável"
 * name.part[invented].part = "Betamox"
@@ -4883,15 +4092,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Betamox 1000 mg/20 ml + 200 mg/20 ml Pó e solvente para solução injetável"
 * name.part[invented].part = "Betamox"
@@ -4926,15 +4128,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073859 "Powder for solution for infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073859 "Pó para solução para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073859 "Pó para solução para perfusão"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Betamox 2000 mg + 200 mg Pó para solução para perfusão"
 * name.part[invented].part = "Betamox"
@@ -4969,15 +4164,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Generis 500 mg Comprimidos 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Generis 500 mg Comprimidos"
@@ -5012,15 +4200,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#A10AE04 "insulin glargine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#A10AE04 "insulin glargine"
 * classification[+] = $100000093533#100000094023 "insulin glargine"
-
-
 
 * name.productName = "Lantus 100 U/ml Solução injetável"
 * name.part[invented].part = "Lantus"
@@ -5055,15 +4236,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Gastro-resistant tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073667 "Comprimido gastrorresistente"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Labesfal 50 mg Comprimido gastrorresistente"
 * name.part[invented].part = "Diclofenac Labesfal"
@@ -5098,15 +4272,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Labesfal 100 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Diclofenac Labesfal"
@@ -5141,15 +4308,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
-
- 
-
-
-* classification[+] = $who-atc#S01BC03 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"* classification[+] = $who-atc#S01BC03 "diclofenac"
 * classification[+] = $100000093533#100000098459 "diclofenac"
-
-
 
 * name.productName = "Voltaren Colírio Unidoses 0.3 mg/0.3 ml Colírio, solução"
 * name.part[invented].part = "Voltaren Colírio Unidoses"
@@ -5184,15 +4344,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Betamox Plus 875 mg + 125 mg Comprimido revestido"
 * name.part[invented].part = "Betamox Plus"
@@ -5227,15 +4380,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Zip-A-Dol 200 mg Cápsula"
 * name.part[invented].part = "Zip-A-Dol"
@@ -5270,15 +4416,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Nurofen 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Nurofen"
@@ -5313,15 +4452,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Clavamox DT 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Clavamox DT 400"
@@ -5356,15 +4488,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Lovenox 120 mg/0.8 ml Solução injetável"
 * name.part[invented].part = "Lovenox"
@@ -5399,15 +4524,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Lovenox 150 mg/1 ml Solução injetável"
 * name.part[invented].part = "Lovenox"
@@ -5442,15 +4560,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
 * classification[+] = $100000093533#100000170296 "codeine and paracetamol"
-
-
 
 * name.productName = "Dol-U-Ron Forte 1000 mg + 60 mg Supositório"
 * name.part[invented].part = "Dol-U-Ron Forte"
@@ -5485,15 +4596,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Panadol 500 mg Comprimido efervescente"
 * name.part[invented].part = "Panadol"
@@ -5528,15 +4632,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido"
 * name.part[invented].part = "Diclofenac Sandoz 50 mg Comprimidos revestidos"
@@ -5571,15 +4668,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Carbamazepina Mylan 200 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Carbamazepina Mylan"
@@ -5614,15 +4704,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Carbamazepina Mylan 400 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Carbamazepina Mylan"
@@ -5657,15 +4740,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Morfina Labesfal 10 mg/1 ml Solução injetável"
 * name.part[invented].part = "Morfina Labesfal"
@@ -5700,15 +4776,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Morfina Labesfal (sem conservantes) 10 mg/1 ml Solução injetável"
 * name.part[invented].part = "Morfina Labesfal (sem conservantes)"
@@ -5743,15 +4812,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Morfina Labesfal (sem conservantes) 40 mg/2 ml Solução injetável"
 * name.part[invented].part = "Morfina Labesfal (sem conservantes)"
@@ -5786,15 +4848,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Omezolan 20 mg Cápsulas Gastrorresistentes"
@@ -5829,19 +4884,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#A11CC05 "colecalciferol"
-* classification[+] = $100000093533#100000094100 "colecalciferol" 
-
-
-* classification[+] = $who-atc#A12AA04 "calcium carbonate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#A11CC05 "colecalciferol"
+* classification[+] = $100000093533#100000094100 "colecalciferol"* classification[+] = $who-atc#A12AA04 "calcium carbonate"
 * classification[+] = $100000093533#100000094144 "calcium carbonate"
-
-
 
 * name.productName = "Cálcio + Vitamina D3 ratiopharm 1500 mg + 400 U.I. Comprimido efervescente"
 * name.part[invented].part = "Cálcio + Vitamina D3 ratiopharm"
@@ -5876,15 +4921,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
 * classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
-
-
 
 * name.productName = "Calcium D Sandoz 1500 mg + 400 U.I. Comprimido efervescente"
 * name.part[invented].part = "Calcium D Sandoz"
@@ -5919,15 +4957,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Farmoz 5 mg Comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Farmoz 5 mg Comprimidos"
@@ -5962,15 +4993,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Farmoz 10 mg Comprimidos 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Farmoz 10 mg Comprimidos"
@@ -6005,15 +5029,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Basi 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Basi"
@@ -6048,15 +5065,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Basi 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Basi"
@@ -6091,15 +5101,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Mibral 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Mibral"
@@ -6134,15 +5137,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Mibral 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Mibral"
@@ -6177,15 +5173,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Maleato de Enalapril Mylan 5 mg Comprimido"
 * name.part[invented].part = "Maleato de Enalapril Mylan"
@@ -6220,15 +5209,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Maleato de Enalapril Mylan 20 mg Comprimido"
 * name.part[invented].part = "Maleato de Enalapril Mylan"
@@ -6263,15 +5245,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Oramorph 20 mg/ml Solução oral"
 * name.part[invented].part = "Oramorph"
@@ -6306,15 +5281,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Tecnigen 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Tecnigen"
@@ -6349,15 +5317,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico-Ratiopharm 125 mg e 31,25mg/5 ml, Suspensão Oral 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico-Ratiopharm 125 mg e 31,25mg/5 ml, Suspensão Oral"
@@ -6392,15 +5353,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Cutaneous spray, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
-
- 
-
-
-* classification[+] = $who-atc#D04AB01 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"* classification[+] = $who-atc#D04AB01 "lidocaine"
 * classification[+] = $100000093533#100000095332 "lidocaine"
-
-
 
 * name.productName = "Lidonostrum Bomba-Spray 10% 100 mg/ml Solução para pulverização cutânea"
 * name.part[invented].part = "Lidonostrum Bomba-Spray 10%"
@@ -6435,15 +5389,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Alter 50 mg Comprimidos 50 mg Comprimido revestido"
 * name.part[invented].part = "Diclofenac Alter 50 mg Comprimidos"
@@ -6478,15 +5425,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico-Ratiopharm 250 mg e 62,5 mg/5 ml, Suspensão Oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico-Ratiopharm 250 mg e 62,5 mg/5 ml, Suspensão Oral"
@@ -6521,15 +5461,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico-Ratiopharm 500 mg e 125 mg Comprimido Revestido 500 mg + 125 mg Comprimido revestido"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico-Ratiopharm 500 mg e 125 mg Comprimido Revestido"
@@ -6564,15 +5497,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Zera 10 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Zera"
@@ -6607,15 +5533,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Zera 20 mg Comprimidos Revestidos 20 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Zera 20 mg Comprimidos Revestidos"
@@ -6650,15 +5569,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A12AA04 "calcium carbonate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A12AA04 "calcium carbonate"
 * classification[+] = $100000093533#100000094144 "calcium carbonate"
-
-
 
 * name.productName = "Calcitab 1500 mg Comprimido para mastigar"
 * name.part[invented].part = "Calcitab"
@@ -6693,15 +5605,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Carbamazepina Generis 200 mg Comprimidos 200 mg Comprimido"
 * name.part[invented].part = "Carbamazepina Generis 200 mg Comprimidos"
@@ -6736,15 +5641,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Carbamazepina Generis 400 mg Comprimidos 400 mg Comprimido"
 * name.part[invented].part = "Carbamazepina Generis 400 mg Comprimidos"
@@ -6779,15 +5677,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Generis 50 mg Comprimidos Revestidos 50 mg Comprimido revestido"
 * name.part[invented].part = "Diclofenac Generis 50 mg Comprimidos Revestidos"
@@ -6822,15 +5713,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073733 "Cutaneous powder"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073733 "Pó cutâneo"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073733 "Pó cutâneo"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Canesten 10 mg/g Pó cutâneo"
 * name.part[invented].part = "Canesten"
@@ -6865,15 +5749,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Ratiopharm 5 mg Comprimido"
 * name.part[invented].part = "Enalapril Ratiopharm"
@@ -6908,15 +5785,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Ratiopharm 20 mg Comprimido"
 * name.part[invented].part = "Enalapril Ratiopharm"
@@ -6951,15 +5821,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Teva 5 mg Comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Enalapril Teva 5 mg Comprimidos"
@@ -6994,15 +5857,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Fenil-V Gelcreme 10 mg/g Gel"
 * name.part[invented].part = "Fenil-V Gelcreme"
@@ -7037,15 +5893,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Carbamazepina Labesfal 200 mg Comprimidos 200 mg Comprimido"
 * name.part[invented].part = "Carbamazepina Labesfal 200 mg Comprimidos"
@@ -7080,15 +5929,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Carbamazepina Labesfal 400 mg Comprimidos 400 mg Comprimido"
 * name.part[invented].part = "Carbamazepina Labesfal 400 mg Comprimidos"
@@ -7123,15 +5965,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Teva 20 mg Comprimidos 20 mg Comprimido"
 * name.part[invented].part = "Enalapril Teva 20 mg Comprimidos"
@@ -7166,15 +6001,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073839 "Inhalation powder"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073839 "Pó para inalação"
-
- 
-
-
-* classification[+] = $who-atc#R03AC02 "salbutamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073839 "Pó para inalação"* classification[+] = $who-atc#R03AC02 "salbutamol"
 * classification[+] = $100000093533#100000098065 "salbutamol"
-
-
 
 * name.productName = "Salbutamol Novolizer 100 µg/dose Pó para inalação"
 * name.part[invented].part = "Salbutamol Novolizer"
@@ -7209,19 +6037,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#M03BX05 "thiocolchicoside"
-* classification[+] = $100000093533#100000097080 "thiocolchicoside" 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#M03BX05 "thiocolchicoside"
+* classification[+] = $100000093533#100000097080 "thiocolchicoside"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Adalgur N 500 mg + 2 mg Comprimido"
 * name.part[invented].part = "Adalgur N"
@@ -7256,15 +6074,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02B "OTHER ANALGESICS AND ANTIPYRETICS"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02B "OTHER ANALGESICS AND ANTIPYRETICS"
 * classification[+] = $100000093533#100000097264 "OTHER ANALGESICS AND ANTIPYRETICS"
-
-
 
 * name.productName = "Afebryl 300 mg + 200 mg + 300 mg Comprimido efervescente"
 * name.part[invented].part = "Afebryl"
@@ -7299,15 +6110,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Powder for oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Paracetamol + Cafeína Algik 500 mg + 50 mg Pó para solução oral"
 * name.part[invented].part = "Paracetamol + Cafeína Algik"
@@ -7342,15 +6146,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Sandoz 500 mg + 125 mg Comprimidos revestidos 500 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Sandoz 500 mg + 125 mg Comprimidos revestidos"
@@ -7385,15 +6182,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Sandoz 250 mg + 62,5 mg/5 ml Pó para susp. oral 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Sandoz 250 mg + 62,5 mg/5 ml Pó para susp. oral"
@@ -7428,15 +6218,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina Labesfal 1000 mg Comprimido"
 * name.part[invented].part = "Amoxicilina Labesfal"
@@ -7471,15 +6254,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#N06AA04 "clomipramine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#N06AA04 "clomipramine"
 * classification[+] = $100000093533#100000097655 "clomipramine"
-
-
 
 * name.productName = "Anafranil 10 mg Comprimido revestido"
 * name.part[invented].part = "Anafranil"
@@ -7514,15 +6290,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#N06AA04 "clomipramine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#N06AA04 "clomipramine"
 * classification[+] = $100000093533#100000097655 "clomipramine"
-
-
 
 * name.productName = "Anafranil 25 mg Comprimido revestido"
 * name.part[invented].part = "Anafranil"
@@ -7557,15 +6326,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N06AA04 "clomipramine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N06AA04 "clomipramine"
 * classification[+] = $100000093533#100000097655 "clomipramine"
-
-
 
 * name.productName = "Anafranil 75 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Anafranil"
@@ -7600,15 +6362,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N06AA04 "clomipramine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N06AA04 "clomipramine"
 * classification[+] = $100000093533#100000097655 "clomipramine"
-
-
 
 * name.productName = "Anafranil 25 mg/2 ml Solução injetável"
 * name.part[invented].part = "Anafranil"
@@ -7643,15 +6398,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Atralidon 500 mg Comprimido"
 * name.part[invented].part = "Atralidon"
@@ -7686,15 +6434,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#M01AB55 "diclofenac, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#M01AB55 "diclofenac, combinations"
 * classification[+] = $100000093533#100000096920 "diclofenac, combinations"
-
-
 
 * name.productName = "Arthrotec 50 mg + 0.2 mg Comprimido"
 * name.part[invented].part = "Arthrotec"
@@ -7729,15 +6470,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Modified-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
-
- 
-
-
-* classification[+] = $who-atc#M01AB55 "diclofenac, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"* classification[+] = $who-atc#M01AB55 "diclofenac, combinations"
 * classification[+] = $100000093533#100000096920 "diclofenac, combinations"
-
-
 
 * name.productName = "Arthrotec 75 75 mg + 0.2 mg Comprimido de libertação modificada"
 * name.part[invented].part = "Arthrotec 75"
@@ -7772,15 +6506,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07XB05 "dexamethasone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07XB05 "dexamethasone"
 * classification[+] = $100000093533#100000095498 "dexamethasone"
-
-
 
 * name.productName = "Baycuten 0.4 mg/g + 10 mg/g Creme"
 * name.part[invented].part = "Baycuten"
@@ -7815,15 +6542,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Bialzepam 3 mg Cápsula"
 * name.part[invented].part = "Bialzepam"
@@ -7858,15 +6578,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Bialzepam 6 mg Cápsula"
 * name.part[invented].part = "Bialzepam"
@@ -7901,15 +6614,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Bialzepam Retard 10 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Bialzepam Retard"
@@ -7944,15 +6650,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#A03DB04 "butylscopolamine and analgesics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#A03DB04 "butylscopolamine and analgesics"
 * classification[+] = $100000093533#100000093764 "butylscopolamine and analgesics"
-
-
 
 * name.productName = "Buscopan Compositum N 10 mg + 800 mg Supositório"
 * name.part[invented].part = "Buscopan Compositum N"
@@ -7987,15 +6686,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#A03DB04 "butylscopolamine and analgesics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#A03DB04 "butylscopolamine and analgesics"
 * classification[+] = $100000093533#100000093764 "butylscopolamine and analgesics"
-
-
 
 * name.productName = "Buscopan Compositum N 10 mg + 500 mg Comprimido revestido"
 * name.part[invented].part = "Buscopan Compositum N"
@@ -8030,15 +6722,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#A12AA20 "calcium (different salts in combination)"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#A12AA20 "calcium (different salts in combination)"
 * classification[+] = $100000093533#100000094153 "calcium (different salts in combination)"
-
-
 
 * name.productName = "Calcium Sandoz Forte 875 mg + 1132 mg Comprimido efervescente"
 * name.part[invented].part = "Calcium Sandoz Forte"
@@ -8073,15 +6758,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#A12AA04 "calcium carbonate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#A12AA04 "calcium carbonate"
 * classification[+] = $100000093533#100000094144 "calcium carbonate"
-
-
 
 * name.productName = "Carbonato Cálcio Labesfal 500 mg Cápsula"
 * name.part[invented].part = "Carbonato Cálcio Labesfal"
@@ -8116,15 +6794,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Cataflam 50 mg Comprimido revestido"
 * name.part[invented].part = "Cataflam"
@@ -8159,15 +6830,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Cefuroxima Hikma 750 mg/6 ml Pó e solvente para solução injetável"
 * name.part[invented].part = "Cefuroxima Hikma"
@@ -8202,15 +6866,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Cipamox 500 mg Cápsula"
 * name.part[invented].part = "Cipamox"
@@ -8245,15 +6902,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Cipamox 1000 mg Comprimido"
 * name.part[invented].part = "Cipamox"
@@ -8288,15 +6938,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Cipamox 500 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Cipamox"
@@ -8331,15 +6974,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Cipamox 3000 mg Pó para suspensão oral"
 * name.part[invented].part = "Cipamox"
@@ -8374,15 +7010,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Clavamox 125 125 mg/5 ml + 31.25 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Clavamox 125"
@@ -8417,15 +7046,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Clavamox 250 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Clavamox 250"
@@ -8460,15 +7082,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Clavamox 500 500 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Clavamox 500"
@@ -8503,15 +7118,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Clavamox DT 875 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Clavamox DT"
@@ -8546,15 +7154,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Morfina 1% Braun 10 mg/1 ml Solução injetável"
 * name.part[invented].part = "Morfina 1% Braun"
@@ -8589,15 +7190,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC20 "imidazoles/triazoles in combination with corticosteroids"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC20 "imidazoles/triazoles in combination with corticosteroids"
 * classification[+] = $100000093533#100000095248 "imidazoles/triazoles in combination with corticosteroids"
-
-
 
 * name.productName = "Daktacort 20 mg/g + 10 mg/g Creme"
 * name.part[invented].part = "Daktacort"
@@ -8632,19 +7226,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073864 "Suspension for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073864 "Suspensão injetável"
-
- 
-
-
-* classification[+] = $who-atc#H02BX01 "methylprednisolone, combinations"
-* classification[+] = $100000093533#100000096053 "methylprednisolone, combinations" 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073864 "Suspensão injetável"* classification[+] = $who-atc#H02BX01 "methylprednisolone, combinations"
+* classification[+] = $100000093533#100000096053 "methylprednisolone, combinations"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Depo-Medrol Com Lidocaína 40 mg/ml + 10 mg/ml Suspensão injetável"
 * name.part[invented].part = "Depo-Medrol Com Lidocaína"
@@ -8679,15 +7263,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Diazepam Ratiopharm 5 mg Comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Diazepam Ratiopharm 5 mg Comprimidos"
@@ -8722,15 +7299,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Diazepam Ratiopharm 10 mg Comprimidos 10 mg Comprimido"
 * name.part[invented].part = "Diazepam Ratiopharm 10 mg Comprimidos"
@@ -8765,15 +7335,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Mylan 100 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Diclofenac Mylan"
@@ -8808,15 +7371,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Retard Ratiopharm 100 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Diclofenac Retard Ratiopharm"
@@ -8851,15 +7407,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A02A "ANTACIDS"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A02A "ANTACIDS"
 * classification[+] = $100000093533#100000093542 "ANTACIDS"
-
-
 
 * name.productName = "Rennie Digestif 680 mg + 80 mg Comprimido para mastigar"
 * name.part[invented].part = "Rennie Digestif"
@@ -8894,15 +7443,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
-
- 
-
-
-* classification[+] = $who-atc#S01 "OPHTHALMOLOGICALS"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"* classification[+] = $who-atc#S01 "OPHTHALMOLOGICALS"
 * classification[+] = $100000093533#100000097969 "OPHTHALMOLOGICALS"
-
-
 
 * name.productName = "Diomicete 10 mg/ml Colírio, solução"
 * name.part[invented].part = "Diomicete"
@@ -8937,15 +7479,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
-
- 
-
-
-* classification[+] = $who-atc#D04A "ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC."
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"* classification[+] = $who-atc#D04A "ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC."
 * classification[+] = $100000093533#100000095315 "ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC."
-
-
 
 * name.productName = "Doxiproct 40 mg/g + 20 mg/g Pomada retal"
 * name.part[invented].part = "Doxiproct"
@@ -8980,15 +7515,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Dafalgan 500mg 500 mg Comprimido efervescente"
 * name.part[invented].part = "Dafalgan 500mg"
@@ -9023,15 +7551,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#N01BB20 "combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#N01BB20 "combinations"
 * classification[+] = $100000093533#100000097205 "combinations"
-
-
 
 * name.productName = "Emla 25 mg/g + 25 mg/g Creme"
 * name.part[invented].part = "Emla"
@@ -9066,15 +7587,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073744 "Impregnated dressing"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073744 "Penso impregnado"
-
- 
-
-
-* classification[+] = $who-atc#N01BB20 "combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073744 "Penso impregnado"* classification[+] = $who-atc#N01BB20 "combinations"
 * classification[+] = $100000093533#100000097205 "combinations"
-
-
 
 * name.productName = "Emla Penso 25 mg/g + 25 mg/g Penso impregnado"
 * name.part[invented].part = "Emla Penso"
@@ -9109,15 +7623,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida Pentafarma 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida Pentafarma"
@@ -9152,15 +7659,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Fenil-V Dispersivel 46.5 mg Comprimido dispersível"
 * name.part[invented].part = "Fenil-V Dispersivel"
@@ -9195,15 +7695,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Fenil-V 75 mg/2 ml Solução injetável"
 * name.part[invented].part = "Fenil-V"
@@ -9238,15 +7731,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07XC01 "betamethasone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07XC01 "betamethasone"
 * classification[+] = $100000093533#100000095501 "betamethasone"
-
-
 
 * name.productName = "Flotiran 0.5 mg/g + 10 mg/g Creme"
 * name.part[invented].part = "Flotiran"
@@ -9281,15 +7767,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Ointment"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
-
- 
-
-
-* classification[+] = $who-atc#D07XC01 "betamethasone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"* classification[+] = $who-atc#D07XC01 "betamethasone"
 * classification[+] = $100000093533#100000095501 "betamethasone"
-
-
 
 * name.productName = "Flotiran 0.5 mg/g + 10 mg/g Pomada"
 * name.part[invented].part = "Flotiran"
@@ -9324,15 +7803,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Albosan 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Albosan"
@@ -9367,15 +7839,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Vaginal tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Gino-Canesten 100 mg Comprimido vaginal"
 * name.part[invented].part = "Gino-Canesten"
@@ -9410,15 +7875,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#G03AB05 "desogestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#G03AB05 "desogestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095792 "desogestrel and ethinylestradiol"
-
-
 
 * name.productName = "Gracial Cor: azul; Forma: redondo, biconvexo;: Desogestrel 0.025 mg + Etinilestradiol 0.04 mg; Cor: branco; Forma: redondo, biconvexo;: Desogestrel 0.125 mg + Etinilestradiol 0.03 mg Comprimido"
 * name.part[invented].part = "Gracial"
@@ -9453,15 +7911,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Ratiopharm 200 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Ratiopharm"
@@ -9496,15 +7947,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Ratiopharm 400 mg Comprimidos Revestidos 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Ratiopharm 400 mg Comprimidos Revestidos"
@@ -9539,15 +7983,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Ratiopharm 600 mg Comprimidos Revestidos"
@@ -9582,15 +8019,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
 * classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
-
-
 
 * name.productName = "Ideos 1250 mg + 400 U.I. Comprimido para mastigar"
 * name.part[invented].part = "Ideos"
@@ -9625,15 +8055,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Ilvico 250 mg + 3 mg + 10 mg + 36 mg Comprimido revestido"
 * name.part[invented].part = "Ilvico"
@@ -9668,15 +8091,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Diazepam Labesfal 5 mg Comprimido"
 * name.part[invented].part = "Diazepam Labesfal"
@@ -9711,15 +8127,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Diazepam Labesfal 10 mg Comprimido"
 * name.part[invented].part = "Diazepam Labesfal"
@@ -9754,15 +8163,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Lidocaína Adrenalina Labesfal 20 mg/ml + 0.018 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína Adrenalina Labesfal"
@@ -9797,15 +8199,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Lidocaína Adrenalina Labesfal 10 mg/ml + 0.018 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína Adrenalina Labesfal"
@@ -9840,15 +8235,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073695 "Oromucosal gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073695 "Gel bucal"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073695 "Gel bucal"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidonostrum 20 mg/ml Gel bucal"
 * name.part[invented].part = "Lidonostrum"
@@ -9883,15 +8271,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Ointment"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
-
- 
-
-
-* classification[+] = $who-atc#D04AB01 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"* classification[+] = $who-atc#D04AB01 "lidocaine"
 * classification[+] = $100000093533#100000095332 "lidocaine"
-
-
 
 * name.productName = "Lidonostrum 50 mg/g Pomada"
 * name.part[invented].part = "Lidonostrum"
@@ -9926,15 +8307,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lincaína 1% Braun 10 mg/ml Solução injetável"
 * name.part[invented].part = "Lincaína 1% Braun"
@@ -9969,15 +8343,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lincaína 2% Braun 20 mg/ml Solução injetável"
 * name.part[invented].part = "Lincaína 2% Braun"
@@ -10012,15 +8379,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Lovenox 20 mg/0.2 ml Solução injetável"
 * name.part[invented].part = "Lovenox"
@@ -10055,15 +8415,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Lovenox 40 mg/0.4 ml Solução injetável"
 * name.part[invented].part = "Lovenox"
@@ -10098,15 +8451,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Lovenox 100 mg/1 ml Solução injetável"
 * name.part[invented].part = "Lovenox"
@@ -10141,15 +8487,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
 * classification[+] = $100000093533#100000095417 "hydrocortisone butyrate"
-
-
 
 * name.productName = "Locoid 1 mg/g Creme"
 * name.part[invented].part = "Locoid"
@@ -10184,15 +8523,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Cutaneous solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
-
- 
-
-
-* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
 * classification[+] = $100000093533#100000095417 "hydrocortisone butyrate"
-
-
 
 * name.productName = "Locoid Capilar 1 mg/ml Solução cutânea"
 * name.part[invented].part = "Locoid Capilar"
@@ -10227,15 +8559,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073719 "Cutaneous emulsion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073719 "Emulsão cutânea"
-
- 
-
-
-* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073719 "Emulsão cutânea"* classification[+] = $who-atc#D07AB02 "hydrocortisone butyrate"
 * classification[+] = $100000093533#100000095417 "hydrocortisone butyrate"
-
-
 
 * name.productName = "Locoid Crelo 1 mg/g Emulsão cutânea"
 * name.part[invented].part = "Locoid Crelo"
@@ -10270,15 +8595,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Mepraz 20 mg Cápsula gastrorresistente 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Mepraz 20 mg Cápsula gastrorresistente"
@@ -10313,15 +8631,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Micolysin 10 mg/g Creme"
 * name.part[invented].part = "Micolysin"
@@ -10356,15 +8667,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Cutaneous solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Micolysin 10 mg/g Solução cutânea"
 * name.part[invented].part = "Micolysin"
@@ -10399,15 +8703,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02CA52 "ergotamine, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02CA52 "ergotamine, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097331 "ergotamine, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Migretil Beladona, alcalóides 0.1 mg + Cafeína 100 mg + Ergotamina, tartarato 1 mg + Paracetamol 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Migretil"
@@ -10442,15 +8739,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "MST 10 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "MST"
@@ -10485,15 +8775,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "MST 100 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "MST"
@@ -10528,15 +8811,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "MST 30 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "MST"
@@ -10571,15 +8847,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "MST 60 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "MST"
@@ -10614,15 +8883,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Vaginal tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073824 "Comprimido vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Nalbix 100 mg Comprimido vaginal"
 * name.part[invented].part = "Nalbix"
@@ -10657,15 +8919,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Nalbix 10 mg/g Creme"
 * name.part[invented].part = "Nalbix"
@@ -10700,15 +8955,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Cutaneous solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073731 "Solução cutânea"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Nalbix 10 mg/ml Solução cutânea"
 * name.part[invented].part = "Nalbix"
@@ -10743,15 +8991,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
-
- 
-
-
-* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
 * classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
-
-
 
 * name.productName = "Nitradisc 5 5 mg/24 h Sistema transdérmico"
 * name.part[invented].part = "Nitradisc 5"
@@ -10786,15 +9027,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
-
- 
-
-
-* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
 * classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
-
-
 
 * name.productName = "Nitradisc 10 10 mg/24 h Sistema transdérmico"
 * name.part[invented].part = "Nitradisc 10"
@@ -10829,15 +9063,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073698 "Sublingual tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073698 "Comprimido sublingual"
-
- 
-
-
-* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073698 "Comprimido sublingual"* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
 * classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
-
-
 
 * name.productName = "Nitromint 0.5 mg Comprimido sublingual"
 * name.part[invented].part = "Nitromint"
@@ -10872,15 +9099,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Trifene 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Trifene"
@@ -10915,15 +9135,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Oraminax 250 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Oraminax"
@@ -10958,15 +9171,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Oraminax 500 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Oraminax"
@@ -11001,15 +9207,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Panasorbe 500 mg Comprimido"
 * name.part[invented].part = "Panasorbe"
@@ -11044,15 +9243,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07AB11 "hydrocortisone buteprate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07AB11 "hydrocortisone buteprate"
 * classification[+] = $100000093533#100000095426 "hydrocortisone buteprate"
-
-
 
 * name.productName = "Pandel 1 mg/g Creme"
 * name.part[invented].part = "Pandel"
@@ -11087,15 +9279,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Ointment"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"
-
- 
-
-
-* classification[+] = $who-atc#D07AA02 "hydrocortisone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Pomada"* classification[+] = $who-atc#D07AA02 "hydrocortisone"
 * classification[+] = $100000093533#100000095413 "hydrocortisone"
-
-
 
 * name.productName = "Pandermil 10 mg/g Pomada"
 * name.part[invented].part = "Pandermil"
@@ -11130,15 +9315,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paramolan 500 mg Comprimido"
 * name.part[invented].part = "Paramolan"
@@ -11173,15 +9351,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paramolan 125 mg Supositório"
 * name.part[invented].part = "Paramolan"
@@ -11216,15 +9387,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paramolan 250 mg Supositório"
 * name.part[invented].part = "Paramolan"
@@ -11259,15 +9423,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Powder for oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073364 "Pó para solução oral"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Paramolan C 500 mg + 250 mg Pó para solução oral"
 * name.part[invented].part = "Paramolan C"
@@ -11302,15 +9459,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Doloramol 500 mg Comprimido"
 * name.part[invented].part = "Doloramol"
@@ -11345,15 +9495,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Paxilfar 100 mg Comprimido"
 * name.part[invented].part = "Paxilfar"
@@ -11388,15 +9531,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07BA04 "hydrocortisone and antiseptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07BA04 "hydrocortisone and antiseptics"
 * classification[+] = $100000093533#100000095457 "hydrocortisone and antiseptics"
-
-
 
 * name.productName = "Pimafucort 10 mg/g + 10 mg/g + 3.5 mg/g Creme"
 * name.part[invented].part = "Pimafucort"
@@ -11431,15 +9567,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
-
- 
-
-
-* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
 * classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
-
-
 
 * name.productName = "Plastranit 5 mg/24 h Sistema transdérmico"
 * name.part[invented].part = "Plastranit"
@@ -11474,15 +9603,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
-
- 
-
-
-* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
 * classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
-
-
 
 * name.productName = "Plastranit 10 mg/24 h Sistema transdérmico"
 * name.part[invented].part = "Plastranit"
@@ -11517,15 +9639,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Proclor 20 mg Cápsulas Gastrorresistentes"
@@ -11560,15 +9675,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Rectal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"
-
- 
-
-
-* classification[+] = $who-atc#C05AD "Local anesthetics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"* classification[+] = $who-atc#C05AD "Local anesthetics"
 * classification[+] = $100000093533#100000094936 "Local anesthetics"
-
-
 
 * name.productName = "Procto-Glyvenol 50 mg/g + 20 mg/g Creme retal"
 * name.part[invented].part = "Procto-Glyvenol"
@@ -11603,15 +9711,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Proton 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Proton"
@@ -11646,15 +9747,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073871 "Concentrate for solution for infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073871 "Concentrado para solução para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073871 "Concentrado para solução para perfusão"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Sandimmun 50 mg/ml Concentrado para solução para perfusão"
 * name.part[invented].part = "Sandimmun"
@@ -11689,15 +9783,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Saridon-N 250 mg + 150 mg + 50 mg Comprimido"
 * name.part[invented].part = "Saridon-N"
@@ -11732,15 +9819,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Sinutab II 500 mg + 30 mg Comprimido"
 * name.part[invented].part = "Sinutab II"
@@ -11775,15 +9855,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#J02AC02 "itraconazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#J02AC02 "itraconazole"
 * classification[+] = $100000093533#100000096373 "itraconazole"
-
-
 
 * name.productName = "Sporanox 10 mg/ml Solução oral"
 * name.part[invented].part = "Sporanox"
@@ -11818,15 +9891,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Stagid 700 mg Comprimido"
 * name.part[invented].part = "Stagid"
@@ -11861,15 +9927,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Rectal solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Stesolid 5 mg/2.5 ml Solução retal"
 * name.part[invented].part = "Stesolid"
@@ -11904,15 +9963,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Rectal solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Solução retal"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Stesolid 10 mg/2.5 ml Solução retal"
 * name.part[invented].part = "Stesolid"
@@ -11947,15 +9999,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Supofen 500 mg Supositório"
 * name.part[invented].part = "Supofen"
@@ -11990,15 +10035,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Supofen 125 mg Supositório"
 * name.part[invented].part = "Supofen"
@@ -12033,15 +10071,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Supofen 500 mg Comprimido"
 * name.part[invented].part = "Supofen"
@@ -12076,15 +10107,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Supofen 250 mg Supositório"
 * name.part[invented].part = "Supofen"
@@ -12119,15 +10143,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
-
- 
-
-
-* classification[+] = $who-atc#D07BC02 "fluocinolone acetonide and antiseptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"* classification[+] = $who-atc#D07BC02 "fluocinolone acetonide and antiseptics"
 * classification[+] = $100000093533#100000095465 "fluocinolone acetonide and antiseptics"
-
-
 
 * name.productName = "Synalar Rectal Bismuto, subgalhato 50 mg/g + Fluocinolona, acetonido 0.11 mg/g + Lidocaína, cloridrato 20 mg/g Pomada retal"
 * name.part[invented].part = "Synalar Rectal"
@@ -12162,15 +10179,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#N03AF01 "carbamazepine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#N03AF01 "carbamazepine"
 * classification[+] = $100000093533#100000097377 "carbamazepine"
-
-
 
 * name.productName = "Tegretol 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Tegretol"
@@ -12205,15 +10215,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Ciclum 50 mg, cápsulas 50 mg Cápsula"
 * name.part[invented].part = "Tramadol Ciclum 50 mg, cápsulas"
@@ -12248,15 +10251,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Oral drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Ciclum 100 mg/ml Gotas orais, solução"
 * name.part[invented].part = "Tramadol Ciclum"
@@ -12291,15 +10287,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Travex 50 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Travex"
@@ -12334,15 +10323,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Travex 100 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Travex"
@@ -12377,15 +10359,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Travex 150 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Travex"
@@ -12420,15 +10395,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Travex 200 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Travex"
@@ -12463,15 +10431,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AB06 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AB06 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095793 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Tri-Minulet Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.05 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.04 mg + Gestodeno 0.07 mg; Cor: bêge, castanho e branco;: Etinilestradiol 0.03 mg + Gestodeno 0.1 mg Comprimido revestido"
 * name.part[invented].part = "Tri-Minulet"
@@ -12506,15 +10467,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Trifene 200 200 mg Comprimido revestido por película"
 * name.part[invented].part = "Trifene 200"
@@ -12549,15 +10503,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Rectal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"
-
- 
-
-
-* classification[+] = $who-atc#C05A "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073819 "Creme retal"* classification[+] = $who-atc#C05A "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
 * classification[+] = $100000093533#100000094925 "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
-
-
 
 * name.productName = "Ultraproct 1 mg/g + 20 mg/g Creme retal"
 * name.part[invented].part = "Ultraproct"
@@ -12592,15 +10539,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#C05A "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#C05A "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
 * classification[+] = $100000093533#100000094925 "AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE"
-
-
 
 * name.productName = "Ultraproct 1 mg + 40 mg Supositório"
 * name.part[invented].part = "Ultraproct"
@@ -12635,15 +10575,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Unisedil 5 mg Comprimido"
 * name.part[invented].part = "Unisedil"
@@ -12678,15 +10611,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#R03CC02 "salbutamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"* classification[+] = $who-atc#R03CC02 "salbutamol"
 * classification[+] = $100000093533#100000098120 "salbutamol"
-
-
 
 * name.productName = "Ventilan 5 mg/5 ml Solução para perfusão"
 * name.part[invented].part = "Ventilan"
@@ -12721,15 +10647,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#R03CC02 "salbutamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#R03CC02 "salbutamol"
 * classification[+] = $100000093533#100000098120 "salbutamol"
-
-
 
 * name.productName = "Ventilan 0.5 mg/1 ml Solução injetável"
 * name.part[invented].part = "Ventilan"
@@ -12764,15 +10683,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
-
- 
-
-
-* classification[+] = $who-atc#R03CC02 "salbutamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"* classification[+] = $who-atc#R03CC02 "salbutamol"
 * classification[+] = $100000093533#100000098120 "salbutamol"
-
-
 
 * name.productName = "Ventilan 0.4 mg/ml Xarope"
 * name.part[invented].part = "Ventilan"
@@ -12807,15 +10719,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Nebuliser solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
-
- 
-
-
-* classification[+] = $who-atc#R03AC02 "salbutamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"* classification[+] = $who-atc#R03AC02 "salbutamol"
 * classification[+] = $100000093533#100000098065 "salbutamol"
-
-
 
 * name.productName = "Ventilan 5 mg/ml Solução para inalação por nebulização"
 * name.part[invented].part = "Ventilan"
@@ -12850,15 +10755,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Voltaren 75 75 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Voltaren 75"
@@ -12893,15 +10791,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Voltaren Rapid 50 mg Comprimido revestido"
 * name.part[invented].part = "Voltaren Rapid"
@@ -12936,15 +10827,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Voltaren Retard 100 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Voltaren Retard"
@@ -12979,15 +10863,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000116164 "Nasal/oromucosal spray, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000116164 "Solução para pulverização nasal ou bucal"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000116164 "Solução para pulverização nasal ou bucal"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Xilonibsa Spray 10% 100 mg/ml Solução para pulverização nasal ou bucal"
 * name.part[invented].part = "Xilonibsa Spray 10%"
@@ -13022,15 +10899,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zipos 250 mg Comprimido revestido por película"
 * name.part[invented].part = "Zipos"
@@ -13065,15 +10935,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Labesfal 100 mg/2 ml Solução injetável"
 * name.part[invented].part = "Tramadol Labesfal"
@@ -13108,19 +10971,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03A "HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE"
-* classification[+] = $100000093533#100000095772 "HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE" 
-
-
-* classification[+] = $who-atc#G03FA11 "levonorgestrel and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03A "HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE"
+* classification[+] = $100000093533#100000095772 "HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE"* classification[+] = $who-atc#G03FA11 "levonorgestrel and estrogen"
 * classification[+] = $100000093533#100000095877 "levonorgestrel and estrogen"
-
-
 
 * name.productName = "Miranova 0.02 mg + 0.1 mg Comprimido revestido"
 * name.part[invented].part = "Miranova"
@@ -13155,15 +11008,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina Generis 500 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina Generis"
@@ -13198,15 +11044,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Sevredol 20 mg Comprimido revestido"
 * name.part[invented].part = "Sevredol"
@@ -13241,15 +11080,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Sevredol 10 mg Comprimido revestido"
 * name.part[invented].part = "Sevredol"
@@ -13284,15 +11116,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Basi 100 mg/2 ml Solução injetável"
 * name.part[invented].part = "Tramadol Basi"
@@ -13327,15 +11152,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Moment 200 200 mg Comprimido revestido"
 * name.part[invented].part = "Moment 200"
@@ -13370,15 +11188,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Sandoz 5 mg Comprimido"
 * name.part[invented].part = "Enalapril Sandoz"
@@ -13413,15 +11224,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Sandoz 20 mg Comprimido"
 * name.part[invented].part = "Enalapril Sandoz"
@@ -13456,15 +11260,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
-
- 
-
-
-* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
 * classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
-
-
 
 * name.productName = "Epinitril 10 10 mg/24 h Sistema transdérmico"
 * name.part[invented].part = "Epinitril 10"
@@ -13499,15 +11296,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omezolan 40 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omezolan 40"
@@ -13542,15 +11332,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
-
- 
-
-
-* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"* classification[+] = $who-atc#C01DA02 "glyceryl trinitrate"
 * classification[+] = $100000093533#100000094611 "glyceryl trinitrate"
-
-
 
 * name.productName = "Epinitril 5 5 mg/24 h Sistema transdérmico"
 * name.part[invented].part = "Epinitril 5"
@@ -13585,15 +11368,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Mylan 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Mylan"
@@ -13628,15 +11404,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
 * classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
-
-
 
 * name.productName = "Densical D 1500 mg + 400 U.I. Comprimido para mastigar"
 * name.part[invented].part = "Densical D"
@@ -13671,15 +11440,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
 * classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
-
-
 
 * name.productName = "Calcitab D 1500 mg + 400 U.I. Comprimido para mastigar"
 * name.part[invented].part = "Calcitab D"
@@ -13714,15 +11476,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granules for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073650 "Granulado para suspensão oral"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zipos 250 mg/5 ml Granulado para suspensão oral"
 * name.part[invented].part = "Zipos"
@@ -13757,15 +11512,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Farmoz 20 mg Cápsulas Duras 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Farmoz 20 mg Cápsulas Duras"
@@ -13800,15 +11548,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Ciclum 5 mg comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Enalapril Ciclum 5 mg comprimidos"
@@ -13843,15 +11584,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Ciclum 20 mg comprimidos 20 mg Comprimido"
 * name.part[invented].part = "Enalapril Ciclum 20 mg comprimidos"
@@ -13886,15 +11620,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida Ciclum 20 mg + 12,5 mg Comprimidos"
@@ -13929,15 +11656,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida Farmoz 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida Farmoz"
@@ -13972,15 +11692,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Farmoz 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Farmoz"
@@ -14015,15 +11728,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Farmoz 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Farmoz"
@@ -14058,15 +11764,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Vitória 20 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Vitória"
@@ -14101,15 +11800,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Vitória 40 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Vitória"
@@ -14144,15 +11836,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Zera 40 mg Comprimidos Revestidos 40 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Zera 40 mg Comprimidos Revestidos"
@@ -14187,15 +11872,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Trifene Dispersível 200 mg Comprimido dispersível"
 * name.part[invented].part = "Trifene Dispersível"
@@ -14230,15 +11908,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Generis 100 mg/2 ml Solução injetável"
 * name.part[invented].part = "Tramadol Generis"
@@ -14273,15 +11944,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Oral drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073642 "Gotas orais, solução"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Generis 100 mg/ml Solução Oral 100 mg/ml Gotas orais, solução"
 * name.part[invented].part = "Tramadol Generis 100 mg/ml Solução Oral"
@@ -14316,15 +11980,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Proclor 40 mg cápsulas duras gastrorresistentes 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Proclor 40 mg cápsulas duras gastrorresistentes"
@@ -14359,19 +12016,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
-* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen" 
-
-
-* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen"* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
 * classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
-
-
 
 * name.productName = "NuvaRing 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal"
 * name.part[invented].part = "NuvaRing"
@@ -14406,15 +12053,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Sandoz 875 mg + 125 mg Comprimidos revestidos 875 mg + 125 mg Comprimido revestido"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Sandoz 875 mg + 125 mg Comprimidos revestidos"
@@ -14449,15 +12089,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido clavulânico Mylan 875 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido clavulânico Mylan"
@@ -14492,15 +12125,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido clavulânico Ratiopharm 875 mg e 125mg comprimidos revestidos 875 mg + 125 mg Comprimido revestido"
 * name.part[invented].part = "Amoxicilina + Ácido clavulânico Ratiopharm 875 mg e 125mg comprimidos revestidos"
@@ -14535,15 +12161,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida Ratiopharm 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida Ratiopharm 20 mg + 12,5 mg Comprimidos"
@@ -14578,15 +12197,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida Teva  20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida Teva "
@@ -14621,15 +12233,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#D04AB01 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#D04AB01 "lidocaine"
 * classification[+] = $100000093533#100000095332 "lidocaine"
-
-
 
 * name.productName = "Lidonostrum Gele 2% 20 mg/g Gel"
 * name.part[invented].part = "Lidonostrum Gele 2%"
@@ -14664,15 +12269,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Zentiva 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Zentiva"
@@ -14707,15 +12305,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Transdermal system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"
-
- 
-
-
-* classification[+] = $who-atc#G03AA13 "norelgestromin and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073769 "Sistema transdérmico"* classification[+] = $who-atc#G03AA13 "norelgestromin and ethinylestradiol"
 * classification[+] = $100000093533#100000095786 "norelgestromin and ethinylestradiol"
-
-
 
 * name.productName = "Evra 33.9 µg/24 h + 203 µg/24 h Sistema transdérmico"
 * name.part[invented].part = "Evra"
@@ -14750,15 +12341,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#A10AE04 "insulin glargine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#A10AE04 "insulin glargine"
 * classification[+] = $100000093533#100000094023 "insulin glargine"
-
-
 
 * name.productName = "Lantus 100 U/ml Solução injetável"
 * name.part[invented].part = "Lantus"
@@ -14793,15 +12377,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Azevedos 50 mg Cápsula"
 * name.part[invented].part = "Tramadol Azevedos"
@@ -14836,15 +12413,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Sandoz 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Sandoz"
@@ -14879,15 +12449,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Sandoz 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Sandoz"
@@ -14922,15 +12485,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Sandoz 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Sandoz"
@@ -14965,15 +12521,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Sandoz 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Sandoz"
@@ -15008,15 +12557,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Sandoz 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Sandoz"
@@ -15051,15 +12593,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Pharmakern 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Ibuprofeno Pharmakern"
@@ -15094,15 +12629,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Pharmakern 600 mg Granulado efervescente"
 * name.part[invented].part = "Ibuprofeno Pharmakern"
@@ -15137,15 +12665,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
-
- 
-
-
-* classification[+] = $who-atc#C05AE01 "glyceryl trinitrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"* classification[+] = $who-atc#C05AE01 "glyceryl trinitrate"
 * classification[+] = $100000093533#100000094945 "glyceryl trinitrate"
-
-
 
 * name.productName = "Rectogesic 4 mg/g Pomada retal"
 * name.part[invented].part = "Rectogesic"
@@ -15180,15 +12701,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Krka 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Krka"
@@ -15223,15 +12737,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril ratiopharm 4 mg Comprimidos 4 mg Comprimido"
 * name.part[invented].part = "Perindopril ratiopharm 4 mg Comprimidos"
@@ -15266,15 +12773,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Dagesil 10 mg/g Gel"
 * name.part[invented].part = "Dagesil"
@@ -15309,15 +12809,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Teva 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Teva"
@@ -15352,15 +12845,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Teva 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Teva"
@@ -15395,15 +12881,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Ratiopharm 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Ratiopharm"
@@ -15438,15 +12917,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Ratiopharm 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Ratiopharm"
@@ -15481,15 +12953,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Generis 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Generis"
@@ -15524,15 +12989,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Tensoliber 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Tensoliber"
@@ -15567,15 +13025,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Tensoliber 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Tensoliber"
@@ -15610,15 +13061,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Tecazo 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Tecazo"
@@ -15653,15 +13097,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Tecazo 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Tecazo"
@@ -15696,15 +13133,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Krka 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Krka"
@@ -15739,15 +13169,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Krka 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Krka"
@@ -15782,15 +13205,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Exforge 5 mg + 80 mg Comprimido revestido por película"
 * name.part[invented].part = "Exforge"
@@ -15825,15 +13241,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Etinilestradiol + Gestodeno Generis 0.02 mg + 0.075 mg Comprimido revestido"
 * name.part[invented].part = "Etinilestradiol + Gestodeno Generis"
@@ -15868,15 +13277,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Etinilestradiol + Gestodeno Generis 0.03 mg + 0.075 mg Comprimido revestido"
 * name.part[invented].part = "Etinilestradiol + Gestodeno Generis"
@@ -15911,15 +13313,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Exforge 5 mg + 160 mg Comprimido revestido por película"
 * name.part[invented].part = "Exforge"
@@ -15954,15 +13349,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Morfina Basi 10 mg/ml Solução injetável"
 * name.part[invented].part = "Morfina Basi"
@@ -15997,15 +13385,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N02AA01 "morphine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N02AA01 "morphine"
 * classification[+] = $100000093533#100000097139 "morphine"
-
-
 
 * name.productName = "Morfina Basi 20 mg/ml Solução injetável"
 * name.part[invented].part = "Morfina Basi"
@@ -16040,15 +13421,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Sandoz 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Sandoz"
@@ -16083,15 +13457,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Sandoz 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Sandoz"
@@ -16126,15 +13493,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Azevedos 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Azevedos"
@@ -16169,15 +13529,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Bluepharma 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Bluepharma"
@@ -16212,15 +13565,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Bluepharma 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Bluepharma"
@@ -16255,15 +13601,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Farmoz 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Farmoz"
@@ -16298,15 +13637,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Farmoz 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Farmoz"
@@ -16341,15 +13673,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Farmoz 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Farmoz"
@@ -16384,15 +13709,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Farmoz 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Farmoz"
@@ -16427,15 +13745,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Ratiopharm 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Ratiopharm"
@@ -16470,15 +13781,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Ratiopharm 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Ratiopharm"
@@ -16513,15 +13817,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Copalia 5 mg + 80 mg Comprimido revestido por película"
 * name.part[invented].part = "Copalia"
@@ -16556,15 +13853,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Copalia 5 mg + 160 mg Comprimido revestido por película"
 * name.part[invented].part = "Copalia"
@@ -16599,15 +13889,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Reuloran 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Reuloran"
@@ -16642,15 +13925,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Krka 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Krka"
@@ -16685,15 +13961,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Aurovitas 100 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol Aurovitas"
@@ -16728,15 +13997,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Aurovitas 150 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol Aurovitas"
@@ -16771,15 +14033,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Aurovitas 200 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol Aurovitas"
@@ -16814,15 +14069,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Vitoria 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Vitoria"
@@ -16857,15 +14105,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Ratiopharm 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Ratiopharm"
@@ -16900,15 +14141,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Orodispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
-
- 
-
-
-* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
 * classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
-
-
 
 * name.productName = "Calcitab D 1500 mg + 400 U.I. Comprimido orodispersível"
 * name.part[invented].part = "Calcitab D"
@@ -16943,15 +14177,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
-
- 
-
-
-* classification[+] = $who-atc#R03AC02 "salbutamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"* classification[+] = $who-atc#R03AC02 "salbutamol"
 * classification[+] = $100000093533#100000098065 "salbutamol"
-
-
 
 * name.productName = "Salbutamol Sandoz 100 µg/dose Suspensão pressurizada para inalação"
 * name.part[invented].part = "Salbutamol Sandoz"
@@ -16986,15 +14213,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida Basi 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida Basi"
@@ -17029,15 +14249,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Teva 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Teva"
@@ -17072,15 +14285,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Teva 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Teva"
@@ -17115,15 +14321,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Teva 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Teva"
@@ -17158,15 +14357,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
 * classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
-
-
 
 * name.productName = "Eucreas 850 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Eucreas"
@@ -17201,15 +14393,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Nebuliser solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"
-
- 
-
-
-* classification[+] = $who-atc#R03AL02 "salbutamol and ipratropium bromide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073835 "Solução para inalação por nebulização"* classification[+] = $who-atc#R03AL02 "salbutamol and ipratropium bromide"
 * classification[+] = $100000093533#100000157902 "salbutamol and ipratropium bromide"
-
-
 
 * name.productName = "Ipramol 0.5 mg/2.5 ml + 2.5 mg/2.5 ml Solução para inalação por nebulização"
 * name.part[invented].part = "Ipramol"
@@ -17244,15 +14429,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
 * classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
-
-
 
 * name.productName = "Eucreas 1000 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Eucreas"
@@ -17287,15 +14465,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Coveram 5 mg + 10 mg Comprimido"
 * name.part[invented].part = "Coveram"
@@ -17330,15 +14501,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Coveram 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Coveram"
@@ -17373,15 +14537,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Coveram 10 mg + 5 mg Comprimido"
 * name.part[invented].part = "Coveram"
@@ -17416,15 +14573,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Teva 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Teva"
@@ -17459,15 +14609,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Teva 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Teva"
@@ -17502,15 +14645,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Ratiopharm 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Ratiopharm"
@@ -17545,15 +14681,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Bravet 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Bravet"
@@ -17588,15 +14717,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Ratiopharm 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Ratiopharm"
@@ -17631,15 +14753,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Ciclum 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Ciclum"
@@ -17674,15 +14789,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Ciclum 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Ciclum"
@@ -17717,15 +14825,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Ciclum 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Ciclum"
@@ -17760,15 +14861,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Cêgripe 1 mg + 500 mg Comprimido"
 * name.part[invented].part = "Cêgripe"
@@ -17803,15 +14897,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Azevedos 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Azevedos"
@@ -17846,15 +14933,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
 * classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
-
-
 
 * name.productName = "Janumet 850 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Janumet"
@@ -17889,15 +14969,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
 * classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
-
-
 
 * name.productName = "Janumet 1000 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Janumet"
@@ -17932,15 +15005,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
 * classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
-
-
 
 * name.productName = "Velmetia 850 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Velmetia"
@@ -17975,15 +15041,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
 * classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
-
-
 
 * name.productName = "Velmetia 1000 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Velmetia"
@@ -18018,15 +15077,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Zentiva 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Zentiva"
@@ -18061,15 +15113,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Genkern 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Genkern"
@@ -18104,15 +15149,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D04AB01 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D04AB01 "lidocaine"
 * classification[+] = $100000093533#100000095332 "lidocaine"
-
-
 
 * name.productName = "Lambdalina 40 mg/g Creme"
 * name.part[invented].part = "Lambdalina"
@@ -18147,15 +15185,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Gasec 10 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Gasec"
@@ -18190,15 +15221,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
 * classification[+] = $100000093533#100000095158 "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
-
-
 
 * name.productName = "Sevikar 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sevikar"
@@ -18233,15 +15257,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
 * classification[+] = $100000093533#100000095158 "Angiotensin II receptor blockers (ARBs) and calcium channel blockers"
-
-
 
 * name.productName = "Zolnor 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Zolnor"
@@ -18276,15 +15293,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Pharmakern 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Pharmakern"
@@ -18319,15 +15329,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
 * classification[+] = $100000093533#100000095881 "dienogest and estrogen"
-
-
 
 * name.productName = "Denille 2 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Denille"
@@ -18362,15 +15365,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
 * classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
-
-
 
 * name.productName = "Efficib 850 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Efficib"
@@ -18405,15 +15401,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD07 "metformin and sitagliptin"
 * classification[+] = $100000093533#100000094056 "metformin and sitagliptin"
-
-
 
 * name.productName = "Efficib 1000 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Efficib"
@@ -18448,15 +15437,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril ratiopharm 8 mg Comprimido"
 * name.part[invented].part = "Perindopril ratiopharm"
@@ -18491,15 +15473,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073656 "Effervescent powder"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073656 "Pó efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073656 "Pó efervescente"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Generis 1000 mg Pó efervescente"
 * name.part[invented].part = "Paracetamol Generis"
@@ -18534,15 +15509,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Teva 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Teva"
@@ -18577,15 +15545,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Teva 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Teva"
@@ -18620,15 +15581,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Zaldiar Efe 37.5 mg + 325 mg Comprimido efervescente"
 * name.part[invented].part = "Zaldiar Efe"
@@ -18663,15 +15617,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Lumec 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Lumec"
@@ -18706,15 +15653,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Ciclosporina Generis 100 mg/ml Solução oral"
 * name.part[invented].part = "Ciclosporina Generis"
@@ -18749,15 +15689,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07AA02 "hydrocortisone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07AA02 "hydrocortisone"
 * classification[+] = $100000093533#100000095413 "hydrocortisone"
-
-
 
 * name.productName = "Carplexil 10 mg/g Creme"
 * name.part[invented].part = "Carplexil"
@@ -18792,15 +15725,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Olfen 140 mg Emplastro medicamentoso"
 * name.part[invented].part = "Olfen"
@@ -18835,15 +15761,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Aurobindo 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Aurobindo"
@@ -18878,15 +15797,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Aurobindo 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Aurobindo"
@@ -18921,15 +15833,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Aurobindo 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Aurobindo"
@@ -18964,15 +15869,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Bluefish 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Bluefish"
@@ -19007,15 +15905,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Bluefish 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Bluefish"
@@ -19050,15 +15941,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Bluefish 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Bluefish"
@@ -19093,15 +15977,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Drosianelle 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Drosianelle"
@@ -19136,15 +16013,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Drosianne 3 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Drosianne"
@@ -19179,15 +16049,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Tolife 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Tolife"
@@ -19222,15 +16085,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Tolife 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Tolife"
@@ -19265,15 +16121,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Proton 10 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Proton"
@@ -19308,15 +16157,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Generis 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Generis"
@@ -19351,15 +16193,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tomin 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Tomin"
@@ -19394,15 +16229,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Krka 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Krka"
@@ -19437,15 +16265,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Aurobindo 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Aurobindo"
@@ -19480,15 +16301,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Aurobindo 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Aurobindo"
@@ -19523,15 +16337,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Aurobindo 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Aurobindo"
@@ -19566,15 +16373,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Bluefish 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Bluefish"
@@ -19609,15 +16409,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Bluefish 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Bluefish"
@@ -19652,15 +16445,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Ratiopharm 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Ratiopharm"
@@ -19695,15 +16481,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Basi 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Basi"
@@ -19738,15 +16517,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
 * classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
-
-
 
 * name.productName = "Icandra 850 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Icandra"
@@ -19781,15 +16553,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
 * classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
-
-
 
 * name.productName = "Zomarist 1000 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Zomarist"
@@ -19824,15 +16589,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
 * classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
-
-
 
 * name.productName = "Zomarist 850 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Zomarist"
@@ -19867,15 +16625,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol GP 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol GP"
@@ -19910,15 +16661,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD08 "metformin and vildagliptin"
 * classification[+] = $100000093533#100000094057 "metformin and vildagliptin"
-
-
 
 * name.productName = "Icandra 1000 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Icandra"
@@ -19953,15 +16697,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Accord 10 mg/ml Solução para perfusão"
 * name.part[invented].part = "Paracetamol Accord"
@@ -19996,15 +16733,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Azevedos 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Azevedos"
@@ -20039,15 +16769,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Voltaren 25 25 mg Cápsula mole"
 * name.part[invented].part = "Voltaren 25"
@@ -20082,15 +16805,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
-
- 
-
-
-* classification[+] = $who-atc#S01EE05 "tafluprost"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"* classification[+] = $who-atc#S01EE05 "tafluprost"
 * classification[+] = $100000093533#100000098531 "tafluprost"
-
-
 
 * name.productName = "Saflutan 15 µg/ml Colírio, solução"
 * name.part[invented].part = "Saflutan"
@@ -20125,15 +16841,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095780 "levonorgestrel and ethinylestradiol"
-
-
 
 * name.productName = "Etinilestradiol + Levonorgestrel Generis 0.02 mg + 0.1 mg Comprimido revestido por película"
 * name.part[invented].part = "Etinilestradiol + Levonorgestrel Generis"
@@ -20168,15 +16877,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Azevedos 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Azevedos"
@@ -20211,15 +16913,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Sandoz 200 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Sandoz"
@@ -20254,15 +16949,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Sandoz 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Sandoz"
@@ -20297,15 +16985,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Sandoz 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Sandoz"
@@ -20340,15 +17021,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Neforan 200 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Neforan"
@@ -20383,15 +17057,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Tolife 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Tolife"
@@ -20426,15 +17093,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Tolife 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Tolife"
@@ -20469,15 +17129,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Betude 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Betude"
@@ -20512,15 +17165,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Betude 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Betude"
@@ -20555,15 +17201,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Tricalma EF 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Tricalma EF"
@@ -20598,15 +17237,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Labesfal 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Labesfal"
@@ -20641,15 +17273,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Krka 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Krka"
@@ -20684,15 +17309,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Krka 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Krka"
@@ -20727,15 +17345,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Pharmakern 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Pharmakern"
@@ -20770,15 +17381,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Sandoz 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Sandoz"
@@ -20813,15 +17417,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Sandoz 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Sandoz"
@@ -20856,15 +17453,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Krka 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Krka"
@@ -20899,15 +17489,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Azevedos 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Azevedos"
@@ -20942,15 +17525,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Azevedos 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Azevedos"
@@ -20985,15 +17561,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Sandoz 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Sandoz"
@@ -21028,15 +17597,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A02BX "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A02BX "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
 * classification[+] = $100000093533#100000093643 "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
-
-
 
 * name.productName = "Gaviscon Alginato de sódio 250 mg + Bicarbonato de sódio 133.5 mg + Carbonato de cálcio 80 mg Comprimido para mastigar"
 * name.part[invented].part = "Gaviscon"
@@ -21071,15 +17633,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Mylan 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Mylan"
@@ -21114,15 +17669,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Mylan 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Mylan"
@@ -21157,15 +17705,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
-
- 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Vessatis 700 mg Emplastro medicamentoso"
 * name.part[invented].part = "Vessatis"
@@ -21200,15 +17741,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Arankelle 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Arankelle"
@@ -21243,15 +17777,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Daylette 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Daylette"
@@ -21286,15 +17813,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Aranka 3 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Aranka"
@@ -21329,15 +17849,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Krka 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Krka"
@@ -21372,15 +17885,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Labesfal 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Labesfal"
@@ -21415,15 +17921,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Generis 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Generis"
@@ -21458,15 +17957,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Tolife 400 mg Granulado para solução oral"
 * name.part[invented].part = "Ibuprofeno Tolife"
@@ -21501,15 +17993,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Tolife 600 mg Granulado para solução oral"
 * name.part[invented].part = "Ibuprofeno Tolife"
@@ -21544,15 +18029,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Generis 400 mg Granulado para solução oral"
 * name.part[invented].part = "Ibuprofeno Generis"
@@ -21587,15 +18065,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Generis 600 mg Granulado para solução oral"
 * name.part[invented].part = "Ibuprofeno Generis"
@@ -21630,15 +18101,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Ratiopharm 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Ratiopharm"
@@ -21673,15 +18137,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Teva 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Teva"
@@ -21716,15 +18173,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Ciclum 650 mg Comprimido"
 * name.part[invented].part = "Paracetamol Ciclum"
@@ -21759,15 +18209,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Ciclum 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Ciclum"
@@ -21802,15 +18245,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
 * classification[+] = $100000093533#100000170296 "codeine and paracetamol"
-
-
 
 * name.productName = "Paracetamol + Codeína Pharmakern 500 mg + 30 mg Comprimido"
 * name.part[invented].part = "Paracetamol + Codeína Pharmakern"
@@ -21845,15 +18281,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Ratiopharm 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Ratiopharm"
@@ -21888,15 +18317,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Ratiopharm 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Ratiopharm"
@@ -21931,15 +18353,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
 * classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
-
-
 
 * name.productName = "Clarissa 2 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Clarissa"
@@ -21974,15 +18389,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Aurobindo 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Aurobindo"
@@ -22017,15 +18425,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Aurobindo 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Aurobindo"
@@ -22060,15 +18461,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Basi 10 mg/g Creme vaginal"
 * name.part[invented].part = "Clotrimazol Basi"
@@ -22103,15 +18497,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Basi 10 mg/g Creme"
 * name.part[invented].part = "Clotrimazol Basi"
@@ -22146,15 +18533,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Supofen 40 mg/ml Xarope"
 * name.part[invented].part = "Supofen"
@@ -22189,15 +18569,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Basi 250 mg/5 ml + 62.5 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Basi"
@@ -22232,15 +18605,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Basi 500 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Basi"
@@ -22275,15 +18641,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Basi 875 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Basi"
@@ -22318,15 +18677,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Pharmakern 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Pharmakern"
@@ -22361,15 +18713,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Mylan 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Mylan"
@@ -22404,15 +18749,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Vitória 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Vitória"
@@ -22447,15 +18785,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ib-u-ron 75 mg Supositório"
 * name.part[invented].part = "Ib-u-ron"
@@ -22490,15 +18821,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ib-u-ron 150 mg Supositório"
 * name.part[invented].part = "Ib-u-ron"
@@ -22533,15 +18857,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Voltaren Emulgelex 20 mg/g Gel"
 * name.part[invented].part = "Voltaren Emulgelex"
@@ -22576,15 +18893,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Sandoz 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Sandoz"
@@ -22619,15 +18929,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Sandoz 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Sandoz"
@@ -22662,15 +18965,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Twynsta 5 mg + 40 mg Comprimido"
 * name.part[invented].part = "Twynsta"
@@ -22705,15 +19001,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Twynsta 10 mg + 40 mg Comprimido"
 * name.part[invented].part = "Twynsta"
@@ -22748,15 +19037,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Twynsta 5 mg + 80 mg Comprimido"
 * name.part[invented].part = "Twynsta"
@@ -22791,15 +19073,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Pharmakern 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Pharmakern"
@@ -22834,15 +19109,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Ciclum 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Ciclum"
@@ -22877,15 +19145,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Ciclum 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Ciclum"
@@ -22920,15 +19181,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Krka 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Krka"
@@ -22963,15 +19217,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Krka 4 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Krka"
@@ -23006,15 +19253,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Krka 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Krka"
@@ -23049,15 +19289,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Krka 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Krka"
@@ -23092,15 +19325,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-U-Ron 500 mg Cápsula"
 * name.part[invented].part = "Ben-U-Ron"
@@ -23135,15 +19361,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Tecnigen 40 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Tecnigen"
@@ -23178,15 +19397,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Tecnigen 20 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Tecnigen"
@@ -23221,15 +19433,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Reumolide 10 mg/g Gel"
 * name.part[invented].part = "Reumolide"
@@ -23264,15 +19469,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Alter 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Alter"
@@ -23307,15 +19505,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Alter 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Alter"
@@ -23350,15 +19541,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Alter 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Alter"
@@ -23393,15 +19577,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Mepha 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Mepha"
@@ -23436,15 +19613,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Medinfar 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Medinfar"
@@ -23479,15 +19649,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Powder for solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Hikma 1000 mg + 200 mg Pó para sol injectável 1000 mg + 200 mg Pó para solução injetável"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Hikma 1000 mg + 200 mg Pó para sol injectável"
@@ -23522,15 +19685,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Dislipina 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Dislipina"
@@ -23565,15 +19721,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película 20 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Baldacci 20 mg Comprimidos Revestidos Por Película"
@@ -23608,15 +19757,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
-
-
 
 * name.productName = "Novynette 0.15 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Novynette"
@@ -23651,15 +19793,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Stada 20 mg cápsula dura gastrorresistente 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Stada 20 mg cápsula dura gastrorresistente"
@@ -23694,15 +19829,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Albosan 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Albosan"
@@ -23737,15 +19865,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Alter 5 mg comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Alter 5 mg comprimidos"
@@ -23780,15 +19901,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Alter 10 mg comprimidos 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Alter 10 mg comprimidos"
@@ -23823,15 +19937,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Powder and solvent for solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016485 "Pó e solvente para solução injetável"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Cefuroxima Labesfal, 750 mg Pó e solvente para solução injectável 750 mg/6 ml Pó e solvente para solução injetável"
 * name.part[invented].part = "Cefuroxima Labesfal, 750 mg Pó e solvente para solução injectável"
@@ -23866,15 +19973,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD02 "metformin and sulfonylureas"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD02 "metformin and sulfonylureas"
 * classification[+] = $100000093533#100000094051 "metformin and sulfonylureas"
-
-
 
 * name.productName = "Glucovance 2.5 mg + 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Glucovance"
@@ -23909,15 +20009,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Atirdrane 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Mylan"
@@ -23952,15 +20045,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril Hidroclorotiazida Generis 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril Hidroclorotiazida Generis 20 mg + 12,5 mg Comprimidos"
@@ -23995,15 +20081,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Generis 20 mg Comprimidos 20 mg Comprimido"
 * name.part[invented].part = "Enalapril Generis 20 mg Comprimidos"
@@ -24038,15 +20117,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Betamox Plus 400 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Betamox Plus 400"
@@ -24081,15 +20153,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Generis 5 mg Comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Enalapril Generis 5 mg Comprimidos"
@@ -24124,15 +20189,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Mylan 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Mylan"
@@ -24167,15 +20225,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#A10AE04 "insulin glargine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#A10AE04 "insulin glargine"
 * classification[+] = $100000093533#100000094023 "insulin glargine"
-
-
 
 * name.productName = "Lantus 100 U/ml Solução injetável"
 * name.part[invented].part = "Lantus"
@@ -24210,15 +20261,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Generis 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Generis"
@@ -24253,15 +20297,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Generis 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Generis"
@@ -24296,15 +20333,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Generis 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Generis"
@@ -24339,15 +20369,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina GP 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina GP"
@@ -24382,15 +20405,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina GP 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina GP"
@@ -24425,15 +20441,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina GP 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina GP"
@@ -24468,15 +20477,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Ratiopharm 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Ratiopharm"
@@ -24511,15 +20513,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Ratiopharm 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Ratiopharm"
@@ -24554,15 +20549,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol GP 20 mg Cápsulas 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol GP 20 mg Cápsulas"
@@ -24597,15 +20585,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Lisopan 1000 1000 mg Comprimido efervescente"
 * name.part[invented].part = "Lisopan 1000"
@@ -24640,15 +20621,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tram-u-ron OD 100 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Tram-u-ron OD"
@@ -24683,15 +20657,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tram-u-ron OD 150 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Tram-u-ron OD"
@@ -24726,15 +20693,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Cápsula de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tram-u-ron OD 200 mg Cápsula de libertação prolongada"
 * name.part[invented].part = "Tram-u-ron OD"
@@ -24769,15 +20729,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Azevedos 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Azevedos"
@@ -24812,15 +20765,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril Hidroclorotiazida Bluepharma 20 mg + 12,5 mg Comprimidos"
@@ -24855,15 +20801,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Bluepharma 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Bluepharma"
@@ -24898,15 +20837,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Bluepharma 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Bluepharma"
@@ -24941,15 +20873,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Bluepharma 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Bluepharma"
@@ -24984,15 +20909,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Xilonibsa 2% com Epinefrina 36 mg/1.8 ml + 0.04 mg/1.8 ml Solução injetável"
 * name.part[invented].part = "Xilonibsa 2% com Epinefrina"
@@ -25027,15 +20945,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Jaba 5 mg comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Jaba 5 mg comprimidos"
@@ -25070,15 +20981,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Jaba 10 mg comprimidos 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Jaba 10 mg comprimidos"
@@ -25113,15 +21017,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Generis 5 mg Comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Generis 5 mg Comprimidos"
@@ -25156,15 +21053,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Generis 10 mg Comprimidos 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Generis 10 mg Comprimidos"
@@ -25199,15 +21089,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sivales 20 mg Comprimido revestido"
 * name.part[invented].part = "Sivales"
@@ -25242,15 +21125,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Dafalgan 1 g 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Dafalgan 1 g"
@@ -25285,15 +21161,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Stada 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Stada"
@@ -25328,15 +21197,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Stada 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Stada"
@@ -25371,15 +21233,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Stada 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Stada"
@@ -25414,15 +21269,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Tricalma 200 mg Comprimido revestido"
 * name.part[invented].part = "Tricalma"
@@ -25457,15 +21305,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#D11AX18 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#D11AX18 "diclofenac"
 * classification[+] = $100000093533#100000095663 "diclofenac"
-
-
 
 * name.productName = "Solaraze 30 mg/g Gel"
 * name.part[invented].part = "Solaraze"
@@ -25500,15 +21341,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073691 "Oromucosal solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073691 "Solução bucal"
-
- 
-
-
-* classification[+] = $who-atc#A01AD11 "various"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073691 "Solução bucal"* classification[+] = $who-atc#A01AD11 "various"
 * classification[+] = $100000093533#100000093540 "various"
-
-
 
 * name.productName = "Diclodent 0.074% Solução Bucal 0.74 mg/ml Solução bucal"
 * name.part[invented].part = "Diclodent 0.074% Solução Bucal"
@@ -25543,15 +21377,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina toLife 20 mg comprimidos revestidos 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina toLife 20 mg comprimidos revestidos"
@@ -25586,15 +21413,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Xumadol 1g 1000 mg Granulado efervescente"
 * name.part[invented].part = "Xumadol 1g"
@@ -25629,15 +21449,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J02AC02 "itraconazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J02AC02 "itraconazole"
 * classification[+] = $100000093533#100000096373 "itraconazole"
-
-
 
 * name.productName = "Itraconazol Generis 100 mg Cápsulas 100 mg Cápsula"
 * name.part[invented].part = "Itraconazol Generis 100 mg Cápsulas"
@@ -25672,15 +21485,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J02AC02 "itraconazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J02AC02 "itraconazole"
 * classification[+] = $100000093533#100000096373 "itraconazole"
-
-
 
 * name.productName = "Itraconazol Alter 100 mg Cápsulas 100 mg Cápsula"
 * name.part[invented].part = "Itraconazol Alter 100 mg Cápsulas"
@@ -25715,15 +21521,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Alter 600 mg Comprimidos Revestidos 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Alter 600 mg Comprimidos Revestidos"
@@ -25758,15 +21557,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Basi 20 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Basi"
@@ -25801,15 +21593,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Basi 40 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Basi"
@@ -25844,15 +21629,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina toLife 5 mg Comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina toLife 5 mg Comprimidos"
@@ -25887,15 +21665,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina toLife 10 mg Comprimidos 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina toLife 10 mg Comprimidos"
@@ -25930,15 +21701,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Vitória 10 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Vitória"
@@ -25973,15 +21737,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Generis 600 mg Comprimidos Revestidos 600 mg Comprimido revestido"
 * name.part[invented].part = "Ibuprofeno Generis 600 mg Comprimidos Revestidos"
@@ -26016,15 +21773,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Ciclosporina Teva 25 mg Cápsula mole"
 * name.part[invented].part = "Ciclosporina Teva"
@@ -26059,15 +21809,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Ciclosporina Teva 50 mg Cápsula mole"
 * name.part[invented].part = "Ciclosporina Teva"
@@ -26102,15 +21845,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Ciclosporina Teva 100 mg Cápsula mole"
 * name.part[invented].part = "Ciclosporina Teva"
@@ -26145,15 +21881,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03FA17 "drospirenone and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03FA17 "drospirenone and estrogen"
 * classification[+] = $100000093533#100000095883 "drospirenone and estrogen"
-
-
 
 * name.productName = "Angeliq 2 mg + 1 mg Comprimido revestido"
 * name.part[invented].part = "Angeliq"
@@ -26188,15 +21917,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Mepha 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Mepha"
@@ -26231,15 +21953,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Sandoz 850 mg Comprimidos revestidos 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Sandoz 850 mg Comprimidos revestidos"
@@ -26274,15 +21989,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Azevedos 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Azevedos"
@@ -26317,15 +22025,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Germed 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Germed"
@@ -26360,15 +22061,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Tetrafarma 10 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Tetrafarma"
@@ -26403,15 +22097,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Tecnigen 10 mg Comprimido revestido"
 * name.part[invented].part = "Sinvastatina Tecnigen"
@@ -26446,15 +22133,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Farmoz 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Farmoz"
@@ -26489,15 +22169,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Bluepharma 5 mg comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Enalapril Bluepharma 5 mg comprimidos"
@@ -26532,15 +22205,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Bluepharma 20 mg comprimidos 20 mg Comprimido"
 * name.part[invented].part = "Enalapril Bluepharma 20 mg comprimidos"
@@ -26575,15 +22241,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina Sandoz 250 mg/5 ml Pó para suspensão oral 250 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina Sandoz 250 mg/5 ml Pó para suspensão oral"
@@ -26618,15 +22277,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03HB01 "cyproterone and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03HB01 "cyproterone and estrogen"
 * classification[+] = $100000093533#100000095915 "cyproterone and estrogen"
-
-
 
 * name.productName = "Ciproterona + Etinilestradiol Generis 2 mg + 0.035 mg Comprimido revestido"
 * name.part[invented].part = "Ciproterona + Etinilestradiol Generis"
@@ -26661,15 +22313,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Tetrafarma 20 mg Comprimidos revestidos por película 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Tetrafarma 20 mg Comprimidos revestidos por película"
@@ -26704,15 +22349,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Tetrafarma 40 mg Comprimidos revestidos por película 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Tetrafarma 40 mg Comprimidos revestidos por película"
@@ -26747,15 +22385,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Ciclum 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Ciclum"
@@ -26790,15 +22421,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Vitória 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Vitória"
@@ -26833,15 +22457,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Vitória 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Vitória"
@@ -26876,15 +22493,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Germed 20 mg Cápsulas Gastrorresistentes"
@@ -26919,15 +22529,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Gasec 20 mg Cápsulas duras gastrorresistentes"
@@ -26962,15 +22565,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Wynn 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Wynn"
@@ -27005,15 +22601,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Aurovitas 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Aurovitas"
@@ -27048,15 +22637,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina GP 5 mg Comprimidos 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina GP 5 mg Comprimidos"
@@ -27091,15 +22673,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Bluepharma 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Bluepharma"
@@ -27134,15 +22709,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Bluepharma 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Bluepharma"
@@ -27177,15 +22745,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina GP 10 mg Comprimidos 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina GP 10 mg Comprimidos"
@@ -27220,15 +22781,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Atral 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Atral"
@@ -27263,15 +22817,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida Sandoz 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida Sandoz"
@@ -27306,15 +22853,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Generis 400 mg Comprimidos 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Generis 400 mg Comprimidos"
@@ -27349,15 +22889,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Generis 20 mg/ml Suspensão oral 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Ibuprofeno Generis 20 mg/ml Suspensão oral"
@@ -27392,15 +22925,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Pharmakern 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Pharmakern"
@@ -27435,15 +22961,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Pharmakern 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Pharmakern"
@@ -27478,15 +22997,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Pharmakern 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Pharmakern"
@@ -27521,15 +23033,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Pharmakern 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Pharmakern"
@@ -27564,15 +23069,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Augmentin ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Augmentin ES"
@@ -27607,15 +23105,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Sandoz 1000 mg Comprimidos revestidos 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Sandoz 1000 mg Comprimidos revestidos"
@@ -27650,15 +23141,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Glivec 100 mg Comprimido revestido por película"
 * name.part[invented].part = "Glivec"
@@ -27693,15 +23177,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Generis 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Generis"
@@ -27736,15 +23213,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Clavamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Clavamox ES"
@@ -27779,15 +23249,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Generis 10 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Generis"
@@ -27822,15 +23285,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Generis 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Generis"
@@ -27865,15 +23321,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Cefuroxima Ratiopharm 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Cefuroxima Ratiopharm"
@@ -27908,15 +23357,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Cefuroxima Ratiopharm 250 mg Comprimido revestido por película"
 * name.part[invented].part = "Cefuroxima Ratiopharm"
@@ -27951,15 +23393,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Vitória 5 mg Comprimido"
 * name.part[invented].part = "Enalapril Vitória"
@@ -27994,15 +23429,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Vitória 20 mg Comprimido"
 * name.part[invented].part = "Enalapril Vitória"
@@ -28037,15 +23465,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Orodispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Travex Rapid 50 mg Comprimido orodispersível"
 * name.part[invented].part = "Travex Rapid"
@@ -28080,15 +23501,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Inegy 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Inegy"
@@ -28123,15 +23537,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Inegy 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Inegy"
@@ -28166,15 +23573,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Inegy 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Inegy"
@@ -28209,15 +23609,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Vytorin 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Vytorin"
@@ -28252,15 +23645,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Vytorin 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Vytorin"
@@ -28295,15 +23681,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Vytorin 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Vytorin"
@@ -28338,15 +23717,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida  Vitória 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida  Vitória"
@@ -28381,15 +23753,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Sandoz 10 mg/g Gel 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Sandoz 10 mg/g Gel"
@@ -28424,15 +23789,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J02AC02 "itraconazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J02AC02 "itraconazole"
 * classification[+] = $100000093533#100000096373 "itraconazole"
-
-
 
 * name.productName = "Itraconazol ToLife 100 mg Cápsula"
 * name.part[invented].part = "Itraconazol ToLife"
@@ -28467,15 +23825,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Ciclosporina Generis 100 mg Cápsula mole"
 * name.part[invented].part = "Ciclosporina Generis"
@@ -28510,15 +23861,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Ciclosporina Generis 25 mg Cápsula mole"
 * name.part[invented].part = "Ciclosporina Generis"
@@ -28553,15 +23897,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#L04AD01 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#L04AD01 "ciclosporin"
 * classification[+] = $100000093533#100000096879 "ciclosporin"
-
-
 
 * name.productName = "Ciclosporina Generis 50 mg Cápsula mole"
 * name.part[invented].part = "Ciclosporina Generis"
@@ -28596,15 +23933,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"
-
- 
-
-
-* classification[+] = $who-atc#R03AC02 "salbutamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Suspensão pressurizada para inalação"* classification[+] = $who-atc#R03AC02 "salbutamol"
 * classification[+] = $100000093533#100000098065 "salbutamol"
-
-
 
 * name.productName = "Salbutamol GP 100 µg/dose Suspensão pressurizada para inalação"
 * name.part[invented].part = "Salbutamol GP"
@@ -28639,15 +23969,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J02AC02 "itraconazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J02AC02 "itraconazole"
 * classification[+] = $100000093533#100000096373 "itraconazole"
-
-
 
 * name.productName = "Itraconazol Aurovitas 100 mg Cápsula"
 * name.part[invented].part = "Itraconazol Aurovitas"
@@ -28682,15 +24005,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Germed 10 mg/g Gel 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Germed 10 mg/g Gel"
@@ -28725,15 +24041,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Azevedos 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Azevedos"
@@ -28768,15 +24077,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Azevedos 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Azevedos"
@@ -28811,15 +24113,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Krka 5 mg Comprimido"
 * name.part[invented].part = "Enalapril Krka"
@@ -28854,15 +24149,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA02 "enalapril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA02 "enalapril"
 * classification[+] = $100000093533#100000095104 "enalapril"
-
-
 
 * name.productName = "Enalapril Krka 20 mg Comprimido"
 * name.part[invented].part = "Enalapril Krka"
@@ -28897,15 +24185,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
 * classification[+] = $100000093533#100000125024 "chlormadinone and ethinylestradiol"
-
-
 
 * name.productName = "Libeli 2 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Libeli"
@@ -28940,15 +24221,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Ratiopharm 400mg/5ml + 57mg/5 ml pó p/ susp oral 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Ratiopharm 400mg/5ml + 57mg/5 ml pó p/ susp oral"
@@ -28983,15 +24257,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Sandoz 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Sandoz"
@@ -29026,15 +24293,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J02AC02 "itraconazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J02AC02 "itraconazole"
 * classification[+] = $100000093533#100000096373 "itraconazole"
-
-
 
 * name.productName = "Itraconazol Ratiopharm 100 mg Cápsulas 100 mg Cápsula"
 * name.part[invented].part = "Itraconazol Ratiopharm 100 mg Cápsulas"
@@ -29069,15 +24329,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD05 "metformin and pioglitazone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD05 "metformin and pioglitazone"
 * classification[+] = $100000093533#100000094054 "metformin and pioglitazone"
-
-
 
 * name.productName = "Competact 850 mg + 15 mg Comprimido revestido por película"
 * name.part[invented].part = "Competact"
@@ -29112,15 +24365,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Ratiopharm 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Ratiopharm"
@@ -29155,15 +24401,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Ratiopharm 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Ratiopharm"
@@ -29198,15 +24437,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Effiplen 0.03 mg + 0.075 mg Comprimido revestido"
 * name.part[invented].part = "Effiplen"
@@ -29241,15 +24473,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Estinette 0.02 mg + 0.075 mg Comprimido revestido"
 * name.part[invented].part = "Estinette"
@@ -29284,15 +24509,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Trifene 600 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Trifene 600"
@@ -29327,15 +24545,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ib-u-ron 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Ib-u-ron"
@@ -29370,15 +24581,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Droseffik 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Droseffik"
@@ -29413,15 +24617,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Farmoz 40 mg/ml Xarope"
 * name.part[invented].part = "Paracetamol Farmoz"
@@ -29456,15 +24653,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073880 "Urethral gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073880 "Gel uretral"
-
- 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073880 "Gel uretral"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Instillagel 20 mg/g + 0.5 mg/g Gel uretral"
 * name.part[invented].part = "Instillagel"
@@ -29499,15 +24689,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
 * classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
-
-
 
 * name.productName = "Natecal D 1500 mg + 400 U.I. Comprimido para mastigar"
 * name.part[invented].part = "Natecal D"
@@ -29542,15 +24725,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Fenac-Gel 10 mg/g Gel"
 * name.part[invented].part = "Fenac-Gel"
@@ -29585,15 +24761,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA13 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA13 "ibuprofen"
 * classification[+] = $100000093533#100000097010 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Frenidor 50 mg/g Gel"
 * name.part[invented].part = "Frenidor"
@@ -29628,15 +24797,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Zentiva 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Zentiva"
@@ -29671,15 +24833,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Bluepharma 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Bluepharma"
@@ -29714,15 +24869,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Panadol Extra 500 mg + 65 mg Comprimido revestido por película"
 * name.part[invented].part = "Panadol Extra"
@@ -29757,15 +24905,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
-
-
 
 * name.productName = "Regulon 0.15 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Regulon"
@@ -29800,15 +24941,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Labesfal 100 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol Labesfal"
@@ -29843,15 +24977,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Octocaine 1:100000 20 mg/ml + 0.01 mg/ml Solução injetável"
 * name.part[invented].part = "Octocaine 1:100000"
@@ -29886,15 +25013,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Octocaine 1:50000 20 mg/ml + 0.02 mg/ml Solução injetável"
 * name.part[invented].part = "Octocaine 1:50000"
@@ -29929,15 +25049,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-u-ron 75 mg Supositório"
 * name.part[invented].part = "Ben-u-ron"
@@ -29972,15 +25085,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Farmoz 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Farmoz"
@@ -30015,15 +25121,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Algik 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Ibuprofeno Algik"
@@ -30058,15 +25157,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Gêflama 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Gêflama"
@@ -30101,15 +25193,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA10 "gestodene and ethinylestradiol"
 * classification[+] = $100000093533#100000095783 "gestodene and ethinylestradiol"
-
-
 
 * name.productName = "Lowelle 0.015 mg + 0.06 mg Comprimido revestido por película"
 * name.part[invented].part = "Lowelle"
@@ -30144,15 +25229,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Wellsmed 200 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Wellsmed"
@@ -30187,15 +25265,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DX01 "valsartan, amlodipine and hydrochlorothiazide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DX01 "valsartan, amlodipine and hydrochlorothiazide"
 * classification[+] = $100000093533#100000116213 "valsartan, amlodipine and hydrochlorothiazide"
-
-
 
 * name.productName = "Exforge HCT 5 mg + 160 mg + 12.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Exforge HCT"
@@ -30230,15 +25301,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DX01 "valsartan, amlodipine and hydrochlorothiazide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DX01 "valsartan, amlodipine and hydrochlorothiazide"
 * classification[+] = $100000093533#100000116213 "valsartan, amlodipine and hydrochlorothiazide"
-
-
 
 * name.productName = "Exforge HCT 5 mg + 160 mg + 25 mg Comprimido revestido por película"
 * name.part[invented].part = "Exforge HCT"
@@ -30273,15 +25337,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Apotel 150 mg/ml Solução para perfusão"
 * name.part[invented].part = "Apotel"
@@ -30316,15 +25373,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB52 "lidocaine, combinations"
 * classification[+] = $100000093533#100000097207 "lidocaine, combinations"
-
-
 
 * name.productName = "Lidocaína + Adrenalina Normon 36 mg/1.8ml + 0.0225 mg/1.8ml Solução injetável"
 * name.part[invented].part = "Lidocaína + Adrenalina Normon"
@@ -30359,15 +25409,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Basi 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Basi"
@@ -30402,15 +25445,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Nurofen Xpress 400 mg Cápsula mole"
 * name.part[invented].part = "Nurofen Xpress"
@@ -30445,19 +25481,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
-* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen" 
-
-
-* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen"* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
 * classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
-
-
 
 * name.productName = "Circlet 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal"
 * name.part[invented].part = "Circlet"
@@ -30492,15 +25518,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Kabi 10 mg/ml Solução para perfusão"
 * name.part[invented].part = "Paracetamol Kabi"
@@ -30535,15 +25554,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D06BB03 "aciclovir"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D06BB03 "aciclovir"
 * classification[+] = $100000093533#100000095397 "aciclovir"
-
-
 
 * name.productName = "Zovirax Duo 50 mg/g + 10 mg/g Creme"
 * name.part[invented].part = "Zovirax Duo"
@@ -30578,15 +25590,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Farmoz 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Farmoz"
@@ -30621,15 +25626,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclogel 10 mg/g Gel"
 * name.part[invented].part = "Diclogel"
@@ -30664,15 +25662,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Farmoz 200 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Farmoz"
@@ -30707,15 +25698,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09D "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09D "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
 * classification[+] = $100000093533#100000095149 "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
-
-
 
 * name.productName = "Zolnor HCT 5 mg + 20 mg + 12.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Zolnor HCT"
@@ -30750,15 +25734,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Brufen Sem Açúcar 40 mg/ml Suspensão oral"
 * name.part[invented].part = "Brufen Sem Açúcar"
@@ -30793,15 +25770,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
-
-
 
 * name.productName = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.03 mg Comprimido"
 * name.part[invented].part = "Desogestrel + Etinilestradiol Mylan"
@@ -30836,15 +25806,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#G03AA09 "desogestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095782 "desogestrel and ethinylestradiol"
-
-
 
 * name.productName = "Desogestrel + Etinilestradiol Mylan 0.15 mg + 0.02 mg Comprimido"
 * name.part[invented].part = "Desogestrel + Etinilestradiol Mylan"
@@ -30879,15 +25842,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Griponal 4 mg + 500 mg Comprimido efervescente"
 * name.part[invented].part = "Griponal"
@@ -30922,19 +25878,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A11CC05 "colecalciferol"
-* classification[+] = $100000093533#100000094100 "colecalciferol" 
-
-
-* classification[+] = $who-atc#A12AA04 "calcium carbonate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A11CC05 "colecalciferol"
+* classification[+] = $100000093533#100000094100 "colecalciferol"* classification[+] = $who-atc#A12AA04 "calcium carbonate"
 * classification[+] = $100000093533#100000094144 "calcium carbonate"
-
-
 
 * name.productName = "Calcimed D3 1000 mg + 880 U.I. Comprimido para mastigar"
 * name.part[invented].part = "Calcimed D3"
@@ -30969,15 +25915,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Tolife 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Tolife"
@@ -31012,15 +25951,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD10 "metformin and saxagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD10 "metformin and saxagliptin"
 * classification[+] = $100000093533#100000135755 "metformin and saxagliptin"
-
-
 
 * name.productName = "Komboglyze 850 mg + 2.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Komboglyze"
@@ -31055,15 +25987,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD10 "metformin and saxagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD10 "metformin and saxagliptin"
 * classification[+] = $100000093533#100000135755 "metformin and saxagliptin"
-
-
 
 * name.productName = "Komboglyze 1000 mg + 2.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Komboglyze"
@@ -31098,15 +26023,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
 * classification[+] = $100000093533#100000095218 "atorvastatin and amlodipine"
-
-
 
 * name.productName = "Trinalion 5 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Trinalion"
@@ -31141,15 +26059,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095780 "levonorgestrel and ethinylestradiol"
-
-
 
 * name.productName = "Effilevo 0.02 mg + 0.1 mg Comprimido revestido por película"
 * name.part[invented].part = "Effilevo"
@@ -31184,15 +26095,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
 * classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
-
-
 
 * name.productName = "Lisonorm 20 mg + 5 mg Comprimido"
 * name.part[invented].part = "Lisonorm"
@@ -31227,15 +26131,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
 * classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
-
-
 
 * name.productName = "Saval 20 mg + 5 mg Comprimido"
 * name.part[invented].part = "Saval"
@@ -31270,15 +26167,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ06 "codeine and paracetamol"
 * classification[+] = $100000093533#100000170296 "codeine and paracetamol"
-
-
 
 * name.productName = "Dol-u-ron Forte 1000 mg + 60 mg Comprimido"
 * name.part[invented].part = "Dol-u-ron Forte"
@@ -31313,15 +26203,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Mepha 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Mepha"
@@ -31356,15 +26239,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Mepha 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Mepha"
@@ -31399,15 +26275,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol B. Braun 10 mg/ml Solução para perfusão"
 * name.part[invented].part = "Paracetamol B. Braun"
@@ -31442,15 +26311,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Powder for solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Normon 1000 mg + 200 mg Pó para solução injetável"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Normon"
@@ -31485,15 +26347,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Powder for solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Pó para solução injetável"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Normon 2000 mg + 200 mg Pó para solução injetável"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Normon"
@@ -31528,15 +26383,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Mylan 100 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol Mylan"
@@ -31571,15 +26419,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Mylan 200 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol Mylan"
@@ -31614,15 +26455,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Mylan 150 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol Mylan"
@@ -31657,15 +26491,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Zilpen 75 mg + 650 mg Comprimido"
 * name.part[invented].part = "Zilpen"
@@ -31700,15 +26527,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol toLife 37.5 mg + 325 mg Comprimido"
 * name.part[invented].part = "Tramadol + Paracetamol toLife"
@@ -31743,15 +26563,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol toLife 75 mg + 650 mg Comprimido"
 * name.part[invented].part = "Tramadol + Paracetamol toLife"
@@ -31786,15 +26599,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Generis 75 mg + 650 mg Comprimido"
 * name.part[invented].part = "Tramadol + Paracetamol Generis"
@@ -31829,15 +26635,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
 * classification[+] = $100000093533#100000095881 "dienogest and estrogen"
-
-
 
 * name.productName = "Sibilla 2 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Sibilla"
@@ -31872,15 +26671,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Nideran 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Nideran"
@@ -31915,15 +26707,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
 * classification[+] = $100000093533#100000095218 "atorvastatin and amlodipine"
-
-
 
 * name.productName = "Trinalion 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Trinalion"
@@ -31958,15 +26743,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX03 "atorvastatin and amlodipine"
 * classification[+] = $100000093533#100000095218 "atorvastatin and amlodipine"
-
-
 
 * name.productName = "Trinalion 10 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Trinalion"
@@ -32001,15 +26779,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Antigrippine trieffect 500 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Antigrippine trieffect"
@@ -32044,15 +26815,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Basi 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Basi"
@@ -32087,15 +26851,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Basi 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Basi"
@@ -32130,15 +26887,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Basi 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Basi"
@@ -32173,15 +26923,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solução para perfusão"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Parafusiv 10 mg/ml Solução para perfusão"
 * name.part[invented].part = "Parafusiv"
@@ -32216,15 +26959,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ib-u-ron 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ib-u-ron"
@@ -32259,15 +26995,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ib-u-ron 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ib-u-ron"
@@ -32302,15 +27031,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ib-u-ron 40 mg/ml Suspensão oral"
 * name.part[invented].part = "Ib-u-ron"
@@ -32345,15 +27067,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Zentiva 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Zentiva"
@@ -32388,15 +27103,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Zentiva 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Zentiva"
@@ -32431,15 +27139,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Effervescent granules"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073657 "Granulado efervescente"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Brufen 400 mg Granulado efervescente"
 * name.part[invented].part = "Brufen"
@@ -32474,15 +27175,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Zentiva 10 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Zentiva"
@@ -32517,15 +27211,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Zentiva 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Zentiva"
@@ -32560,15 +27247,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Zentiva 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Zentiva"
@@ -32603,15 +27283,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Alter 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Alter"
@@ -32646,15 +27319,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Bluepharma 37.5 mg + 325 mg Comprimido"
 * name.part[invented].part = "Tramadol + Paracetamol Bluepharma"
@@ -32689,15 +27355,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Bluepharma 75 mg + 650 mg Comprimido"
 * name.part[invented].part = "Tramadol + Paracetamol Bluepharma"
@@ -32732,15 +27391,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Alter 875 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Alter"
@@ -32775,15 +27427,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA02 "enalapril and diuretics"
 * classification[+] = $100000093533#100000095122 "enalapril and diuretics"
-
-
 
 * name.productName = "Enalapril + Hidroclorotiazida Mylan 20 mg + 12.5 mg Comprimido"
 * name.part[invented].part = "Enalapril + Hidroclorotiazida Mylan"
@@ -32818,15 +27463,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Mepha 2.5 mg + 0.625 mg Comprimido revestido por película"
 * name.part[invented].part = "Perindopril + Indapamida Mepha"
@@ -32861,15 +27499,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Teva 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Perindopril Teva"
@@ -32904,15 +27535,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Teva 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Perindopril Teva"
@@ -32947,15 +27571,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Voltaren Plast 140 mg Emplastro medicamentoso"
 * name.part[invented].part = "Voltaren Plast"
@@ -32990,15 +27607,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidocaína Baxter 10 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína Baxter"
@@ -33033,15 +27643,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidocaína Baxter 20 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína Baxter"
@@ -33076,15 +27679,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Supofen 1000 mg Comprimido"
 * name.part[invented].part = "Supofen"
@@ -33119,15 +27715,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Diazepam Pharmakern 5 mg Comprimido"
 * name.part[invented].part = "Diazepam Pharmakern"
@@ -33162,15 +27751,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N05BA01 "diazepam"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N05BA01 "diazepam"
 * classification[+] = $100000093533#100000097530 "diazepam"
-
-
 
 * name.productName = "Diazepam Pharmakern 10 mg Comprimido"
 * name.part[invented].part = "Diazepam Pharmakern"
@@ -33205,15 +27787,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Orodispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
-
- 
-
-
-* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"* classification[+] = $who-atc#A12AX "Calcium, combinations with vitamin D and/or other drugs"
 * classification[+] = $100000093533#100000094155 "Calcium, combinations with vitamin D and/or other drugs"
-
-
 
 * name.productName = "Demilos 1500 mg + 1000 U.I. Comprimido orodispersível"
 * name.part[invented].part = "Demilos"
@@ -33248,15 +27823,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Drospirenona + Etinilestradiol Mylan 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Drospirenona + Etinilestradiol Mylan"
@@ -33291,15 +27859,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Drospirenona + Etinilestradiol Mylan 3 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Drospirenona + Etinilestradiol Mylan"
@@ -33334,15 +27895,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Drosdiol 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Drosdiol"
@@ -33377,15 +27931,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Bluepharma 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Bluepharma"
@@ -33420,15 +27967,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA15 "chlormadinone and ethinylestradiol"
 * classification[+] = $100000093533#100000125024 "chlormadinone and ethinylestradiol"
-
-
 
 * name.productName = "Chariva 2 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Chariva"
@@ -33463,15 +28003,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Farmoz 10 mg/g Creme"
 * name.part[invented].part = "Clotrimazol Farmoz"
@@ -33506,15 +28039,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Farmoz 10 mg/g Creme vaginal"
 * name.part[invented].part = "Clotrimazol Farmoz"
@@ -33549,15 +28075,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D07AA02 "hydrocortisone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D07AA02 "hydrocortisone"
 * classification[+] = $100000093533#100000095413 "hydrocortisone"
-
-
 
 * name.productName = "Hidrocortisona Bluepharma 10 mg/g Creme"
 * name.part[invented].part = "Hidrocortisona Bluepharma"
@@ -33592,15 +28111,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Triplixam 5 mg + 1.25 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Triplixam"
@@ -33635,15 +28147,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Triplixam 5 mg + 1.25 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Triplixam"
@@ -33678,15 +28183,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Triplixam 10 mg + 2.5 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Triplixam"
@@ -33721,15 +28219,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Triplixam 10 mg + 2.5 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Triplixam"
@@ -33764,15 +28255,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD11 "metformin and linagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD11 "metformin and linagliptin"
 * classification[+] = $100000093533#100000135754 "metformin and linagliptin"
-
-
 
 * name.productName = "Jentadueto 850 mg + 2.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Jentadueto"
@@ -33807,15 +28291,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD11 "metformin and linagliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD11 "metformin and linagliptin"
 * classification[+] = $100000093533#100000135754 "metformin and linagliptin"
-
-
 
 * name.productName = "Jentadueto 1000 mg + 2.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Jentadueto"
@@ -33850,15 +28327,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Modified-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
-
- 
-
-
-* classification[+] = $who-atc#C08GA "Calcium channel blockers and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"* classification[+] = $who-atc#C08GA "Calcium channel blockers and diuretics"
 * classification[+] = $100000093533#100000095098 "Calcium channel blockers and diuretics"
-
-
 
 * name.productName = "Flutensif 1.5 mg + 10 mg Comprimido de libertação modificada"
 * name.part[invented].part = "Flutensif"
@@ -33893,15 +28363,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Modified-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"
-
- 
-
-
-* classification[+] = $who-atc#C08GA "Calcium channel blockers and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073668 "Comprimido de libertação modificada"* classification[+] = $who-atc#C08GA "Calcium channel blockers and diuretics"
 * classification[+] = $100000093533#100000095098 "Calcium channel blockers and diuretics"
-
-
 
 * name.productName = "Flutensif 1.5 mg + 5 mg Comprimido de libertação modificada"
 * name.part[invented].part = "Flutensif"
@@ -33936,15 +28399,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Hikma 75 mg/3 ml Solução injetável"
 * name.part[invented].part = "Diclofenac Hikma"
@@ -33979,15 +28435,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Krka 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Krka"
@@ -34022,15 +28471,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Krka 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Krka"
@@ -34065,15 +28507,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
 * classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
-
-
 
 * name.productName = "Lisonorm 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Lisonorm"
@@ -34108,15 +28543,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
 * classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
-
-
 
 * name.productName = "Saval 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Saval"
@@ -34151,15 +28579,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
 * classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
-
-
 
 * name.productName = "Carzap Am 5 mg + 8 mg Comprimido"
 * name.part[invented].part = "Carzap Am"
@@ -34194,15 +28615,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
 * classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
-
-
 
 * name.productName = "Carzap Am 10 mg + 16 mg Comprimido"
 * name.part[invented].part = "Carzap Am"
@@ -34237,15 +28651,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Generis 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Generis"
@@ -34280,15 +28687,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Generis 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Generis"
@@ -34323,15 +28723,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Kabi 1000 mg + 200 mg Pó para solução injetável ou para perfusão"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Kabi"
@@ -34366,15 +28759,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Aurovitas 875 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Aurovitas"
@@ -34409,15 +28795,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida TAD 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida TAD"
@@ -34452,15 +28831,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BA04 "simvastatin and fenofibrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BA04 "simvastatin and fenofibrate"
 * classification[+] = $100000093533#100000144766 "simvastatin and fenofibrate"
-
-
 
 * name.productName = "Cholib 20 mg + 145 mg Comprimido revestido por película"
 * name.part[invented].part = "Cholib"
@@ -34495,15 +28867,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Aurovitas 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Aurovitas"
@@ -34538,15 +28903,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Aurovitas 40 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Aurovitas"
@@ -34581,15 +28939,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Aurovitas 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Aurovitas"
@@ -34624,15 +28975,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Trifene 400 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Trifene 400"
@@ -34667,15 +29011,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Generis 40 mg/ml Xarope"
 * name.part[invented].part = "Paracetamol Generis"
@@ -34710,15 +29047,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Farmoz 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Farmoz"
@@ -34753,15 +29083,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Tecazo 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Tecazo"
@@ -34796,15 +29119,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Zanipress 20 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Zanipress"
@@ -34839,15 +29155,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Zanitek 20 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Zanitek"
@@ -34882,15 +29191,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Tolife 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Tolife"
@@ -34925,15 +29227,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Tolife 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Tolife"
@@ -34968,15 +29263,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida toLife 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida toLife"
@@ -35011,15 +29299,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Ben-u-ron Caff 500 mg + 65 mg Comprimido"
 * name.part[invented].part = "Ben-u-ron Caff"
@@ -35054,15 +29335,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Vitória 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Vitória"
@@ -35097,15 +29371,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Drosure 3 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Drosure"
@@ -35140,15 +29407,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA12 "drospirenone and ethinylestradiol"
 * classification[+] = $100000093533#100000095785 "drospirenone and ethinylestradiol"
-
-
 
 * name.productName = "Drosurall 3 mg + 0.02 mg Comprimido revestido por película"
 * name.part[invented].part = "Drosurall"
@@ -35183,15 +29443,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Bluepharma 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Bluepharma"
@@ -35226,15 +29479,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Bluepharma 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Bluepharma"
@@ -35269,15 +29515,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Nurofen Musc 400 mg Comprimido revestido"
 * name.part[invented].part = "Nurofen Musc"
@@ -35312,15 +29551,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Ciclum 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Ciclum"
@@ -35355,15 +29587,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Orodispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073666 "Comprimido orodispersível"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Coversyl 10 mg Comprimido orodispersível"
 * name.part[invented].part = "Coversyl"
@@ -35398,15 +29623,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Mylan 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Mylan"
@@ -35441,15 +29659,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Mylan 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Mylan"
@@ -35484,15 +29695,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Mylan 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Mylan"
@@ -35527,15 +29731,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Pharmakern 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Pharmakern"
@@ -35570,15 +29767,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Pharmakern 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Pharmakern"
@@ -35613,15 +29803,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Generis 10 mg/g Creme"
 * name.part[invented].part = "Clotrimazol Generis"
@@ -35656,15 +29839,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Generis 10 mg/g Creme vaginal"
 * name.part[invented].part = "Clotrimazol Generis"
@@ -35699,15 +29875,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Bluepharma 10 mg/g Creme"
 * name.part[invented].part = "Clotrimazol Bluepharma"
@@ -35742,15 +29911,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Clotrimazol Bluepharma 10 mg/g Creme vaginal"
 * name.part[invented].part = "Clotrimazol Bluepharma"
@@ -35785,15 +29947,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Bluepharma 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Bluepharma"
@@ -35828,15 +29983,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Mylan 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Mylan"
@@ -35871,15 +30019,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Mylan 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Mylan"
@@ -35914,15 +30055,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Dimidon 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Dimidon"
@@ -35957,15 +30091,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol GP 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol GP"
@@ -36000,15 +30127,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Farmoz 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Farmoz"
@@ -36043,19 +30163,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA16 "dienogest and ethinylestradiol"
-* classification[+] = $100000093533#100000157864 "dienogest and ethinylestradiol" 
-
-
-* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA16 "dienogest and ethinylestradiol"
+* classification[+] = $100000093533#100000157864 "dienogest and ethinylestradiol"* classification[+] = $who-atc#G03FA15 "dienogest and estrogen"
 * classification[+] = $100000093533#100000095881 "dienogest and estrogen"
-
-
 
 * name.productName = "Amelye 2 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Amelye"
@@ -36090,15 +30200,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Mylan 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Mylan"
@@ -36133,15 +30236,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Eye drops, solution in single-dose container"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
-
- 
-
-
-* classification[+] = $who-atc#S01ED51 "timolol, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"* classification[+] = $who-atc#S01ED51 "timolol, combinations"
 * classification[+] = $100000093533#100000098522 "timolol, combinations"
-
-
 
 * name.productName = "Taptiqom 0.015 mg/ml + 5 mg/ml Colírio, solução em recipiente unidose"
 * name.part[invented].part = "Taptiqom"
@@ -36176,15 +30272,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Accord 100 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Accord"
@@ -36219,15 +30308,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Accord 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Accord"
@@ -36262,15 +30344,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD13 "metformin and alogliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD13 "metformin and alogliptin"
 * classification[+] = $100000093533#100000144757 "metformin and alogliptin"
-
-
 
 * name.productName = "Vipdomet 850 mg + 12.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Vipdomet"
@@ -36305,15 +30380,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BA04 "simvastatin and fenofibrate"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BA04 "simvastatin and fenofibrate"
 * classification[+] = $100000093533#100000144766 "simvastatin and fenofibrate"
-
-
 
 * name.productName = "Cholib 40 mg + 145 mg Comprimido revestido por película"
 * name.part[invented].part = "Cholib"
@@ -36348,15 +30416,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD13 "metformin and alogliptin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD13 "metformin and alogliptin"
 * classification[+] = $100000093533#100000144757 "metformin and alogliptin"
-
-
 
 * name.productName = "Vipdomet 1000 mg + 12.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Vipdomet"
@@ -36391,15 +30452,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Farmoz 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Farmoz"
@@ -36434,15 +30488,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Cutaneous spray, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"
-
- 
-
-
-* classification[+] = $who-atc#N01BB20 "combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Solução para pulverização cutânea"* classification[+] = $who-atc#N01BB20 "combinations"
 * classification[+] = $100000093533#100000097205 "combinations"
-
-
 
 * name.productName = "Fortacin 150 mg/ml + 50 mg/ml Solução para pulverização cutânea"
 * name.part[invented].part = "Fortacin"
@@ -36477,15 +30524,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Teva 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Teva"
@@ -36520,15 +30560,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Teva 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Teva"
@@ -36563,15 +30596,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Ratiopharm 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Ratiopharm"
@@ -36606,15 +30632,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Ratiopharm 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Ratiopharm"
@@ -36649,15 +30668,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Xigduo 850 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Xigduo"
@@ -36692,15 +30704,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Alter 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Alter"
@@ -36735,15 +30740,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Alter 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Alter"
@@ -36778,15 +30776,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Alter 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Alter"
@@ -36821,15 +30812,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido efervescente"
 * name.part[invented].part = "Tramadol + Paracetamol Aristo"
@@ -36864,15 +30848,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Effervescent tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073681 "Comprimido efervescente"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido efervescente"
 * name.part[invented].part = "Tramadol + Paracetamol Aristo"
@@ -36907,15 +30884,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073372 "Granules"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073372 "Granulado"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073372 "Granulado"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Ben-u-ron direct 500 mg Granulado"
 * name.part[invented].part = "Ben-u-ron direct"
@@ -36950,15 +30920,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Xigduo 1000 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Xigduo"
@@ -36993,15 +30956,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073700 "Compressed lozenge"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073700 "Comprimido para chupar"
-
- 
-
-
-* classification[+] = $who-atc#R02A "THROAT PREPARATIONS"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073700 "Comprimido para chupar"* classification[+] = $who-atc#R02A "THROAT PREPARATIONS"
 * classification[+] = $100000093533#100000098027 "THROAT PREPARATIONS"
-
-
 
 * name.productName = "Lidofon 1 mg + 5 mg Comprimido para chupar"
 * name.part[invented].part = "Lidofon"
@@ -37036,15 +30992,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Generis 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Generis"
@@ -37079,15 +31028,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Vokanamet 1000 mg + 50 mg Comprimido revestido por película"
 * name.part[invented].part = "Vokanamet"
@@ -37122,15 +31064,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Zentiva 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Zentiva"
@@ -37165,15 +31100,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Zentiva 4 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Zentiva"
@@ -37208,15 +31136,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Zentiva 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Zentiva"
@@ -37251,15 +31172,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Zentiva 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Zentiva"
@@ -37294,15 +31208,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#S01FA56 "tropicamide, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#S01FA56 "tropicamide, combinations"
 * classification[+] = $100000093533#100000098543 "tropicamide, combinations"
-
-
 
 * name.productName = "Mydrane Associação Solução injetável"
 * name.part[invented].part = "Mydrane"
@@ -37337,15 +31244,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Nioben 10 mg + 40 mg Comprimido"
 * name.part[invented].part = "Nioben"
@@ -37380,15 +31280,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Nioben 5 mg + 80 mg Comprimido"
 * name.part[invented].part = "Nioben"
@@ -37423,15 +31316,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A02BX "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A02BX "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
 * classification[+] = $100000093533#100000093643 "Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)"
-
-
 
 * name.productName = "Gaviscon Morango 250 mg + 133.5 mg + 80 mg Comprimido para mastigar"
 * name.part[invented].part = "Gaviscon Morango"
@@ -37466,15 +31352,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Mylan 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Mylan"
@@ -37509,15 +31388,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Mylan 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Mylan"
@@ -37552,15 +31424,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Mylan 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Mylan"
@@ -37595,15 +31460,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Vitória 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Vitória"
@@ -37638,15 +31496,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Co-Amlessa 2 mg + 0.625 mg + 5 mg Comprimido"
 * name.part[invented].part = "Co-Amlessa"
@@ -37681,15 +31532,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Co-Amlessa 4 mg + 1.25 mg + 5 mg Comprimido"
 * name.part[invented].part = "Co-Amlessa"
@@ -37724,15 +31568,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Co-Amlessa 4 mg + 1.25 mg + 10 mg Comprimido"
 * name.part[invented].part = "Co-Amlessa"
@@ -37767,15 +31604,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Co-Amlessa 8 mg + 2.5 mg + 5 mg Comprimido"
 * name.part[invented].part = "Co-Amlessa"
@@ -37810,15 +31640,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BX01 "perindopril, amlodipine and indapamide"
 * classification[+] = $100000093533#100000157857 "perindopril, amlodipine and indapamide"
-
-
 
 * name.productName = "Co-Amlessa 8 mg + 2.5 mg + 10 mg Comprimido"
 * name.part[invented].part = "Co-Amlessa"
@@ -37853,15 +31676,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Vitória 2 mg + 0.625 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Vitória"
@@ -37896,15 +31712,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Vitória 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Vitória"
@@ -37939,15 +31748,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Vitória 8 mg + 2.5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Vitória"
@@ -37982,15 +31784,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Panadol Gripus 500 mg + 6.1 mg + 100 mg Cápsula"
 * name.part[invented].part = "Panadol Gripus"
@@ -38025,15 +31820,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Aristo 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Aristo"
@@ -38068,15 +31856,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Aristo 75 mg + 650 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Aristo"
@@ -38111,15 +31892,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Dimidon 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Dimidon"
@@ -38154,15 +31928,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Dimidon 40 mg/ml Suspensão oral"
 * name.part[invented].part = "Dimidon"
@@ -38197,15 +31964,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Wergyl 10 mg/g Gel"
 * name.part[invented].part = "Wergyl"
@@ -38240,15 +32000,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Enoxaparina Rovi 100 mg/1 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Enoxaparina Rovi"
@@ -38283,15 +32036,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#A10AE04 "insulin glargine"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"* classification[+] = $who-atc#A10AE04 "insulin glargine"
 * classification[+] = $100000093533#100000094023 "insulin glargine"
-
-
 
 * name.productName = "Abasaglar 100 U/ml Solução injetável em caneta pré-cheia"
 * name.part[invented].part = "Abasaglar"
@@ -38326,15 +32072,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Wellsmed 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Wellsmed"
@@ -38369,15 +32108,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Wellsmed 10 mg/g Gel"
 * name.part[invented].part = "Diclofenac Wellsmed"
@@ -38412,15 +32144,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
 * classification[+] = $100000093533#100000167213 "atorvastatin, amlodipine and perindopril"
-
-
 
 * name.productName = "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Triveram"
@@ -38455,15 +32180,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
 * classification[+] = $100000093533#100000167213 "atorvastatin, amlodipine and perindopril"
-
-
 
 * name.productName = "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Triveram"
@@ -38498,15 +32216,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
 * classification[+] = $100000093533#100000167213 "atorvastatin, amlodipine and perindopril"
-
-
 
 * name.productName = "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Triveram"
@@ -38541,15 +32252,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX11 "atorvastatin, amlodipine and perindopril"
 * classification[+] = $100000093533#100000167213 "atorvastatin, amlodipine and perindopril"
-
-
 
 * name.productName = "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Triveram"
@@ -38584,15 +32288,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Alter 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Alter"
@@ -38627,15 +32324,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Flucavex 500 mg + 25 mg + 200 mg Granulado para solução oral em saqueta"
 * name.part[invented].part = "Flucavex"
@@ -38670,15 +32360,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Eye drops, solution in single-dose container"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"
-
- 
-
-
-* classification[+] = $who-atc#S01BA02 "hydrocortisone"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016495 "Colírio, solução em recipiente unidose"* classification[+] = $who-atc#S01BA02 "hydrocortisone"
 * classification[+] = $100000093533#100000098437 "hydrocortisone"
-
-
 
 * name.productName = "Softacort 3.35 mg/ml Colírio, solução em recipiente unidose"
 * name.part[invented].part = "Softacort"
@@ -38713,15 +32396,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Normon 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Normon"
@@ -38756,15 +32432,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
 * classification[+] = $100000093533#100000167210 "perindopril and bisoprolol"
-
-
 
 * name.productName = "Cosyrel 5 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Cosyrel"
@@ -38799,15 +32468,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
 * classification[+] = $100000093533#100000167210 "perindopril and bisoprolol"
-
-
 
 * name.productName = "Cosyrel 5 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Cosyrel"
@@ -38842,15 +32504,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BX02 "perindopril and bisoprolol"
 * classification[+] = $100000093533#100000167210 "perindopril and bisoprolol"
-
-
 
 * name.productName = "Cosyrel 10 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Cosyrel"
@@ -38885,15 +32540,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol + Paracetamol Krka"
@@ -38928,15 +32576,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido clavulânico Pentafarma 875 mg + 125 mg Comprimido revestido"
 * name.part[invented].part = "Amoxicilina + Ácido clavulânico Pentafarma"
@@ -38971,19 +32612,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE17 "dexketoprofen"
-* classification[+] = $100000093533#100000096944 "dexketoprofen" 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE17 "dexketoprofen"
+* classification[+] = $100000093533#100000096944 "dexketoprofen"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Skudexa 75 mg + 25 mg Comprimido revestido por película"
 * name.part[invented].part = "Skudexa"
@@ -39018,15 +32649,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Ciclum 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Ciclum"
@@ -39061,15 +32685,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Ciclum 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Ciclum"
@@ -39104,15 +32721,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan TAD 5 mg + 80 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan TAD"
@@ -39147,15 +32757,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan TAD 5 mg + 160 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan TAD"
@@ -39190,15 +32793,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Aurovitas 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Aurovitas"
@@ -39233,15 +32829,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Aurovitas 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Aurovitas"
@@ -39276,15 +32865,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan Aurovitas 5 mg + 80 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan Aurovitas"
@@ -39319,15 +32901,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan Aurovitas 5 mg + 160 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan Aurovitas"
@@ -39362,15 +32937,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan Zentiva 5 mg + 80 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan Zentiva"
@@ -39405,15 +32973,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan Zentiva 5 mg + 160 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan Zentiva"
@@ -39448,15 +33009,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Alter 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Alter"
@@ -39491,15 +33045,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Alter 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Alter"
@@ -39534,15 +33081,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan Ciclum 5 mg + 80 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan Ciclum"
@@ -39577,15 +33117,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan Ciclum 5 mg + 160 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan Ciclum"
@@ -39620,15 +33153,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Aurovitas 37.5 mg + 325 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Aurovitas"
@@ -39663,15 +33189,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073773 "Eye drops, emulsion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073773 "Colírio, emulsão"
-
- 
-
-
-* classification[+] = $who-atc#S01XA18 "ciclosporin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073773 "Colírio, emulsão"* classification[+] = $who-atc#S01XA18 "ciclosporin"
 * classification[+] = $100000093533#100000098619 "ciclosporin"
-
-
 
 * name.productName = "Ikervis 1 mg/ml Colírio, emulsão"
 * name.part[invented].part = "Ikervis"
@@ -39706,15 +33225,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Ciclum 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Ciclum"
@@ -39749,15 +33261,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Ciclum 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Ciclum"
@@ -39792,15 +33297,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Ciclum 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Ciclum"
@@ -39835,15 +33333,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan ratiopharm 5 mg + 80 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan ratiopharm"
@@ -39878,15 +33369,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan ratiopharm 5 mg + 160 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan ratiopharm"
@@ -39921,15 +33405,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Algik 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Algik"
@@ -39964,15 +33441,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Holsigrip 500 mg + 30 mg Comprimido"
 * name.part[invented].part = "Holsigrip"
@@ -40007,15 +33477,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Zaflex 10 mg/g Gel"
 * name.part[invented].part = "Zaflex"
@@ -40050,15 +33513,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#R05X "OTHER COLD PREPARATIONS"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#R05X "OTHER COLD PREPARATIONS"
 * classification[+] = $100000093533#100000098251 "OTHER COLD PREPARATIONS"
-
-
 
 * name.productName = "Bisolgripal 200 mg + 30 mg Comprimido revestido por película"
 * name.part[invented].part = "Bisolgripal"
@@ -40093,15 +33549,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#A10AE04 "insulin glargine"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"* classification[+] = $who-atc#A10AE04 "insulin glargine"
 * classification[+] = $100000093533#100000094023 "insulin glargine"
-
-
 
 * name.productName = "Toujeo 300 U/ml Solução injetável em caneta pré-cheia"
 * name.part[invented].part = "Toujeo"
@@ -40136,15 +33585,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Synjardy 5 mg + 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Synjardy"
@@ -40179,15 +33621,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Synjardy 5 mg + 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Synjardy"
@@ -40222,15 +33657,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Synjardy 12.5 mg + 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Synjardy"
@@ -40265,15 +33693,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Synjardy 12.5 mg + 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Synjardy"
@@ -40308,15 +33729,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Vitória 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Vitória"
@@ -40351,15 +33765,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Vitória 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Vitória"
@@ -40394,15 +33801,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#H05AA02 "teriparatide"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"* classification[+] = $who-atc#H05AA02 "teriparatide"
 * classification[+] = $100000093533#100000096089 "teriparatide"
-
-
 
 * name.productName = "Teriparatida ratiopharm 0.25 mg/ml Solução injetável em caneta pré-cheia"
 * name.part[invented].part = "Teriparatida ratiopharm"
@@ -40437,15 +33837,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Farmoz 100 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Farmoz"
@@ -40480,15 +33873,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Farmoz 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Farmoz"
@@ -40523,15 +33909,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Mylan 100 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Mylan"
@@ -40566,15 +33945,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Mylan 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Mylan"
@@ -40609,15 +33981,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Dolostop Duo 150 mg + 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Dolostop Duo"
@@ -40652,15 +34017,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA07 "levonorgestrel and ethinylestradiol"
 * classification[+] = $100000093533#100000095780 "levonorgestrel and ethinylestradiol"
-
-
 
 * name.productName = "Seasonique (0.03 mg+0.15 mg) + (0.01 mg) Comprimido revestido por película"
 * name.part[invented].part = "Seasonique"
@@ -40695,15 +34053,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Aurovitas 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Aurovitas"
@@ -40738,15 +34089,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Aurovitas 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Aurovitas"
@@ -40781,15 +34125,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Zilpen LP 75 mg + 650 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Zilpen LP"
@@ -40824,15 +34161,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Holactiv 10 mg/g Gel"
 * name.part[invented].part = "Holactiv"
@@ -40867,15 +34197,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol Krka 75 mg + 650 mg Comprimido revestido por película"
 * name.part[invented].part = "Tramadol + Paracetamol Krka"
@@ -40910,15 +34233,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Algik 32 mg/ml Solução oral"
 * name.part[invented].part = "Paracetamol Algik"
@@ -40953,15 +34269,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Aurovitas 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Aurovitas"
@@ -40996,15 +34305,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Aurovitas 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Aurovitas"
@@ -41039,15 +34341,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Sandoz 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Sandoz"
@@ -41082,15 +34377,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Sandoz 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Sandoz"
@@ -41125,15 +34413,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Sandoz 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Sandoz"
@@ -41168,15 +34449,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diflac 10 mg/g Gel"
 * name.part[invented].part = "Diflac"
@@ -41211,15 +34485,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD15 "metformin and dapagliflozin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD15 "metformin and dapagliflozin"
 * classification[+] = $100000093533#100000157824 "metformin and dapagliflozin"
-
-
 
 * name.productName = "Ebymect 850 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Ebymect"
@@ -41254,15 +34521,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD15 "metformin and dapagliflozin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD15 "metformin and dapagliflozin"
 * classification[+] = $100000093533#100000157824 "metformin and dapagliflozin"
-
-
 
 * name.productName = "Ebymect 1000 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Ebymect"
@@ -41297,15 +34557,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidocaína Aurovitas 10 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína Aurovitas"
@@ -41340,15 +34593,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Krka d.d. 100 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Krka d.d."
@@ -41383,15 +34629,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#L01EA01 "imatinib"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#L01EA01 "imatinib"
 * classification[+] = $100000093533#200000016054 "imatinib"
-
-
 
 * name.productName = "Imatinib Krka d.d. 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Imatinib Krka d.d."
@@ -41426,15 +34665,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073816 "Vaginal capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073816 "Cápsula mole vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073816 "Cápsula mole vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Gino-Canesten 1 500 mg Cápsula mole vaginal"
 * name.part[invented].part = "Gino-Canesten 1"
@@ -41469,15 +34701,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidocaína Medinfar 20 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína Medinfar"
@@ -41512,15 +34737,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Ciclum 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Ciclum"
@@ -41555,15 +34773,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Ciclum 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Ciclum"
@@ -41598,15 +34809,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Ciclum 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Ciclum"
@@ -41641,15 +34845,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Farmoz 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Farmoz"
@@ -41684,15 +34881,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Farmoz 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Farmoz"
@@ -41727,15 +34917,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Pentafarma 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Pentafarma"
@@ -41770,15 +34953,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Pentafarma 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Pentafarma"
@@ -41813,15 +34989,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Comprimido revestido"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Nurofen Migrxpress 400 mg Comprimido revestido"
 * name.part[invented].part = "Nurofen Migrxpress"
@@ -41856,15 +35025,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Generis 4 mg + 1.25 mg Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Generis"
@@ -41899,15 +35061,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Krka 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Krka"
@@ -41942,15 +35097,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Krka 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Krka"
@@ -41985,15 +35133,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Krka 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Krka"
@@ -42028,15 +35169,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Aurovitas 50 mg Cápsula"
 * name.part[invented].part = "Tramadol Aurovitas"
@@ -42071,15 +35205,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Telmisartan Krka 5 mg + 40 mg Comprimido"
 * name.part[invented].part = "Amlodipina + Telmisartan Krka"
@@ -42114,15 +35241,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Telmisartan Krka 10 mg + 40 mg Comprimido"
 * name.part[invented].part = "Amlodipina + Telmisartan Krka"
@@ -42157,15 +35277,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Telmisartan Krka 5 mg + 80 mg Comprimido"
 * name.part[invented].part = "Amlodipina + Telmisartan Krka"
@@ -42200,15 +35313,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Pentafarma 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Pentafarma"
@@ -42243,15 +35349,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Pentafarma 4 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Pentafarma"
@@ -42286,15 +35385,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Pentafarma 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Pentafarma"
@@ -42329,15 +35421,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Pentafarma 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Pentafarma"
@@ -42372,15 +35457,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Farmoz 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Ibuprofeno Farmoz"
@@ -42415,15 +35493,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Farmoz 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Farmoz"
@@ -42458,15 +35529,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Farmoz 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Farmoz"
@@ -42501,15 +35565,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Farmoz 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Farmoz"
@@ -42544,15 +35601,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Farmoz 4 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Farmoz"
@@ -42587,15 +35637,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Supofen 24 mg/ml Solução oral"
 * name.part[invented].part = "Supofen"
@@ -42630,15 +35673,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Dilaclan 500 mg Cápsula"
 * name.part[invented].part = "Dilaclan"
@@ -42673,15 +35709,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan Mylan 5 mg + 80 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan Mylan"
@@ -42716,15 +35745,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB01 "valsartan and amlodipine"
 * classification[+] = $100000093533#100000095159 "valsartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Valsartan Mylan 5 mg + 160 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Valsartan Mylan"
@@ -42759,15 +35781,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula"
 * name.part[invented].part = "Ramipril + Amlodipina Krka"
@@ -42802,15 +35817,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula"
 * name.part[invented].part = "Ramipril + Amlodipina Krka"
@@ -42845,15 +35853,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula"
 * name.part[invented].part = "Ramipril + Amlodipina Krka"
@@ -42888,15 +35889,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula"
 * name.part[invented].part = "Ramipril + Amlodipina Krka"
@@ -42931,15 +35925,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
 * classification[+] = $100000093533#100000135907 "losartan and amlodipine"
-
-
 
 * name.productName = "Blocan 50 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Blocan"
@@ -42974,15 +35961,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
 * classification[+] = $100000093533#100000135907 "losartan and amlodipine"
-
-
 
 * name.productName = "Blocan 50 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Blocan"
@@ -43017,15 +35997,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
 * classification[+] = $100000093533#100000135907 "losartan and amlodipine"
-
-
 
 * name.productName = "Blocan 100 mg + 5 mg Comprimido revestido por película"
 * name.part[invented].part = "Blocan"
@@ -43060,15 +36033,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB06 "losartan and amlodipine"
 * classification[+] = $100000093533#100000135907 "losartan and amlodipine"
-
-
 
 * name.productName = "Blocan 100 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Blocan"
@@ -43103,15 +36069,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Cápsula mole"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Nurofen Xpress 200 mg Cápsula mole"
 * name.part[invented].part = "Nurofen Xpress"
@@ -43146,15 +36105,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Syrup"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073652 "Xarope"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol ben-u-ron 40 mg/ml Xarope"
 * name.part[invented].part = "Paracetamol ben-u-ron"
@@ -43189,15 +36141,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Ciclum 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Ciclum"
@@ -43232,15 +36177,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Ciclum 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Ciclum"
@@ -43275,15 +36213,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
 * classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen"
-
-
 
 * name.productName = "Ornibel 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal"
 * name.part[invented].part = "Ornibel"
@@ -43318,15 +36249,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
 * classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen"
-
-
 
 * name.productName = "Mystrelle 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal"
 * name.part[invented].part = "Mystrelle"
@@ -43361,19 +36285,9 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Vaginal delivery system"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
-* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen" 
-
-
-* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073818 "Sistema de libertação vaginal"* classification[+] = $who-atc#G02BB01 "vaginal ring with progestogen and estrogen"
+* classification[+] = $100000093533#100000095751 "vaginal ring with progestogen and estrogen"* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
 * classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
-
-
 
 * name.productName = "Anette 0.015 mg/24 h + 0.12 mg/24 h Sistema de libertação vaginal"
 * name.part[invented].part = "Anette"
@@ -43408,15 +36322,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Coartil 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Coartil"
@@ -43451,15 +36358,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Coartil 4 mg + 10 mg Comprimido"
 * name.part[invented].part = "Coartil"
@@ -43494,15 +36394,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Coartil 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Coartil"
@@ -43537,15 +36430,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Coartil 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Coartil"
@@ -43580,15 +36466,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina TAD 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina TAD"
@@ -43623,15 +36502,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina TAD 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina TAD"
@@ -43666,15 +36538,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina TAD 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina TAD"
@@ -43709,15 +36574,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina TAD 4 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina TAD"
@@ -43752,15 +36610,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Augmentin Duo 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Augmentin Duo"
@@ -43795,15 +36646,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Rectal ointment"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"
-
- 
-
-
-* classification[+] = $who-atc#C05AA01 "hydrocortisone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073828 "Pomada retal"* classification[+] = $who-atc#C05AA01 "hydrocortisone"
 * classification[+] = $100000093533#100000094927 "hydrocortisone"
-
-
 
 * name.productName = "Proctorrane 10 mg/g Pomada retal"
 * name.part[invented].part = "Proctorrane"
@@ -43838,15 +36682,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido clavulânico Tolife 875 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido clavulânico Tolife"
@@ -43881,15 +36718,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina toLife 500 mg Cápsula"
 * name.part[invented].part = "Amoxicilina toLife"
@@ -43924,15 +36754,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina toLife 1000 mg Comprimido dispersível"
 * name.part[invented].part = "Amoxicilina toLife"
@@ -43967,15 +36790,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Nioben 5 mg + 40 mg Comprimido"
 * name.part[invented].part = "Nioben"
@@ -44010,15 +36826,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Inhixa 20 mg/0.2 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Inhixa"
@@ -44053,15 +36862,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA16 "dienogest and ethinylestradiol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA16 "dienogest and ethinylestradiol"
 * classification[+] = $100000093533#100000157864 "dienogest and ethinylestradiol"
-
-
 
 * name.productName = "Serisima Diário 2 mg + 0.03 mg Comprimido revestido por película"
 * name.part[invented].part = "Serisima Diário"
@@ -44096,15 +36898,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Inhixa 40 mg/0.4 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Inhixa"
@@ -44139,15 +36934,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Inhixa 60 mg/0.6 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Inhixa"
@@ -44182,15 +36970,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Inhixa 80 mg/0.8 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Inhixa"
@@ -44225,15 +37006,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Inhixa 100 mg/1 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Inhixa"
@@ -44268,15 +37042,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo Ciclum 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo Ciclum"
@@ -44311,15 +37078,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo Sandoz 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo Sandoz"
@@ -44354,15 +37114,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo Mylan 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo Mylan"
@@ -44397,15 +37150,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo toLife 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo toLife"
@@ -44440,15 +37186,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo Krka 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo Krka"
@@ -44483,15 +37222,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Mylan 10 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Mylan"
@@ -44526,15 +37258,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Mylan 20 mg + 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Mylan"
@@ -44569,15 +37294,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#R05X "OTHER COLD PREPARATIONS"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#R05X "OTHER COLD PREPARATIONS"
 * classification[+] = $100000093533#100000098251 "OTHER COLD PREPARATIONS"
-
-
 
 * name.productName = "Cegrinaso 200 mg + 30 mg Comprimido revestido por película"
 * name.part[invented].part = "Cegrinaso"
@@ -44612,15 +37330,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina Aurobindo 500 mg Comprimido dispersível"
 * name.part[invented].part = "Amoxicilina Aurobindo"
@@ -44655,15 +37366,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Dispersible tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073654 "Comprimido dispersível"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina Aurobindo 1000 mg Comprimido dispersível"
 * name.part[invented].part = "Amoxicilina Aurobindo"
@@ -44698,15 +37402,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Betamox ES 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Betamox ES"
@@ -44741,15 +37438,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido clavulânico toLife 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido clavulânico toLife"
@@ -44784,15 +37474,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
 * classification[+] = $100000093533#100000095215 "Lipid modifying agents in combination with other drugs"
-
-
 
 * name.productName = "Roxiper 10 mg + 4 mg + 1.25 mg Comprimido revestido por película"
 * name.part[invented].part = "Roxiper"
@@ -44827,15 +37510,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
 * classification[+] = $100000093533#100000095215 "Lipid modifying agents in combination with other drugs"
-
-
 
 * name.productName = "Roxiper 20 mg + 4 mg + 1.25 mg Comprimido revestido por película"
 * name.part[invented].part = "Roxiper"
@@ -44870,15 +37546,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
 * classification[+] = $100000093533#100000095215 "Lipid modifying agents in combination with other drugs"
-
-
 
 * name.productName = "Roxiper 20 mg + 8 mg + 2.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Roxiper"
@@ -44913,15 +37582,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10BX "Lipid modifying agents in combination with other drugs"
 * classification[+] = $100000093533#100000095215 "Lipid modifying agents in combination with other drugs"
-
-
 
 * name.productName = "Roxiper 10 mg + 8 mg + 2.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Roxiper"
@@ -44956,15 +37618,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02AJ13 "tramadol and paracetamol"
 * classification[+] = $100000093533#100000172012 "tramadol and paracetamol"
-
-
 
 * name.productName = "Tramadol + Paracetamol ratiopharm 75 mg + 650 mg Comprimido"
 * name.part[invented].part = "Tramadol + Paracetamol ratiopharm"
@@ -44999,15 +37654,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Alter 20 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Alter"
@@ -45042,15 +37690,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"
-
- 
-
-
-* classification[+] = $who-atc#A02BC01 "omeprazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Cápsula gastrorresistente"* classification[+] = $who-atc#A02BC01 "omeprazole"
 * classification[+] = $100000093533#100000093631 "omeprazole"
-
-
 
 * name.productName = "Omeprazol Alter 40 mg Cápsula gastrorresistente"
 * name.part[invented].part = "Omeprazol Alter"
@@ -45085,15 +37726,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidocaína Fresenius Kabi 10 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína Fresenius Kabi"
@@ -45128,15 +37762,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solução injetável"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidocaína Fresenius Kabi 20 mg/ml Solução injetável"
 * name.part[invented].part = "Lidocaína Fresenius Kabi"
@@ -45171,15 +37798,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Aurovitas 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Aurovitas"
@@ -45214,15 +37834,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Aurovitas 600 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Aurovitas"
@@ -45257,15 +37870,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Pharmakern 20 mg/g Gel"
 * name.part[invented].part = "Diclofenac Pharmakern"
@@ -45300,15 +37906,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba ratiopharm 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba ratiopharm"
@@ -45343,15 +37942,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba ratiopharm 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba ratiopharm"
@@ -45386,15 +37978,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba ratiopharm 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba ratiopharm"
@@ -45429,15 +38014,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo Zentiva 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo Zentiva"
@@ -45472,15 +38050,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Krka 50 mg Cápsula"
 * name.part[invented].part = "Tramadol Krka"
@@ -45515,15 +38086,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Teva 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Teva"
@@ -45558,15 +38122,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo Vitória 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo Vitória"
@@ -45601,15 +38158,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Hadazin 10 mg/g Creme"
 * name.part[invented].part = "Hadazin"
@@ -45644,15 +38194,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Gino-Hadazin 10 mg/g Creme vaginal"
 * name.part[invented].part = "Gino-Hadazin"
@@ -45687,15 +38230,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
 * classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
-
-
 
 * name.productName = "Altensil 5 mg + 8 mg Cápsula"
 * name.part[invented].part = "Altensil"
@@ -45730,15 +38266,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
 * classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
-
-
 
 * name.productName = "Altensil 10 mg + 8 mg Cápsula"
 * name.part[invented].part = "Altensil"
@@ -45773,15 +38302,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
 * classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
-
-
 
 * name.productName = "Altensil 5 mg + 16 mg Cápsula"
 * name.part[invented].part = "Altensil"
@@ -45816,15 +38338,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
 * classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
-
-
 
 * name.productName = "Altensil 10 mg + 16 mg Cápsula"
 * name.part[invented].part = "Altensil"
@@ -45859,15 +38374,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granules for oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"
-
- 
-
-
-* classification[+] = $who-atc#N02AJ14 "tramadol and dexketoprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073365 "Granulado para solução oral em saqueta"* classification[+] = $who-atc#N02AJ14 "tramadol and dexketoprofen"
 * classification[+] = $100000093533#100000172014 "tramadol and dexketoprofen"
-
-
 
 * name.productName = "Skudexa 75 mg + 25 mg Granulado para solução oral em saqueta"
 * name.part[invented].part = "Skudexa"
@@ -45902,15 +38410,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
 * classification[+] = $100000093533#100000163770 "rosuvastatin and amlodipine"
-
-
 
 * name.productName = "Asutam 10 mg + 5 mg Cápsula"
 * name.part[invented].part = "Asutam"
@@ -45945,15 +38446,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
 * classification[+] = $100000093533#100000163770 "rosuvastatin and amlodipine"
-
-
 
 * name.productName = "Asutam 10 mg + 10 mg Cápsula"
 * name.part[invented].part = "Asutam"
@@ -45988,15 +38482,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
 * classification[+] = $100000093533#100000163770 "rosuvastatin and amlodipine"
-
-
 
 * name.productName = "Asutam 20 mg + 5 mg Cápsula"
 * name.part[invented].part = "Asutam"
@@ -46031,15 +38518,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C10BX09 "rosuvastatin and amlodipine"
 * classification[+] = $100000093533#100000163770 "rosuvastatin and amlodipine"
-
-
 
 * name.productName = "Asutam 20 mg + 10 mg Cápsula"
 * name.part[invented].part = "Asutam"
@@ -46074,15 +38554,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Pentafarma 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Pentafarma"
@@ -46117,15 +38590,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Generis 500 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Generis"
@@ -46160,15 +38626,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Generis 875 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Generis"
@@ -46203,15 +38662,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Cefuroxima Generis 250 mg Comprimido revestido por película"
 * name.part[invented].part = "Cefuroxima Generis"
@@ -46246,15 +38698,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Cefuroxima Generis 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Cefuroxima Generis"
@@ -46289,15 +38734,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Generis 4 mg Comprimido"
 * name.part[invented].part = "Perindopril Generis"
@@ -46332,15 +38770,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09AA04 "perindopril"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09AA04 "perindopril"
 * classification[+] = $100000093533#100000095106 "perindopril"
-
-
 
 * name.productName = "Perindopril Generis 8 mg Comprimido"
 * name.part[invented].part = "Perindopril Generis"
@@ -46375,15 +38806,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol Generis 50 mg Cápsula"
 * name.part[invented].part = "Tramadol Generis"
@@ -46418,15 +38842,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA13 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA13 "ibuprofen"
 * classification[+] = $100000093533#100000097010 "ibuprofen"
-
-
 
 * name.productName = "Ib-u-ron Gel Mentol 50 mg/g Gel"
 * name.part[invented].part = "Ib-u-ron Gel Mentol"
@@ -46461,15 +38878,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
 * classification[+] = $100000093533#100000172937 "ramipril, amlodipine and hydrochlorothiazide"
-
-
 
 * name.productName = "Paniltri 5 mg + 5 mg + 12.5 mg Cápsula"
 * name.part[invented].part = "Paniltri"
@@ -46504,15 +38914,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
 * classification[+] = $100000093533#100000172937 "ramipril, amlodipine and hydrochlorothiazide"
-
-
 
 * name.productName = "Paniltri 10 mg + 5 mg + 25 mg Cápsula"
 * name.part[invented].part = "Paniltri"
@@ -46547,15 +38950,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BX03 "ramipril, amlodipine and hydrochlorothiazide"
 * classification[+] = $100000093533#100000172937 "ramipril, amlodipine and hydrochlorothiazide"
-
-
 
 * name.productName = "Paniltri 10 mg + 10 mg + 25 mg Cápsula"
 * name.part[invented].part = "Paniltri"
@@ -46590,15 +38986,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Mepranil 2.5 mg + 5 mg Cápsula"
 * name.part[invented].part = "Mepranil"
@@ -46633,15 +39022,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Mepranil 5 mg + 5 mg Cápsula"
 * name.part[invented].part = "Mepranil"
@@ -46676,15 +39058,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Mepranil 10 mg + 5 mg Cápsula"
 * name.part[invented].part = "Mepranil"
@@ -46719,15 +39094,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Mepranil 5 mg + 10 mg Cápsula"
 * name.part[invented].part = "Mepranil"
@@ -46762,15 +39130,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"
-
- 
-
-
-* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Cápsula"* classification[+] = $who-atc#C09BB07 "ramipril and amlodipine"
 * classification[+] = $100000093533#100000135765 "ramipril and amlodipine"
-
-
 
 * name.productName = "Mepranil 10 mg + 10 mg Cápsula"
 * name.part[invented].part = "Mepranil"
@@ -46805,15 +39166,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Dolostop 500 mg/10 ml Solução oral"
 * name.part[invented].part = "Dolostop"
@@ -46848,15 +39202,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Oral solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073646 "Solução oral"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Dolostop 1000 mg/10 ml Solução oral"
 * name.part[invented].part = "Dolostop"
@@ -46891,15 +39238,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Enoxaparina Rovi 80 mg/0.8 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Enoxaparina Rovi"
@@ -46934,15 +39274,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Enoxaparina Rovi 60 mg/0.6 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Enoxaparina Rovi"
@@ -46977,15 +39310,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Enoxaparina Rovi 40 mg/0.4 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Enoxaparina Rovi"
@@ -47020,15 +39346,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solution for injection in pre-filled syringe"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#B01AB05 "enoxaparin"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016496 "Solução injetável em seringa pré-cheia"* classification[+] = $who-atc#B01AB05 "enoxaparin"
 * classification[+] = $100000093533#100000094266 "enoxaparin"
-
-
 
 * name.productName = "Enoxaparina Rovi 20 mg/0.2 ml Solução injetável em seringa pré-cheia"
 * name.part[invented].part = "Enoxaparina Rovi"
@@ -47063,15 +39382,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Descontran 500 mg + 2 mg Comprimido"
 * name.part[invented].part = "Descontran"
@@ -47106,15 +39418,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Generis 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Generis"
@@ -47149,15 +39454,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Generis 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Generis"
@@ -47192,15 +39490,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina Generis 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina Generis"
@@ -47235,15 +39526,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Pentafarma 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Pentafarma"
@@ -47278,15 +39562,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Pentafarma 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Pentafarma"
@@ -47321,15 +39598,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Pentafarma 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Pentafarma"
@@ -47364,15 +39634,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Farmoz 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Farmoz"
@@ -47407,15 +39670,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Farmoz 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Farmoz"
@@ -47450,15 +39706,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Farmoz 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Farmoz"
@@ -47493,15 +39742,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Azevedos 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Azevedos"
@@ -47536,15 +39778,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Azevedos 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Azevedos"
@@ -47579,15 +39814,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Azevedos 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Azevedos"
@@ -47622,15 +39850,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Tetrafarma 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Tetrafarma"
@@ -47665,15 +39886,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Tetrafarma 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Tetrafarma"
@@ -47708,15 +39922,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Tetrafarma 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Tetrafarma"
@@ -47751,15 +39958,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba toLife 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba toLife"
@@ -47794,15 +39994,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba toLife 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba toLife"
@@ -47837,15 +40030,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"
-
- 
-
-
-* classification[+] = $who-atc#S01EE05 "tafluprost"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Colírio, solução"* classification[+] = $who-atc#S01EE05 "tafluprost"
 * classification[+] = $100000093533#100000098531 "tafluprost"
-
-
 
 * name.productName = "Taflotan 15 µg/ml Colírio, solução"
 * name.part[invented].part = "Taflotan"
@@ -47880,15 +40066,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C10AA01 "simvastatin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C10AA01 "simvastatin"
 * classification[+] = $100000093533#100000095169 "simvastatin"
-
-
 
 * name.productName = "Sinvastatina Labesfal 10 mg Comprimido revestido por película"
 * name.part[invented].part = "Sinvastatina Labesfal"
@@ -47923,15 +40102,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Alter 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Alter"
@@ -47966,15 +40138,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Alter 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Alter"
@@ -48009,15 +40174,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Alter 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Alter"
@@ -48052,15 +40210,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo Bluepharma 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo Bluepharma"
@@ -48095,15 +40246,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"
-
- 
-
-
-* classification[+] = $who-atc#J01DC02 "cefuroxime"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Pó para solução injetável ou para perfusão"* classification[+] = $who-atc#J01DC02 "cefuroxime"
 * classification[+] = $100000093533#100000096183 "cefuroxime"
-
-
 
 * name.productName = "Zofiren 750 mg Pó para solução injetável ou para perfusão"
 * name.part[invented].part = "Zofiren"
@@ -48138,15 +40282,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Candiset 10 mg/g Creme vaginal"
 * name.part[invented].part = "Candiset"
@@ -48181,15 +40318,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol TAD 100 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol TAD"
@@ -48224,15 +40354,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol TAD 150 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol TAD"
@@ -48267,15 +40390,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#N02AX02 "tramadol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#N02AX02 "tramadol"
 * classification[+] = $100000093533#100000097261 "tramadol"
-
-
 
 * name.productName = "Tramadol TAD 200 mg Comprimido de libertação prolongada"
 * name.part[invented].part = "Tramadol TAD"
@@ -48310,15 +40426,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DB02 "olmesartan medoxomil and amlodipine"
 * classification[+] = $100000093533#100000095160 "olmesartan medoxomil and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo Alter 5 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo Alter"
@@ -48353,15 +40462,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Tecnigen 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Tecnigen"
@@ -48396,15 +40498,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Tecnigen 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Tecnigen"
@@ -48439,15 +40534,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Tecnigen 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Tecnigen"
@@ -48482,15 +40570,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#A10AE04 "insulin glargine"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"* classification[+] = $who-atc#A10AE04 "insulin glargine"
 * classification[+] = $100000093533#100000094023 "insulin glargine"
-
-
 
 * name.productName = "Semglee 100 U/ml Solução injetável em caneta pré-cheia"
 * name.part[invented].part = "Semglee"
@@ -48525,15 +40606,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073362 "Suspensão oral"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Brufen Sem Açúcar 20 mg/ml Suspensão oral"
 * name.part[invented].part = "Brufen Sem Açúcar"
@@ -48568,15 +40642,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Holuren 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Holuren"
@@ -48611,15 +40678,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Nuridol 500 mg Comprimido"
 * name.part[invented].part = "Nuridol"
@@ -48654,15 +40714,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Holdofeb 500 mg Comprimido"
 * name.part[invented].part = "Holdofeb"
@@ -48697,15 +40750,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina ToLife 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina ToLife"
@@ -48740,15 +40786,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BA02 "metformin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BA02 "metformin"
 * classification[+] = $100000093533#100000094031 "metformin"
-
-
 
 * name.productName = "Metformina ToLife 850 mg Comprimido revestido por película"
 * name.part[invented].part = "Metformina ToLife"
@@ -48783,15 +40822,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Segluromet 2.5 mg + 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Segluromet"
@@ -48826,15 +40858,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#A10BD "Combinations of oral blood glucose lowering drugs"
 * classification[+] = $100000093533#100000094049 "Combinations of oral blood glucose lowering drugs"
-
-
 
 * name.productName = "Segluromet 7.5 mg + 1000 mg Comprimido revestido por película"
 * name.part[invented].part = "Segluromet"
@@ -48869,15 +40894,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Labesfal 5 mg Comprimido"
 * name.part[invented].part = "Amlodipina Labesfal"
@@ -48912,15 +40930,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C08CA01 "amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C08CA01 "amlodipine"
 * classification[+] = $100000093533#100000095065 "amlodipine"
-
-
 
 * name.productName = "Amlodipina Labesfal 10 mg Comprimido"
 * name.part[invented].part = "Amlodipina Labesfal"
@@ -48955,15 +40966,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Mylan 500 mg Comprimido"
 * name.part[invented].part = "Paracetamol Mylan"
@@ -48998,15 +41002,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE01 "paracetamol"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE01 "paracetamol"
 * classification[+] = $100000093533#100000097305 "paracetamol"
-
-
 
 * name.productName = "Paracetamol Mylan 1000 mg Comprimido"
 * name.part[invented].part = "Paracetamol Mylan"
@@ -49041,15 +41038,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Ratiopharm 20 mg + 20 mg Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Ratiopharm"
@@ -49084,15 +41074,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Danofen 200 mg/10 ml Suspensão oral em saqueta"
 * name.part[invented].part = "Danofen"
@@ -49127,15 +41110,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Danofen 400 mg/10 ml Suspensão oral em saqueta"
 * name.part[invented].part = "Danofen"
@@ -49170,15 +41146,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Oral suspension in sachet"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016479 "Suspensão oral em saqueta"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Danofen 600 mg/15 ml Suspensão oral em saqueta"
 * name.part[invented].part = "Danofen"
@@ -49213,15 +41182,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"
-
- 
-
-
-* classification[+] = $who-atc#D01AC01 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073712 "Creme"* classification[+] = $who-atc#D01AC01 "clotrimazole"
 * classification[+] = $100000093533#100000094532 "clotrimazole"
-
-
 
 * name.productName = "Holpemic 10 mg/g Creme"
 * name.part[invented].part = "Holpemic"
@@ -49256,15 +41218,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE51 "ibuprofen, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE51 "ibuprofen, combinations"
 * classification[+] = $100000093533#100000096945 "ibuprofen, combinations"
-
-
 
 * name.productName = "Ibuprofeno + Cafeína Aspegic 400 mg + 100 mg                Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno + Cafeína Aspegic"
@@ -49299,15 +41254,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
-
- 
-
-
-* classification[+] = $who-atc#M02AA13 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"* classification[+] = $who-atc#M02AA13 "ibuprofen"
 * classification[+] = $100000093533#100000097010 "ibuprofen"
-
-
 
 * name.productName = "Nurofen Musc 200 mg Emplastro medicamentoso"
 * name.part[invented].part = "Nurofen Musc"
@@ -49342,15 +41290,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Bluepharma 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Bluepharma"
@@ -49385,15 +41326,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Bluepharma 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Bluepharma"
@@ -49428,15 +41362,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Bluepharma 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Bluepharma"
@@ -49471,15 +41398,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Generis 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Generis"
@@ -49514,15 +41434,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Generis 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Generis"
@@ -49557,15 +41470,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Generis 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Generis"
@@ -49600,15 +41506,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Aurovitas 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Aurovitas"
@@ -49643,15 +41542,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Aurovitas 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Aurovitas"
@@ -49686,15 +41578,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Sinvastatina + Ezetimiba Aurovitas 40 mg + 10 mg Comprimido"
 * name.part[invented].part = "Sinvastatina + Ezetimiba Aurovitas"
@@ -49729,15 +41614,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Latesil 10 mg/g Gel"
 * name.part[invented].part = "Latesil"
@@ -49772,15 +41650,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Holginec 10 mg/g Creme vaginal"
 * name.part[invented].part = "Holginec"
@@ -49815,15 +41686,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB07 "candesartan and amlodipine"
 * classification[+] = $100000093533#100000157858 "candesartan and amlodipine"
-
-
 
 * name.productName = "Carzap Am 5 mg + 16 mg Comprimido"
 * name.part[invented].part = "Carzap Am"
@@ -49858,15 +41722,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Diltix 200 mg                         Comprimido revestido por película"
 * name.part[invented].part = "Diltix"
@@ -49901,15 +41758,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AC10 "drospirenone"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AC10 "drospirenone"
 * classification[+] = $100000093533#100000167217 "drospirenone"
-
-
 
 * name.productName = "Slinda 4 mg                           Comprimido revestido por película"
 * name.part[invented].part = "Slinda"
@@ -49944,15 +41794,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03FA17 "drospirenone and estrogen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03FA17 "drospirenone and estrogen"
 * classification[+] = $100000093533#100000095883 "drospirenone and estrogen"
-
-
 
 * name.productName = "Klimedix 2 mg + 1 mg                    Comprimido revestido por película"
 * name.part[invented].part = "Klimedix"
@@ -49987,15 +41830,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"
-
- 
-
-
-* classification[+] = $who-atc#M01AB05 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Comprimido de libertação prolongada"* classification[+] = $who-atc#M01AB05 "diclofenac"
 * classification[+] = $100000093533#100000096906 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Mylan 75 mg                          Comprimido de libertação prolongada"
 * name.part[invented].part = "Diclofenac Mylan"
@@ -50030,15 +41866,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Zentiva 4 mg + 1.25 mg                 Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Zentiva"
@@ -50073,15 +41902,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BA04 "perindopril and diuretics"
 * classification[+] = $100000093533#100000095124 "perindopril and diuretics"
-
-
 
 * name.productName = "Perindopril + Indapamida Zentiva 8 mg + 2.5 mg                  Comprimido"
 * name.part[invented].part = "Perindopril + Indapamida Zentiva"
@@ -50116,15 +41938,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Telmisartan Generis 5 mg + 40 mg                   Comprimido"
 * name.part[invented].part = "Amlodipina + Telmisartan Generis"
@@ -50159,15 +41974,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Telmisartan Generis 10 mg + 40 mg       Comprimido"
 * name.part[invented].part = "Amlodipina + Telmisartan Generis"
@@ -50202,15 +42010,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09DB04 "telmisartan and amlodipine"
 * classification[+] = $100000093533#100000116225 "telmisartan and amlodipine"
-
-
 
 * name.productName = "Amlodipina + Telmisartan Generis 5 mg + 80 mg                  Comprimido"
 * name.part[invented].part = "Amlodipina + Telmisartan Generis"
@@ -50245,15 +42046,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000003971 "Intrauterine gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000003971 "Gel intrauterino"
-
- 
-
-
-* classification[+] = $who-atc#N01BB02 "lidocaine"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000003971 "Gel intrauterino"* classification[+] = $who-atc#N01BB02 "lidocaine"
 * classification[+] = $100000093533#100000097196 "lidocaine"
-
-
 
 * name.productName = "Lidbree 42 mg/ml                     Gel intrauterino"
 * name.part[invented].part = "Lidbree"
@@ -50288,15 +42082,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Candigen 20 mg/g                        Creme vaginal"
 * name.part[invented].part = "Candigen"
@@ -50331,15 +42118,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina toLife 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina toLife"
@@ -50374,15 +42154,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina toLife 4 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina toLife"
@@ -50417,15 +42190,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina toLife 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina toLife"
@@ -50460,15 +42226,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina toLife 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina toLife"
@@ -50503,15 +42262,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Bluepharma 500 mg + 125 mg Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Bluepharma"
@@ -50546,15 +42298,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
 * classification[+] = $100000093533#100000125036 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum 5 mg + 20 mg + 12.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Ciclum"
@@ -50589,15 +42334,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Dimidon 75 mg                          Supositório"
 * name.part[invented].part = "Dimidon"
@@ -50632,15 +42370,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Supositório"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Dimidon 150 mg                         Supositório"
 * name.part[invented].part = "Dimidon"
@@ -50675,15 +42406,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
 * classification[+] = $100000093533#100000125036 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka 5 mg + 20 mg + 12.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Krka"
@@ -50718,15 +42442,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Olfen Artic 10 mg/g Gel"
 * name.part[invented].part = "Olfen Artic"
@@ -50761,15 +42478,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Olfenex Artic  20 mg/g Gel"
 * name.part[invented].part = "Olfenex Artic"
@@ -50804,15 +42514,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril  + Amlodipina Generis 4 mg + 5 mg                    Comprimido"
 * name.part[invented].part = "Perindopril  + Amlodipina Generis"
@@ -50847,15 +42550,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril  + Amlodipina Generis 4 mg + 10 mg                   Comprimido"
 * name.part[invented].part = "Perindopril  + Amlodipina Generis"
@@ -50890,15 +42586,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril  + Amlodipina Generis 8 mg + 5 mg                    Comprimido"
 * name.part[invented].part = "Perindopril  + Amlodipina Generis"
@@ -50933,15 +42622,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril  + Amlodipina Generis 8 mg + 10 mg                   Comprimido"
 * name.part[invented].part = "Perindopril  + Amlodipina Generis"
@@ -50976,15 +42658,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido Clavulânico Zentiva 600 mg/5 ml + 42.9 mg/5 ml     Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido Clavulânico Zentiva"
@@ -51019,15 +42694,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09BB02 "enalapril and lercanidipine"
 * classification[+] = $100000093533#100000095134 "enalapril and lercanidipine"
-
-
 
 * name.productName = "Enalapril + Lercanidipina Ciclum 20 mg + 20 mg                  Comprimido revestido por película"
 * name.part[invented].part = "Enalapril + Lercanidipina Ciclum"
@@ -51062,15 +42730,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"
-
- 
-
-
-* classification[+] = $who-atc#G01AF02 "clotrimazole"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Creme vaginal"* classification[+] = $who-atc#G01AF02 "clotrimazole"
 * classification[+] = $100000093533#100000095693 "clotrimazole"
-
-
 
 * name.productName = "Candiset 3 dias 20 mg/g                        Creme vaginal"
 * name.part[invented].part = "Candiset 3 dias"
@@ -51105,15 +42766,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina Generis 500 mg                         Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina Generis"
@@ -51148,15 +42802,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#J01CA04 "amoxicillin"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#J01CA04 "amoxicillin"
 * classification[+] = $100000093533#100000096122 "amoxicillin"
-
-
 
 * name.productName = "Amoxicilina Generis 1000 mg                        Comprimido revestido por película"
 * name.part[invented].part = "Amoxicilina Generis"
@@ -51191,15 +42838,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Amoxicilina + Ácido clavulânico Sandoz 600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Amoxicilina + Ácido clavulânico Sandoz"
@@ -51234,15 +42874,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C10BA02 "simvastatin and ezetimibe"
 * classification[+] = $100000093533#100000095214 "simvastatin and ezetimibe"
-
-
 
 * name.productName = "Vyeve Duo 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Vyeve Duo"
@@ -51277,15 +42910,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09DX03 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
 * classification[+] = $100000093533#100000125036 "olmesartan medoxomil, amlodipine and hydrochlorothiazide"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm 5 mg + 20 mg + 12.5 mg    Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida ratiopharm"
@@ -51320,15 +42946,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#N02BE51 "paracetamol, combinations excl. psycholeptics"
 * classification[+] = $100000093533#100000097309 "paracetamol, combinations excl. psycholeptics"
-
-
 
 * name.productName = "Paramolan Caf 500 mg + 65 mg                 Comprimido"
 * name.part[invented].part = "Paramolan Caf"
@@ -51363,15 +42982,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Mylan 4 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Mylan"
@@ -51406,15 +43018,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Mylan 4 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Mylan"
@@ -51449,15 +43054,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Mylan 8 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Mylan"
@@ -51492,15 +43090,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina Mylan 8 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina Mylan"
@@ -51535,15 +43126,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Qutaan 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Qutaan"
@@ -51578,15 +43162,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Ruxaclam 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Ruxaclam"
@@ -51621,15 +43198,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Moclavin 400 mg/5 ml + 57 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Moclavin"
@@ -51664,15 +43234,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Powder for oral suspension"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"
-
- 
-
-
-* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073649 "Pó para suspensão oral"* classification[+] = $who-atc#J01CR02 "amoxicillin and beta-lactamase inhibitor"
 * classification[+] = $100000093533#100000096162 "amoxicillin and beta-lactamase inhibitor"
-
-
 
 * name.productName = "Moclavin  600 mg/5 ml + 42.9 mg/5 ml Pó para suspensão oral"
 * name.part[invented].part = "Moclavin "
@@ -51707,15 +43270,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina ratiopharm 5 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina ratiopharm"
@@ -51750,15 +43306,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina ratiopharm 5 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina ratiopharm"
@@ -51793,15 +43342,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina ratiopharm 10 mg + 5 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina ratiopharm"
@@ -51836,15 +43378,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB04 "perindopril and amlodipine"
 * classification[+] = $100000093533#100000095135 "perindopril and amlodipine"
-
-
 
 * name.productName = "Perindopril + Amlodipina ratiopharm 10 mg + 10 mg Comprimido"
 * name.part[invented].part = "Perindopril + Amlodipina ratiopharm"
@@ -51879,15 +43414,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
 * classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
-
-
 
 * name.productName = "Lisinopril + Amlodipina Zentiva 20 mg + 10 mg Comprimido"
 * name.part[invented].part = "Lisinopril + Amlodipina Zentiva"
@@ -51922,15 +43450,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"
-
- 
-
-
-* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Comprimido"* classification[+] = $who-atc#C09BB03 "lisinopril and amlodipine"
 * classification[+] = $100000093533#100000116224 "lisinopril and amlodipine"
-
-
 
 * name.productName = "Lisinopril + Amlodipina Zentiva 20 mg + 5 mg Comprimido"
 * name.part[invented].part = "Lisinopril + Amlodipina Zentiva"
@@ -51965,15 +43486,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"
-
- 
-
-
-* classification[+] = $who-atc#M02AA15 "diclofenac"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Emplastro medicamentoso"* classification[+] = $who-atc#M02AA15 "diclofenac"
 * classification[+] = $100000093533#100000097012 "diclofenac"
-
-
 
 * name.productName = "Diclofenac Farmoz 140 mg Emplastro medicamentoso"
 * name.part[invented].part = "Diclofenac Farmoz"
@@ -52008,15 +43522,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#C09D "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#C09D "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
 * classification[+] = $100000093533#100000095149 "ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS"
-
-
 
 * name.productName = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter 5 mg + 20 mg + 12.5 mg Comprimido revestido por película"
 * name.part[invented].part = "Amlodipina + Olmesartan medoxomilo + Hidroclorotiazida Alter"
@@ -52051,15 +43558,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"
-
- 
-
-
-* classification[+] = $who-atc#A02AX "Antacids, other combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Comprimido para mastigar"* classification[+] = $who-atc#A02AX "Antacids, other combinations"
 * classification[+] = $100000093533#100000093614 "Antacids, other combinations"
-
-
 
 * name.productName = "Rennie Dual Action 625 mg + 73.5 mg + 150 mg Comprimido para mastigar"
 * name.part[invented].part = "Rennie Dual Action"
@@ -52094,15 +43594,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE51 "ibuprofen, combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE51 "ibuprofen, combinations"
 * classification[+] = $100000093533#100000096945 "ibuprofen, combinations"
-
-
 
 * name.productName = "Trifeduo 200 mg + 500 mg Comprimido revestido por película"
 * name.part[invented].part = "Trifeduo"
@@ -52137,15 +43630,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#M01AE01 "ibuprofen"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#M01AE01 "ibuprofen"
 * classification[+] = $100000093533#100000096928 "ibuprofen"
-
-
 
 * name.productName = "Ibuprofeno Alter 400 mg Comprimido revestido por película"
 * name.part[invented].part = "Ibuprofeno Alter"
@@ -52180,15 +43666,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"
-//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"
-
- 
-
-
-* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
+//* combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Comprimido revestido por película"* classification[+] = $who-atc#G03AA "Progestogens and estrogens, fixed combinations"
 * classification[+] = $100000093533#100000095773 "Progestogens and estrogens, fixed combinations"
-
-
 
 * name.productName = "Drovelis 3 mg + 14.2 mg Comprimido revestido por película"
 * name.part[invented].part = "Drovelis"
@@ -52223,15 +43702,8 @@ Usage: #example
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solution for injection in pre-filled pen"
-//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"
-
- 
-
-
-* classification[+] = $who-atc#H05AA02 "teriparatide"
+//* combinedPharmaceuticalDoseForm = $200000000004#200000016494 "Solução injetável em caneta pré-cheia"* classification[+] = $who-atc#H05AA02 "teriparatide"
 * classification[+] = $100000093533#100000096089 "teriparatide"
-
-
 
 * name.productName = "Sondelbay 0.25 mg/ml Solução injetável em caneta pré-cheia"
 * name.part[invented].part = "Sondelbay"

@@ -33,7 +33,6 @@ Usage: #example
 
 * holder = Reference({{ row["MED ID"]|get_data_from_sheet(data["data"],"Titular-Medicine","Titular AIM - OMS LOC-ID 2.8\n(SPOR-OMS LOC-ID)","MED ID") }})
 {%- endif -%}
-
 {%- endfor -%}
 
 
