@@ -1,6 +1,5 @@
 Instance: Tramadol-KRKA-100mg-Prolonged-release-tablet-EE-PPD-1043525
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

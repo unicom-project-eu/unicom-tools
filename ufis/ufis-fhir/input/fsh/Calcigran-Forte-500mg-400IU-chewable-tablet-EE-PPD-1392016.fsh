@@ -1,6 +1,5 @@
 Instance: Calcigran-Forte-500mg-400IU-chewable-tablet-EE-PPD-1392016
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 120 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

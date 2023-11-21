@@ -1,6 +1,5 @@
 Instance: Xylocard-20mgml-InjSol-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Xylocard-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)

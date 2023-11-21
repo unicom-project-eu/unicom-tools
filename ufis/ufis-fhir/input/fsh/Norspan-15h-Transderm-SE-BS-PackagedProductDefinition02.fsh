@@ -1,6 +1,5 @@
 Instance: Norspan-15h-Transderm-SE-BS-PackagedProductDefinition02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 4 http://spor.ema.europa.eu/v1/lists/200000000014#200000002134 "Patch"

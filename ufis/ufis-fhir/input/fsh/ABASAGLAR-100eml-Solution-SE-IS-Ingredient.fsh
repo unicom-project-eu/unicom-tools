@@ -1,11 +1,10 @@
 Instance: ABASAGLAR-100eml-Solution-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(ABASAGLAR-100eml-Solution-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(ABASAGLAR-100eml-Solution-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/ABASAGLAR-100eml-Solution-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(ABASAGLAR-100eml-Solution-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000085460 "Insulin glargine"
 

@@ -1,6 +1,5 @@
 Instance: JMJ-Monuril-UK-package
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * name = "Monuril 3g granules for solution; pack of 1 sachet"
 * packageFor = Reference(JMJ-Monuril-product-example)

@@ -1,6 +1,5 @@
 Instance: Sporanox-100mg-Cap-SE-IS-PackagedProductDefinition01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 15 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

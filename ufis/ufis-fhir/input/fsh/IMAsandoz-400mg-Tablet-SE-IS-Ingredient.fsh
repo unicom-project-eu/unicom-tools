@@ -1,6 +1,5 @@
 Instance: IMAsandoz-400mg-Tablet-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(IMAsandoz-400mg-Tablet-SE-IS-MedicinalProductDefinition)

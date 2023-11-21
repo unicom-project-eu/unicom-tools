@@ -1,11 +1,10 @@
 Instance: Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-I
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MPD)
 * for[+] = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MID)
-* for[+] = Reference(AdministrableProductDefinition/Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-APD)
+* for[+] = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092362 "DIAZEPAM"
 * substance.strength[+].presentationRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"

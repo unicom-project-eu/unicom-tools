@@ -1,6 +1,5 @@
 Instance: 1c155b07-c992-4989-9e32-ec536782d502
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * language = #FI
 

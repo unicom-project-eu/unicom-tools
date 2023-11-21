@@ -1,11 +1,10 @@
 Instance: Tradolan50mgmlinjektionlosning-SE-PLC-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Tradolan50mgmlinjektionlosning-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(Tradolan50mgmlinjektionlosning-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinition/Tradolan50mgmlinjektionlosning-SE-PLC-AdminProductDef)
+* for[+] = Reference(Tradolan50mgmlinjektionlosning-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000093275 "Tramadol hydrochloride"
 

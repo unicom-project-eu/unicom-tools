@@ -1,6 +1,5 @@
 Instance: EMLA-2525-Plaster-SE-AJ-Ingredient02
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(EMLA-2525-Plaster-SE-AJ-MedicinalProductDefinition)

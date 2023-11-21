@@ -1,6 +1,5 @@
 Instance: Citodon-500mg30mg-EffTablet-SE-IS-PackagedProductDefinition01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 25 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

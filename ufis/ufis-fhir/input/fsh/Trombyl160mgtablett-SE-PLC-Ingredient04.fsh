@@ -1,11 +1,10 @@
 Instance: Trombyl160mgtablett-SE-PLC-Ingredient04
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Trombyl160mgtablett-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(Trombyl160mgtablett-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinition/Trombyl160mgtablett-SE-PLC-AdminProductDef)
+* for[+] = Reference(Trombyl160mgtablett-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072082 "Excipient"
 * substance.code.concept = $SubstanceDefinition#100000080121 "Maize starch"
 * substance.strength.presentationRatio.numerator = 5 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

@@ -1,6 +1,5 @@
 Instance: Concerta-36mg-PRTablet-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Concerta-36mg-PRTablet-SE-AJ-MedicinalProductDefinition)

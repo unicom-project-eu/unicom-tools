@@ -1,6 +1,5 @@
 Instance: Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-PPD-1529962
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"

@@ -1,11 +1,10 @@
 Instance: HydrokortisonEvolan10mgpergsalva-SE-PLC-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-AdminProductDef)
+* for[+] = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092635 "Hydrocortisone"
 

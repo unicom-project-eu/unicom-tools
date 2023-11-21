@@ -1,6 +1,5 @@
 Instance: Curocef1500mgPulver-A-HL-RegulatedAuthorization03
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "16569"

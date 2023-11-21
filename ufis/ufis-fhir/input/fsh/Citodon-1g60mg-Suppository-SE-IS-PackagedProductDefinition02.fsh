@@ -1,6 +1,5 @@
 Instance: Citodon-1g60mg-Suppository-SE-IS-PackagedProductDefinition02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002149 "Suppository"

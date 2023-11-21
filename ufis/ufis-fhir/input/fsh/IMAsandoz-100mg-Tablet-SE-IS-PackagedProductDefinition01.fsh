@@ -1,6 +1,5 @@
 Instance: IMAsandoz-100mg-Tablet-SE-IS-PackagedProductDefinition01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

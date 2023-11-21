@@ -1,6 +1,5 @@
 Instance: SandimmunNeoral25mgkapselmjuk-SE-PLC-PackageProductDef
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

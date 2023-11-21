@@ -1,6 +1,5 @@
 Instance: Fragmin-7500IE-Solution-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000007#100000074047 "Solution for injection in pre-filled syringe"

@@ -1,6 +1,5 @@
 Instance: MorfinSpecial-2mgml-Solution-SE-BS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"

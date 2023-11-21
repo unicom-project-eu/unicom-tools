@@ -1,6 +1,5 @@
 Instance: Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-PPD-1001462
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"

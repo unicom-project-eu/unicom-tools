@@ -1,6 +1,5 @@
 Instance: Mydrane-InjSol-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Mydrane-InjSol-SE-AJ-MedicinalProductDefinition)

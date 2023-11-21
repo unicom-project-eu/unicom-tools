@@ -1,11 +1,10 @@
 Instance: Bamyl500mgtablett-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Bamyl500mgtablett-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(Bamyl500mgtablett-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinition/Bamyl500mgtablett-SE-PLC-AdminProductDef)
+* for[+] = Reference(Bamyl500mgtablett-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092077 "Acetylsalicylic acid"
 * substance.strength.presentationRatio.numerator = 500 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

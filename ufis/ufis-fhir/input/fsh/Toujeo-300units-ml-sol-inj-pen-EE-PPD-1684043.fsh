@@ -1,6 +1,5 @@
 Instance: Toujeo-300units-ml-sol-inj-pen-EE-PPD-1684043
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002135 "Pen"

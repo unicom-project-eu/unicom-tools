@@ -1,11 +1,10 @@
 Instance: ISOactavis-10mg-Capsule-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(ISOactavis-10mg-Capsule-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(ISOactavis-10mg-Capsule-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/ISOactavis-10mg-Capsule-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(ISOactavis-10mg-Capsule-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000089811 "Isotretinoin"
 

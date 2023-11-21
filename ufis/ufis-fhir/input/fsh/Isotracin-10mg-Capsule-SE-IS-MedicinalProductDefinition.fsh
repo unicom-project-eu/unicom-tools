@@ -1,6 +1,5 @@
 Instance: Isotracin-10mg-Capsule-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"

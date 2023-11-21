@@ -1,6 +1,5 @@
 Instance: Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "124596"

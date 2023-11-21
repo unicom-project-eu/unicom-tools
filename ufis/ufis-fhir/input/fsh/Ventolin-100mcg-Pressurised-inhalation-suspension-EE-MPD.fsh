@@ -1,6 +1,5 @@
 Instance: Ventolin-100mcg-Pressurised-inhalation-suspension-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073838 "Pressurised inhalation, suspension"

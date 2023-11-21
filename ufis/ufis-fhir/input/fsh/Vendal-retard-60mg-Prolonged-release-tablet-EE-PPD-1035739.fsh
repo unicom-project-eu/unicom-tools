@@ -1,6 +1,5 @@
 Instance: Vendal-retard-60mg-Prolonged-release-tablet-EE-PPD-1035739
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 120 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

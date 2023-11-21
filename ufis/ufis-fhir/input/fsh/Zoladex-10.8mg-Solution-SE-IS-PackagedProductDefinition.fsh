@@ -1,6 +1,5 @@
 Instance: Zoladex-10.8mg-Solution-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10.8 http://spor.ema.europa.eu/v1/lists/100000110633#100000110921 "milligram(s)/dose"

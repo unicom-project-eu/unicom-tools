@@ -1,6 +1,5 @@
 Instance: Tapin-2525-Plaster-SE-AJ-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"

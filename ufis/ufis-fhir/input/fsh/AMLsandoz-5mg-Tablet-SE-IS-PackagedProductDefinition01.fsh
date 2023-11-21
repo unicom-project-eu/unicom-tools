@@ -1,6 +1,5 @@
 Instance: AMLsandoz-5mg-Tablet-SE-IS-PackagedProductDefinition01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#Tablet "200000002152"

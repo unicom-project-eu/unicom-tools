@@ -1,11 +1,10 @@
 Instance: Smofkabiven-Emulsion-SE-IS-Ingredient10
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Smofkabiven-Emulsion-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(Smofkabiven-Emulsion-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * function = $200000004946#200000004948 "Specified Substance Group 1 to Parent"
 * substance.code.concept = $SubstanceDefinition#100000092414 "Methionine"

@@ -1,6 +1,5 @@
 Instance: Toujeo-300units-ml-sol-inj-pen-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "EU/1/00/133"

@@ -1,6 +1,5 @@
 Instance: Rectogesic4mggrektalsalva-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "22988"

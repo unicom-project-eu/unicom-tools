@@ -1,6 +1,5 @@
 Instance: mpid-pmsmpid-44680
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "32012"

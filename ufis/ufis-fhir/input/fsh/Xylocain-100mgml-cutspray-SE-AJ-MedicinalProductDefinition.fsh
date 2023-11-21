@@ -1,6 +1,5 @@
 Instance: Xylocain-100mgml-cutspray-SE-AJ-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073729 "Cutaneous spray, solution"

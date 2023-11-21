@@ -1,6 +1,5 @@
 Instance: Sobril-15mg-Tablet-SE-IS-PackagedProductDefinition01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

@@ -1,6 +1,5 @@
 Instance: Attentin-10mg-Tablet-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Attentin-10mg-Tablet-SE-AJ-MedicinalProductDefinition)

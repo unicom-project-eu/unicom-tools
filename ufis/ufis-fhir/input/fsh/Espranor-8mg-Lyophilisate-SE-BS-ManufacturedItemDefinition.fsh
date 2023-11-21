@@ -1,6 +1,5 @@
 Instance: Espranor-8mg-Lyophilisate-SE-BS-ManufacturedItemDefinition
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073682 "Oral lyophilisate"

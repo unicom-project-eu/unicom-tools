@@ -1,6 +1,5 @@
 Instance: Ventolin-100mcg-Pressurised-inhalation-suspension-EE-PPD-1005512
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002116 "Container"

@@ -1,6 +1,5 @@
 Instance: Aphiahsone-50mcg-Suspension-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "51410"

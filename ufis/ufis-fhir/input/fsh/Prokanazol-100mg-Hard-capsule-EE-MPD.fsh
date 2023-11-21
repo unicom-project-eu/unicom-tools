@@ -1,6 +1,5 @@
 Instance: Prokanazol-100mg-Hard-capsule-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"

@@ -1,6 +1,5 @@
 Instance: Tegretol-200mg-Tablet-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Tegretol-200mg-Tablet-SE-AJ-MedicinalProductDefinition)

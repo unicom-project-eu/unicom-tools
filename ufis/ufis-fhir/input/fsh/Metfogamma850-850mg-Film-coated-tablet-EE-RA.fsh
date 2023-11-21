@@ -1,6 +1,5 @@
 Instance: Metfogamma850-850mg-Film-coated-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "490805"

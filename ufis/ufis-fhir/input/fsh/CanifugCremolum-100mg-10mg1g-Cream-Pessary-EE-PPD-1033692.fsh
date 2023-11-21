@@ -1,6 +1,5 @@
 Instance: CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-PPD-1033692
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"
 * identifier.system = "http://ema.europa.eu/example/pcid"

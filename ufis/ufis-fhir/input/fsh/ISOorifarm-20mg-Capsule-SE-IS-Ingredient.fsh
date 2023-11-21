@@ -1,11 +1,10 @@
 Instance: ISOorifarm-20mg-Capsule-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(ISOorifarm-20mg-Capsule-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(ISOorifarm-20mg-Capsule-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/ISOorifarm-20mg-Capsule-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(ISOorifarm-20mg-Capsule-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000089811 "Isotretinoin"
 

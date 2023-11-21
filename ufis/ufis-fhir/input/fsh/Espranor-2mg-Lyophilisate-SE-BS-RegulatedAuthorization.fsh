@@ -1,6 +1,5 @@
 Instance: Espranor-2mg-Lyophilisate-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "51207"

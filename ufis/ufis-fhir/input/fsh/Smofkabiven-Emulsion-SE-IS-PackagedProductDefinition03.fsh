@@ -1,6 +1,5 @@
 Instance: Smofkabiven-Emulsion-SE-IS-PackagedProductDefinition03
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 3 http://spor.ema.europa.eu/v1/lists/200000000014#200000002143 "Sachet"

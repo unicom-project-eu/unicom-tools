@@ -1,11 +1,10 @@
 Instance: AMLaccord-5mg-Tablet-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(AMLaccord-5mg-Tablet-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(AMLaccord-5mg-Tablet-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/AMLaccord-5mg-Tablet-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(AMLaccord-5mg-Tablet-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090079 "Amlodipine besilate"
 * substance.strength.presentationRatio.numerator = 6.95 http://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

@@ -1,6 +1,5 @@
 Instance: ISOsandoz-20mg-Capsule-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

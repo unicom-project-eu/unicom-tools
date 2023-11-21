@@ -1,6 +1,5 @@
 Instance: Citodon-1g60mg-Suppository-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"

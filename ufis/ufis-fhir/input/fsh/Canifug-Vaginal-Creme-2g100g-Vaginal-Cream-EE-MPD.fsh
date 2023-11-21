@@ -1,6 +1,5 @@
 Instance: Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073811 "Vaginal cream"

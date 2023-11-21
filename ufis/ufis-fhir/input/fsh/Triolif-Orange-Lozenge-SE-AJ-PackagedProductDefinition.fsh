@@ -1,6 +1,5 @@
 Instance: Triolif-Orange-Lozenge-SE-AJ-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 24 http://spor.ema.europa.eu/v1/lists/200000000014#200000002128 "Lozenge"

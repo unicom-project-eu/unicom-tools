@@ -1,6 +1,5 @@
 Instance: Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"

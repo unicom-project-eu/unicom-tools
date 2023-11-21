@@ -14,14 +14,14 @@ def create_org(regauth):
     instance_value = re.search(r"Instance:\s*(\S+)", regauth)
     if instance_value:
         value = instance_value.group(1)
-    print(value)
+    #  print(value)
     ### get loc value
     if "* holder.identifier.value" in regauth:
         loc_value = re.search(r"\* holder.identifier.value = \"(\S+)\"", regauth)
         if loc_value:
             loc = loc_value.group(1)
 
-            print(loc)
+    #  print(loc)
     else:
         print(
             "no loc --------------------------------------------------------------------------"
@@ -32,7 +32,7 @@ def create_org(regauth):
         disp_value = re.search(r"\* holder.display = \"(.+)\"", regauth)
         if disp_value:
             disp = disp_value.group(1)
-            print(disp)
+            # print(disp)
     else:
         disp = "No name"
     if loc not in list_of_locs:
@@ -54,7 +54,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
     regauth = re.sub("\* holder.+ = .+\n", "", regauth)
     regauth += "\n* holder = Reference(" + loc + ")\n"
-    print(regauth)
+    # print(regauth)
 
     return regauth
 
@@ -74,12 +74,12 @@ Description: "Marketing Authorisation Holder / Organisation"
 FOLDER = "./ufis-fsh/input/fsh/instances"
 
 for file in listdir(FOLDER):
-    print(file)
+    # print(file)
     res = file.split("-")[-1].split(".")[0]
-    print(res)
+    # print(res)
 
     resname = file.rsplit("-", 1)[0]
-    print(resname)
+    # print(resname)
     with open(FOLDER + "/" + file) as f:
         contents = f.read()
         #   print(contents)
@@ -96,9 +96,12 @@ for file in listdir(FOLDER):
                 hashed_value = hashlib.sha256(value.encode()).hexdigest()
                 contents = contents.replace(value, hashed_value)
                 # print("Replaced value:", hashed_value)
-                print(contents)
+                # print(contents)
         contents = re.sub(r"\* meta.versionId = \"(\S+)\"", "", contents)
         contents = re.sub(r"\* meta.lastUpdated = \"(.+)\"\n", "", contents)
+        contents = contents.replace("$220000000060_1", "$220000000060")
+
+        contents = contents.replace("Usage: #inline\n", "")
 
         contents = contents.replace("$220000000060_1", "$220000000060")
         contents = contents.replace("$200000000004_1", "$200000000004")
@@ -129,6 +132,30 @@ for file in listdir(FOLDER):
             )
         if ".code = " in contents:  ###gofsh error?
             contents = re.sub(r'.code = "(\w+)"', r".code = #\1", contents)
+
+        ####### Administrable PRODUCT DEFINITION ####################################
+        if "InstanceOf: AdministrableProductDefinition" in contents:
+            print("yes")
+            contents = contents.replace(
+                "InstanceOf: AdministrableProductDefinition",
+                "InstanceOf: PPLAdministrableProductDefinition",
+            )
+            print(contents)
+
+            contents = re.sub(
+                r"formOf = Reference\(\w+\/(.+)\)",
+                r"formOf = Reference(\1)",
+                contents,
+            )
+            contents = re.sub(
+                r"producedFrom = Reference\(\w+\/(.+)\)",
+                r"producedFrom = Reference(\1)",
+                contents,
+            )
+            # print("Original value:", value)
+        # * formOf = Reference(MedicinalProductDefinition/Amlodistad-5mg-Tablet-SE-IS-MedicinalProductDefinition)
+        # * administrableDoseForm = $200000000004#100000073664 "Tablet"
+        # * producedFrom = Reference(ManufacturedItemDefinition/Amlodistad-5mg-Tablet-SE-IS-ManufacturedItemDefinition)
         ####### MEDICINAL PRODUCT DEFINITION ####################################
 
         if "InstanceOf: MedicinalProductDefinition" in contents:
@@ -211,7 +238,21 @@ for file in listdir(FOLDER):
 * description.extension.valueCoding = $100000072057#100000072288 "Swedish"\n""",
                 "",
             )
-        ####### INGREDIENT ####################################
+
+            contents = contents.replace(
+                """* attachedDocument = Reference(DocumentReference/Curocef1500mgPulver-A-HL-DocumentReference01)
+* masterFile = Reference(mfl1)
+* contact[+].type.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* contact[=].type.coding.extension.valueInteger = 1
+* contact[=].type.coding = $100000154441#100000155057 "Qualified Person in the EEA for Pharmacovigilance"
+* contact[=].contact = Reference(qppv1)
+* contact[+].type.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
+* contact[=].type.coding.extension.valueInteger = 3
+* contact[=].type.coding = $100000154441#200000017719
+* contact[=].contact = Reference(phvenq1)""",
+                "",
+            )
+        ####### INGREDIENT ############################################################################################################
         if "InstanceOf: Ingredient" in contents:
             #    print("yes")
             contents = contents.replace(
@@ -288,7 +329,30 @@ for file in listdir(FOLDER):
                 not in contents
             ):
                 contents += '\n* substance.strength.referenceStrength.strengthRatio[=].denominator = 1 http://spor.ema.europa.eu/v1/lists/100000110633#200000025238 "dose"'
-        ####### MANUFACTURED ITEM DEFINITION ####################################
+
+            if (
+                '* extension.url = "http://ema.europa.eu/fhir/extension/subject"'
+                in contents
+            ):
+                contents = contents.replace(
+                    '* extension.url = "http://ema.europa.eu/fhir/extension/subject"',
+                    "",
+                )
+                # print(contents)
+                ref_value = re.search(r"\* extension.valueReference = (.+)", contents)
+                if ref_value:
+                    ref = ref_value.group(1)
+                    contents += "\n* for[+] = " + ref
+                # contents = contents.replace("* extension.valueReference", "* for[+]")
+
+                contents = re.sub(r"\* extension.valueReference = (.+)", "", contents)
+
+            contents = re.sub(
+                r"Reference\(AdministrableProductDefinition\/(.+)\)",
+                r"Reference(\1)",
+                contents,
+            )
+        ####### MANUFACTURED ITEM DEFINITION ############################################################################################################
 
         if "InstanceOf: ManufacturedItemDefinition" in contents:
             #   print("yes")

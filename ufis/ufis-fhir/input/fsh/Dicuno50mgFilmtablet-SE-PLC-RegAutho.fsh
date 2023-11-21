@@ -1,6 +1,5 @@
 Instance: Dicuno50mgFilmtablet-SE-PLC-RegAutho
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "42952"

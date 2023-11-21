@@ -1,6 +1,5 @@
 Instance: VentilastinNovolizer100mginhalationspulver-SE-PLC-ManuItemDef
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073839 "Inhalation powder"

@@ -1,6 +1,5 @@
 Instance: Agen-10mg-Tablet-EE-PPD-1109900-B
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

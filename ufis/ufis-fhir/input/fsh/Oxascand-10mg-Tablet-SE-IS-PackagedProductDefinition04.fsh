@@ -1,6 +1,5 @@
 Instance: Oxascand-10mg-Tablet-SE-IS-PackagedProductDefinition04
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 500 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

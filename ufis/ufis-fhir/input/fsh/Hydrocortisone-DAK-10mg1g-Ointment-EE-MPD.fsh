@@ -1,6 +1,5 @@
 Instance: Hydrocortisone-DAK-10mg1g-Ointment-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073713 "Ointment"

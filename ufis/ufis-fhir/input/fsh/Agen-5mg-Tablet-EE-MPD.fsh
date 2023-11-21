@@ -1,6 +1,5 @@
 Instance: Agen-5mg-Tablet-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"

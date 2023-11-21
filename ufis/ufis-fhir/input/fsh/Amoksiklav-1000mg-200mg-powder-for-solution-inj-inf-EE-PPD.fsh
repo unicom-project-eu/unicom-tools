@@ -1,6 +1,5 @@
 Instance: Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-PPD
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"

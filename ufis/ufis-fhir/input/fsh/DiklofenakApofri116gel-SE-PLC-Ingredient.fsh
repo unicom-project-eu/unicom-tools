@@ -1,11 +1,10 @@
 Instance: DiklofenakApofri116gel-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(DiklofenakApofri116gel-SE-PLC-MedicinalProductDefinition)
 * for[+] = Reference(DiklofenakApofri116gel-SE-PLC-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/DiklofenakApofri116gel-SE-PLC-AdministrableProductDefinition)
+* for[+] = Reference(DiklofenakApofri116gel-SE-PLC-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091074 "Diclofenac diethylamine"
 

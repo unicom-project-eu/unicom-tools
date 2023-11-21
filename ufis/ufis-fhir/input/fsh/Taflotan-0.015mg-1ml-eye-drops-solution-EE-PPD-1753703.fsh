@@ -1,6 +1,5 @@
 Instance: Taflotan-0.015mg-1ml-eye-drops-solution-EE-PPD-1753703
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"

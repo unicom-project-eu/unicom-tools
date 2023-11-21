@@ -1,6 +1,5 @@
 Instance: SoluCortef100mgpulvervatskainj-SE-PLC-ManufacturedItemDef
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm.coding[0] = $200000000004#100000073866 "Powder for solution for injection"

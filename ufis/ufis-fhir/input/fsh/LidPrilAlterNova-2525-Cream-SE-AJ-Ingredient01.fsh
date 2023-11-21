@@ -1,6 +1,5 @@
 Instance: LidPrilAlterNova-2525-Cream-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(LidPrilAlterNova-2525-Cream-SE-AJ-MedicinalProductDefinition)

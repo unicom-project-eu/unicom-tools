@@ -1,6 +1,5 @@
 Instance: Metfogamma850-850mg-Film-coated-tablet-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"

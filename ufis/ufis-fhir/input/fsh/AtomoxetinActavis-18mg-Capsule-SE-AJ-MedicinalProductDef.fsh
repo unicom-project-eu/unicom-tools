@@ -1,6 +1,5 @@
 Instance: AtomoxetinActavis-18mg-Capsule-SE-AJ-MedicinalProductDef
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"

@@ -1,6 +1,5 @@
 Instance: EMLA-2525-Plaster-SE-AJ-ManufacturedItemDefinition
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073714 "Medicated plaster"

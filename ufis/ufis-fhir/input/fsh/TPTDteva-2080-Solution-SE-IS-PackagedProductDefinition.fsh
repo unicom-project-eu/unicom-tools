@@ -1,6 +1,5 @@
 Instance: TPTDteva-2080-Solution-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000002163 "Actuation"

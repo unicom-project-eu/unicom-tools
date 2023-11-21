@@ -1,6 +1,5 @@
 Instance: Cefuroxime-MIP-1500mg-powder-for-solution-inj-inf-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"

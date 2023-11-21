@@ -1,6 +1,5 @@
 Instance: Suscard5mgbuckaltablett-SE-PLC-MedicinalProductDef
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073699 "Buccal tablet"

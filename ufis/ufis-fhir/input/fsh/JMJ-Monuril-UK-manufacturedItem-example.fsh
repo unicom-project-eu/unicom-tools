@@ -1,6 +1,5 @@
 Instance: JMJ-Monuril-UK-manufacturedItem-example
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm.coding[0] = $standardterms#10112000 "Granules for oral solution"

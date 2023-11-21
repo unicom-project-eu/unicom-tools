@@ -1,11 +1,10 @@
 Instance: Hydrocortisone-DAK-10mg1g-Ointment-EE-I
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Hydrocortisone-DAK-10mg1g-Ointment-EE-MPD)
 * for[+] = Reference(Hydrocortisone-DAK-10mg1g-Ointment-EE-MID)
-* for[+] = Reference(AdministrableProductDefinition/Hydrocortisone-DAK-10mg1g-Ointment-EE-APD)
+* for[+] = Reference(Hydrocortisone-DAK-10mg1g-Ointment-EE-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092635 "Hydrocortisone"
 

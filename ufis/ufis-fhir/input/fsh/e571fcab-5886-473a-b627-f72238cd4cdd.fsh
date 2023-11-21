@@ -1,6 +1,5 @@
 Instance: e571fcab-5886-473a-b627-f72238cd4cdd
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * contained.resourceType = "Organization"
 * contained.id = "1"

@@ -1,6 +1,5 @@
 Instance: Fragmin-15000IE-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "19748"

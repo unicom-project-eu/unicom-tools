@@ -1,6 +1,5 @@
 Instance: Carbalex-200mg-Tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "391302"

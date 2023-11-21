@@ -1,6 +1,5 @@
 Instance: Betaklav-500mg-125mg-Film-coated-tablet-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073665 "Film-coated tablet"

@@ -1,6 +1,5 @@
 Instance: JMJ-Humalog-Kwikpen-manufacturedItem-example
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm.coding[0] = $standardterms#11201000 "Solution for injection"

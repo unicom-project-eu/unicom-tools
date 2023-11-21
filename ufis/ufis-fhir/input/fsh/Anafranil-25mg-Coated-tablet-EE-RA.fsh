@@ -1,6 +1,5 @@
 Instance: Anafranil-25mg-Coated-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "124596"

@@ -1,11 +1,10 @@
 Instance: Diclac-10mg1g-Gel-EE-I
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Diclac-10mg1g-Gel-EE-MPD)
 * for[+] = Reference(Diclac-10mg1g-Gel-EE-MID)
-* for[+] = Reference(AdministrableProductDefinition/Diclac-10mg1g-Gel-EE-APD)
+* for[+] = Reference(Diclac-10mg1g-Gel-EE-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000162632 "DICLOFENAC SODIUM"
 

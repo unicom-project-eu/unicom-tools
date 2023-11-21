@@ -1,6 +1,5 @@
 Instance: Gasec-Gastrocaps-40mg-Hard-Capsules-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073376 "Gastro-resistant capsule, hard"

@@ -1,6 +1,5 @@
 Instance: Zoladex-3.6mg-Implant-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073874 "Implant"

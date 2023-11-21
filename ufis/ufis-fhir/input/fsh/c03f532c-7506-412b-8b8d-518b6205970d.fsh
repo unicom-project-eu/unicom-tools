@@ -1,6 +1,5 @@
 Instance: c03f532c-7506-412b-8b8d-518b6205970d
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152

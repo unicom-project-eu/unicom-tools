@@ -1,6 +1,5 @@
 Instance: ITZactavis-100mg-Cap-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073375 "Capsule, hard"

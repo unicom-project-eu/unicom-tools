@@ -1,6 +1,5 @@
 Instance: Orimox-50mcg-Suspension-SE-IS-ManufacturedItemDefinition
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073809 "Nasal spray, suspension"

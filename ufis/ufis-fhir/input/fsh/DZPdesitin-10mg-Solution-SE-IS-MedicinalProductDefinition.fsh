@@ -1,6 +1,5 @@
 Instance: DZPdesitin-10mg-Solution-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073829 "Rectal solution"

@@ -1,6 +1,5 @@
 Instance: AtomoxetinActavis-10mg-Capsule-SE-AJ-PackagedProductDef
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

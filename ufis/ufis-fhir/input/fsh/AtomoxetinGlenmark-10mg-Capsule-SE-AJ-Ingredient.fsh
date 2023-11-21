@@ -1,6 +1,5 @@
 Instance: AtomoxetinGlenmark-10mg-Capsule-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(AtomoxetinGlenmark-10mg-Capsule-SE-AJ-MedicinalProductDef)

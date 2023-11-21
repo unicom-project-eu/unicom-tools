@@ -1,6 +1,5 @@
 Instance: JMJ-Humalog-Mix50-Kwikpen-product-example
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 * type.coding[0] = $medicinal-product-type#MedicinalProduct "Medicinal Product"
 * type.coding[+] = $200000025915#200000025916 "Authorised Medicinal Product"

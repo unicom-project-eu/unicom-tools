@@ -1,6 +1,5 @@
 Instance: Prokanazol-100mg-Hard-capsule-EE-PPD-1164057
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

@@ -1,6 +1,5 @@
 Instance: Aprokam-50mg-Powder-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073866 "Powder for solution for injection"

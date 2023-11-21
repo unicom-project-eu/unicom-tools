@@ -1,6 +1,5 @@
 Instance: Calcigran-Forte-500mg-400IU-chewable-tablet-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073684 "Chewable tablet"

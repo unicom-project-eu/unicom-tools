@@ -1,6 +1,5 @@
 Instance: EnoxaparinBecat8000IEinjektion-SE-PLC-PackageProductDef
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"

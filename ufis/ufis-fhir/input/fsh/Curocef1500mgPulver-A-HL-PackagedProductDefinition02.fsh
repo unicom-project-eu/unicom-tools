@@ -1,6 +1,5 @@
 Instance: Curocef1500mgPulver-A-HL-PackagedProductDefinition02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/pcId"
 * identifier.value = "128827002"

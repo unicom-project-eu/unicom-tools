@@ -1,6 +1,5 @@
 Instance: Diclofenac-Mylan-180mg-Medicated-plaster-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073714 "Medicated plaster"

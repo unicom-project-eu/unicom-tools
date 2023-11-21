@@ -1,6 +1,5 @@
 Instance: Stesolid-10mg-Solution-SE-IS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "9292"

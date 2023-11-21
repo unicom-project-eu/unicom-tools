@@ -1,6 +1,5 @@
 Instance: Aphiahsone-50mcg-Suspension-SE-IS-PackagedProductDefinition02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 3 http://spor.ema.europa.eu/v1/lists/200000000014#200000002111 "Bottle"

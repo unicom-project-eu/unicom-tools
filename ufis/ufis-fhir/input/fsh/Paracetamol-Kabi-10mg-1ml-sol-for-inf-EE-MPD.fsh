@@ -1,6 +1,5 @@
 Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073870 "Solution for infusion"

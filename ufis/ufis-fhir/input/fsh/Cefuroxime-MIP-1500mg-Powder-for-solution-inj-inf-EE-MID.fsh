@@ -1,6 +1,5 @@
 Instance: Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-MID
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000074038 "Solution for injection/infusion"

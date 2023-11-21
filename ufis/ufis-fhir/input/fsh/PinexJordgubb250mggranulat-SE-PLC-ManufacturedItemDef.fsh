@@ -1,6 +1,5 @@
 Instance: PinexJordgubb250mggranulat-SE-PLC-ManufacturedItemDef
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000125743 "Granules in sachet"

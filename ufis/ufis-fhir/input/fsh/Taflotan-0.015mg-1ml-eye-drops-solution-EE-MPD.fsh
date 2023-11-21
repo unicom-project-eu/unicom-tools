@@ -1,6 +1,5 @@
 Instance: Taflotan-0.015mg-1ml-eye-drops-solution-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073759 "Eye drops, solution"

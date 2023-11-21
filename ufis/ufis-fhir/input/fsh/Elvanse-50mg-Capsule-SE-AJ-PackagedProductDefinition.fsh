@@ -1,6 +1,5 @@
 Instance: Elvanse-50mg-Capsule-SE-AJ-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

@@ -1,6 +1,5 @@
 Instance: Zoladex-3.6mg-Implant-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "062494"

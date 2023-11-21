@@ -1,11 +1,10 @@
 Instance: Klexane100000IEinjektion-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Klexane100000IEinjektion-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(Klexane100000IEinjektion-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinition/Klexane100000IEinjektion-SE-PLC-AdminProductDef)
+* for[+] = Reference(Klexane100000IEinjektion-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090152 "Enoxaparin sodium"
 

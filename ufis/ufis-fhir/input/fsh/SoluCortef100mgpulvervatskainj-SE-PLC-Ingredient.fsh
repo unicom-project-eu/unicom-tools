@@ -1,11 +1,10 @@
 Instance: SoluCortef100mgpulvervatskainj-SE-PLC-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinition/SoluCortef100mgpulvervatskainj-SE-PLC-AdminProductDef)
+* for[+] = Reference(SoluCortef100mgpulvervatskainj-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092550 "Hydrocortisone sodium succinate"
 * substance.strength.presentationRatio.numerator = 134 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

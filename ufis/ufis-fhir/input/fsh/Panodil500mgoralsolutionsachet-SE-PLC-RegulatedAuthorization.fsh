@@ -1,6 +1,5 @@
 Instance: Panodil500mgoralsolutionsachet-SE-PLC-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "12391"

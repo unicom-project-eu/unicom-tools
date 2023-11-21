@@ -1,6 +1,5 @@
 Instance: Curocef1500mgPulver-A-HL-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 
@@ -24,16 +23,7 @@ Usage: #inline
 * classification[=].coding = $100000093533#100000096183 "J01DC02"
 
 * classification[=].coding = $100000155526#100000155527 "Chemical"
-* attachedDocument = Reference(DocumentReference/Curocef1500mgPulver-A-HL-DocumentReference01)
-* masterFile = Reference(mfl1)
-* contact[+].type.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* contact[=].type.coding.extension.valueInteger = 1
-* contact[=].type.coding = $100000154441#100000155057 "Qualified Person in the EEA for Pharmacovigilance"
-* contact[=].contact = Reference(qppv1)
-* contact[+].type.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
-* contact[=].type.coding.extension.valueInteger = 3
-* contact[=].type.coding = $100000154441#200000017719
-* contact[=].contact = Reference(phvenq1)
+
 * name.productName = "Curocef 1500 mg Pulver zur Herstellung einer Injektions- oder Infusionslösung"
 * name.part[+].part = "Curocef"
 * name.part[=].type.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"

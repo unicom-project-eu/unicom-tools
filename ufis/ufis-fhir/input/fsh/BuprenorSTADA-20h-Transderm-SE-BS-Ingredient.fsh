@@ -1,11 +1,10 @@
 Instance: BuprenorSTADA-20h-Transderm-SE-BS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(BuprenorSTADA-20h-Transderm-SE-BS-MedicinalProductDefinition)
 * for[+] = Reference(BuprenorSTADA-20h-Transderm-SE-BS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/BuprenorSTADA-20h-Transderm-SE-BS-AdministrableProductDefinition)
+* for[+] = Reference(BuprenorSTADA-20h-Transderm-SE-BS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000085263 "Buprenorphine"
 * substance.strength.presentationRatio.numerator = 20 http://spor.ema.europa.eu/v1/lists/100000110633#100000166092 "microgram(s)/hour"

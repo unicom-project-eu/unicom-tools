@@ -1,6 +1,5 @@
 Instance: MorfinMeda-10mg-Tablet-SE-BS-ManufacturedItemDefinition
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073664 "Tablet"

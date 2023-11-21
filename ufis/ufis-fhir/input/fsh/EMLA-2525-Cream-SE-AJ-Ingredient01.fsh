@@ -1,6 +1,5 @@
 Instance: EMLA-2525-Cream-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(EMLA-2525-Cream-SE-AJ-MedicinalProductDefinition)

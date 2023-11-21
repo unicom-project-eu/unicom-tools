@@ -1,6 +1,5 @@
 Instance: MorfinEpMeda-10mgml-Solution-SE-BS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004~200000000006~200000000007~200000000008#100000073863 "Solution for injection"

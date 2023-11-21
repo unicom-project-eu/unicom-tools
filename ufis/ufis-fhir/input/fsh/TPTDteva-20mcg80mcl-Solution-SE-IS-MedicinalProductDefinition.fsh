@@ -1,6 +1,5 @@
 Instance: TPTDteva-20mcg80mcl-Solution-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000007#100000074039 "Solution for injection in pre-filled pen"

@@ -1,6 +1,5 @@
 Instance: JMJ-Humalog-Mix50-Kwikpen-package
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * name = "Humalog Mix50 100 units/ml KwikPen, suspension for injection in a pre-filled pen; pack of 5 3ml pens"
 * packageFor = Reference(JMJ-Humalog-Mix50-Kwikpen-product-example)

@@ -1,11 +1,10 @@
 Instance: Taflotan-0.015mg-1ml-eye-drops-solution-EE-I
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Taflotan-0.015mg-1ml-eye-drops-solution-EE-MPD)
 * for[+] = Reference(Taflotan-0.015mg-1ml-eye-drops-solution-EE-MID)
-* for[+] = Reference(AdministrableProductDefinition/Taflotan-0.015mg-1ml-eye-drops-solution-EE-APD)
+* for[+] = Reference(Taflotan-0.015mg-1ml-eye-drops-solution-EE-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000115886 "Tafluprost"
 * substance.strength[+].presentationRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"

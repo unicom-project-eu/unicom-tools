@@ -1,11 +1,10 @@
 Instance: Anafranil-12mgml-Solution-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Anafranil-12mgml-Solution-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(Anafranil-12mgml-Solution-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/Anafranil-12mgml-Solution-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(Anafranil-12mgml-Solution-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090503 "Clomipramine hydrochloride"
 

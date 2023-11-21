@@ -1,6 +1,5 @@
 Instance: VoltarenT50mgFilmtablet-SE-PLC-ManufacturedItemDef
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073380 "Coated tablet"

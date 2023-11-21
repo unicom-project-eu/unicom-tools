@@ -1,6 +1,5 @@
 Instance: Diclofenac-Mylan-180mg-Medicated-plaster-EE-PPD-1788420
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002140 "Plaster"

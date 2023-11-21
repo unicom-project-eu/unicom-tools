@@ -1,6 +1,5 @@
 Instance: AtomoxetinActavis-10mg-Capsule-SE-AJ-ManufacturedItemDef
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073375 "Capsule, hard"

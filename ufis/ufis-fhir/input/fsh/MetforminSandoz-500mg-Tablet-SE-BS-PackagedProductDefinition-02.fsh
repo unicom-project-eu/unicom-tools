@@ -1,6 +1,5 @@
 Instance: MetforminSandoz-500mg-Tablet-SE-BS-PackagedProductDefinition-02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * extension[+].url = "http://ema.europa.eu/fhir/extension/containedItemQuantity"
 * containedItemQuantity = 330 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

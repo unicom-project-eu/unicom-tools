@@ -1,6 +1,5 @@
 Instance: Toujeo-300units-ml-sol-inj-pen-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"

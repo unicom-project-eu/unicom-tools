@@ -1,6 +1,5 @@
 Instance: Betaklav-875mg-125mg-Film-coated-tablet-EE-PPD-1635230
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * language = #EE
 

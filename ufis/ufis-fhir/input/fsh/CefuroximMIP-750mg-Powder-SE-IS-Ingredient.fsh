@@ -1,11 +1,10 @@
 Instance: CefuroximMIP-750mg-Powder-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(CefuroximMIP-750mg-Powder-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(CefuroximMIP-750mg-Powder-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/CefuroximMIP-750mg-Powder-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(CefuroximMIP-750mg-Powder-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091436 "cefuroxime sodium"
 

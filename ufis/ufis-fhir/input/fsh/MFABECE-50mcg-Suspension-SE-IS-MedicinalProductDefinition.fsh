@@ -1,6 +1,5 @@
 Instance: MFABECE-50mcg-Suspension-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073809 "Nasal spray, suspension"

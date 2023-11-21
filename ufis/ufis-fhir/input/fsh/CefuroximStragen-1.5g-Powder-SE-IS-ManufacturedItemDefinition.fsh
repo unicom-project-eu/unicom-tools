@@ -1,6 +1,5 @@
 Instance: CefuroximStragen-1.5g-Powder-SE-IS-ManufacturedItemDefinition
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000116186 "Powder for solution for injection/infusion"

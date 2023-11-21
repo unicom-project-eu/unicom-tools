@@ -1,6 +1,5 @@
 Instance: bb8c2306-04c5-42df-94c9-aa6d6e68050b
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 * classification = $100000096162#100000096162 "amoxicillin and beta-lactamase inhibitor"
 * name.productName = "Augmentin 500 mg + 125 mg Comprimido revestido por película"

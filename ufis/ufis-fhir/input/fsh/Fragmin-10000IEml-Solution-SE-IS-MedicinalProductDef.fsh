@@ -1,6 +1,5 @@
 Instance: Fragmin-10000IEml-Solution-SE-IS-MedicinalProductDef
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073863 "Solution for injection"

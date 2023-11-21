@@ -1,6 +1,5 @@
 Instance: Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "805813"

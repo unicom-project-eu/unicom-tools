@@ -1,6 +1,5 @@
 Instance: Xylocain-Dental-Adrenalin-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-MedicinalProductDefinition)

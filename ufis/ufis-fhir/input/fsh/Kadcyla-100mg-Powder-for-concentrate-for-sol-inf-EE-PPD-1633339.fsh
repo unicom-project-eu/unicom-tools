@@ -1,6 +1,5 @@
 Instance: Kadcyla-100mg-Powder-for-concentrate-for-sol-inf-EE-PPD-1633339
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"

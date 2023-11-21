@@ -1,6 +1,5 @@
 Instance: Mydrane-InjSol-SE-AJ-PackagedProductDefinition01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 20 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"

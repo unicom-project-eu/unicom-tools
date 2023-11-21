@@ -1,6 +1,5 @@
 Instance: DZPorifarm-5mg-Solution-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073664 "Tablet"

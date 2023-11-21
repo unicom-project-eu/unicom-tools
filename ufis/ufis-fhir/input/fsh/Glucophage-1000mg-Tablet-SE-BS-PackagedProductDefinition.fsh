@@ -1,6 +1,5 @@
 Instance: Glucophage-1000mg-Tablet-SE-BS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 60 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

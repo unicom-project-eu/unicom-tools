@@ -1,6 +1,5 @@
 Instance: Tegretol-20mgml-Suspension-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Tegretol-20mgml-Suspension-SE-AJ-MedicinalProductDefinition)

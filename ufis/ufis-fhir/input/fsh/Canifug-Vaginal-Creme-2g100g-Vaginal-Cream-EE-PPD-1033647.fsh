@@ -1,6 +1,5 @@
 Instance: Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-PPD-1033647
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"

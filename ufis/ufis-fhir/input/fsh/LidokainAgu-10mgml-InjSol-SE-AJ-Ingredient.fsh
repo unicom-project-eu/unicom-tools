@@ -1,6 +1,5 @@
 Instance: LidokainAgu-10mgml-InjSol-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(LidokainAgu-10mgml-InjSol-SE-AJ-MedicinalProductDefinition)

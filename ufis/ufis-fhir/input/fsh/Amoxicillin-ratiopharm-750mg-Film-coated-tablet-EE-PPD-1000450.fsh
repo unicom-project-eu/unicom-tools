@@ -1,6 +1,5 @@
 Instance: Amoxicillin-ratiopharm-750mg-Film-coated-tablet-EE-PPD-1000450
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

@@ -1,6 +1,5 @@
 Instance: Amoxicillin-ratiopharm-750mg-Film-coated-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "000792"

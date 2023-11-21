@@ -1,6 +1,5 @@
 Instance: DepoMedrolcumLido-4010-SE-AJ-Ingredient02
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(DepoMedrolcumLido-4010-SE-AJ-MedicinalProductDefinition)

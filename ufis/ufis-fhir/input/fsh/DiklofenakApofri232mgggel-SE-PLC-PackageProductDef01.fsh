@@ -1,6 +1,5 @@
 Instance: DiklofenakApofri232mgggel-SE-PLC-PackageProductDef01
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002156 "Tube"

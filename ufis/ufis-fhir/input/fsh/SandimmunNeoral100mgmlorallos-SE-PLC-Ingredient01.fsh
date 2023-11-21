@@ -1,11 +1,10 @@
 Instance: SandimmunNeoral100mgmlorallos-SE-PLC-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinition/SandimmunNeoral100mgmlorallos-SE-PLC-AdminProductDef)
+* for[+] = Reference(SandimmunNeoral100mgmlorallos-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092121 "Ciclosporin"
 

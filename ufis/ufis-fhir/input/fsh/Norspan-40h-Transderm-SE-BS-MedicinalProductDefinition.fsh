@@ -1,6 +1,5 @@
 Instance: Norspan-40h-Transderm-SE-BS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073741 "Transdermal patch"

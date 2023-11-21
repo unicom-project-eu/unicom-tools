@@ -1,6 +1,5 @@
 Instance: Anafranil-25mg-Coated-tablet-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073380 "Coated tablet"

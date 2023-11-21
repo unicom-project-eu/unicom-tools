@@ -1,6 +1,5 @@
 Instance: JMJ-Monuril-UK-authorisation-example
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "PL 31654/0006"

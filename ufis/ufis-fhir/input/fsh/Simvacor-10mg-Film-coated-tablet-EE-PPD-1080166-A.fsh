@@ -1,6 +1,5 @@
 Instance: Simvacor-10mg-Film-coated-tablet-EE-PPD-1080166-A
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 30 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

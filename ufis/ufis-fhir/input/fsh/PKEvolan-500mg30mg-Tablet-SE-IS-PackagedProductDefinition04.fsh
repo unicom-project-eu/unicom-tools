@@ -1,6 +1,5 @@
 Instance: PKEvolan-500mg30mg-Tablet-SE-IS-PackagedProductDefinition04
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 14 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

@@ -1,6 +1,5 @@
 Instance: Hydrocortisone-DAK-10mg1g-Ointment-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "242998"

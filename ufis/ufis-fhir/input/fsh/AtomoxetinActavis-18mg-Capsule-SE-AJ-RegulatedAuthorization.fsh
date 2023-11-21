@@ -1,6 +1,5 @@
 Instance: AtomoxetinActavis-18mg-Capsule-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "52683"

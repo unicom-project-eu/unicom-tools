@@ -1,6 +1,5 @@
 Instance: 7f81d47e-9a74-44b3-8ed7-07990093d878
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 * language = #EN
 

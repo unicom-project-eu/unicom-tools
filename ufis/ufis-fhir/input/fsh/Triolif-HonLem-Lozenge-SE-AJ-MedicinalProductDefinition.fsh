@@ -1,6 +1,5 @@
 Instance: Triolif-HonLem-Lozenge-SE-AJ-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073703 "Lozenge"

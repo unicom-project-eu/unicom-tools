@@ -1,6 +1,5 @@
 Instance: JMJ-Humalog-UK-authorisation-example
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * subject = Reference(JMJ-Humalog-Kwikpen-product-example)
 * type = $220000000060#220000000061 "Marketing Authorisation"

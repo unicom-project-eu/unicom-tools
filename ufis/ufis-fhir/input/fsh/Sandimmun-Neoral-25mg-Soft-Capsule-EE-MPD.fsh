@@ -1,6 +1,5 @@
 Instance: Sandimmun-Neoral-25mg-Soft-Capsule-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073660 "Capsule, soft"

@@ -1,11 +1,10 @@
 Instance: Citodon-1g60mg-Suppository-SE-IS-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Citodon-1g60mg-Suppository-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(Citodon-1g60mg-Suppository-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/Citodon-1g60mg-Suppository-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(Citodon-1g60mg-Suppository-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090270 "Paracetamol"
 

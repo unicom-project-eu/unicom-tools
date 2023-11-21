@@ -1,6 +1,5 @@
 Instance: Lido4-Fluor25-EyeDropsSol-SE-AJ-Ingredient02
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-MedicinalProductDefinition)

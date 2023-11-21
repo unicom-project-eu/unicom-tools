@@ -1,6 +1,5 @@
 Instance: Maxilene-40mg-cream-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Maxilene-40mg-cream-SE-AJ-MedicinalProductDefinition)

@@ -1,6 +1,5 @@
 Instance: AtomoxetinActavis-18mg-Capsule-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(AtomoxetinActavis-18mg-Capsule-SE-AJ-MedicinalProductDef)

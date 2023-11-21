@@ -1,6 +1,5 @@
 Instance: MorfinKalceks-10mgml-Solution-SE-BS-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50259"

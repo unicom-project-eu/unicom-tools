@@ -1,6 +1,5 @@
 Instance: Attentin-10mg-Tablet-SE-AJ-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 50 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

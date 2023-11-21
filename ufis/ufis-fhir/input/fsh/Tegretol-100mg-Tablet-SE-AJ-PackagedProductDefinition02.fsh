@@ -1,6 +1,5 @@
 Instance: Tegretol-100mg-Tablet-SE-AJ-PackagedProductDefinition02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 200 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

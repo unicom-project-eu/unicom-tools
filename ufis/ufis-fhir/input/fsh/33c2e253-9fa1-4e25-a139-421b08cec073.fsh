@@ -1,6 +1,5 @@
 Instance: 33c2e253-9fa1-4e25-a139-421b08cec073
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "50618"

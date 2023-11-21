@@ -1,6 +1,5 @@
 Instance: ITZactavis-100mg-Cap-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 14 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

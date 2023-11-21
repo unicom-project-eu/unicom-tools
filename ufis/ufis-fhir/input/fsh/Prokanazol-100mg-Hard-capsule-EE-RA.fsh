@@ -1,6 +1,5 @@
 Instance: Prokanazol-100mg-Hard-capsule-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "439504"

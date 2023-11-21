@@ -1,6 +1,5 @@
 Instance: Diclac-10mg1g-Gel-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"

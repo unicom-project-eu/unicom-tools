@@ -1,6 +1,5 @@
 Instance: Tramadol-KRKA-100mg-Prolonged-release-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "331200"

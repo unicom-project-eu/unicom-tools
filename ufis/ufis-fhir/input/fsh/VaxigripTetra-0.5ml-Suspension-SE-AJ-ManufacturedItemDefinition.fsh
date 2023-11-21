@@ -1,6 +1,5 @@
 Instance: VaxigripTetra-0.5ml-Suspension-SE-AJ-ManufacturedItemDefinition
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073864 "suspension for injection"

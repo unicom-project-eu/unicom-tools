@@ -1,6 +1,5 @@
 Instance: MXL-30mg-prolonged-release-hard-capsule-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073662 "Prolonged-release capsule, hard"

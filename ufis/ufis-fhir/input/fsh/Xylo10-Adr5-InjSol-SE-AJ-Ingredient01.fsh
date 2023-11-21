@@ -1,6 +1,5 @@
 Instance: Xylo10-Adr5-InjSol-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Xylo10-Adr5-InjSol-SE-AJ-MedicinalProductDefinition)

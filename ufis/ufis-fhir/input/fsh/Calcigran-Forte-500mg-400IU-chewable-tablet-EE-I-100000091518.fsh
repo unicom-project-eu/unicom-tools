@@ -1,11 +1,10 @@
 Instance: Calcigran-Forte-500mg-400IU-chewable-tablet-EE-I-100000091518
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Calcigran-Forte-500mg-400IU-chewable-tablet-EE-MPD)
 * for[+] = Reference(Calcigran-Forte-500mg-400IU-chewable-tablet-EE-MID)
-* for[+] = Reference(AdministrableProductDefinition/Calcigran-Forte-500mg-400IU-chewable-tablet-EE-APD)
+* for[+] = Reference(Calcigran-Forte-500mg-400IU-chewable-tablet-EE-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091518 "Calcium carbonate"
 

@@ -1,6 +1,5 @@
 Instance: MorfinMeda-10mg-Tablet-SE-BS-PackagedProductDefinition-03
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 49 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

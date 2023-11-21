@@ -1,6 +1,5 @@
 Instance: LidPrilAlterNova-2525-Cream-SE-AJ-ManufacturedItemDefinition
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#100000073712 "Cream"

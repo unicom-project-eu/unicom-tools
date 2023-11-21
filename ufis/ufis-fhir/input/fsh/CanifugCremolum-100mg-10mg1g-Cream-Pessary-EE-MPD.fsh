@@ -1,6 +1,5 @@
 Instance: CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000008#100000173972 "Cream + pessary"

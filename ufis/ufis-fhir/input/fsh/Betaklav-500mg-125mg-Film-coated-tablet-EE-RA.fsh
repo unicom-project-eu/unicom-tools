@@ -1,6 +1,5 @@
 Instance: Betaklav-500mg-125mg-Film-coated-tablet-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "879415"

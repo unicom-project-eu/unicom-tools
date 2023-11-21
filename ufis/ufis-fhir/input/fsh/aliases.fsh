@@ -57,3 +57,8 @@ Alias: $220000000061 = https://spor.ema.europa.eu/v1/lists/220000000060/terms/22
 Alias: $100000072251 = https://spor.ema.europa.eu/v1/lists/100000072057/terms/100000072251
 Alias: $100000073665 = https://spor.ema.europa.eu/v1/lists/200000000004/terms/100000073665
 Alias: $100000072072 = https://spor.ema.europa.eu/v1/lists/100000072050/terms/100000072072
+
+
+Alias: $100000073345 = https://spor.ema.europa.eu/v1/lists/100000073345
+Alias: $200000002152 = https://spor.ema.europa.eu/v1/lists/200000000014/terms/200000002152
+Alias: $100000073619 = https://spor.ema.europa.eu/v1/lists/100000073345/terms/100000073619

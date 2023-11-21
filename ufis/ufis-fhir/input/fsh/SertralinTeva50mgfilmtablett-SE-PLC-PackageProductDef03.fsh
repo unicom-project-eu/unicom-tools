@@ -1,6 +1,5 @@
 Instance: SertralinTeva50mgfilmtablett-SE-PLC-PackageProductDef03
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 250 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

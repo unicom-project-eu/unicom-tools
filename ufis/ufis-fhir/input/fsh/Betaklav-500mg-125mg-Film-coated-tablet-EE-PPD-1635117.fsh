@@ -1,6 +1,5 @@
 Instance: Betaklav-500mg-125mg-Film-coated-tablet-EE-PPD-1635117
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 10 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

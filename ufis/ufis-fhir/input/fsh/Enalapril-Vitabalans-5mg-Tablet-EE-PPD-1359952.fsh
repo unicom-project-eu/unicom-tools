@@ -1,6 +1,5 @@
 Instance: Enalapril-Vitabalans-5mg-Tablet-EE-PPD-1359952
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablets"

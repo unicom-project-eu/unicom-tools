@@ -1,6 +1,5 @@
 Instance: Nobligan50mgkapselhard-SE-PLC-PackageProductDef
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002109 "Blister"

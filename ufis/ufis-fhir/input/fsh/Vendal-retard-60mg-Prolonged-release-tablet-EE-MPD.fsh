@@ -1,6 +1,5 @@
 Instance: Vendal-retard-60mg-Prolonged-release-tablet-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073683 "Prolonged-release tablet"

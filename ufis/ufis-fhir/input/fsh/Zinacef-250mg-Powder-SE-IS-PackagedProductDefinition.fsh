@@ -1,6 +1,5 @@
 Instance: Zinacef-250mg-Powder-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "Vial"

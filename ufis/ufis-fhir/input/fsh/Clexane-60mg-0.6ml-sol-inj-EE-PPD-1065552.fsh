@@ -1,6 +1,5 @@
 Instance: Clexane-60mg-0.6ml-sol-inj-EE-PPD-1065552
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 2 http://spor.ema.europa.eu/v1/lists/200000000014#200000002150 "Syringe"

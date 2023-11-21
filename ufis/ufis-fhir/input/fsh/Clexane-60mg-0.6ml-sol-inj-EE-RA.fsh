@@ -1,6 +1,5 @@
 Instance: Clexane-60mg-0.6ml-sol-inj-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "940517"

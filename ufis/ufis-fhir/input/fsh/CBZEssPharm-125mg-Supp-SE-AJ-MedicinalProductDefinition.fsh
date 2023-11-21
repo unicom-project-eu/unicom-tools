@@ -1,6 +1,5 @@
 Instance: CBZEssPharm-125mg-Supp-SE-AJ-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073843 "Suppository"

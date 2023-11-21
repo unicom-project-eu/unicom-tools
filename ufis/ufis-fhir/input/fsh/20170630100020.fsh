@@ -1,6 +1,5 @@
 Instance: 20170630100020
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * language = #EN
 

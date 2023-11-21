@@ -1,6 +1,5 @@
 Instance: Diclofenac-Mylan-180mg-Medicated-plaster-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "1008820"

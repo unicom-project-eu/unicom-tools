@@ -1,6 +1,5 @@
 Instance: Canifug-Vaginal-Creme-2g100g-Vaginal-Cream-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "260599"

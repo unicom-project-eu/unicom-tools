@@ -1,6 +1,5 @@
 Instance: Kadcyla-100mg-Powder-for-concentrate-for-sol-inf-EE-RA
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "EU/1/13/885"

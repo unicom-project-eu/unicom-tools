@@ -1,6 +1,5 @@
 Instance: Gasec-Gastrocaps-40mg-Hard-Capsules-EE-PPD-1112814-A
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 14 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

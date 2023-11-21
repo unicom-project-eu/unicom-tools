@@ -1,6 +1,5 @@
 Instance: Smofkabiven-Emulsion-SE-IS-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 * extension[+].url = "http://ema.europa.eu/fhir/extension/authorisedDoseForm"
 * extension[=].valueCoding = $200000000006#100000075575 "Solution for infusion in administration system"

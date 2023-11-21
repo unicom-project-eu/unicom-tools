@@ -1,11 +1,10 @@
 Instance: Anafranil-25mg-Tablet-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Anafranil-25mg-Tablet-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(Anafranil-25mg-Tablet-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/Anafranil-25mg-Tablet-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(Anafranil-25mg-Tablet-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090503 "Clomipramine hydrochloride"
 * substance.strength.presentationRatio.numerator = 25 http://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

@@ -1,6 +1,5 @@
 Instance: BupTest-5h-Transderm-SE-BS-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(BupTest-5h-Transderm-SE-BS-MedicinalProductDefinition)

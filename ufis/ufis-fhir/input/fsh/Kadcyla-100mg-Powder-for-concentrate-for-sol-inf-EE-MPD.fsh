@@ -1,6 +1,5 @@
 Instance: Kadcyla-100mg-Powder-for-concentrate-for-sol-inf-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000074029 "Powder for concentrate for solution for infusion"

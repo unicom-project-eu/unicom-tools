@@ -1,6 +1,5 @@
 Instance: Trombyl160mgtablett-SE-PLC-ManufacturedItemDef
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * status = #active
 * manufacturedDoseForm = $200000000004#200000002152 "Tablet"

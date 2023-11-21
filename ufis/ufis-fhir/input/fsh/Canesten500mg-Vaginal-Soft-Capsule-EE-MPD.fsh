@@ -1,6 +1,5 @@
 Instance: Canesten500mg-Vaginal-Soft-Capsule-EE-MPD
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073816 "Vaginal capsule, soft"

@@ -1,6 +1,5 @@
 Instance: JMJ-Humalog-Mix50-UK-authorisation-example
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "EU/1/96/007/035"

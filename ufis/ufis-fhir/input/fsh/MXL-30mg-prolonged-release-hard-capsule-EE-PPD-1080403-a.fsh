@@ -1,6 +1,5 @@
 Instance: MXL-30mg-prolonged-release-hard-capsule-EE-PPD-1080403-a
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 28 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

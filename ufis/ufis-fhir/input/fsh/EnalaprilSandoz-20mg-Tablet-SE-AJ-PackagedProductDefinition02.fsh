@@ -1,6 +1,5 @@
 Instance: EnalaprilSandoz-20mg-Tablet-SE-AJ-PackagedProductDefinition02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 250 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

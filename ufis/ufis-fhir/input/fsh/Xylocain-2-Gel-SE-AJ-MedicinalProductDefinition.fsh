@@ -1,6 +1,5 @@
 Instance: Xylocain-2-Gel-SE-AJ-MedicinalProductDefinition
 InstanceOf: PPLMedicinalProductDefinition
-Usage: #inline
 
 
 * combinedPharmaceuticalDoseForm = $200000000004#100000073726 "Gel"

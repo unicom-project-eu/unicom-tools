@@ -1,6 +1,5 @@
 Instance: 622306ee-a452-4498-b02b-7369712ae3e4
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 * language = #EE
 

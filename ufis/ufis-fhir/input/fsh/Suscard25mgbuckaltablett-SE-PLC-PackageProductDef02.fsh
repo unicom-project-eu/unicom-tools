@@ -1,6 +1,5 @@
 Instance: Suscard25mgbuckaltablett-SE-PLC-PackageProductDef02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 90 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "Tablet"

@@ -1,6 +1,5 @@
 Instance: ITZSTADA-100mg-Cap-SE-IS-PackagedProductDefinition03
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 4 http://spor.ema.europa.eu/v1/lists/200000000014#200000002113 "Capsule"

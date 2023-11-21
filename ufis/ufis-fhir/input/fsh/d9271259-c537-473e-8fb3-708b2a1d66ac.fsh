@@ -1,6 +1,5 @@
 Instance: d9271259-c537-473e-8fb3-708b2a1d66ac
 InstanceOf: PPLManufacturedItemDefinition
-Usage: #inline
 
 * extension.url = "http://ema.europa.eu/fhir/extension/subject"
 * extension.valueReference = Reference(d37bfa6f-ea90-4645-8be4-e7c649dd64f2)

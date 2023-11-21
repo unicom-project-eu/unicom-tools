@@ -1,6 +1,5 @@
 Instance: EnalaprilSandoz-20mg-Tablet-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "15986"

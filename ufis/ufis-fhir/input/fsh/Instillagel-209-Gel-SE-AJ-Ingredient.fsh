@@ -1,6 +1,5 @@
 Instance: Instillagel-209-Gel-SE-AJ-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Instillagel-209-Gel-SE-AJ-MedicinalProductDefinition)

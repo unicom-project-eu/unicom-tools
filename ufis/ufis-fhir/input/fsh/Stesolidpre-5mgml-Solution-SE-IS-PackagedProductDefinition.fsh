@@ -1,6 +1,5 @@
 Instance: Stesolidpre-5mgml-Solution-SE-IS-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 2 http://spor.ema.europa.eu/v1/lists/200000000014#100000110655 "milligram(s)"

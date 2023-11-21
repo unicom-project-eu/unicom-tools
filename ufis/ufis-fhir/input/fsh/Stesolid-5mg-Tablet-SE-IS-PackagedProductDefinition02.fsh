@@ -1,6 +1,5 @@
 Instance: Stesolid-5mg-Tablet-SE-IS-PackagedProductDefinition02
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 100 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

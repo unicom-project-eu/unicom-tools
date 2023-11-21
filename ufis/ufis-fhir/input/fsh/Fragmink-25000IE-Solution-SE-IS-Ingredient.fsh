@@ -1,11 +1,10 @@
 Instance: Fragmink-25000IE-Solution-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Fragmink-25000IE-Solution-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(ManufacturedItemDefinition/Fragmink-25000IE-Solution-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/Fragmink-25000IE-Solution-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(Fragmink-25000IE-Solution-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091301 "dalteparin sodium"
 

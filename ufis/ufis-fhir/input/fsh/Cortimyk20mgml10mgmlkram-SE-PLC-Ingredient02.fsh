@@ -1,11 +1,10 @@
 Instance: Cortimyk20mgml10mgmlkram-SE-PLC-Ingredient02
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-MedicinalProductDef)
 * for[+] = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinition/Cortimyk20mgml10mgmlkram-SE-PLC-AdminProductDef)
+* for[+] = Reference(Cortimyk20mgml10mgmlkram-SE-PLC-AdminProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091859 "Miconazole nitrate"
 

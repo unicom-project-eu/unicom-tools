@@ -1,11 +1,10 @@
 Instance: MFapofri-50mcg-Suspension-SE-IS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(MFapofri-50mcg-Suspension-SE-IS-MedicinalProductDefinition)
 * for[+] = Reference(MFapofri-50mcg-Suspension-SE-IS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/MFapofri-50mcg-Suspension-SE-IS-AdministrableProductDefinition)
+* for[+] = Reference(MFapofri-50mcg-Suspension-SE-IS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000137366 "Mometasone furoate monohydrate"
 

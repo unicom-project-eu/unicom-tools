@@ -1,11 +1,10 @@
 Instance: Dolcontin-5mg-Tablet-SE-BS-Ingredient
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Dolcontin-5mg-Tablet-SE-BS-MedicinalProductDefinition)
 * for[+] = Reference(Dolcontin-5mg-Tablet-SE-BS-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinition/Dolcontin-5mg-Tablet-SE-BS-AdministrableProductDefinition)
+* for[+] = Reference(Dolcontin-5mg-Tablet-SE-BS-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090222 "Morphine sulfate pentahydrate"
 * substance.strength.presentationRatio.numerator = 5 http://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

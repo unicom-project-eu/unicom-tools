@@ -1,6 +1,5 @@
 Instance: Renitec-10mg-Tablet-SE-AJ-PackagedProductDefinition
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 98 http://spor.ema.europa.eu/v1/lists/200000000014#200000002152 "tablet"

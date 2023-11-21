@@ -1,6 +1,5 @@
 Instance: Yaz-0023mg-tablet-SE-AJ-Ingredient03
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Yaz-0023mg-tablet-SE-AJ-MedicinalProductDefinition)

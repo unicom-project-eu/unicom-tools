@@ -1,6 +1,5 @@
 Instance: AtomoxetinMedValley-10mg-Capsule-SE-AJ-RegulatedAuthorization
 InstanceOf: PPLRegulatedAuthorization
-Usage: #inline
 
 * identifier.system = "http://ema.europa.eu/fhir/marketingAuthorizationNumber"
 * identifier.value = "53534"

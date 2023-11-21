@@ -1,6 +1,5 @@
 Instance: Tapin-2525-Plaster-SE-AJ-Ingredient01
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(Tapin-2525-Plaster-SE-AJ-MedicinalProductDefinition)

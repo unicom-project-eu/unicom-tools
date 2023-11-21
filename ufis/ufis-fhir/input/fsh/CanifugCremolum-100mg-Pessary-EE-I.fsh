@@ -1,11 +1,10 @@
 Instance: CanifugCremolum-100mg-Pessary-EE-I
 InstanceOf: PPLIngredient
-Usage: #inline
 
 * status = #active
 * for[0] = Reference(CanifugCremolum-100mg-10mg1g-Cream-Pessary-EE-MPD)
 * for[+] = Reference(CanifugCremolum-100mg-Pessary-EE-MID)
-* for[+] = Reference(AdministrableProductDefinition/CanifugCremolum-100mg-Pessary-EE-APD)
+* for[+] = Reference(CanifugCremolum-100mg-Pessary-EE-APD)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092074 "CLOTRIMAZOLE"
 * substance.strength.presentationRatio.numerator = 100 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

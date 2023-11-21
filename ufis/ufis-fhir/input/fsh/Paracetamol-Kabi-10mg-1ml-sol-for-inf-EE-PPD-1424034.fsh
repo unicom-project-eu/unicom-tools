@@ -1,6 +1,5 @@
 Instance: Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-PPD-1424034
 InstanceOf: PPLPackagedProductDefinition
-Usage: #inline
 
 
 * containedItemQuantity = 1 http://spor.ema.europa.eu/v1/lists/200000000014#200000002158 "vial"
