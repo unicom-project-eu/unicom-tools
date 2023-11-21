@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Xylocain-100mgml-cutspray-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xylocain-100mgml-cutspray-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionXylocain-100mgml-cutspray-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Xylocain-100mgml-cutspray-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091713 "Lidocaine"
 

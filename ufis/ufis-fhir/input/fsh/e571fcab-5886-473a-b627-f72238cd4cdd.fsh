@@ -7,7 +7,8 @@ InstanceOf: PPLRegulatedAuthorization
 * contained.identifier.value = "LOC-100002296"
 * subject = Reference(bb8c2306-04c5-42df-94c9-aa6d6e68050b)
 * type = $220000000060#220000000061 "Marketing Authorisation"
-* holder = Reference(1) "Glaxosmithkline Produtos Farmaceuticos Lda."
+//DUMMY
+* holder = Reference(LOC-100000549) "Glaxosmithkline Produtos Farmaceuticos Lda."
 //DUMMY
 * identifier.value = "dummy"
 //DUMMY

@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionLido4-Fluor25-EyeDropsSol-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000089870 "Fluorescein sodium"
 

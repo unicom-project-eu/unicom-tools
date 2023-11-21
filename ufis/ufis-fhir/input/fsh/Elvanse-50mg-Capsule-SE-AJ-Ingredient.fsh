@@ -4,8 +4,8 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Elvanse-50mg-Capsule-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Elvanse-50mg-Capsule-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionElvanse-50mg-Capsule-SE-AJ-AdministrableProductDefinition01)
-* for[+] = Reference(AdministrableProductDefinitionElvanse-50mg-Capsule-SE-AJ-AdministrableProductDefinition02)
+* for[+] = Reference(Elvanse-50mg-Capsule-SE-AJ-AdministrableProductDefinition01)
+* for[+] = Reference(Elvanse-50mg-Capsule-SE-AJ-AdministrableProductDefinition02)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000124520 "lisdexamfetamine dimesylate"
 * substance.strength.presentationRatio.numerator = 50 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

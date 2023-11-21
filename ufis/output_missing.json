@@ -1,0 +1,1636 @@
+{
+    "resourceType": "Bundle",
+    "id": "27ffa04e9b47c89fcff2850f0962d2dd8986b7e75cf16ba121a8c271810357b4",
+    "type": "collection",
+    "entry": [
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "TrimonilR-200mg-PRTablet-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/TrimonilR-200mg-PRTablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073683",
+                            "display": "Prolonged-release tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/TrimonilR-200mg-PRTablet-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/TrimonilR-200mg-PRTablet-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "TrimonilR-150mg-PRTablet-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/TrimonilR-150mg-PRTablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073683",
+                            "display": "Prolonged-release tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/TrimonilR-150mg-PRTablet-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/TrimonilR-150mg-PRTablet-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Triolif-Orange-Lozenge-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Triolif-Orange-Lozenge-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073703",
+                            "display": "Lozenge"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Triolif-Orange-Lozenge-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073621",
+                                    "display": "Oropharyngeal use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073620",
+                                    "display": "Oromucosal use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Triolif-Orange-Lozenge-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "TegretolR-400mg-PRTablet-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/TegretolR-400mg-PRTablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073683",
+                            "display": "Prolonged-release tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/TegretolR-400mg-PRTablet-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/TegretolR-400mg-PRTablet-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Tegretol-200mg-Tablet-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Tegretol-200mg-Tablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073664",
+                            "display": "Tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Tegretol-200mg-Tablet-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Tegretol-200mg-Tablet-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Tegretol-20mgml-Suspension-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Tegretol-20mgml-Suspension-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073362",
+                            "display": "Oral suspension"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Tegretol-20mgml-Suspension-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Tegretol-20mgml-Suspension-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "TrimonilR-400mg-PRTablet-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/TrimonilR-400mg-PRTablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073683",
+                            "display": "Prolonged-release tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/TrimonilR-400mg-PRTablet-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/TrimonilR-400mg-PRTablet-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylocain-2-Gel-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylocain-2-Gel-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073726",
+                            "display": "Gel"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylocain-2-Gel-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073628",
+                                    "display": "Rectal use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073638",
+                                    "display": "Urethral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylocain-2-Gel-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylo10-Adr5-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylo10-Adr5-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylo10-Adr5-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073624",
+                                    "display": "Perineural use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073572",
+                                    "display": "Epidural use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000075248",
+                                    "display": "Inflitration"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylo10-Adr5-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylocain-10mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylocain-10mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylocain-10mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073611",
+                                    "display": "Intravenous use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073572",
+                                    "display": "Epidural use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073624",
+                                    "display": "Perineural use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylocain-10mgml-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Triolif-HonLem-Lozenge-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Triolif-HonLem-Lozenge-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073703",
+                            "display": "Lozenge"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Triolif-HonLem-Lozenge-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073621",
+                                    "display": "Oropharyngeal use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073620",
+                                    "display": "Oromucosal use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Triolif-HonLem-Lozenge-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Tapin-2525-Plaster-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Tapin-2525-Plaster-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073714",
+                            "display": "Medicated plaster"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Tapin-2525-Plaster-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073566",
+                                    "display": "Cutaneous use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Tapin-2525-Plaster-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "LidPrilAlterNova-2525-Cream-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/LidPrilAlterNova-2525-Cream-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073712",
+                            "display": "Cream"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/LidPrilAlterNova-2525-Cream-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073566",
+                                    "display": "Cutaneous use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/LidPrilAlterNova-2525-Cream-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "LidokainAgu-20mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/LidokainAgu-20mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/LidokainAgu-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073595",
+                                    "display": "Intradermal use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073633",
+                                    "display": "Subcutaneous use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000075554",
+                                    "display": "Submucosal use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/LidokainAgu-20mgml-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Tapin-2525-Cream-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Tapin-2525-Cream-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073712",
+                            "display": "Cream"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Tapin-2525-Cream-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073566",
+                                    "display": "Cutaneous use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Tapin-2525-Cream-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylocain-Dental-Adrenalin-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylocain-Dental-Adrenalin-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073624",
+                                    "display": "Perineural use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000075248",
+                                    "display": "Infiltration"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylocain-Dental-Adrenalin-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Yaz-0023mg-tablet-SE-AJ-AdministrableProductDefinition01",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Yaz-0023mg-tablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073665",
+                            "display": "Film-coated tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Yaz-0023mg-tablet-SE-AJ-ManufacturedItemDefinition01"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Yaz-0023mg-tablet-SE-AJ-AdministrableProductDefinition01"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylocain-WOP-2-Gel-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylocain-WOP-2-Gel-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073726",
+                            "display": "Gel"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylocain-WOP-2-Gel-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073628",
+                                    "display": "Rectal use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073638",
+                                    "display": "Urethral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylocain-WOP-2-Gel-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Lido4-Fluor25-EyeDropsSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Lido4-Fluor25-EyeDropsSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073759",
+                            "display": "Eye drops, solution"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Lido4-Fluor25-EyeDropsSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073617",
+                                    "display": "Ocular use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Lido4-Fluor25-EyeDropsSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "LidoMylan-10mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/LidoMylan-10mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/LidoMylan-10mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073611",
+                                    "display": "Intravenous use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073572",
+                                    "display": "Epidural use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073624",
+                                    "display": "Perineural use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/LidoMylan-10mgml-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Yasminelle28-tablet-SE-AJ-AdministrableProductDefinition01",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Yasminelle28-tablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073665",
+                            "display": "Film-coated tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Yasminelle28-tablet-SE-AJ-ManufacturedItemDefinition01"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Yasminelle28-tablet-SE-AJ-AdministrableProductDefinition01"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "LidokainAgu-10mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/LidokainAgu-10mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/LidokainAgu-10mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073595",
+                                    "display": "Intradermal use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073633",
+                                    "display": "Subcutaneous use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000075554",
+                                    "display": "Submucosal use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/LidokainAgu-10mgml-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylocain-WOP-10mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylocain-WOP-10mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylocain-WOP-10mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073611",
+                                    "display": "Intravenous use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073572",
+                                    "display": "Epidural use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073624",
+                                    "display": "Perineural use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylocain-WOP-10mgml-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylocard-20mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylocard-20mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylocard-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073611",
+                                    "display": "Intravenous use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylocard-20mgml-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "TegretolR-200mg-PRTablet-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/TegretolR-200mg-PRTablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073683",
+                            "display": "Prolonged-release tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/TegretolR-200mg-PRTablet-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/TegretolR-200mg-PRTablet-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Tegretol-400mg-Tablet-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Tegretol-400mg-Tablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073664",
+                            "display": "Tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Tegretol-400mg-Tablet-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Tegretol-400mg-Tablet-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Tegretol-100mg-Tablet-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Tegretol-100mg-Tablet-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073664",
+                            "display": "Tablet"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Tegretol-100mg-Tablet-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073619",
+                                    "display": "Oral use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Tegretol-100mg-Tablet-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylocain-20mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylocain-20mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylocain-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073611",
+                                    "display": "Intravenous use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073572",
+                                    "display": "Epidural use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073624",
+                                    "display": "Perineural use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylocain-20mgml-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xylocain-100mgml-cutspray-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xylocain-100mgml-cutspray-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073729",
+                            "display": "Cutaneous spray, solution"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xylocain-100mgml-cutspray-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073566",
+                                    "display": "Cutaneous use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xylocain-100mgml-cutspray-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Xyloproct-RectalOintment-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Xyloproct-RectalOintment-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073828",
+                            "display": "Rectal Ointment"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Xyloproct-RectalOintment-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073628",
+                                    "display": "Rectal use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Xyloproct-RectalOintment-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "LidoAcc-20mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/LidoAcc-20mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073863",
+                            "display": "Solution for injection"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/LidoAcc-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073611",
+                                    "display": "Intravenous use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073572",
+                                    "display": "Epidural use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073633",
+                                    "display": "Subcutaneous use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073600",
+                                    "display": "Intramuscular use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/LidoAcc-20mgml-InjSol-SE-AJ-AdministrableProductDefinition"
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "AdministrableProductDefinition",
+                "id": "Triolif-Mint-Lozenge-SE-AJ-AdministrableProductDefinition",
+                "status": "active",
+                "formOf": [
+                    {
+                        "reference": "MedicinalProductDefinition/Triolif-Mint-Lozenge-SE-AJ-MedicinalProductDefinition"
+                    }
+                ],
+                "administrableDoseForm": {
+                    "coding": [
+                        {
+                            "system": "http://spor.ema.europa.eu/v1/lists/200000000004",
+                            "code": "100000073703",
+                            "display": "Lozenge"
+                        }
+                    ]
+                },
+                "producedFrom": [
+                    {
+                        "reference": "ManufacturedItemDefinition/Triolif-Mint-Lozenge-SE-AJ-ManufacturedItemDefinition"
+                    }
+                ],
+                "routeOfAdministration": [
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073621",
+                                    "display": "Oropharyngeal use"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "code": {
+                            "coding": [
+                                {
+                                    "system": "http://spor.ema.europa.eu/v1/lists/100000073345",
+                                    "code": "100000073620",
+                                    "display": "Oromucosal use"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "request": {
+                "method": "PUT",
+                "url": "AdministrableProductDefinition/Triolif-Mint-Lozenge-SE-AJ-AdministrableProductDefinition"
+            }
+        }
+    ]
+}

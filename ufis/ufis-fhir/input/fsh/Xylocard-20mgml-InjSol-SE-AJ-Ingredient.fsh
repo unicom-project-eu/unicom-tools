@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Xylocard-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xylocard-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionXylocard-20mgml-InjSol-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Xylocard-20mgml-InjSol-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090563 "Lidocaine hydrochloride monohydrate"
 

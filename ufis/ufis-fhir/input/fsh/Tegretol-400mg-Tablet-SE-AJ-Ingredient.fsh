@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Tegretol-400mg-Tablet-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Tegretol-400mg-Tablet-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionTegretol-400mg-Tablet-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Tegretol-400mg-Tablet-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092127 "Carbamazepine"
 * substance.strength.presentationRatio.numerator = 400 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

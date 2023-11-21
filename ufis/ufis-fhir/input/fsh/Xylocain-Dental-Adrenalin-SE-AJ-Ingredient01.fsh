@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionXylocain-Dental-Adrenalin-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Xylocain-Dental-Adrenalin-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090563 "Lidocaine hydrochloride monohydrate"
 

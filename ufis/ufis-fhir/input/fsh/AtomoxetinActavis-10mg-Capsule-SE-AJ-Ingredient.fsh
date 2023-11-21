@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(AtomoxetinActavis-10mg-Capsule-SE-AJ-MedicinalProductDef)
 * for[+] = Reference(AtomoxetinActavis-10mg-Capsule-SE-AJ-ManufacturedItemDef)
-* for[+] = Reference(AdministrableProductDefinitionAtomoxetinActavis-10mg-Capsule-SE-AJ-AdministrableProductDef)
+* for[+] = Reference(AtomoxetinActavis-10mg-Capsule-SE-AJ-AdministrableProductDef)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000137397 "Atomoxetine hydrochloride"
 * substance.strength.presentationRatio.numerator = 11.43 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

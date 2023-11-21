@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(LidoMylan-10mgml-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(LidoMylan-10mgml-InjSol-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionLidoMylan-10mgml-InjSol-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(LidoMylan-10mgml-InjSol-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090563 "Lidocaine hydrochloride monohydrate"
 

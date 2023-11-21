@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Xyloproct-RectalOintment-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Xyloproct-RectalOintment-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionXyloproct-RectalOintment-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Xyloproct-RectalOintment-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092260 "Hydrocortisone acetate"
 

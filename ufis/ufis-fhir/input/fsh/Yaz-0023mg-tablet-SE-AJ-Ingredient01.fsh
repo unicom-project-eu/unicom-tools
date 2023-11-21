@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Yaz-0023mg-tablet-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Yaz-0023mg-tablet-SE-AJ-ManufacturedItemDefinition01)
-* for[+] = Reference(AdministrableProductDefinitionYaz-0023mg-tablet-SE-AJ-AdministrableProductDefinition01)
+* for[+] = Reference(Yaz-0023mg-tablet-SE-AJ-AdministrableProductDefinition01)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091531 "Ethinylestradiol betadex clathrate"
 * substance.strength.presentationRatio.numerator = 173.17 https://spor.ema.europa.eu/v1/lists/100000110633#100000110656 "microgram(s)"

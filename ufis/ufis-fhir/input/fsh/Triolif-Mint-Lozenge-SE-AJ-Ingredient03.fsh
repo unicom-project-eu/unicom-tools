@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Triolif-Mint-Lozenge-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Triolif-Mint-Lozenge-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionTriolif-Mint-Lozenge-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Triolif-Mint-Lozenge-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092427 "2,4 dichlorobenzyl alcohol"
 * substance.strength.presentationRatio.numerator = 1.2 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

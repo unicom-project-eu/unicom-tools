@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(LidoAcc-20mgml-InjSol-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(LidoAcc-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionLidoAcc-20mgml-InjSol-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(LidoAcc-20mgml-InjSol-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090563 "Lidocaine hydrochloride monohydrate"
 

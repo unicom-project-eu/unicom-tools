@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Tegretol-20mgml-Suspension-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Tegretol-20mgml-Suspension-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionTegretol-20mgml-Suspension-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Tegretol-20mgml-Suspension-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000092127 "Carbamazepine"
 

@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Tapin-2525-Cream-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Tapin-2525-Cream-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionTapin-2525-Cream-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Tapin-2525-Cream-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091713 "Lidocaine"
 

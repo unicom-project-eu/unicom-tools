@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Instillagel-209-Gel-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Instillagel-209-Gel-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionInstillagel-209-Gel-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Instillagel-209-Gel-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090563 "Lidocaine hydrochloride monohydrate"
 

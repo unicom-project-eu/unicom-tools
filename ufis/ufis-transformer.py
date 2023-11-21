@@ -103,6 +103,17 @@ for file in listdir(FOLDER):
 
         contents = contents.replace("Usage: #inline\n", "")
 
+        ##non just numeric ids
+        contents = re.sub(r"Reference\((\d{3,20})\)$", r"Reference(j\1)", contents)
+        contents = re.sub(r"resource = (\d{3,20})$", r"resource = j\1", contents)
+        contents = re.sub(r"Instance: (\d{3,20})\n", r"Instance: j\1 \n", contents)
+
+        # Instance: 20170630100020
+
+        contents = contents.replace(
+            '* holder = Reference(1) "Glaxosmithkline Produtos Farmaceuticos Lda."',
+            '//DUMMY\n* holder = Reference(LOC-100000549) "Glaxosmithkline Produtos Farmaceuticos Lda."',
+        )
         contents = contents.replace("$220000000060_1", "$220000000060")
         contents = contents.replace("$200000000004_1", "$200000000004")
         contents = contents.replace("$100000000004_1", "$100000000004")
@@ -349,6 +360,12 @@ for file in listdir(FOLDER):
 
             contents = re.sub(
                 r"Reference\(AdministrableProductDefinition\/(.+)\)",
+                r"Reference(\1)",
+                contents,
+            )
+
+            contents = re.sub(
+                r"Reference\(AdministrableProductDefinition(.+)\)",
                 r"Reference(\1)",
                 contents,
             )

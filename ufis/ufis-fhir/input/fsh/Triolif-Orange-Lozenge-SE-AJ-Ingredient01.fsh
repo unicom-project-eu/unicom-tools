@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(Triolif-Orange-Lozenge-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionTriolif-Orange-Lozenge-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(Triolif-Orange-Lozenge-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000090563 "Lidocaine hydrochloride monohydrate"
 * substance.strength.presentationRatio.numerator = 2.13 https://spor.ema.europa.eu/v1/lists/100000110633#100000110655 "milligram(s)"

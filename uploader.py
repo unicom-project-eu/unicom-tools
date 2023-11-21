@@ -21,8 +21,9 @@ ORDER_LIST = [
     "PackagedProductDefinition",
     "Bundle",
 ]
-f = open("validation_output.txt", "a")
-
+errors = 0
+f = open("validation_output.txt", "w")
+f.write("starting...\n")
 f.close()
 for item in ORDER_LIST:
     for file in listdir(FOLDER):
@@ -50,10 +51,16 @@ for item in ORDER_LIST:
                 x = requests.put(SERVER + "/" + res + "/" + id_, json=data)
                 # print(x.status_code)
                 if x.status_code == 400:
+                    errors += 1
                     print(res)
                     print(x.text)
                     f = open("validation_output.txt", "a")
                     f.write(res)
+                    f.write("\n")
+                    f.write(file)
+                    f.write("\n")
                     f.write(x.text)
                     f.write("\n")
                     f.close()
+
+print("errors", errors)

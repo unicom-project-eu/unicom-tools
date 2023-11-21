@@ -4,7 +4,7 @@ InstanceOf: PPLIngredient
 * status = #active
 * for[0] = Reference(DepoMedrolcumLido-4010-SE-AJ-MedicinalProductDefinition)
 * for[+] = Reference(DepoMedrolcumLido-4010-SE-AJ-ManufacturedItemDefinition)
-* for[+] = Reference(AdministrableProductDefinitionDepoMedrolcumLido-4010-SE-AJ-AdministrableProductDefinition)
+* for[+] = Reference(DepoMedrolcumLido-4010-SE-AJ-AdministrableProductDefinition)
 * role = $100000072050#100000072072 "Active"
 * substance.code.concept = $SubstanceDefinition#100000091568 "Methylprednisolone acetate"
 
