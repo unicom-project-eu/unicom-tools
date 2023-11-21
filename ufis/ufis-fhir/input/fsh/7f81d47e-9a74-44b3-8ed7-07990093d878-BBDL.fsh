@@ -10,11 +10,11 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/33c2e253-9fa1-4e25-a139-421b08cec073"
-* entry[+].resource = 20170630100099
+* entry[+].resource = j20170630100099 
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/PackagedProductDefinition/20170630100099"
-* entry[+].resource = 20170630100020
+* entry[+].resource = j20170630100020 
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/PackagedProductDefinition/20170630100020"

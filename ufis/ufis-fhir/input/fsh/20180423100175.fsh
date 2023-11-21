@@ -3,7 +3,7 @@ InstanceOf: PPLPackagedProductDefinition
 
 
 * containedItemQuantity = 5 http://spor.ema.europa.eu/v1/lists/200000000014#200000002164 "Ampoule"
-* packageFor = Reference(20180126000017)
+* packageFor = Reference(j20180126000017) 
 * description = "Ampull, 5 x 4 ml"
 * marketingStatus.country = $100000000002#100000000535 "Sweden"
 * marketingStatus.status = $100000072052#100000072075 "Marketed"

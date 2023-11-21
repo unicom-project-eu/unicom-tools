@@ -2,7 +2,7 @@ Instance: 20180126000017-BBDL
 InstanceOf: Bundle
 Usage: #example
 * type = #collection
-* entry[+].resource = 20180126000017
+* entry[+].resource = j20180126000017 
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/MedicinalProductDefinition/20180126000017"
@@ -10,7 +10,7 @@ Usage: #example
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/RegulatedAuthorization/MTnr57470"
-* entry[+].resource = 20180423100175
+* entry[+].resource = j20180423100175 
 
 
 * entry[=].fullUrl = "https://hl7-eu.github.io/unicom-ig/branches/mpd-r4b/PackagedProductDefinition/20180423100175"

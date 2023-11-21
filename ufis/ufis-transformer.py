@@ -104,8 +104,8 @@ for file in listdir(FOLDER):
         contents = contents.replace("Usage: #inline\n", "")
 
         ##non just numeric ids
-        contents = re.sub(r"Reference\((\d{3,20})\)$", r"Reference(j\1)", contents)
-        contents = re.sub(r"resource = (\d{3,20})$", r"resource = j\1", contents)
+        contents = re.sub(r"Reference\((\d{3,20})\)\n", r"Reference(j\1) \n", contents)
+        contents = re.sub(r"resource = (\d{3,20})\n", r"resource = j\1 \n", contents)
         contents = re.sub(r"Instance: (\d{3,20})\n", r"Instance: j\1 \n", contents)
 
         # Instance: 20170630100020

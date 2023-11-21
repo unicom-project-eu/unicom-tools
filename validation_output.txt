@@ -1,18 +1,4 @@
 starting...
-MedicinalProductDefinition
-MedicinalProductDefinition-20180126000017.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0960: Can not create resource with ID[20180126000017], no resource with this ID exists and clients may only assign IDs which contain at least one non-numeric character</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0960: Can not create resource with ID[20180126000017], no resource with this ID exists and clients may only assign IDs which contain at least one non-numeric character"
-  } ]
-}
 Ingredient
 Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient04.json
 {
@@ -89,12 +75,12 @@ Ingredient-Fragmink-25000IE-Solution-SE-IS-Ingredient.json
   "resourceType": "OperationOutcome",
   "text": {
     "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-1094: Resource ManufacturedItemDefinition/Fragmink-25000IE-Solution-SE-IS-ManufacturedItemDefinition not found, specified in path: Ingredient.for</td></tr></table></div>"
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmink-25000IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
   },
   "issue": [ {
     "severity": "error",
     "code": "processing",
-    "diagnostics": "HAPI-1094: Resource ManufacturedItemDefinition/Fragmink-25000IE-Solution-SE-IS-ManufacturedItemDefinition not found, specified in path: Ingredient.for"
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmink-25000IE-Solution-SE-IS-AdministrableProductDefinition"
   } ]
 }
 Ingredient
@@ -714,20 +700,6 @@ Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient07.json
   } ]
 }
 PackagedProductDefinition
-PackagedProductDefinition-20170630100020.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0960: Can not create resource with ID[20170630100020], no resource with this ID exists and clients may only assign IDs which contain at least one non-numeric character</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0960: Can not create resource with ID[20170630100020], no resource with this ID exists and clients may only assign IDs which contain at least one non-numeric character"
-  } ]
-}
-PackagedProductDefinition
 PackagedProductDefinition-Glytrin04mgdossublingualspray-SE-PLC-PackageProductDef.json
 {
   "resourceType": "OperationOutcome",
@@ -739,33 +711,5 @@ PackagedProductDefinition-Glytrin04mgdossublingualspray-SE-PLC-PackageProductDef
     "severity": "error",
     "code": "processing",
     "diagnostics": "HAPI-1094: Resource ManufacturedItemDefinition/ProductnameStrengthPharmaceuticaldoseform-SE-PLC-ManufacturedItemDef not found, specified in path: PackagedProductDefinition.packaging.containedItem.item.reference"
-  } ]
-}
-PackagedProductDefinition
-PackagedProductDefinition-20170630100099.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0960: Can not create resource with ID[20170630100099], no resource with this ID exists and clients may only assign IDs which contain at least one non-numeric character</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0960: Can not create resource with ID[20170630100099], no resource with this ID exists and clients may only assign IDs which contain at least one non-numeric character"
-  } ]
-}
-PackagedProductDefinition
-PackagedProductDefinition-20180423100175.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0960: Can not create resource with ID[20180423100175], no resource with this ID exists and clients may only assign IDs which contain at least one non-numeric character</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0960: Can not create resource with ID[20180423100175], no resource with this ID exists and clients may only assign IDs which contain at least one non-numeric character"
   } ]
 }
