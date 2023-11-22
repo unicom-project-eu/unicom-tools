@@ -5,12 +5,20 @@ import json
 
 # FOLDER = "ee-PPLCreator-v2/fhir-data/fsh-generated/resources"
 # FOLDER = "ee-PPLCreator-v3/fhir-data/fsh-generated/resources"
-# FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
-FOLDER = "ufis/ufis-fhir/fsh-generated/resources"
+FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
+# FOLDER = "ufis/ufis-fhir/fsh-generated/resources"
 
-SERVER = "http://fhir.hl7.pt:8080/fhir/"
+SERVER = "http://fhir.hl7.pt:8787/fhir/"
 # SERVER = "https://jpa.unicom.datawizard.it/fhir/"
 
+blacklist_ids = [
+    "JMJ-Co-amoxiclav-product-example",
+    "JMJ-Humalog-Kwikpen-product-example",
+    "JMJ-Humalog-Mix50-Kwikpen-product-example",
+    "JMJ-Monuril-product-example",
+    "d37bfa6f-ea90-4645-8be4-e7c649dd64f2",
+    "bb8c2306-04c5-42df-94c9-aa6d6e68050b",
+]
 ORDER_LIST = [
     "Organization",
     "MedicinalProductDefinition",
@@ -48,6 +56,8 @@ for item in ORDER_LIST:
                 f = open(FOLDER + "/" + file)
                 data = json.load(f)
                 id_ = data["id"]
+                if id_ in blacklist_ids:
+                    continue
                 x = requests.put(SERVER + "/" + res + "/" + id_, json=data)
                 # print(x.status_code)
                 if x.status_code == 400:
