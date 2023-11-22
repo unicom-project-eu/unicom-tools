@@ -1,4 +1,18 @@
 starting...
+AdministrableProductDefinition
+AdministrableProductDefinition-Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - Fragmink-12500IE-Solution-SE-IS-MedicinalProductDefinition</td></tr></table></div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - Fragmink-12500IE-Solution-SE-IS-MedicinalProductDefinition"
+  } ]
+}
 Ingredient
 Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient04.json
 {
@@ -28,20 +42,6 @@ Ingredient-Bamyl500mgtablett-SE-PLC-Ingredient.json
   } ]
 }
 Ingredient
-Ingredient-Fragmin-10000IEml-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-10000IEml-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-10000IEml-Solution-SE-IS-AdministrableProductDefinition"
-  } ]
-}
-Ingredient
 Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient08.json
 {
   "resourceType": "OperationOutcome",
@@ -67,20 +67,6 @@ Ingredient-Trombyl160mgtablett-SE-PLC-Ingredient02.json
     "severity": "error",
     "code": "processing",
     "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef"
-  } ]
-}
-Ingredient
-Ingredient-Fragmink-25000IE-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmink-25000IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmink-25000IE-Solution-SE-IS-AdministrableProductDefinition"
   } ]
 }
 Ingredient
@@ -221,20 +207,6 @@ Ingredient-Yasminelle-tablet-SE-AJ-Ingredient02.json
     "severity": "error",
     "code": "processing",
     "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Yasminelle-tablet-SE-AJ-AdministrableProductDefinition01"
-  } ]
-}
-Ingredient
-Ingredient-Fragmin-18000IE-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-18000IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-18000IE-Solution-SE-IS-AdministrableProductDefinition"
   } ]
 }
 Ingredient
@@ -420,20 +392,6 @@ Ingredient-AtomoxetinGlenmark-10mg-Capsule-SE-AJ-Ingredient.json
   } ]
 }
 Ingredient
-Ingredient-Fragmin-2500IEml-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-2500IEml-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-2500IEml-Solution-SE-IS-AdministrableProductDefinition"
-  } ]
-}
-Ingredient
 Ingredient-Yasminelle-tablet-SE-AJ-Ingredient01.json
 {
   "resourceType": "OperationOutcome",
@@ -504,48 +462,6 @@ Ingredient-CBZEssPharm-250mg-Supp-SE-AJ-Ingredient.json
   } ]
 }
 Ingredient
-Ingredient-Fragmink-10000IE-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmink-10000IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmink-10000IE-Solution-SE-IS-AdministrableProductDefinition"
-  } ]
-}
-Ingredient
-Ingredient-Fragmin-10000IE-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-10000IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-10000IE-Solution-SE-IS-AdministrableProductDefinition"
-  } ]
-}
-Ingredient
-Ingredient-Fragmin-7500IE-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-7500IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-7500IE-Solution-SE-IS-AdministrableProductDefinition"
-  } ]
-}
-Ingredient
 Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient10.json
 {
   "resourceType": "OperationOutcome",
@@ -602,48 +518,6 @@ Ingredient-Zoladex-3.6mg-Implant-EE-I.json
   } ]
 }
 Ingredient
-Ingredient-Fragmin-2500IE-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-2500IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-2500IE-Solution-SE-IS-AdministrableProductDefinition"
-  } ]
-}
-Ingredient
-Ingredient-Fragmin-15000IE-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-15000IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-15000IE-Solution-SE-IS-AdministrableProductDefinition"
-  } ]
-}
-Ingredient
-Ingredient-Fragmin-5000IE-Solution-SE-IS-Ingredient.json
-{
-  "resourceType": "OperationOutcome",
-  "text": {
-    "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-5000IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
-  },
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-5000IE-Solution-SE-IS-AdministrableProductDefinition"
-  } ]
-}
-Ingredient
 Ingredient-Trombyl160mgtablett-SE-PLC-Ingredient01.json
 {
   "resourceType": "OperationOutcome",
@@ -677,12 +551,12 @@ Ingredient-Fragmin-12500IE-Solution-SE-IS-Ingredient.json
   "resourceType": "OperationOutcome",
   "text": {
     "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition</td></tr></table></div>"
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td>HAPI-1094: Resource AdministrableProductDefinition/Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition not found, specified in path: Ingredient.for</td></tr></table></div>"
   },
   "issue": [ {
     "severity": "error",
     "code": "processing",
-    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition"
+    "diagnostics": "HAPI-1094: Resource AdministrableProductDefinition/Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition not found, specified in path: Ingredient.for"
   } ]
 }
 Ingredient

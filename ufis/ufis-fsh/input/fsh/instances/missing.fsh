@@ -806,3 +806,136 @@ Usage: #inline
 * producedFrom = Reference(ManufacturedItemDefinition/Triolif-Mint-Lozenge-SE-AJ-ManufacturedItemDefinition)
 * routeOfAdministration[0].code = $100000073345#100000073621 "Oropharyngeal use"
 * routeOfAdministration[+].code = $100000073345#100000073620 "Oromucosal use"
+
+
+
+Instance: Fragmin-7500IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmin-7500IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-7500IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+
+Instance: Fragmin-15000IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmin-15000IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-15000IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+Instance: Fragmin-2500IEml-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmin-2500IEml-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-2500IEml-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+Instance: Fragmin-5000IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmin-5000IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-5000IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+Instance: Fragmin-10000IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmin-10000IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-10000IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+Instance: Fragmin-18000IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmin-18000IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-18000IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+Instance: Fragmin-10000IEml-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmin-10000IEml-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-10000IEml-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+
+Instance: Fragmink-10000IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmink-10000IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmink-10000IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+Instance: Fragmink-25000IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmink-25000IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-2500IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+Instance: Fragmin-2500IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmink-25000IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-2500IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+Instance: Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(MedicinalProductDefinition/Fragmink-12500IE-Solution-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073863 "Solution for injection"
+* producedFrom = Reference(ManufacturedItemDefinition/Fragmin-12500IE-Solution-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+
+
+Instance: Fragmink-25000IE-Solution-SE-IS-ManufacturedItemDefinition
+InstanceOf: ManufacturedItemDefinition
+Usage: #inline
+* status = #active
+* manufacturedDoseForm = $200000000004#100000073863 "Solution for injection"
+* unitOfPresentation = $200000000014#200000002158 "Vial"
