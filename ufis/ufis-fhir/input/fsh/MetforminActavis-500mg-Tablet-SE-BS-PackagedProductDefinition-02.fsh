@@ -26,7 +26,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding[+].system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding[=].code = #200000003219
 * packaging.packaging.material.coding[=].display = "PolyPropylene"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/MetforminActavis-500mg-Tablet-SE-BS-ManufacturedItemDefinition"
+* packaging.packaging.containedItem.item.reference = Reference(MetforminActavis-500mg-Tablet-SE-BS-ManufacturedItemDefinition)
 * packaging.packaging.containedItem.amount.value = 100
 * packaging.packaging.containedItem.amount.code = #200000002152
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"

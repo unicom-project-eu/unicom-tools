@@ -13,4 +13,4 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.type.coding.code = #100000073496
 * packaging.packaging.type.coding.display = "Blister"
 * packaging.packaging.quantity = 1
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/cade57d9-734e-4b1a-83a0-743b8af67174"
+* packaging.packaging.containedItem.item.reference = Reference(cade57d9-734e-4b1a-83a0-743b8af67174)

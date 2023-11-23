@@ -23,5 +23,5 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003204
 * packaging.packaging.material.coding.display = "Glass type I"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-MID"
+* packaging.packaging.containedItem.item.reference = Reference(Cefuroxime-MIP-1500mg-Powder-for-solution-inj-inf-EE-MID)
 * packaging.packaging.containedItem.amount.value = 1

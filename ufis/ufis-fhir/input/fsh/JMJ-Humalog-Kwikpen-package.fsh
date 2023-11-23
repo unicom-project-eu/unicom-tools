@@ -21,7 +21,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.type.coding[=].code = #100000073498
 * packaging.type.coding[=].display = "Box"
 * packaging.quantity = 1
-* packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/JMJ-Humalog-Kwikpen-manufacturedItem-example"
+* packaging.containedItem.item.reference = Reference(JMJ-Humalog-Kwikpen-manufacturedItem-example)
 * packaging.containedItem.amount.value = 4
 * packaging.containedItem.amount.code = #MilliLiter
 * packaging.containedItem.amount.system = "http://unitsofmeasure.org"

@@ -55,7 +55,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003214
 * packaging.packaging.material[=].coding.display = "PolyEthylene"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/IMASTADA-400mg-Tablet-SE-IS-ManufacturedItemDefinition"
+* packaging.packaging.containedItem.item.reference = Reference(IMASTADA-400mg-Tablet-SE-IS-ManufacturedItemDefinition)
 * packaging.packaging.containedItem.amount.value = 30
 * packaging.packaging.containedItem.amount.code = #200000002152
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/200000000014"

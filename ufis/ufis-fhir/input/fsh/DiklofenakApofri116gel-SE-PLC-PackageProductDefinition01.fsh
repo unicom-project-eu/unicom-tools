@@ -14,7 +14,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.material.coding.code = #200000003529
 * packaging.material.coding.display = "Cardboard"
-* packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/DiklofenakApofri116gel-SE-PLC-ManufacturedItemDefinition"
+* packaging.containedItem.item.reference = Reference(DiklofenakApofri116gel-SE-PLC-ManufacturedItemDefinition)
 * packaging.containedItem.amount.value = 1
 * packaging.containedItem.amount.code = #200000002156
 * packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"

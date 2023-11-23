@@ -23,7 +23,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003203
 * packaging.packaging.material.coding.display = "Glass"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MID"
+* packaging.packaging.containedItem.item.reference = Reference(Valocordin-Diazepam-10mg-1ml-Oral-drops-solution-EE-MID)
 * packaging.packaging.containedItem.amount.value = 25
 * packaging.packaging.containedItem.amount.code = #100000110662
 * packaging.packaging.containedItem.amount.system = "https://spor.ema.europa.eu/v1/lists/100000110633"

@@ -28,7 +28,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.type.coding[=].code = #100000073543
 * packaging.packaging.type.coding[=].display = "Pre-filled pen"
 * packaging.packaging.quantity = 5
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/JMJ-Humalog-Kwikpen-manufacturedItem-example"
+* packaging.packaging.containedItem.item.reference = Reference(JMJ-Humalog-Kwikpen-manufacturedItem-example)
 * packaging.packaging.containedItem.amount.value = 3
 * packaging.packaging.containedItem.amount.code = #MilliLiter
 * packaging.packaging.containedItem.amount.system = "http://unitsofmeasure.org"

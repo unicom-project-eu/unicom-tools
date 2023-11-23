@@ -34,7 +34,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003208
 * packaging.packaging.material[=].coding.display = "Plastic"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef"
+* packaging.packaging.containedItem.item.reference = Reference(HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef)
 * packaging.packaging.containedItem.amount.value = 50
 * packaging.packaging.containedItem.amount.code = #100000110654
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"

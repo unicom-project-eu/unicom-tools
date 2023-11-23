@@ -32,5 +32,5 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003222
 * packaging.packaging.material[=].coding.display = "PolyVinyl Chloride"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Canesten500mg-Vaginal-Soft-Capsule-EE-MID"
+* packaging.packaging.containedItem.item.reference = Reference(Canesten500mg-Vaginal-Soft-Capsule-EE-MID)
 * packaging.packaging.containedItem.amount.value = 1

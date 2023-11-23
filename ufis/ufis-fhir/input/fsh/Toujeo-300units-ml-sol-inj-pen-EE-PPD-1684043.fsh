@@ -23,7 +23,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003204
 * packaging.packaging.material.coding.display = "Glass type I"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Toujeo-300units-ml-sol-inj-pen-EE-MID"
+* packaging.packaging.containedItem.item.reference = Reference(Toujeo-300units-ml-sol-inj-pen-EE-MID)
 * packaging.packaging.containedItem.amount.value = 1.5
 * packaging.packaging.containedItem.amount.code = #100000110662
 * packaging.packaging.containedItem.amount.system = "https://spor.ema.europa.eu/v1/lists/100000110633"

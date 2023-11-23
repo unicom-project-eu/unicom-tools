@@ -28,7 +28,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.packaging.material.coding.code = #200000003203
 * packaging.packaging.packaging.material.coding.display = "Glass"
-* packaging.packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Fragmin-12500IE-Solution-SE-IS-ManufacturedItemDefinition"
+* packaging.packaging.packaging.containedItem.item.reference = Reference(Fragmin-12500IE-Solution-SE-IS-ManufacturedItemDefinition)
 * packaging.packaging.packaging.containedItem.amount.value = 1
 * packaging.packaging.packaging.containedItem.amount.code = #200000002150
 * packaging.packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/200000000014"

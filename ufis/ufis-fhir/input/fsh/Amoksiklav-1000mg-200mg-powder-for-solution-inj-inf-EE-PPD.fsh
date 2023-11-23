@@ -23,5 +23,5 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003203
 * packaging.packaging.material.coding.display = "Glass"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-MID"
+* packaging.packaging.containedItem.item.reference = Reference(Amoksiklav-1000mg-200mg-powder-for-solution-inj-inf-EE-MID)
 * packaging.packaging.containedItem.amount.value = 1

@@ -21,6 +21,6 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.type.coding[=].code = #100000073498
 * packaging.type.coding[=].display = "Box"
 * packaging.quantity = 1
-* packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/JMJ-Monuril-UK-manufacturedItem-example"
+* packaging.containedItem.item.reference = Reference(JMJ-Monuril-UK-manufacturedItem-example)
 //DUMMY
 * description = "dummy"

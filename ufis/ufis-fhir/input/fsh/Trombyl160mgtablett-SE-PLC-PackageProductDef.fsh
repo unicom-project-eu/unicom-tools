@@ -24,7 +24,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.shelfLifeStorage.specialPrecautionsForStorage.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073344"
 * packaging.shelfLifeStorage.specialPrecautionsForStorage.coding.code = #100000073425
 * packaging.shelfLifeStorage.specialPrecautionsForStorage.coding.display = "This medicinal product does not require any special temperature storage conditions"
-* packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Trombyl160mgtablett-SE-PLC-ManufacturedItemDef"
+* packaging.containedItem.item.reference = Reference(Trombyl160mgtablett-SE-PLC-ManufacturedItemDef)
 * packaging.containedItem.amount.value = 100
 * packaging.containedItem.amount.code = #200000002152
 * packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"

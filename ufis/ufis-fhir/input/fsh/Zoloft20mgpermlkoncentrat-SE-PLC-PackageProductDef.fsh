@@ -31,7 +31,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003206
 * packaging.packaging.material.coding.display = "Glass type III"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-ManufacturedItemDef"
+* packaging.packaging.containedItem.item.reference = Reference(Zoloft20mgpermlkoncentrat-SE-PLC-ManufacturedItemDef)
 * packaging.packaging.containedItem.amount.value = 60
 * packaging.packaging.containedItem.amount.code = #100000110662
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"

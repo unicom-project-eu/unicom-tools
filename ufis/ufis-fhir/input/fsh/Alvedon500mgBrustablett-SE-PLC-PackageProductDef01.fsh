@@ -14,7 +14,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.material.coding.code = #200000003208
 * packaging.material.coding.display = "Plastic"
-* packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Alvedon500mgBrustablett-SE-PLC-ManufacturedItemDef"
+* packaging.containedItem.item.reference = Reference(Alvedon500mgBrustablett-SE-PLC-ManufacturedItemDef)
 * packaging.containedItem.amount.value = 20
 * packaging.containedItem.amount.code = #200000002152
 * packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"

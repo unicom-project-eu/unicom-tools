@@ -32,7 +32,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003216
 * packaging.packaging.material[=].coding.display = "Low Density PolyEthylene"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Citodon-1g60mg-Suppository-SE-IS-ManufacturedItemDefinition"
+* packaging.packaging.containedItem.item.reference = Reference(Citodon-1g60mg-Suppository-SE-IS-ManufacturedItemDefinition)
 * packaging.packaging.containedItem.amount.value = 10
 * packaging.packaging.containedItem.amount.code = #200000002149
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/200000000014"

@@ -50,7 +50,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.packaging.material.coding.code = #200000003219
 * packaging.packaging.packaging.material.coding.display = "PolyPropylene"
-* packaging.packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Lido4-Fluor25-EyeDropsSol-SE-AJ-ManufacturedItemDefinition"
+* packaging.packaging.packaging.containedItem.item.reference = Reference(Lido4-Fluor25-EyeDropsSol-SE-AJ-ManufacturedItemDefinition)
 * packaging.packaging.packaging.containedItem.amount.value = 0.5
 * packaging.packaging.packaging.containedItem.amount.code = #100000110662
 * packaging.packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633"

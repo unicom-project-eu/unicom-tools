@@ -40,7 +40,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003204
 * packaging.packaging.material.coding.display = "Glass type I"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/InfluvacTetra-0.5ml-Suspension-SE-AJ-ManufacturedItemDefinition"
+* packaging.packaging.containedItem.item.reference = Reference(InfluvacTetra-0.5ml-Suspension-SE-AJ-ManufacturedItemDefinition)
 * packaging.packaging.containedItem.amount.value = 0.5
 * packaging.packaging.containedItem.amount.code = #100000110662
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633"

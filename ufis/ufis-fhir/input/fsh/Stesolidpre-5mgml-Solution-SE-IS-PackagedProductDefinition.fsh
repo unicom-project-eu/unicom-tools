@@ -33,7 +33,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003216
 * packaging.packaging.material[=].coding.display = "Low Density PolyEthylene"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Stesolidpre-5mgml-Solution-SE-IS-ManufacturedItemDefinition"
+* packaging.packaging.containedItem.item.reference = Reference(Stesolidpre-5mgml-Solution-SE-IS-ManufacturedItemDefinition)
 * packaging.packaging.containedItem.amount.value = 2
 * packaging.packaging.containedItem.amount.code = #100000110655
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633"

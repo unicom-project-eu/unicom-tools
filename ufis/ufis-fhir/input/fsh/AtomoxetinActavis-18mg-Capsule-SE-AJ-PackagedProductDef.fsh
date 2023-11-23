@@ -37,7 +37,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003225
 * packaging.packaging.material[=].coding.display = "PolyVinylidene Chloride"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/AtomoxetinActavis-18mg-Capsule-SE-AJ-ManufacturedItemDef"
+* packaging.packaging.containedItem.item.reference = Reference(AtomoxetinActavis-18mg-Capsule-SE-AJ-ManufacturedItemDef)
 * packaging.packaging.containedItem.amount.value = 14
 * packaging.packaging.containedItem.amount.code = #200000002113
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/200000000014"

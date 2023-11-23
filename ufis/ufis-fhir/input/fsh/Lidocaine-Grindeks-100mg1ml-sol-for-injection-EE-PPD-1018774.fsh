@@ -23,5 +23,5 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003203
 * packaging.packaging.material.coding.display = "Glass"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-MID"
+* packaging.packaging.containedItem.item.reference = Reference(Lidocaine-Grindeks-100mg1ml-sol-for-injection-EE-MID)
 * packaging.packaging.containedItem.amount.value = 1

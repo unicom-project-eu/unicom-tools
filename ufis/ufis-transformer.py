@@ -392,6 +392,12 @@ for file in listdir(FOLDER):
 * manufacturedDoseForm.coding.extension.valueInteger = 1\n""",
                 "",
             )
+            contents = contents.replace(
+                '* extension.url = "http://ema.europa.eu/fhir/extension/subject"', ""
+            )
+            contents = re.sub(
+                r"\* extension.valueReference = Reference\(.+\)", "", contents
+            )
 
         ####### PACKAGED PRODUCT DEFINITION ####################################
 
@@ -490,6 +496,12 @@ for file in listdir(FOLDER):
             )
             if "* description" not in contents:
                 contents += '\n//DUMMY\n* description = "dummy"'
+
+            contents = re.sub(
+                r'packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/(.+)"',
+                r"packaging.containedItem.item.reference = Reference(\1)",
+                contents,
+            )
         ####### RegulatedAuthorization ########################################################################
 
         if "InstanceOf: RegulatedAuthorization" in contents:

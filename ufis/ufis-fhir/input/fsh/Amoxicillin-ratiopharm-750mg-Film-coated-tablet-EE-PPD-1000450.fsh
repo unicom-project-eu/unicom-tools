@@ -26,5 +26,5 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003223
 * packaging.packaging.material[=].coding.display = "Plasticised PolyVinyl Chloride"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Amoxicillin-ratiopharm-750mg-Film-coated-tablet-EE-MID"
+* packaging.packaging.containedItem.item.reference = Reference(Amoxicillin-ratiopharm-750mg-Film-coated-tablet-EE-MID)
 * packaging.packaging.containedItem.amount.value = 10

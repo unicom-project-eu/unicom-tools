@@ -33,7 +33,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003207
 * packaging.packaging.material[=].coding.display = "Paper"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Espranor-2mg-Lyophilisate-SE-BS-ManufacturedItemDefinition"
+* packaging.packaging.containedItem.item.reference = Reference(Espranor-2mg-Lyophilisate-SE-BS-ManufacturedItemDefinition)
 * packaging.packaging.containedItem.amount.value = 1
 * packaging.packaging.containedItem.amount.code = #200000002152
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633"

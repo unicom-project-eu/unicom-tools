@@ -48,7 +48,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.packaging.material[=].coding.code = #200000003229
 * packaging.packaging.packaging.material[=].coding.display = "Steel"
-* packaging.packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Zoladex-10.8mg-Solution-SE-IS-ManufacturedItemDefinition"
+* packaging.packaging.packaging.containedItem.item.reference = Reference(Zoladex-10.8mg-Solution-SE-IS-ManufacturedItemDefinition)
 * packaging.packaging.packaging.containedItem.amount.value = 10.8
 * packaging.packaging.packaging.containedItem.amount.code = #100000110921
 * packaging.packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633"

@@ -23,5 +23,5 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003218
 * packaging.packaging.material.coding.display = "Polyolefin"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MID-1424056"
+* packaging.packaging.containedItem.item.reference = Reference(Paracetamol-Kabi-10mg-1ml-sol-for-inf-EE-MID-1424056)
 * packaging.packaging.containedItem.amount.value = 1

@@ -41,7 +41,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.packaging.material.coding.code = #200000003200
 * packaging.packaging.packaging.material.coding.display = "Aluminium"
-* packaging.packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Xylocain-2-Gel-SE-AJ-ManufacturedItemDefinition"
+* packaging.packaging.packaging.containedItem.item.reference = Reference(Xylocain-2-Gel-SE-AJ-ManufacturedItemDefinition)
 * packaging.packaging.packaging.containedItem.amount.value = 30
 * packaging.packaging.packaging.containedItem.amount.code = #100000110654
 * packaging.packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633"

@@ -20,5 +20,5 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.type.coding.code = #100000073544
 * packaging.packaging.type.coding.display = "Pre-filled syringe"
 * packaging.packaging.quantity = 1
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Zoladex-3.6mg-Implant-EE-MID"
+* packaging.packaging.containedItem.item.reference = Reference(Zoladex-3.6mg-Implant-EE-MID)
 * packaging.packaging.containedItem.amount.value = 1

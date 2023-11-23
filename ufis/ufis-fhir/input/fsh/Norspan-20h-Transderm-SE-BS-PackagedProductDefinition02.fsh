@@ -33,7 +33,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding[+].system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding[=].code = #200000012515
 * packaging.packaging.material.coding[=].display = "Ethylene acrylic acid copolymer"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/Norspan-20h-Transderm-SE-BS-ManufacturedItemDefinition"
+* packaging.packaging.containedItem.item.reference = Reference(Norspan-20h-Transderm-SE-BS-ManufacturedItemDefinition)
 * packaging.packaging.containedItem.amount.value = 4
 * packaging.packaging.containedItem.amount.code = #200000002134
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"

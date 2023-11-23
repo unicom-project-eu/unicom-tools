@@ -32,7 +32,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material[+].coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material[=].coding.code = #200000003200
 * packaging.packaging.material[=].coding.display = "200000003219"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/MFapofri-50mcg-Suspension-SE-IS-ManufacturedItemDefinition"
+* packaging.packaging.containedItem.item.reference = Reference(MFapofri-50mcg-Suspension-SE-IS-ManufacturedItemDefinition)
 * packaging.packaging.containedItem.amount.value = 50
 * packaging.packaging.containedItem.amount.code = #100000110920
 * packaging.packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633"

@@ -26,5 +26,5 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.packaging.material.coding.code = #200000003200
 * packaging.packaging.material.coding.display = "Aluminium"
-* packaging.packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/36b84906-a340-4af5-9225-4cab812e8003"
+* packaging.packaging.containedItem.item.reference = Reference(36b84906-a340-4af5-9225-4cab812e8003)
 * packaging.packaging.containedItem.amount.value = 10

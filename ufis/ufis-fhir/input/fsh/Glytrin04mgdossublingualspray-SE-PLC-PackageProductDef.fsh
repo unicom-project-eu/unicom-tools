@@ -27,7 +27,7 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.shelfLifeStorage.specialPrecautionsForStorage[+].coding.system = "https://spor.ema.europa.eu/v1/lists/100000073344"
 * packaging.shelfLifeStorage.specialPrecautionsForStorage[=].coding.code = #100000073410
 * packaging.shelfLifeStorage.specialPrecautionsForStorage[=].coding.display = "Do not store above 25°C"
-* packaging.containedItem.item.reference.reference = "ManufacturedItemDefinition/ProductnameStrengthPharmaceuticaldoseform-SE-PLC-ManufacturedItemDef"
+* packaging.containedItem.item.reference = Reference(ProductnameStrengthPharmaceuticaldoseform-SE-PLC-ManufacturedItemDef)
 * packaging.containedItem.amount.value = 1
 * packaging.containedItem.amount.code = #200000022801
 * packaging.containedItem.amount.system = "http://spor.ema.europa.eu/v1/lists/100000110633~200000000014"
