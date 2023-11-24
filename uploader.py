@@ -5,12 +5,12 @@ import json
 
 # FOLDER = "ee-PPLCreator-v2/fhir-data/fsh-generated/resources"
 # FOLDER = "ee-PPLCreator-v3/fhir-data/fsh-generated/resources"
-FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
-# FOLDER = "ufis/ufis-fhir/fsh-generated/resources"
+# FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
+FOLDER = "ufis/ufis-fhir/fsh-generated/resources"
 
 # SERVER = "http://fhir.hl7.pt:8787/fhir/"
 # SERVER = "https://jpa.unicom.datawizard.it/fhir/"
-SERVER = "https://server.fire.ly/r5/"
+SERVER = "https://server.fire.ly/r5"
 
 blacklist_ids = [
     "JMJ-Co-amoxiclav-product-example",
@@ -34,6 +34,10 @@ errors = 0
 f = open("validation_output.txt", "w")
 f.write("starting...\n")
 f.close()
+
+headers = {"Content-Type": "application/json"}
+s = requests.session()
+s.headers = {"Accept": "application/fhir+json", "Content-Type": "application/fhir+json"}
 for item in ORDER_LIST:
     for file in listdir(FOLDER):
         #   print(file)
@@ -46,32 +50,34 @@ for item in ORDER_LIST:
                     #    print(item["resource"])
                     res = item["resource"]["resourceType"]
                     _id = item["resource"]["id"]
-                    x = requests.put(
-                        SERVER + "/" + res + "/" + _id, json=item["resource"]
+                    x = s.put(
+                        SERVER + "/" + res + "/" + _id,
+                        json=item["resource"],
+                        headers=headers,
                     )
                     # print(x.status_code)
-                    if x.status_code == 400:
-                        print(res)
-                        print(x.text)
+
             else:
                 f = open(FOLDER + "/" + file)
                 data = json.load(f)
                 id_ = data["id"]
                 if id_ in blacklist_ids:
                     continue
-                x = requests.put(SERVER + "/" + res + "/" + id_, json=data)
-                # print(x.status_code)
-                if x.status_code == 400:
-                    errors += 1
-                    print(res)
-                    print(x.text)
-                    f = open("validation_output.txt", "a")
-                    f.write(res)
-                    f.write("\n")
-                    f.write(file)
-                    f.write("\n")
-                    f.write(x.text)
-                    f.write("\n")
-                    f.close()
+                x = s.put(SERVER + "/" + res + "/" + id_, json=data, headers=headers)
+            #  print(x.status_code)
+            #  print(x.text)
+            if x.status_code not in [200, 201]:
+                errors += 1
+                print(res)
+                print(x.status_code)
+                print(x.text)
+                f = open("validation_output.txt", "a")
+                f.write(res)
+                f.write("\n")
+                f.write(file)
+                f.write("\n")
+                f.write(x.text)
+                f.write("\n")
+                f.close()
 
 print("errors", errors)

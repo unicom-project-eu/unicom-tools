@@ -8,7 +8,10 @@ GET http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition?_id=7f81d47e-9a74-44
 GET http://fhir.hl7.pt:8787/fhir/PackagedProductDefinition?manufactured-item=36b84906-a340-4af5-9225-4cab812e8003
 
 ### Get MID - new 
-GET http://fhir.hl7.pt:8787/fhir/PackagedProductDefinition?manufactured-item2=36b84906-a340-4af5-9225-4cab812e8003
+GET http://fhir.hl7.pt:8787/fhir/PackagedProductDefinition?manufactured-item4=36b84906-a340-4af5-9225-4cab812e8003
+
+### Get MID - new 
+GET http://fhir.hl7.pt:8787/fhir/PackagedProductDefinition?manufactured-item-new=36b84906-a340-4af5-9225-4cab812e8003
 
 
 ### PPF
@@ -28,15 +31,19 @@ Content-Type: json
   "status": "active",
   "name": "manufactured-item",
   "description": "Possiblity to search ingredient for PackagedProductDefinition.packaging.containedItem.item.reference",
-  "code": "manufactured-item-new",
+  "code": "manufactured-item4",
   "base": [
     "PackagedProductDefinition"
   ],
   "type": "reference",
   "expression": "PackagedProductDefinition.packaging.containedItem.item.reference",
-  "processingMode": "normal"
-
+  "processingMode": "normal",
+  "target": [
+        "ManufacturedItemDefinition"
+    ]
 }
+
+
 
 
 
@@ -344,3 +351,54 @@ Content-Type: application/json
 
 ### Get MID
 GET https://server.fire.ly/r5/PackagedProductDefinition?manufactured-item=36b84906-a340-4af5-9225-4cab812e8003
+
+
+### Get MID
+GET https://server.fire.ly/r5/MedicinalProductDefinition/
+
+
+### Get MID
+PUT https://server.fire.ly/r5/Organization/LOC-100043821
+Content-Type: application/fhir+json
+
+{
+  "resourceType": "Organization",
+  "id": "LOC-100043821",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLOrganization"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "https://spor.ema.europa.eu/v1/locations",
+      "value": "LOC-100043821"
+    }
+  ],
+  "name": "Bayer AB"
+}
+
+
+### Get hapi data
+GET http://hapi.fhir.org/baseR5/MedicinalProductDefinition/
+
+
+
+
+###new viewer
+
+GET https://server.fire.ly/r5/MedicinalProductDefinition?_id=7f81d47e-9a74-44b3-8ed7-07990093d878&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:*&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_format=json
+
+
+#### VIEWER
+
+GET https://server.fire.ly/r5/MedicinalProductDefinition?_id=7f81d47e-9a74-44b3-8ed7-07990093d878&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:manufactured-item&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_format=json
+
+### Get MID
+GET https://server.fire.ly/r5/PackagedProductDefinition?manufactured-item=36b84906-a340-4af5-9225-4cab812e8003
+
+
+### #teste
+
+GET https://server.fire.ly/r5/MedicinalProductDefinition?_id=7f81d47e-9a74-44b3-8ed7-07990093d878&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:manufactured-item&_format=json
+
