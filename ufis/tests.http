@@ -1,7 +1,19 @@
 
 #### VIEWER
 
-GET http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition?_id=7f81d47e-9a74-44b3-8ed7-07990093d878&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:manufactured-item&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_format=json
+GET http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition?_id=DicTratiopharma25mgFilmtablet-SE-PLC-MedicinalProductDef&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude:iterate=Ingredient:for&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:manufactured-item&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_include:iterate=Ingredient:for&_format=json
+
+
+#### VIEWER
+
+GET http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition?_id=7f81d47e-9a74-44b3-8ed7-07990093d878&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude:iterate=Ingredient:for&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:manufactured-item&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_include:iterate=Ingredient:for&_format=json
+
+
+
+
+### teste com * 
+
+GET http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition?_id=Agen-10mg-Tablet-EE-MPD&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:*&_format=json
 
 
 ### Get MID
@@ -20,6 +32,17 @@ GET http://fhir.hl7.pt:8787/fhir/PackagedProductDefinition?_id=j20170630100020#L
 
 ### MID
 GET http://fhir.hl7.pt:8787/fhir/ManufacturedItemDefinition/36b84906-a340-4af5-9225-4cab812e8003
+
+
+#### VIEWER
+
+GET http://fhir.hl7.pt:8787/fhir/Ingredient?for=DicTratiopharma25mgFilmtablet-SE-PLC-ManufacturedItemDef
+
+#### VIEWER
+
+GET http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition?_id=DicTratiopharma25mgFilmtablet-SE-PLC-MedicinalProductDef&_revinclude:iterate=Ingredient:for&_format=json
+
+
 
 ### create SP
 POST http://fhir.hl7.pt:8787/fhir/SearchParameter 
@@ -398,7 +421,112 @@ GET https://server.fire.ly/r5/MedicinalProductDefinition?_id=7f81d47e-9a74-44b3-
 GET https://server.fire.ly/r5/PackagedProductDefinition?manufactured-item=36b84906-a340-4af5-9225-4cab812e8003
 
 
-### #teste
 
-GET https://server.fire.ly/r5/MedicinalProductDefinition?_id=7f81d47e-9a74-44b3-8ed7-07990093d878&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:manufactured-item&_format=json
+### wtf???
 
+GET https://jpa.unicom.datawizard.it/fhir/MedicinalProductDefinition?_id=ABIS-tablet-10mg--0-ITA-MPD&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:*&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_format=json
+
+
+
+### more tests
+
+GET https://jpa.unicom.datawizard.it/fhir/PackagedProductDefinition?medication=ABIS-tablet-10mg--0-ITA-MI
+
+
+#### VIEWER
+
+GET http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition?_id=7f81d47e-9a74-44b3-8ed7-07990093d878&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:*&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_format=json
+
+
+#### VIEWER
+
+GET http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition?_id=ABIS-tablet-10mg--0-ITA-MPD&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:*&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_format=json
+
+### wtf???
+
+GET https://jpa.unicom.datawizard.it/fhir/SearchParameter/
+
+### test 
+
+DELETE http://fhir.hl7.pt:8787/fhir/AdministrableProductDefinition/5518a708-50e4-46eb-bd47-fc7915290566
+
+
+
+### testing with post:
+
+PUT http://fhir.hl7.pt:8787/fhir/AdministrableProductDefinition/5518a708-50e4-46eb-bd47-fc7915290566
+Content-Type: application/json
+
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "5518a708-50e4-46eb-bd47-fc7915290566",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/7f81d47e-9a74-44b3-8ed7-07990093d878"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "code": "100000073665",
+        "display": "Film-coated tablet"
+      }
+    ]
+  },
+  "unitOfPresentation": {
+    "coding": [
+      {
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+        "code": "200000002152",
+        "display": "Tablet"
+      }
+    ]
+  },
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "code": "100000073619",
+            "display": "Oral use"
+          }
+        ]
+      }
+    }
+  ],
+      
+  "producedFrom": [ {
+        "reference": "ManufacturedItemDefinition/36b84906-a340-4af5-9225-4cab812e8003"
+      } ]
+}
+
+### test 
+
+GET http://fhir.hl7.pt:8787/fhir/ManufacturedItemDefinition/36b84906-a340-4af5-9225-4cab812e8003
+
+
+
+##### blacklist delete
+
+DELETE  http://fhir.hl7.pt:8787/fhir/MedicinalProductDefinition/7f81d47e-9a74-44b3-8ed7-07990093d878
+
+##### blacklist delete
+
+DELETE  http://fhir.hl7.pt:8787/fhir/RegulatedAuthorization/33c2e253-9fa1-4e25-a139-421b08cec073 
+
+####
+DELETE http://fhir.hl7.pt:8787/fhir/AdministrableProductDefinition/5518a708-50e4-46eb-bd47-fc7915290566 
+
+####
+DELETE http://fhir.hl7.pt:8787/fhir/PackagedProductDefinition/j20170630100099
+
+###
+GET  http://fhir.hl7.pt:8787/fhir//MedicinalProductDefinition?_id=Agen-10mg-Tablet-EE-MPD&_revinclude=RegulatedAuthorization:subject&_include:iterate=RegulatedAuthorization:holder&_revinclude:iterate=Ingredient:for&_revinclude=PackagedProductDefinition:package-for&_include:iterate=PackagedProductDefinition:manufactured-item&_revinclude=AdministrableProductDefinition:form-of&_revinclude:iterate=Ingredient:for&_include:iterate=Ingredient:for&_format=json

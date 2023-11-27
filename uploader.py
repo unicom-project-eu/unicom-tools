@@ -8,9 +8,9 @@ import json
 # FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
 FOLDER = "ufis/ufis-fhir/fsh-generated/resources"
 
-# SERVER = "http://fhir.hl7.pt:8787/fhir/"
+SERVER = "http://fhir.hl7.pt:8787/fhir/"
 # SERVER = "https://jpa.unicom.datawizard.it/fhir/"
-SERVER = "https://server.fire.ly/r5"
+# SERVER = "https://server.fire.ly/r5"
 
 blacklist_ids = [
     "JMJ-Co-amoxiclav-product-example",
@@ -19,6 +19,7 @@ blacklist_ids = [
     "JMJ-Monuril-product-example",
     "d37bfa6f-ea90-4645-8be4-e7c649dd64f2",
     "bb8c2306-04c5-42df-94c9-aa6d6e68050b",
+    "7f81d47e-9a74-44b3-8ed7-07990093d878",
 ]
 ORDER_LIST = [
     "Organization",
