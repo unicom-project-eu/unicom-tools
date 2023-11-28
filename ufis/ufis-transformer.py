@@ -1,6 +1,7 @@
-from os import listdir
+from os import listdir, mkdir
 import hashlib
 import re
+import shutil
 
 f = open("ufis-fhir/input/fsh/Organization.fsh", "w")
 f.truncate()
@@ -14,9 +15,13 @@ blacklist_ids = [
     "JMJ-Humalog-Mix50-Kwikpen-product-example",
     "JMJ-Monuril-product-example",
     "d37bfa6f-ea90-4645-8be4-e7c649dd64f2",
-    "bb8c2306-04c5-42df-94c9-aa6d6e68050b",
+    "bb8c2306-04c5-42df-94c9-aa6d6e68050b",  # PT
     "7f81d47e-9a74-44b3-8ed7-07990093d878",
 ]
+
+target_folder = "ufis-fhir/input/fsh/"
+shutil.rmtree(target_folder)
+mkdir(target_folder)
 
 
 def create_org(regauth):
@@ -160,12 +165,12 @@ for file in listdir(FOLDER):
 
         ####### Administrable PRODUCT DEFINITION ####################################
         if "InstanceOf: AdministrableProductDefinition" in contents:
-            print("yes")
+            # print("yes")
             contents = contents.replace(
                 "InstanceOf: AdministrableProductDefinition",
                 "InstanceOf: PPLAdministrableProductDefinition",
             )
-            print(contents)
+            # print(contents)
 
             contents = re.sub(
                 r"formOf = Reference\(\w+\/(.+)\)",
@@ -277,6 +282,48 @@ for file in listdir(FOLDER):
 * contact[=].contact = Reference(phvenq1)""",
                 "",
             )
+
+            contents = contents.replace(
+                "http://spor.ema.europa.eu/v1/lists/100000000002",
+                "https://spor.ema.europa.eu/v1/lists/100000000002",
+            )
+            ###language
+            contents = contents.replace(
+                """* name.usage.language.coding.system = "http://spor.ema.europa.eu/v1/lists/100000072057"
+* name.usage.language.coding.code = #100000072288
+* name.usage.language.coding.display = "Swedish\"""",
+                """* name.usage.language = urn:ietf:bcp:47#sv "Swedish\" """,
+            )
+            contents = contents.replace(
+                """* name.usage.language.coding.system = "http://spor.ema.europa.eu/v1/lists/100000072057"
+* name.usage.language.coding.code = #100000072172
+* name.usage.language.coding.display = "Estonian\"""",
+                """* name.usage.language = urn:ietf:bcp:47#et "Estonian\" """,
+            )
+            contents = contents.replace(
+                """* name.usage.language.coding.system = "https://spor.ema.europa.eu/v1/lists/100000072057/terms/100000072251"
+* name.usage.language.coding.code = "100000072251"
+* name.usage.language.coding.display = "Portuguese\"""",
+                """* name.usage.language = urn:ietf:bcp:47#pt "Portuguese\" """,
+            )
+            contents = contents.replace(
+                """* name.usage.language.coding.system = "https://spor.ema.europa.eu/v1/lists/100000072057"
+* name.usage.language.coding.code = #100000072178
+* name.usage.language.coding.display = "German\"""",
+                """* name.usage.language = urn:ietf:bcp:47#de "German\"\n""",
+            )
+            contents = contents.replace(
+                """* name.usage.language.coding.system = "https://spor.ema.europa.eu/v1/lists/100000072057"
+* name.usage.language.coding.code = "100000072149"
+* name.usage.language.coding.display = "Finnish\"""",
+                """* name.usage.language = urn:ietf:bcp:47#fi "Finnish\" """,
+            )
+
+            contents = contents.replace(
+                "https://hl7.org/fhir/publication-status",
+                "http://hl7.org/fhir/publication-status",
+            )
+
         ####### INGREDIENT ############################################################################################################
         if "InstanceOf: Ingredient" in contents:
             #    print("yes")
@@ -516,6 +563,13 @@ for file in listdir(FOLDER):
                 r"packaging.containedItem.item.reference = Reference(\1)",
                 contents,
             )
+            ###temporarily remove until further notice
+            contents = re.sub(
+                r"^\* packaging\.shelfLifeStorage.*\n?",
+                "",
+                contents,
+                flags=re.MULTILINE,
+            )
         ####### RegulatedAuthorization ########################################################################
 
         if "InstanceOf: RegulatedAuthorization" in contents:
@@ -562,20 +616,26 @@ for file in listdir(FOLDER):
             )
             contents = re.sub(r"\* entry\[=\].request.url = \"(.+)\"", "", contents)
 
-        ####blacklist
+            # contents = re.sub(
+            #     r"\* packaging.shelfLifeStorage\[=\].periodDuration.value = (.+)\n\* packaging.shelfLifeStorage\[=\].periodDuration.unit = \"(.+)\"",
+            #     r"\* packaging.shelfLifeStorage\[=\].periodDuration = \1 '\2'",
+            #     contents,
+            # )
+
+        # blacklist
         bid = False
         for blids in blacklist_ids:
-            if blids in contents:
-                #  print(contents)
+            if "Instance: " + blids in contents:
+                print(contents)
                 bid = True
         if not bid:
-            f = open("ufis-fhir/input/fsh/" + file, "w")
+            f = open(target_folder + file, "w")
             f.write(contents)
             f.close()
 
 
 ###aliases
-f = open("ufis-fhir/input/fsh/aliases.fsh", "w")
+f = open(target_folder + "aliases.fsh", "w")
 
 f.write(
     """Alias: $200000000004~200000000006~200000000007~200000000008 = https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008

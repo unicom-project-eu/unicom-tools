@@ -5,8 +5,9 @@ import json
 
 # FOLDER = "ee-PPLCreator-v2/fhir-data/fsh-generated/resources"
 # FOLDER = "ee-PPLCreator-v3/fhir-data/fsh-generated/resources"
-# FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
-FOLDER = "ufis/ufis-fhir/fsh-generated/resources"
+FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
+# FOLDER = "ufis/ufis-fhir/fsh-generated/resources"
+filename = FOLDER.split("/")[0]
 
 SERVER = "http://fhir.hl7.pt:8787/fhir/"
 # SERVER = "https://jpa.unicom.datawizard.it/fhir/"
@@ -32,7 +33,7 @@ ORDER_LIST = [
     "Bundle",
 ]
 errors = 0
-f = open("validation_output.txt", "w")
+f = open(filename + "_validation_output.txt", "w")
 f.write("starting...\n")
 f.close()
 
@@ -72,7 +73,7 @@ for item in ORDER_LIST:
                 print(res)
                 print(x.status_code)
                 print(x.text)
-                f = open("validation_output.txt", "a")
+                f = open(filename + "_validation_output.txt", "a")
                 f.write(res)
                 f.write("\n")
                 f.write(file)

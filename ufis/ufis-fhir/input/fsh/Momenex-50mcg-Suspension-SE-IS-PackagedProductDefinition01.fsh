@@ -14,16 +14,6 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.material.coding.code = #200000003529
 * packaging.material.coding.display = "Cardboard"
-* packaging.shelfLifeStorage[+].type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073343"
-* packaging.shelfLifeStorage[=].type.coding.code = #100000073403
-* packaging.shelfLifeStorage[=].type.coding.display = "Shelf life of the medicinal product as packaged for sale"
-* packaging.shelfLifeStorage[=].periodDuration.value = 3
-* packaging.shelfLifeStorage[=].periodDuration.unit = "years"
-* packaging.shelfLifeStorage[+].type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073343"
-* packaging.shelfLifeStorage[=].type.coding.code = #100000073404
-* packaging.shelfLifeStorage[=].type.coding.display = "Shelf life after first opening the immediate packaging"
-* packaging.shelfLifeStorage[=].periodDuration.value = 3
-* packaging.shelfLifeStorage[=].periodDuration.unit = "months"
 * packaging.packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"
 * packaging.packaging.type.coding.code = #100000125779
 * packaging.packaging.type.coding.display = "Multidose container with pump"

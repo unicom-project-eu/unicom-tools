@@ -50,9 +50,8 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.usage.country.coding.display = "Austria"
 * name.usage.language.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
 * name.usage.language.coding.extension.valueInteger = 1
-* name.usage.language.coding.system = "https://spor.ema.europa.eu/v1/lists/100000072057"
-* name.usage.language.coding.code = #100000072178
-* name.usage.language.coding.display = "German"
+* name.usage.language = urn:ietf:bcp:47#de "German"
+
 * operation[+].type.concept.coding.extension.url = "http://ema.europa.eu/fhir/extension/termVersion"
 * operation[=].type.concept.coding.extension.valueInteger = 1
 * operation[=].type.concept.coding = $100000160406#100000160467 "Manufacture of active substance"

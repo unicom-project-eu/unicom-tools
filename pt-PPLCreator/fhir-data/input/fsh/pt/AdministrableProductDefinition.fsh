@@ -20,6 +20,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-709)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -43,6 +45,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-711)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -66,6 +70,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-886)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -89,6 +95,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-887)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -112,6 +120,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-888)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -135,6 +145,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-889)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -158,6 +170,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-890)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -181,6 +195,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-891)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -204,6 +220,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1255)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -227,6 +245,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1257)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -250,6 +270,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1258)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -273,6 +295,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1259)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -296,6 +320,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1410)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -319,6 +345,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1887)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -342,6 +370,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2516)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -365,6 +395,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3277)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -388,6 +420,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3299)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -411,6 +445,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3347)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -434,6 +470,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3349)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -457,6 +495,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3350)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -480,6 +520,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3916)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -503,6 +545,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3975)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -526,6 +570,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4089)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -549,6 +595,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4135)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -572,6 +620,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5323)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -595,6 +645,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5454)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -618,6 +670,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5586)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -641,6 +695,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5612)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -664,6 +720,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5624)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -687,6 +745,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6595)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -710,6 +770,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6619)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -733,6 +795,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6661)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -756,6 +820,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7439)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -779,6 +845,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7600)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -802,6 +870,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7743)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -825,6 +895,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7744)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -848,6 +920,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7745)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -871,6 +945,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7746)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -894,6 +970,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8063)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -917,6 +995,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8335)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -940,6 +1020,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8336)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -963,6 +1045,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8338)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -986,6 +1070,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8339)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1009,6 +1095,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8606)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1032,9 +1120,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8608)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -1057,6 +1151,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8610)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1080,6 +1176,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8611)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1103,6 +1201,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8612)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1126,6 +1226,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8613)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1149,6 +1251,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8724)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1172,6 +1276,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8988)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1195,6 +1301,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8989)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1218,6 +1326,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9078)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073584 "Inhalation use"
 //* routeOfAdministration[+].code = $100000073345#100000073584 "Via inalatória"
 
@@ -1241,6 +1351,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9289)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073617 "Ocular use"
 //* routeOfAdministration[+].code = $100000073345#100000073617 "Uso oftálmico"
 
@@ -1264,6 +1376,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9290)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1287,6 +1401,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9292)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -1310,8 +1426,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9291)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -1334,6 +1454,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9295)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -1357,6 +1479,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9475)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1380,6 +1504,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9495)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1403,6 +1529,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9496)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1426,6 +1554,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9499)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1449,6 +1579,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9572)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1472,6 +1604,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9717)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -1495,6 +1629,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-12852)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1518,6 +1654,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29283)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1541,6 +1679,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29815)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073584 "Inhalation use"
 //* routeOfAdministration[+].code = $100000073345#100000073584 "Via inalatória"
 
@@ -1564,6 +1704,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29866)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -1587,8 +1729,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30174)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -1611,6 +1757,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31299)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1634,6 +1782,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32193)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1657,6 +1807,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32900)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1680,6 +1832,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33195)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1703,6 +1857,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35221)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -1726,6 +1882,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35225)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -1749,6 +1907,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37274)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1772,6 +1932,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37435)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1795,6 +1957,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38887)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1818,6 +1982,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39288)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1841,6 +2007,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39289)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1864,6 +2032,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39500)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1887,6 +2057,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41073)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1910,6 +2082,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41451)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1933,6 +2107,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45545)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1956,6 +2132,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45546)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -1979,6 +2157,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45547)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2002,6 +2182,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45552)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2025,6 +2207,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45694)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2048,6 +2232,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46630)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2071,6 +2257,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30078)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2094,6 +2282,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7438)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2117,6 +2307,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32365)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2140,6 +2332,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38279)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2163,6 +2357,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6249)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2186,6 +2382,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6250)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2209,6 +2407,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5220)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2232,6 +2432,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-712)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2255,6 +2457,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9462)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2278,6 +2482,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9483)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -2301,6 +2507,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9459)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2324,6 +2532,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9801)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2347,6 +2557,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9657)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -2370,6 +2582,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9672)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2393,6 +2607,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9682)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -2416,6 +2632,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9737)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2439,11 +2657,21 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9875)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
-//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural"* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural" 
+
+* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
 //* routeOfAdministration[+].code = $100000073345#100000073608 "Via intratecal"
 
 
@@ -2466,6 +2694,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9879)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -2489,6 +2719,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10056)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2512,6 +2744,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10059)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2535,6 +2769,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10071)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -2558,9 +2794,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10153)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -2583,9 +2825,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10154)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -2608,6 +2856,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10347)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -2631,6 +2881,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10348)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -2654,6 +2906,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10353)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -2677,6 +2931,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10459)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2700,6 +2956,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10745)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -2723,6 +2981,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10811)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2746,6 +3006,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10813)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2769,6 +3031,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-10908)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073617 "Ocular use"
 //* routeOfAdministration[+].code = $100000073345#100000073617 "Uso oftálmico"
 
@@ -2792,6 +3056,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-11017)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2815,6 +3081,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-11042)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2838,6 +3106,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-11052)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2861,6 +3131,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-11138)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2884,9 +3156,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-12699)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -2909,9 +3187,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-12700)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -2934,6 +3218,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-12858)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -2957,6 +3243,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-14352)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -2980,6 +3268,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-13642)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3003,6 +3293,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-15218)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3026,6 +3318,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-15219)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3049,9 +3343,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-16068)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -3074,11 +3374,21 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-16072)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
-//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural"* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural" 
+
+* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
 //* routeOfAdministration[+].code = $100000073345#100000073608 "Via intratecal"
 
 
@@ -3101,11 +3411,21 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-16075)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
-//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural"* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural" 
+
+* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
 //* routeOfAdministration[+].code = $100000073345#100000073608 "Via intratecal"
 
 
@@ -3128,6 +3448,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-18454)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3151,6 +3473,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-19795)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3174,6 +3498,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-19796)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3197,6 +3523,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29059)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3220,6 +3548,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29060)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3243,6 +3573,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29061)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3266,6 +3598,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29062)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3289,6 +3623,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29063)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3312,6 +3648,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29064)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3335,6 +3673,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29065)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3358,6 +3698,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29068)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3381,6 +3723,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-22350)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3404,6 +3748,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-24367)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3427,6 +3773,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-25282)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3450,9 +3798,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29136)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073615 "Nasal use"
-//* routeOfAdministration[+].code = $100000073345#100000073615 "Via nasal"* routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
-//* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"* routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073615 "Via nasal" 
+
+* routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
+//* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal" 
+
+* routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
 
@@ -3475,6 +3829,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29143)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3498,6 +3854,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29301)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3521,6 +3879,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29302)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3544,6 +3904,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29484)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3567,6 +3929,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29485)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3590,6 +3954,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29586)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3613,6 +3979,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29588)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3636,6 +4004,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29594)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3659,6 +4029,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29601)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3682,6 +4054,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29618)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -3705,6 +4079,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29672)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3728,6 +4104,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29681)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3751,6 +4129,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29682)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3774,6 +4154,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29709)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -3797,6 +4179,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29748)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3820,6 +4204,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29749)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3843,6 +4229,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29684)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3866,6 +4254,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35924)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073584 "Inhalation use"
 //* routeOfAdministration[+].code = $100000073345#100000073584 "Via inalatória"
 
@@ -3889,6 +4279,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-101)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3912,6 +4304,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-147)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3935,6 +4329,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-230)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3958,6 +4354,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-348)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -3981,6 +4379,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-349)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4004,6 +4404,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-351)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4027,6 +4429,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-406)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4050,6 +4454,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-407)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4073,6 +4479,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-408)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4096,8 +4504,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-409)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -4120,6 +4532,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-675)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4143,6 +4557,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-555)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4166,6 +4582,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-556)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4189,6 +4607,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-814)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -4212,6 +4632,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1026)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4235,6 +4657,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1028)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4258,6 +4682,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1029)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4281,6 +4707,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1294)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -4304,6 +4732,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1293)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4327,6 +4757,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1352)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4350,6 +4782,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1447)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4373,6 +4807,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1500)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4396,6 +4832,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1585)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -4419,6 +4857,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1794)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4442,6 +4882,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1797)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4465,6 +4907,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1802)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4488,6 +4932,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1803)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4511,6 +4957,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1901)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4534,6 +4982,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1903)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4557,6 +5007,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1904)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4580,6 +5032,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-1906)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4603,11 +5057,21 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2012)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
-//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural"* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural" 
+
+* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
 //* routeOfAdministration[+].code = $100000073345#100000073608 "Via intratecal"
 
 
@@ -4630,6 +5094,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2316)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -4653,9 +5119,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2422)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073597 "Intralesional use"
-//* routeOfAdministration[+].code = $100000073345#100000073597 "Uso intralesional"* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073588 "Intraarticular use"
+//* routeOfAdministration[+].code = $100000073345#100000073597 "Uso intralesional" 
+
+* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073588 "Intraarticular use"
 //* routeOfAdministration[+].code = $100000073345#100000073588 "Via intra-articular"
 
 
@@ -4678,6 +5150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2527)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4701,6 +5175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2528)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4724,6 +5200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2549)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4747,6 +5225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2553)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4770,6 +5250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2591)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4793,6 +5275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2673)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073617 "Ocular use"
 //* routeOfAdministration[+].code = $100000073345#100000073617 "Uso oftálmico"
 
@@ -4816,6 +5300,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2821)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -4839,6 +5325,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2938)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4862,6 +5350,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2966)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -4885,6 +5375,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2967)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -4908,6 +5400,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-2979)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4931,6 +5425,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3345)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -4954,6 +5450,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3348)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
 //* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"
 
@@ -4977,6 +5475,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3508)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5000,6 +5500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3509)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5023,6 +5525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3774)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5046,6 +5550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-3915)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -5069,6 +5575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4054)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5092,6 +5600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4402)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5115,6 +5625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4403)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5138,6 +5650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4404)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5161,6 +5675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4413)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5184,6 +5700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4432)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5207,6 +5725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4846)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5230,6 +5750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-4847)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5253,6 +5775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5024)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -5276,6 +5800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5025)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -5299,8 +5825,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5037)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073578 "Gingival use"
-//* routeOfAdministration[+].code = $100000073345#100000073578 "Uso gengival"* routeOfAdministration[+].code = $100000073345#100000073620 "Oromucosal use"
+//* routeOfAdministration[+].code = $100000073345#100000073578 "Uso gengival" 
+
+* routeOfAdministration[+].code = $100000073345#100000073620 "Oromucosal use"
 //* routeOfAdministration[+].code = $100000073345#100000073620 "Via bucal"
 
 
@@ -5323,6 +5853,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5038)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5346,8 +5878,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5049)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
 
@@ -5370,8 +5906,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5054)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
 
@@ -5394,9 +5934,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5224)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -5419,9 +5965,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5225)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -5444,9 +5996,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5227)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -5469,6 +6027,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5157)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5492,6 +6052,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5158)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5515,6 +6077,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5160)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5538,6 +6102,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5452)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5561,6 +6127,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5568)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5584,6 +6152,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5569)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5607,6 +6177,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5601)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5630,6 +6202,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5769)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5653,6 +6227,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5770)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5676,6 +6252,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5772)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5699,6 +6277,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5773)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5722,6 +6302,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5857)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -5745,6 +6327,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5858)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5768,6 +6352,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-5859)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5791,6 +6377,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6117)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -5814,6 +6402,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6118)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -5837,6 +6427,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6133)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073634 "Sublingual use"
 //* routeOfAdministration[+].code = $100000073345#100000073634 "Via sublingual"
 
@@ -5860,6 +6452,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6312)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5883,6 +6477,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6464)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5906,6 +6502,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6465)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5929,6 +6527,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6604)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -5952,6 +6552,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6617)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5975,6 +6577,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6621)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -5998,6 +6602,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6657)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6021,6 +6627,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6658)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6044,6 +6652,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6659)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6067,6 +6677,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6662)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6090,6 +6702,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6641)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6113,6 +6727,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6698)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6136,6 +6752,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6869)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -6159,6 +6777,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6936)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -6182,6 +6802,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6937)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -6205,6 +6827,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7128)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6228,6 +6852,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7131)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6251,6 +6877,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7213)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6274,6 +6902,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7741)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -6297,6 +6927,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7778)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6320,6 +6952,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-7907)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6343,6 +6977,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8064)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6366,6 +7002,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8072)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6389,6 +7027,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8084)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6412,6 +7052,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8085)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6435,6 +7077,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8169)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6458,6 +7102,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8167)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6481,6 +7127,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8166)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6504,6 +7152,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8168)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6527,6 +7177,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8206)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6550,6 +7202,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8337)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6573,6 +7227,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8601)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6596,6 +7252,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8604)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6619,6 +7277,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8654)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6642,6 +7302,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8655)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6665,6 +7327,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8656)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6688,6 +7352,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8657)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6711,6 +7377,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8673)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6734,6 +7402,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8705)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6757,6 +7427,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8853)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -6780,6 +7452,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8854)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -6803,6 +7477,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-8895)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6826,6 +7502,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9082)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -6849,9 +7527,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9083)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -6874,6 +7558,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9084)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6897,6 +7583,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9077)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073584 "Inhalation use"
 //* routeOfAdministration[+].code = $100000073345#100000073584 "Via inalatória"
 
@@ -6920,6 +7608,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9293)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6943,6 +7633,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9297)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6966,6 +7658,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9299)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -6989,9 +7683,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9355)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073615 "Nasal use"
-//* routeOfAdministration[+].code = $100000073345#100000073615 "Via nasal"* routeOfAdministration[+].code = $100000073345#100000073620 "Oromucosal use"
-//* routeOfAdministration[+].code = $100000073345#100000073620 "Via bucal"* routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073615 "Via nasal" 
+
+* routeOfAdministration[+].code = $100000073345#100000073620 "Oromucosal use"
+//* routeOfAdministration[+].code = $100000073345#100000073620 "Via bucal" 
+
+* routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
 
@@ -7014,6 +7714,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-9458)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7037,9 +7739,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29772)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -7062,6 +7770,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29777)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7085,6 +7795,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29824)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7108,6 +7820,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29851)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7131,6 +7845,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29850)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7154,9 +7870,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29912)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -7179,6 +7901,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-29940)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7202,6 +7926,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30026)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7225,6 +7951,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30029)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7248,6 +7976,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30112)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -7271,6 +8001,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30157)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7294,6 +8026,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30110)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -7317,6 +8051,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30203)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7340,6 +8076,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30297)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7363,6 +8101,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30304)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7386,6 +8126,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30389)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7409,6 +8151,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30457)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7432,6 +8176,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30462)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7455,6 +8201,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30464)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7478,6 +8226,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30465)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7501,6 +8251,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30734)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7524,6 +8276,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30933)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7547,6 +8301,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30934)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7570,6 +8326,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30975)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7593,6 +8351,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30976)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7616,6 +8376,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30978)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7639,6 +8401,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30988)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7662,9 +8426,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31158)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -7687,6 +8457,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31159)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7710,6 +8482,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31414)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7733,6 +8507,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31814)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -7756,6 +8532,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31847)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7779,6 +8557,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31848)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7802,6 +8582,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31849)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7825,6 +8607,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31888)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7848,6 +8632,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31890)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7871,6 +8657,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31902)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -7894,6 +8682,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31926)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7917,6 +8707,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32197)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -7940,6 +8732,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32213)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -7963,6 +8757,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40632)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -7986,6 +8782,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40659)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8009,6 +8807,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40660)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8032,6 +8832,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40661)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8055,6 +8857,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40662)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8078,6 +8882,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40663)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8101,6 +8907,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40705)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8124,6 +8932,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40706)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8147,6 +8957,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40869)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -8170,6 +8982,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41093)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8193,6 +9007,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41096)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8216,6 +9032,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41049)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -8239,6 +9057,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41145)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8262,6 +9082,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41146)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8285,6 +9107,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41164)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8308,6 +9132,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41165)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8331,6 +9157,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41290)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8354,6 +9182,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41347)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8377,6 +9207,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41348)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8400,6 +9232,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41354)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8423,6 +9257,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41355)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8446,6 +9282,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41454)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8469,6 +9307,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41455)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8492,6 +9332,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41489)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8515,6 +9357,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41492)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8538,6 +9382,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41491)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8561,6 +9407,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41490)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8584,10 +9432,18 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41896)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
-//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural"* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural" 
+
+* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
 //* routeOfAdministration[+].code = $100000073345#100000073608 "Via intratecal"
 
 
@@ -8610,10 +9466,18 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41897)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
-//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural"* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+//* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural" 
+
+* routeOfAdministration[+].code = $100000073345#100000073608 "Intrathecal use"
 //* routeOfAdministration[+].code = $100000073345#100000073608 "Via intratecal"
 
 
@@ -8636,6 +9500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41890)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8659,6 +9525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41893)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8682,6 +9550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41911)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -8705,6 +9575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41943)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8728,6 +9600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41944)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8751,6 +9625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42190)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8774,6 +9650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42191)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8797,6 +9675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42318)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8820,6 +9700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42319)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8843,6 +9725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42475)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8866,6 +9750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42476)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8889,6 +9775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42567)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8912,6 +9800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42568)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8935,6 +9825,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42585)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -8958,6 +9850,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42616)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -8981,6 +9875,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42992)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9004,6 +9900,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42993)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9027,6 +9925,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42994)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9050,6 +9950,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-43272)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -9073,6 +9975,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-43266)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9096,6 +10000,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-43380)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9119,6 +10025,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-43425)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073584 "Inhalation use"
 //* routeOfAdministration[+].code = $100000073345#100000073584 "Via inalatória"
 
@@ -9142,6 +10050,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-43635)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9165,6 +10075,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44140)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9188,6 +10100,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44141)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9211,6 +10125,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44142)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9234,6 +10150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44264)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9257,6 +10175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44265)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073584 "Inhalation use"
 //* routeOfAdministration[+].code = $100000073345#100000073584 "Via inalatória"
 
@@ -9280,6 +10200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44266)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9303,6 +10225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44333)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9326,6 +10250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44334)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9349,6 +10275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44344)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9372,6 +10300,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44467)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9395,6 +10325,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44468)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9418,6 +10350,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44472)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9441,6 +10375,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44469)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9464,6 +10400,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44471)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9487,6 +10425,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44618)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9510,6 +10450,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44619)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9533,6 +10475,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44617)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9556,6 +10500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44633)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9579,6 +10525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44729)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9602,6 +10550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44912)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9625,6 +10575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44913)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9648,6 +10600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44917)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9671,6 +10625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-44918)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9694,6 +10650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45023)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9717,6 +10675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45123)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9740,6 +10700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45246)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -9763,6 +10725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45265)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9786,6 +10750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45282)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9809,6 +10775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45297)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9832,6 +10800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45305)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9855,6 +10825,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45309)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9878,6 +10850,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45311)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9901,6 +10875,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45312)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9924,6 +10900,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45477)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9947,6 +10925,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45734)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9970,6 +10950,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45849)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -9993,6 +10975,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-45850)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10016,6 +11000,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46030)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10039,6 +11025,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46180)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10062,6 +11050,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46258)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10085,6 +11075,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46332)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -10108,6 +11100,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46342)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -10131,6 +11125,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46418)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10154,6 +11150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46417)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10177,6 +11175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46419)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10200,6 +11200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46422)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10223,6 +11225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46423)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10246,6 +11250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46425)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10269,6 +11275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46476)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10292,6 +11300,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46477)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10315,6 +11325,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46887)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10338,6 +11350,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46888)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10361,6 +11375,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46924)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10384,6 +11400,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47093)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10407,6 +11425,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47097)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10430,6 +11450,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47098)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10453,6 +11475,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47181)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10476,6 +11500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47180)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10499,6 +11525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47182)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10522,6 +11550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47183)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10545,6 +11575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47184)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10568,6 +11600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47429)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10591,6 +11625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47529)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10614,6 +11650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47580)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10637,6 +11675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47590)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10660,6 +11700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47591)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10683,6 +11725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47614)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10706,6 +11750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47773)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10729,6 +11775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47946)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -10752,6 +11800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48078)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10775,6 +11825,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48243)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10798,6 +11850,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48491)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073617 "Ocular use"
 //* routeOfAdministration[+].code = $100000073345#100000073617 "Uso oftálmico"
 
@@ -10821,6 +11875,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48531)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10844,6 +11900,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48539)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10867,6 +11925,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48620)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10890,6 +11950,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48621)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10913,6 +11975,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48622)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10936,6 +12000,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48623)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10959,6 +12025,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48624)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -10982,6 +12050,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48625)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11005,6 +12075,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48702)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11028,6 +12100,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48701)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11051,6 +12125,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48815)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11074,6 +12150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48816)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11097,6 +12175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49050)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11120,6 +12200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49051)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11143,6 +12225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49570)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -11166,6 +12250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49778)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11189,6 +12275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49779)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11212,6 +12300,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49986)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11235,6 +12325,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50019)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11258,6 +12350,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50022)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11281,6 +12375,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50306)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11304,6 +12400,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50312)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11327,6 +12425,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50386)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11350,6 +12450,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50385)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11373,6 +12475,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50453)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -11396,6 +12500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50849)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11419,6 +12525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50851)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11442,6 +12550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50905)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11465,6 +12575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50923)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11488,6 +12600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50933)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11511,6 +12625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50930)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11534,6 +12650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50942)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11557,6 +12675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50943)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11580,6 +12700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50944)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11603,6 +12725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50945)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11626,6 +12750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50966)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11649,6 +12775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50967)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11672,6 +12800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50983)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11695,6 +12825,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50984)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11718,6 +12850,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51159)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11741,6 +12875,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51221)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11764,6 +12900,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51243)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11787,6 +12925,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51354)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11810,6 +12950,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51357)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11833,6 +12975,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51358)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11856,6 +13000,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51374)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -11879,6 +13025,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51375)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -11902,6 +13050,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51383)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11925,6 +13075,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51407)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11948,6 +13100,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51409)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11971,6 +13125,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51410)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -11994,6 +13150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51531)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12017,6 +13175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52043)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12040,6 +13200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51704)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12063,6 +13225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51924)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -12086,6 +13250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51925)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -12109,6 +13275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51997)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -12132,6 +13300,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52091)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12155,6 +13325,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52217)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12178,6 +13350,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52240)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12201,6 +13375,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52241)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12224,6 +13400,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52242)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12247,6 +13425,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52259)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12270,6 +13450,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52706)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12293,6 +13475,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52707)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12316,6 +13500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52951)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12339,6 +13525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52952)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12362,6 +13550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52954)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12385,6 +13575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52955)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12408,6 +13600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53175)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12431,6 +13625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32414)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12454,6 +13650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32415)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12477,6 +13675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32425)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -12500,6 +13700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32764)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12523,6 +13725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32767)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12546,6 +13750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32768)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12569,6 +13775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32853)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12592,6 +13800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32896)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12615,6 +13825,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32897)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -12638,6 +13850,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32930)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12661,6 +13875,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33171)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12684,6 +13900,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33185)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12707,6 +13925,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33285)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12730,6 +13950,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33348)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12753,6 +13975,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33351)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12776,6 +14000,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33352)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12799,6 +14025,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33375)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -12822,6 +14050,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33407)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12845,6 +14075,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33689)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12868,6 +14100,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33788)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12891,6 +14125,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33795)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12914,6 +14150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33813)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12937,6 +14175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33794)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12960,6 +14200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33867)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -12983,6 +14225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33945)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -13006,6 +14250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33997)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13029,6 +14275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34001)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13052,6 +14300,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34002)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13075,6 +14325,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34004)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13098,6 +14350,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34005)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13121,6 +14375,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34003)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13144,6 +14400,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34049)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13167,6 +14425,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34057)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13190,6 +14450,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34175)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13213,6 +14475,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34342)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13236,6 +14500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34509)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13259,6 +14525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34514)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13282,6 +14550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34516)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13305,6 +14575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34603)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13328,6 +14600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34632)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13351,6 +14625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34648)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13374,6 +14650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34650)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13397,6 +14675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34651)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13420,6 +14700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34716)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073624 "Perineural use"
 //* routeOfAdministration[+].code = $100000073345#100000073624 "Via perineural"
 
@@ -13443,6 +14725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34787)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13466,6 +14750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34788)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13489,6 +14775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34791)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13512,6 +14800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34792)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13535,6 +14825,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34871)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13558,6 +14850,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34907)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13581,6 +14875,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34970)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13604,6 +14900,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34971)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13627,6 +14925,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34972)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13650,6 +14950,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35074)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13673,6 +14975,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35111)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -13696,6 +15000,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35245)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073620 "Oromucosal use"
 //* routeOfAdministration[+].code = $100000073345#100000073620 "Via bucal"
 
@@ -13719,6 +15025,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35252)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13742,6 +15050,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35272)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13765,6 +15075,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35282)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13788,6 +15100,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35286)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13811,6 +15125,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35309)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13834,6 +15150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35442)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13857,6 +15175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35443)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13880,6 +15200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35453)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13903,6 +15225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35454)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13926,6 +15250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35460)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13949,6 +15275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35465)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13972,6 +15300,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35521)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -13995,6 +15325,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35533)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14018,6 +15350,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35534)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14041,6 +15375,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35925)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14064,6 +15400,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35948)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14087,6 +15425,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-35959)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14110,6 +15450,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36023)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14133,6 +15475,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36224)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14156,6 +15500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36417)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14179,6 +15525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36419)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14202,6 +15550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36420)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14225,6 +15575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36429)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14248,6 +15600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36430)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14271,6 +15625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36551)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14294,6 +15650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36566)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14317,6 +15675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36624)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14340,6 +15700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36625)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14363,6 +15725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36602)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14386,6 +15750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36637)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14409,6 +15775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36639)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14432,6 +15800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36728)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14455,6 +15825,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36730)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14478,6 +15850,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36773)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14501,6 +15875,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36866)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14524,6 +15900,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36894)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14547,6 +15925,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36896)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14570,6 +15950,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36897)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14593,6 +15975,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36895)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14616,6 +16000,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37094)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14639,6 +16025,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37098)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14662,6 +16050,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37118)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14685,6 +16075,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37212)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14708,6 +16100,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37272)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14731,6 +16125,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37273)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14754,6 +16150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37335)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14777,6 +16175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37336)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14800,6 +16200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37430)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14823,6 +16225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37446)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14846,6 +16250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37436)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14869,6 +16275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37735)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14892,6 +16300,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-37848)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14915,6 +16325,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38050)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14938,6 +16350,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38051)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14961,6 +16375,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38099)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -14984,6 +16400,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38098)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15007,6 +16425,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38134)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15030,6 +16450,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38135)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15053,6 +16475,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38221)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15076,6 +16500,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38302)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15099,6 +16525,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38303)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15122,6 +16550,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38304)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15145,6 +16575,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38308)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15168,6 +16600,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38309)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15191,6 +16625,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38310)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15214,6 +16650,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38464)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15237,6 +16675,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38466)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -15260,6 +16700,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38849)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15283,6 +16725,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38856)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15306,6 +16750,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38857)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15329,6 +16775,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38858)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15352,6 +16800,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39027)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073584 "Inhalation use"
 //* routeOfAdministration[+].code = $100000073345#100000073584 "Via inalatória"
 
@@ -15375,6 +16825,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39046)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15398,6 +16850,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39212)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -15421,6 +16875,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39296)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15444,6 +16900,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39297)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15467,6 +16925,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39341)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15490,6 +16950,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39342)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15513,6 +16975,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39501)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15536,6 +17000,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39767)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15559,6 +17025,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39803)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15582,6 +17050,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39986)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15605,6 +17075,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-39989)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15628,6 +17100,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40066)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15651,6 +17125,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40067)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15674,6 +17150,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40311)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15697,6 +17175,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-40314)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15720,6 +17200,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-6310)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15743,6 +17225,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54607)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15766,6 +17250,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54847)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15789,6 +17275,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55500)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15812,9 +17300,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30411)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073638 "Urethral use"
-//* routeOfAdministration[+].code = $100000073345#100000073638 "Via uretral"* routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
-//* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"* routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
+//* routeOfAdministration[+].code = $100000073345#100000073638 "Via uretral" 
+
+* routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
+//* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal" 
+
+* routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
 
@@ -15837,6 +17331,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30756)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15860,6 +17356,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-30925)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -15883,6 +17381,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31151)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -15906,6 +17406,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-31927)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15929,6 +17431,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-34889)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15952,6 +17456,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-32592)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15975,6 +17481,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33186)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -15998,6 +17506,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33405)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16021,6 +17531,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33851)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073578 "Gingival use"
 //* routeOfAdministration[+].code = $100000073345#100000073578 "Uso gengival"
 
@@ -16044,6 +17556,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-33852)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073578 "Gingival use"
 //* routeOfAdministration[+].code = $100000073345#100000073578 "Uso gengival"
 
@@ -16067,6 +17581,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-36964)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -16090,6 +17606,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-38722)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -16113,6 +17631,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-41245)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16136,6 +17656,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-42069)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -16159,6 +17681,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48767)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16182,6 +17706,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48814)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16205,6 +17731,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49291)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16228,6 +17756,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49292)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16251,6 +17781,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49348)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -16274,8 +17806,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49479)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
 
@@ -16298,6 +17834,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-49521)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16321,6 +17859,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50404)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16344,6 +17884,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50420)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -16367,6 +17909,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50848)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -16390,6 +17934,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-50924)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -16413,6 +17959,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51160)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16436,6 +17984,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51237)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -16459,6 +18009,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51355)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16482,6 +18034,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51650)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16505,6 +18059,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51906)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16528,6 +18084,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51936)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16551,6 +18109,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-51935)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16574,6 +18134,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52018)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16597,6 +18159,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52327)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16620,6 +18184,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52613)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16643,6 +18209,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52821)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16666,6 +18234,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52823)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16689,6 +18259,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52848)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16712,6 +18284,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52863)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16735,6 +18309,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52934)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16758,6 +18334,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-52960)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16781,6 +18359,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53022)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16804,6 +18384,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53399)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16827,6 +18409,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53403)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16850,6 +18434,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53405)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -16873,6 +18459,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53412)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -16896,6 +18484,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53413)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -16919,6 +18509,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53422)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16942,6 +18534,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53424)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16965,6 +18559,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53423)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -16988,6 +18584,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53825)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17011,6 +18609,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53827)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17034,6 +18634,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53828)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17057,6 +18659,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-53833)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17080,6 +18684,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54006)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17103,6 +18709,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54008)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17126,6 +18734,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54298)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17149,6 +18759,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54299)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17172,6 +18784,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54361)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17195,6 +18809,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54427)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17218,6 +18834,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54428)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17241,6 +18859,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54429)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17264,6 +18884,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54493)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -17287,6 +18909,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54606)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17310,6 +18934,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54611)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17333,6 +18959,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54612)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17356,6 +18984,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54931)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17379,6 +19009,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54933)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17402,6 +19034,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-54968)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17425,6 +19059,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55005)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17448,6 +19084,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55006)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17471,6 +19109,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55007)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17494,6 +19134,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55171)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17517,6 +19159,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55188)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17540,6 +19184,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55189)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17563,6 +19209,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55272)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17586,6 +19234,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55309)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17609,6 +19259,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55331)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17632,6 +19284,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55336)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17655,6 +19309,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55337)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17678,6 +19334,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55349)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -17701,9 +19359,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55383)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -17726,9 +19390,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55384)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -17751,6 +19421,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55397)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17774,6 +19446,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55471)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17797,6 +19471,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55472)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17820,6 +19496,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55700)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17843,6 +19521,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55760)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17866,6 +19546,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55761)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17889,6 +19571,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-55765)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17912,6 +19596,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56004)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17935,6 +19621,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56015)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -17958,6 +19646,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56069)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -17981,6 +19671,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56070)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -18004,6 +19696,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56176)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -18027,6 +19721,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56443)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18050,6 +19746,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56444)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18073,6 +19771,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56445)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18096,6 +19796,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56446)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18119,6 +19821,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56477)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18142,6 +19846,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56492)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18165,6 +19871,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56549)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18188,6 +19896,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56548)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18211,8 +19921,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56576)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -18235,6 +19949,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56587)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18258,6 +19974,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56588)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18281,6 +19999,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56598)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18304,6 +20024,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56599)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18327,6 +20049,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56600)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18350,6 +20074,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56602)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18373,6 +20099,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56611)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18396,6 +20124,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56612)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18419,6 +20149,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56738)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
@@ -18442,6 +20174,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56779)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18465,6 +20199,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56819)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18488,6 +20224,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56871)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18511,6 +20249,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56967)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18534,6 +20274,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56968)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18557,6 +20299,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-56966)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18580,6 +20324,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57019)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18603,6 +20349,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57034)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18626,6 +20374,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57043)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18649,6 +20399,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57044)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18672,6 +20424,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57048)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18695,6 +20449,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57045)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18718,6 +20474,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57099)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18741,6 +20499,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57100)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18764,6 +20524,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57101)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18787,6 +20549,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-57113)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18810,6 +20574,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46181)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18833,6 +20599,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46494)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18856,6 +20624,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46493)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18879,6 +20649,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46650)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18902,6 +20674,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-46728)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18925,6 +20699,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47235)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18948,6 +20724,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47274)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18971,6 +20749,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-47384)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -18994,6 +20774,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48145)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19017,6 +20799,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48146)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19040,6 +20824,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-48147)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19063,6 +20849,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571320)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19086,6 +20874,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571321)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19109,6 +20899,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571340)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -19132,6 +20924,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571341)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -19155,6 +20949,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571342)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -19178,6 +20974,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571343)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -19201,6 +20999,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571380)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -19224,6 +21024,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571820)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19247,6 +21049,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-571821)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19270,6 +21074,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-573040)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19293,6 +21099,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-573300)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19316,6 +21124,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-573441)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19339,6 +21149,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-574221)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19362,6 +21174,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-574740)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19385,6 +21199,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-575020)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073617 "Ocular use"
 //* routeOfAdministration[+].code = $100000073345#100000073617 "Uso oftálmico"
 
@@ -19408,6 +21224,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-575820)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19431,6 +21249,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-575840)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19454,6 +21274,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-576341)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19477,6 +21299,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-578000)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19500,6 +21324,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-578520)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19523,6 +21349,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-578582)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19546,6 +21374,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-580280)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -19569,6 +21399,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-580961)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19592,6 +21424,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-580962)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19615,6 +21449,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-580981)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19638,6 +21474,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-580982)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19661,6 +21499,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581021)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19684,6 +21524,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581121)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19707,6 +21549,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581122)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19730,6 +21574,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581123)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19753,6 +21599,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581201)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19776,6 +21624,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581202)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19799,6 +21649,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581342)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19822,6 +21674,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581561)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19845,6 +21699,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-581643)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073620 "Oromucosal use"
 //* routeOfAdministration[+].code = $100000073345#100000073620 "Via bucal"
 
@@ -19868,6 +21724,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-584241)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19891,6 +21749,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-584381)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19914,6 +21774,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585101)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19937,6 +21799,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585102)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19960,6 +21824,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585103)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -19983,6 +21849,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585104)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20006,6 +21874,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585141)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000125763 "Intracameral use"
 //* routeOfAdministration[+].code = $100000073345#100000125763 "Uso intracameral"
 
@@ -20029,6 +21899,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585282)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20052,6 +21924,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585283)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20075,6 +21949,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585441)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20098,6 +21974,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585561)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20121,6 +21999,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585562)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20144,6 +22024,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-585563)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20167,6 +22049,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587065)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20190,6 +22074,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587765)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20213,6 +22099,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587766)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20236,6 +22124,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587767)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20259,6 +22149,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587768)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20282,6 +22174,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587769)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20305,6 +22199,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587771)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20328,6 +22224,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587772)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20351,6 +22249,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-587773)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20374,6 +22274,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-588062)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20397,6 +22299,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-588381)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20420,6 +22324,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-588382)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20443,6 +22349,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-588661)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20466,6 +22374,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-588662)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20489,6 +22399,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-588675)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -20512,9 +22424,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-588921)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -20537,6 +22455,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-588949)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -20560,6 +22480,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-589641)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20583,6 +22505,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-589646)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -20606,6 +22530,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-590004)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20629,6 +22555,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-590005)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20652,6 +22580,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-590006)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20675,6 +22605,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-590008)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20698,6 +22630,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-590281)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20721,6 +22655,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-590301)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20744,6 +22680,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-591462)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073617 "Ocular use"
 //* routeOfAdministration[+].code = $100000073345#100000073617 "Uso oftálmico"
 
@@ -20767,6 +22705,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-591522)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20790,6 +22730,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-591542)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20813,6 +22755,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-591543)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20836,6 +22780,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-591544)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20859,6 +22805,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-591964)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20882,6 +22830,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-592542)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20905,6 +22855,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-592922)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20928,6 +22880,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-592961)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20951,6 +22905,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-592962)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20974,6 +22930,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593021)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -20997,6 +22955,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593022)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21020,6 +22980,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593082)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21043,6 +23005,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593083)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21066,6 +23030,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593201)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21089,6 +23055,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593202)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21112,6 +23080,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593261)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21135,6 +23105,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593262)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21158,6 +23130,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593301)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21181,6 +23155,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593302)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21204,6 +23180,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593662)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21227,6 +23205,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-593663)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21250,6 +23230,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-594243)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21273,6 +23255,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-594282)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073617 "Ocular use"
 //* routeOfAdministration[+].code = $100000073345#100000073617 "Uso oftálmico"
 
@@ -21296,6 +23280,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-594402)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21319,6 +23305,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-594404)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21342,6 +23330,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-594405)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21365,6 +23355,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-594744)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21388,6 +23380,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-594745)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21411,6 +23405,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-595042)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21434,6 +23430,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-595226)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21457,7 +23455,9 @@ Usage: #example
 //reference to ManufacturedProduct 
 // ERROR[7] - MED ID: 595327 in sheet 'Pharmaceutical Product' but not in 'ManufacturedItem': INDEX:945
 //DUMMYY
-* producedFrom = Reference(mid-595327)* routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
+* producedFrom = Reference(mid-595327) 
+
+* routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
 
@@ -21480,6 +23480,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-595542)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21503,6 +23505,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-595643)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -21526,6 +23530,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596302)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21549,6 +23555,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596582)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21572,6 +23580,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596602)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21595,6 +23605,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596603)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21618,6 +23630,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596664)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21641,6 +23655,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596665)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21664,6 +23680,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596822)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -21687,6 +23705,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596902)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21710,6 +23730,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-596903)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21733,6 +23755,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-597203)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21756,6 +23780,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-597204)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21779,6 +23805,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-598942)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21802,6 +23830,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-599185)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21825,6 +23855,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-600542)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21848,6 +23880,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-600543)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21871,6 +23905,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-600583)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21894,7 +23930,9 @@ Usage: #example
 //reference to ManufacturedProduct 
 // ERROR[7] - MED ID: 600682 in sheet 'Pharmaceutical Product' but not in 'ManufacturedItem': INDEX:965
 //DUMMYY
-* producedFrom = Reference(mid-600682)* routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
+* producedFrom = Reference(mid-600682) 
+
+* routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
 
@@ -21917,6 +23955,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-600764)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21940,6 +23980,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-600803)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21963,6 +24005,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601162)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -21986,6 +24030,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601163)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22009,6 +24055,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601262)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22032,6 +24080,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601263)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22055,6 +24105,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601264)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22078,6 +24130,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601282)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -22101,6 +24155,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601402)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22124,6 +24180,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601502)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22147,7 +24205,9 @@ Usage: #example
 //reference to ManufacturedProduct 
 // ERROR[7] - MED ID: 601782 in sheet 'Pharmaceutical Product' but not in 'ManufacturedItem': INDEX:976
 //DUMMYY
-* producedFrom = Reference(mid-601782)* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+* producedFrom = Reference(mid-601782) 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -22170,6 +24230,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601842)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22193,6 +24255,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601843)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22216,6 +24280,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-601922)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -22239,8 +24305,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602183)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
 
@@ -22263,6 +24333,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602664)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22286,6 +24358,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602665)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22309,6 +24383,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602666)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22332,6 +24408,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602762)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22355,6 +24433,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602763)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22378,6 +24458,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602764)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22401,6 +24483,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602765)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22424,6 +24508,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602842)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22447,6 +24533,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-602986)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22470,6 +24558,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-603722)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22493,6 +24583,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-603723)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22516,6 +24608,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-603724)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22539,6 +24633,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604038)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22562,6 +24658,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604542)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22585,6 +24683,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604543)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22608,6 +24708,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604544)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22631,6 +24733,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604703)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22654,6 +24758,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604704)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22677,6 +24783,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604705)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22700,6 +24808,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604706)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22723,6 +24833,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-604943)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22746,6 +24858,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-605003)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22769,6 +24883,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-605005)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22792,6 +24908,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-605006)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22815,6 +24933,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-605004)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22838,6 +24958,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-605362)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22861,6 +24983,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606069)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22884,6 +25008,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606142)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22907,6 +25033,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606162)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22930,6 +25058,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606242)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22953,6 +25083,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606243)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22976,6 +25108,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606244)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -22999,6 +25133,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606245)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23022,6 +25158,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606822)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23045,6 +25183,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606823)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23068,6 +25208,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606824)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23091,6 +25233,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-606825)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23114,6 +25258,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607162)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23137,6 +25283,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607506)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23160,6 +25308,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607762)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23183,6 +25333,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607763)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23206,6 +25358,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607842)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -23229,6 +25383,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607843)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -23252,6 +25408,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607844)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -23275,6 +25433,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607962)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23298,6 +25458,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607963)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23321,6 +25483,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607964)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23344,6 +25508,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-607965)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23367,6 +25533,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609193)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23390,6 +25558,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609194)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23413,6 +25583,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609195)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23436,6 +25608,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609196)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23459,6 +25633,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609403)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23482,6 +25658,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609502)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -23505,6 +25683,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609543)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23528,6 +25708,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609823)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23551,6 +25733,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-609824)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23574,6 +25758,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-610182)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23597,9 +25783,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-610702)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -23622,6 +25814,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-610822)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23645,9 +25839,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-610842)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -23670,9 +25870,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-610843)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -23695,9 +25901,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-610844)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -23720,9 +25932,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-610845)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -23745,6 +25963,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-611182)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23768,6 +25988,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-611222)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23791,6 +26013,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-611225)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23814,6 +26038,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-611502)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23837,6 +26063,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-611842)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23860,6 +26088,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-612042)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23883,6 +26113,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-612043)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23906,6 +26138,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-612182)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23929,6 +26163,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-612502)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23952,6 +26188,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-612503)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23975,6 +26213,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-612642)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -23998,6 +26238,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-612983)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24021,6 +26263,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-613642)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24044,6 +26288,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-613643)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24067,6 +26313,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-613645)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24090,6 +26338,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-613646)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24113,6 +26363,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-613742)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24136,6 +26388,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-614263)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24159,6 +26413,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-614264)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24182,10 +26438,18 @@ Usage: #example
 //reference to ManufacturedProduct 
 // ERROR[7] - MED ID: 614542 in sheet 'Pharmaceutical Product' but not in 'ManufacturedItem': INDEX:1065
 //DUMMYY
-* producedFrom = Reference(mid-614542)* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+* producedFrom = Reference(mid-614542) 
+
+* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
 //* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural"
 
 
@@ -24208,10 +26472,18 @@ Usage: #example
 //reference to ManufacturedProduct 
 // ERROR[7] - MED ID: 614543 in sheet 'Pharmaceutical Product' but not in 'ManufacturedItem': INDEX:1066
 //DUMMYY
-* producedFrom = Reference(mid-614543)* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
+* producedFrom = Reference(mid-614543) 
+
+* routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000073572 "Epidural use"
 //* routeOfAdministration[+].code = $100000073345#100000073572 "Via epidural"
 
 
@@ -24234,6 +26506,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-614642)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24257,6 +26531,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-614643)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24280,6 +26556,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-614902)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -24303,6 +26581,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-615787)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24326,6 +26606,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-615788)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24349,6 +26631,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-615789)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24372,6 +26656,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-615902)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24395,6 +26681,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-616082)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24418,6 +26706,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-616102)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24441,6 +26731,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-618123)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24464,6 +26756,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-618202)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -24487,6 +26781,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-618203)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -24510,6 +26806,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-618342)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24533,6 +26831,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-618343)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24556,6 +26856,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-618344)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24579,6 +26881,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-618345)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24602,6 +26906,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-618463)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24625,6 +26931,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619662)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24648,6 +26956,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619663)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24671,6 +26981,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619664)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24694,6 +27006,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619665)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24717,6 +27031,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619802)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24740,6 +27056,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619914)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24763,6 +27081,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619915)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24786,6 +27106,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619946)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24809,6 +27131,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-619947)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24832,6 +27156,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-620268)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24855,6 +27181,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-620269)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24878,6 +27206,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-620275)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24901,6 +27231,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-620278)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -24924,6 +27256,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621003)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24947,6 +27281,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621006)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24970,6 +27306,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621007)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -24993,6 +27331,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621144)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25016,6 +27356,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621145)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25039,6 +27381,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621146)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25062,6 +27406,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621147)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25085,6 +27431,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621148)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25108,6 +27456,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621186)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25131,6 +27481,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-621187)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25154,9 +27506,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-622802)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -25179,9 +27537,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-622803)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -25204,9 +27568,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-622804)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -25229,9 +27599,15 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-622805)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
-//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
-//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
+//* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa" 
+
+* routeOfAdministration[+].code = $100000073345#100000075556 "Extracorporeal use"
 //* routeOfAdministration[+].code = $100000073345#100000075556 "Uso extracorpóreo"
 
 
@@ -25254,6 +27630,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-623627)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25277,6 +27655,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-623964)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25300,6 +27680,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-623965)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25323,6 +27705,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-623966)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25346,6 +27730,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624662)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25369,6 +27755,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624682)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25392,6 +27780,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624702)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25415,6 +27805,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624722)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25438,6 +27830,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624723)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25461,6 +27855,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624724)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25484,6 +27880,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624822)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25507,6 +27905,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624842)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25530,6 +27930,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624862)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25553,6 +27955,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624882)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25576,6 +27980,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624883)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25599,6 +28005,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624884)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25622,6 +28030,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624902)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25645,6 +28055,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-624903)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25668,6 +28080,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-625562)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073617 "Ocular use"
 //* routeOfAdministration[+].code = $100000073345#100000073617 "Uso oftálmico"
 
@@ -25691,6 +28105,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-626322)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25714,6 +28130,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627062)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25737,6 +28155,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627082)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25760,6 +28180,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627102)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25783,6 +28205,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627522)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25806,8 +28230,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627542)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
-//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular"* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
+//* routeOfAdministration[+].code = $100000073345#100000073600 "Via intramuscular" 
+
+* routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 //* routeOfAdministration[+].code = $100000073345#100000073611 "Via intravenosa"
 
 
@@ -25830,6 +28258,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627702)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -25853,6 +28283,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627762)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25876,6 +28308,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627763)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25899,6 +28333,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-627764)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25922,6 +28358,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-628562)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25945,6 +28383,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-629042)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25968,6 +28408,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-629043)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -25991,6 +28433,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-629044)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26014,6 +28458,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-629162)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"
 
@@ -26037,6 +28483,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-629482)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26060,6 +28508,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-629542)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26083,7 +28533,9 @@ Usage: #example
 //reference to ManufacturedProduct 
 // ERROR[7] - MED ID: 629902 in sheet 'Pharmaceutical Product' but not in 'ManufacturedItem': INDEX:1147
 //DUMMYY
-* producedFrom = Reference(mid-629902)* routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
+* producedFrom = Reference(mid-629902) 
+
+* routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
 
@@ -26106,7 +28558,9 @@ Usage: #example
 //reference to ManufacturedProduct 
 // ERROR[7] - MED ID: 629922 in sheet 'Pharmaceutical Product' but not in 'ManufacturedItem': INDEX:1148
 //DUMMYY
-* producedFrom = Reference(mid-629922)* routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
+* producedFrom = Reference(mid-629922) 
+
+* routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
 
@@ -26129,6 +28583,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-629943)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26152,6 +28608,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-629944)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26175,6 +28633,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-630242)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26198,6 +28658,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-630322)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26221,6 +28683,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-630722)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26244,6 +28708,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-630723)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26267,6 +28733,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-630962)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26290,6 +28758,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-630963)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26313,6 +28783,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-631103)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26336,6 +28808,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-631163)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26359,6 +28833,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-631164)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26382,6 +28858,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-631165)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26405,6 +28883,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-631822)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -26428,6 +28908,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-631902)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26451,6 +28933,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-632842)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -26474,6 +28958,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-633082)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26497,6 +28983,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-633083)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26520,6 +29008,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-633084)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26543,6 +29033,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-634202)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26566,6 +29058,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-634203)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26589,6 +29083,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-634204)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26612,6 +29108,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-634242)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26635,6 +29133,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-634262)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26658,6 +29158,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-634263)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26681,6 +29183,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-634282)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -26704,6 +29208,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-635543)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -26727,6 +29233,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-636082)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26750,6 +29258,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-636182)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26773,6 +29283,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-637084)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26796,6 +29308,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-637402)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26819,6 +29333,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-638523)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26842,6 +29358,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-638544)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26865,6 +29383,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-638545)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26888,6 +29408,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-638583)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26911,6 +29433,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-638584)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26934,6 +29458,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-638585)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -26957,8 +29483,12 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-639123)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073593 "Intracervical use"
-//* routeOfAdministration[+].code = $100000073345#100000073593 "Via intracervical"* routeOfAdministration[+].code = $100000073345#100000073610 "Intrauterine use"
+//* routeOfAdministration[+].code = $100000073345#100000073593 "Via intracervical" 
+
+* routeOfAdministration[+].code = $100000073345#100000073610 "Intrauterine use"
 //* routeOfAdministration[+].code = $100000073345#100000073610 "Via intrauterina"
 
 
@@ -26981,6 +29511,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-640143)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -27004,6 +29536,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-640643)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27027,6 +29561,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-640644)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27050,6 +29586,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-640645)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27073,6 +29611,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-640646)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27096,6 +29636,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-641323)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27119,6 +29661,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-641463)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27142,6 +29686,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-641904)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -27165,6 +29711,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-641905)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073628 "Rectal use"
 //* routeOfAdministration[+].code = $100000073345#100000073628 "Via retal"
 
@@ -27188,6 +29736,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-642763)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27211,6 +29761,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-643904)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -27234,6 +29786,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-643905)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073566 "Cutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073566 "Uso cutâneo"
 
@@ -27257,6 +29811,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-643963)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27280,6 +29836,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-643964)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27303,6 +29861,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-643965)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27326,6 +29886,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-643966)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27349,6 +29911,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-644825)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27372,6 +29936,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-645127)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27395,6 +29961,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-645245)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073639 "Vaginal use"
 //* routeOfAdministration[+].code = $100000073345#100000073639 "Uso vaginal"
 
@@ -27418,6 +29986,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-645424)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27441,6 +30011,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-645426)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27464,6 +30036,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-645604)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27487,6 +30061,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-645665)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27510,6 +30086,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-645687)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27533,6 +30111,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-646424)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27556,6 +30136,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-648764)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27579,6 +30161,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-648765)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27602,6 +30186,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-648766)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27625,6 +30211,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-648767)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27648,6 +30236,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-649288)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27671,6 +30261,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-649324)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27694,6 +30286,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-649325)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27717,6 +30311,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-649326)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27740,6 +30336,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-651664)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27763,6 +30361,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-651665)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27786,6 +30386,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-651666)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27809,6 +30411,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-651667)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27832,6 +30436,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-653425)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27855,6 +30461,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-653426)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27878,6 +30486,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-654926)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073637 "Transdermal use"
 //* routeOfAdministration[+].code = $100000073345#100000073637 "Via transdérmica"
 
@@ -27901,6 +30511,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-655004)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27924,6 +30536,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-660024)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27947,6 +30561,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-662124)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27970,6 +30586,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-662684)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -27993,6 +30611,8 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-666264)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073619 "Oral use"
 //* routeOfAdministration[+].code = $100000073345#100000073619 "Via oral"
 
@@ -28016,5 +30636,7 @@ Usage: #example
 //reference to ManufacturedProduct 
 // for: 
 * producedFrom = Reference(mid-670104)
+ 
+
 * routeOfAdministration[+].code = $100000073345#100000073633 "Subcutaneous use"
 //* routeOfAdministration[+].code = $100000073345#100000073633 "Via subcutânea"

@@ -1,0 +1,99 @@
+starting...
+AdministrableProductDefinition
+AdministrableProductDefinition-ap-629922.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-629922</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-629922"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-ap-629902.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-629902</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-629902"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-ap-614543.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-614543</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-614543"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-ap-601782.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-601782</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-601782"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-ap-614542.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-614542</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-614542"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-ap-595327.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-595327</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-595327"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-ap-600682.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-600682</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.producedFrom] - Does not contain resource type - mid-600682"
+  } ]
+}

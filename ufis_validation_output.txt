@@ -1,0 +1,953 @@
+starting...
+RegulatedAuthorization
+RegulatedAuthorization-e571fcab-5886-473a-b627-f72238cd4cdd.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b"
+  } ]
+}
+RegulatedAuthorization
+RegulatedAuthorization-JMJ-Humalog-Mix50-UK-authorisation-example.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - JMJ-Humalog-Mix50-Kwikpen-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - JMJ-Humalog-Mix50-Kwikpen-product-example"
+  } ]
+}
+RegulatedAuthorization
+RegulatedAuthorization-JMJ-Monuril-UK-authorisation-example.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - JMJ-Monuril-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - JMJ-Monuril-product-example"
+  } ]
+}
+RegulatedAuthorization
+RegulatedAuthorization-JMJ-Co-amoxiclav-authorisation-example.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - JMJ-Co-amoxiclav-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - JMJ-Co-amoxiclav-product-example"
+  } ]
+}
+RegulatedAuthorization
+RegulatedAuthorization-mpid-pmsmpid-44680.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2"
+  } ]
+}
+RegulatedAuthorization
+RegulatedAuthorization-33c2e253-9fa1-4e25-a139-421b08cec073.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+RegulatedAuthorization
+RegulatedAuthorization-JMJ-Humalog-UK-authorisation-example.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - JMJ-Humalog-Kwikpen-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - JMJ-Humalog-Kwikpen-product-example"
+  } ]
+}
+RegulatedAuthorization
+RegulatedAuthorization-MTnr57470.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0931: Invalid reference found at path 'RegulatedAuthorization.holder'. Resource type 'locations' is not valid for this path</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0931: Invalid reference found at path 'RegulatedAuthorization.holder'. Resource type 'locations' is not valid for this path"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-JMJ-Humalog-Mix50-AdminProduct-example.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - JMJ-Humalog-Mix50-Kwikpen-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - JMJ-Humalog-Mix50-Kwikpen-product-example"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-71386cf7-93e1-4e42-9810-4cc73e35922c.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-441340e6-207a-4c61-b22d-de5c482c7090.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-JMJ-Co-amoxiclav-AdminProduct-example.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - JMJ-Co-amoxiclav-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - JMJ-Co-amoxiclav-product-example"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-5518a708-50e4-46eb-bd47-fc7915290566.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-JMJ-Monuril-AdminProduct-example.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - JMJ-Monuril-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - JMJ-Monuril-product-example"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - Fragmink-12500IE-Solution-SE-IS-MedicinalProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - Fragmink-12500IE-Solution-SE-IS-MedicinalProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient04.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Bamyl500mgtablett-SE-PLC-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Bamyl500mgtablett-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Bamyl500mgtablett-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient08.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Trombyl160mgtablett-SE-PLC-Ingredient02.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Trombyl160mgtablett-SE-PLC-Ingredient03.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-AtomoxetinMylan-100mg-Capsule-SE-AJ-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinMylan-100mg-Capsule-SE-AJ-AdministrableProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinMylan-100mg-Capsule-SE-AJ-AdministrableProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient09.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-AtomoxetinMedValley-10mg-Capsule-SE-AJ-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinMedValley-10mg-Capsule-SE-AJ-AdministrableProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinMedValley-10mg-Capsule-SE-AJ-AdministrableProductDef"
+  } ]
+}
+Ingredient
+Ingredient-0cf52436-fced-4094-bc1f-01ad656685b6.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient05.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-AtomoxetinActavis-10mg-Capsule-SE-AJ-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinActavis-10mg-Capsule-SE-AJ-AdministrableProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinActavis-10mg-Capsule-SE-AJ-AdministrableProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Trombyl160mgtablett-SE-PLC-Ingredient04.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient02.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient03.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Yasminelle-tablet-SE-AJ-Ingredient02.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Yasminelle-tablet-SE-AJ-AdministrableProductDefinition01</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Yasminelle-tablet-SE-AJ-AdministrableProductDefinition01"
+  } ]
+}
+Ingredient
+Ingredient-AtomoxetinActavis-18mg-Capsule-SE-AJ-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinActavis-18mg-Capsule-SE-AJ-AdministrableProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinActavis-18mg-Capsule-SE-AJ-AdministrableProductDef"
+  } ]
+}
+Ingredient
+Ingredient-SimvastatinBluefish-10mg-Tablet-SE-BS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-1094: Resource MedicinalProductDefinition/SimvastatinBluefish-10mg-Tablet-SE-BS-ManufacturedItemDefinition not found, specified in path: Ingredient.for</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-1094: Resource MedicinalProductDefinition/SimvastatinBluefish-10mg-Tablet-SE-BS-ManufacturedItemDefinition not found, specified in path: Ingredient.for"
+  } ]
+}
+Ingredient
+Ingredient-Trombyl160mgtablett-SE-PLC-Ingredient05.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Zeldox20mgml2-SE-PLC-Ingredient01.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Zeldox20mgml2-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Zeldox20mgml2-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-DZPorifarm-10mg-Solution-SE-IS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - DZPorifarm-10mg-Solution-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - DZPorifarm-10mg-Solution-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-AMLkrka-10mg-Tablet-SE-IS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AMLkrka-10mg-Tablet-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AMLkrka-10mg-Tablet-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-ISOsandoz-20mg-Capsule-SE-IS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - ISOsandoz-20mg-Capsule-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - ISOsandoz-20mg-Capsule-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-DZPorifarm-5mg-Solution-SE-IS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - DZPorifarm-5mg-Solution-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - DZPorifarm-5mg-Solution-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Trombyl160mgtablett-SE-PLC-Ingredient06.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-SimvastatinBluefish-10mg-Tablet-SE-BS-Ingredient--.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-1094: Resource MedicinalProductDefinition/SimvastatinBluefish-10mg-Tablet-SE-BS-ManufacturedItemDefinition not found, specified in path: Ingredient.for</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-1094: Resource MedicinalProductDefinition/SimvastatinBluefish-10mg-Tablet-SE-BS-ManufacturedItemDefinition not found, specified in path: Ingredient.for"
+  } ]
+}
+Ingredient
+Ingredient-Zeldox20mgml2-SE-PLC-Ingredient02.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Zeldox20mgml2-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Zeldox20mgml2-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-CefuroximMIP-1500mg-Powder-SE-IS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - CefuroximMIP-1500mg-Powder-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - CefuroximMIP-1500mg-Powder-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-AtomoxetinGlenmark-10mg-Capsule-SE-AJ-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinGlenmark-10mg-Capsule-SE-AJ-AdministrableProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinGlenmark-10mg-Capsule-SE-AJ-AdministrableProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Yasminelle-tablet-SE-AJ-Ingredient01.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Yasminelle-tablet-SE-AJ-AdministrableProductDefinition01</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Yasminelle-tablet-SE-AJ-AdministrableProductDefinition01"
+  } ]
+}
+Ingredient
+Ingredient-BupTest-2mg-Tablet-SE-BS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - BupTest-2mg-Tablet-SE-BS-AdministrableProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - BupTest-2mg-Tablet-SE-BS-AdministrableProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient01.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Aspirin500mgtablett-SE-PLC-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Aspirin500mgtablett-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Aspirin500mgtablett-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-CBZEssPharm-250mg-Supp-SE-AJ-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - CBZEssPharm-250mg-Supp-SE-AJ-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - CBZEssPharm-250mg-Supp-SE-AJ-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient10.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient06.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-AtomoxetinMylan-10mg-Capsule-SE-AJ-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinMylan-10mg-Capsule-SE-AJ-AdministrableProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - AtomoxetinMylan-10mg-Capsule-SE-AJ-AdministrableProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Zoladex-3.6mg-Implant-EE-I.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-1094: Resource MedicinalProductDefinition/Zoladex-3.6mg-Implant-EE-EE-MPD not found, specified in path: Ingredient.for</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-1094: Resource MedicinalProductDefinition/Zoladex-3.6mg-Implant-EE-EE-MPD not found, specified in path: Ingredient.for"
+  } ]
+}
+Ingredient
+Ingredient-Trombyl160mgtablett-SE-PLC-Ingredient01.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-AdminProductDef"
+  } ]
+}
+Ingredient
+Ingredient-Attentin-10mg-Tablet-SE-AJ-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Attentin-10mg-Tablet-SE-AJ-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Attentin-10mg-Tablet-SE-AJ-AdministrableProductDefinition"
+  } ]
+}
+Ingredient
+Ingredient-Fragmin-12500IE-Solution-SE-IS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-1094: Resource AdministrableProductDefinition/Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition not found, specified in path: Ingredient.for</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-1094: Resource AdministrableProductDefinition/Fragmin-12500IE-Solution-SE-IS-AdministrableProductDefinition not found, specified in path: Ingredient.for"
+  } ]
+}
+Ingredient
+Ingredient-Smofkabiven-Emulsion-SE-IS-Ingredient07.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - Smofkabiven-Emulsion-SE-IS-AdministrableProductDefinition"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-1c155b07-c992-4989-9e32-ec536782d502.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-Glytrin04mgdossublingualspray-SE-PLC-PackageProductDef.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packaging.containedItem.item.reference] - Does not contain resource type - ProductnameStrengthPharmaceuticaldoseform-SE-PLC-ManufacturedItemDef</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packaging.containedItem.item.reference] - Does not contain resource type - ProductnameStrengthPharmaceuticaldoseform-SE-PLC-ManufacturedItemDef"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-e90fb5fe-5531-4280-865e-745865deb686.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-JMJ-Humalog-Mix50-Kwikpen-package.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - JMJ-Humalog-Mix50-Kwikpen-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - JMJ-Humalog-Mix50-Kwikpen-product-example"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-j20170630100099.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-j20170630100020.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-c03f532c-7506-412b-8b8d-518b6205970d.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-ccdb8e56-4520-4a02-bfad-fa0cb2f07eef.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-JMJ-Humalog-Kwikpen-package.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - JMJ-Humalog-Kwikpen-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - JMJ-Humalog-Kwikpen-product-example"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-JMJ-Monuril-UK-package.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - JMJ-Monuril-product-example</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - JMJ-Monuril-product-example"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-b50a5d28-02bd-4a16-9715-3e227a4be7d7.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - bb8c2306-04c5-42df-94c9-aa6d6e68050b"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-622306ee-a452-4498-b02b-7369712ae3e4.json
+{
+  "resourceType": "OperationOutcome",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h1>Operation Outcome</h1><table border=\"0\"><tr><td style=\"font-weight: bold;\">ERROR</td><td>[]</td><td><pre>HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2</pre></td>\n\t\t\t</tr>\n\t\t</table>\n\t</div>"
+  },
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - d37bfa6f-ea90-4645-8be4-e7c649dd64f2"
+  } ]
+}

@@ -19,7 +19,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61,7 +65,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -103,7 +111,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -145,7 +157,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -187,7 +203,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -229,7 +249,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -271,7 +295,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -313,7 +341,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -355,7 +387,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -397,7 +433,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -439,7 +479,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -481,7 +525,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -523,7 +571,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -565,7 +617,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -607,7 +663,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -649,7 +709,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -691,7 +755,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -733,7 +801,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -775,7 +847,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -817,7 +893,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -859,7 +939,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -901,7 +985,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -943,7 +1031,11 @@ Usage: #example
 
 
 * containedItemQuantity = 12 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -985,7 +1077,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1027,7 +1123,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1069,7 +1169,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 50 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1111,7 +1215,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1153,7 +1261,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1195,7 +1307,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1237,7 +1353,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1279,7 +1399,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1321,7 +1445,11 @@ Usage: #example
 
 
 * containedItemQuantity = 126 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 126 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 126 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1363,7 +1491,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1405,7 +1537,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1447,7 +1583,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1489,7 +1629,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1531,7 +1675,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1573,7 +1721,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1615,7 +1767,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1657,7 +1813,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1699,7 +1859,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1741,7 +1905,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1783,7 +1951,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1825,7 +1997,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1867,7 +2043,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1909,7 +2089,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1951,7 +2135,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -1993,7 +2181,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2035,7 +2227,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2077,7 +2273,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2119,7 +2319,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2161,7 +2365,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2203,7 +2411,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2245,7 +2457,11 @@ Usage: #example
 
 
 * containedItemQuantity = 15 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 15 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 15 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2287,7 +2503,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2329,7 +2549,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2371,7 +2595,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2413,7 +2641,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2455,7 +2687,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2497,7 +2733,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2539,7 +2779,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2581,7 +2825,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2623,7 +2871,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2665,7 +2917,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2707,7 +2963,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2749,7 +3009,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2791,7 +3055,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2833,7 +3101,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2875,7 +3147,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2917,7 +3193,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -2959,7 +3239,11 @@ Usage: #example
 
 
 * containedItemQuantity = 25 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 25 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 25 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3001,7 +3285,11 @@ Usage: #example
 
 
 * containedItemQuantity = 25 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 25 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 25 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3043,7 +3331,11 @@ Usage: #example
 
 
 * containedItemQuantity = 200 $200000000014#200000002163 "Actuation"
-//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3085,7 +3377,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 1 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3127,7 +3423,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3169,7 +3469,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3211,7 +3515,11 @@ Usage: #example
 
 
 * containedItemQuantity = 12 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3253,7 +3561,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 3 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3295,7 +3607,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3337,7 +3653,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3379,7 +3699,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3421,7 +3745,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3463,7 +3791,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3505,7 +3837,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3547,7 +3883,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3589,7 +3929,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3631,7 +3975,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3673,7 +4021,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 1 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3715,7 +4067,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3757,7 +4113,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3799,7 +4159,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3841,7 +4205,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 20 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3883,7 +4251,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002151 "System"
-//* containedItemQuantity = 10 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3925,7 +4297,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -3967,7 +4343,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4009,7 +4389,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4051,7 +4435,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4093,7 +4481,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4135,7 +4527,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 100 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4177,7 +4573,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 100 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4219,7 +4619,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 100 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4261,7 +4665,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 100 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4303,7 +4711,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4345,7 +4757,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4387,7 +4803,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4429,7 +4849,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4471,7 +4895,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4513,7 +4941,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4555,7 +4987,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4597,7 +5033,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4639,7 +5079,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4681,7 +5125,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4723,7 +5171,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4765,7 +5217,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4807,7 +5263,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4849,7 +5309,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4891,7 +5355,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4933,7 +5401,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -4975,7 +5447,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5017,7 +5493,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5059,7 +5539,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5101,7 +5585,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5143,7 +5631,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5185,7 +5677,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5227,7 +5723,11 @@ Usage: #example
 
 
 * containedItemQuantity = 32 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 32 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 32 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5269,7 +5769,11 @@ Usage: #example
 
 
 * containedItemQuantity = 8 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 8 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 8 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5311,7 +5815,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5353,7 +5861,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5395,7 +5907,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5437,7 +5953,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5479,7 +5999,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5521,7 +6045,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5563,7 +6091,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5605,7 +6137,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 1 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5647,7 +6183,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5689,7 +6229,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5731,7 +6275,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5773,7 +6321,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5815,7 +6367,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5857,7 +6413,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5899,7 +6459,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5941,7 +6505,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -5983,7 +6551,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6025,7 +6597,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6067,7 +6643,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6109,7 +6689,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6151,7 +6735,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6193,7 +6781,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6235,7 +6827,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6277,7 +6873,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6319,7 +6919,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6361,7 +6965,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6403,7 +7011,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6445,7 +7057,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6487,7 +7103,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6529,7 +7149,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002114 "Cartridge"
-//* containedItemQuantity = 5 $200000000014#200000002114 "Cartucho"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002114 "Cartucho"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6571,7 +7195,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6613,7 +7241,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6655,7 +7287,11 @@ Usage: #example
 
 
 * containedItemQuantity = 40 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 40 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 40 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6697,7 +7333,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 20 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6739,7 +7379,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6781,7 +7425,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6823,7 +7471,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6865,7 +7517,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6907,7 +7563,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6949,7 +7609,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -6991,7 +7655,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7033,7 +7701,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7075,7 +7747,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7117,7 +7793,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7159,7 +7839,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7201,7 +7885,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7243,7 +7931,11 @@ Usage: #example
 
 
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 15 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 15 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7285,7 +7977,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7327,7 +8023,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7369,7 +8069,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7411,7 +8115,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7453,7 +8161,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7495,7 +8207,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7537,7 +8253,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7579,7 +8299,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7621,7 +8345,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7663,7 +8391,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7705,7 +8437,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7747,7 +8483,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7789,7 +8529,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7831,7 +8575,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7873,7 +8621,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7915,7 +8667,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7957,7 +8713,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -7999,7 +8759,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8041,7 +8805,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8083,7 +8851,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8125,7 +8897,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8167,7 +8943,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 10 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8209,7 +8989,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8251,7 +9035,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8293,7 +9081,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8335,7 +9127,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8377,7 +9173,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8419,7 +9219,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8461,7 +9265,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8503,7 +9311,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8545,7 +9357,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8587,7 +9403,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8629,7 +9449,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8671,7 +9495,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8713,7 +9541,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8755,7 +9587,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8797,7 +9633,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8839,7 +9679,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8881,7 +9725,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8923,7 +9771,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -8965,7 +9817,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9007,7 +9863,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9049,7 +9909,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9091,7 +9955,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9133,7 +10001,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9175,7 +10047,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9217,7 +10093,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9259,7 +10139,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9301,7 +10185,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9343,7 +10231,11 @@ Usage: #example
 
 
 * containedItemQuantity = 200 $200000000014#200000002163 "Actuation"
-//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9385,7 +10277,11 @@ Usage: #example
 
 
 * containedItemQuantity = 200 $200000000014#200000002163 "Actuation"
-//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9427,7 +10323,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9469,7 +10369,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9511,7 +10415,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9553,7 +10461,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9595,7 +10507,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9637,7 +10553,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9679,7 +10599,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9721,7 +10645,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9763,7 +10691,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9805,7 +10737,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9847,7 +10783,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9889,7 +10829,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9931,7 +10875,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -9973,7 +10921,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10015,7 +10967,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10057,7 +11013,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10099,7 +11059,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10141,7 +11105,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10183,7 +11151,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10225,7 +11197,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10267,7 +11243,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10309,7 +11289,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10351,7 +11335,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10393,7 +11381,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10435,7 +11427,11 @@ Usage: #example
 
 
 * containedItemQuantity = 12 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10477,7 +11473,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10519,7 +11519,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10561,7 +11565,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 100 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10603,7 +11611,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10645,7 +11657,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10687,7 +11703,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10729,7 +11749,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10771,7 +11795,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10813,7 +11841,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10855,7 +11887,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 1 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10897,7 +11933,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10939,7 +11979,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -10981,7 +12025,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11023,7 +12071,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11065,7 +12117,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11107,7 +12163,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11149,7 +12209,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 3 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11191,7 +12255,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11233,7 +12301,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11275,7 +12347,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11317,7 +12393,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11359,7 +12439,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11401,7 +12485,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11443,7 +12531,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11485,7 +12577,11 @@ Usage: #example
 
 
 * containedItemQuantity = 96 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 96 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 96 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11527,7 +12623,11 @@ Usage: #example
 
 
 * containedItemQuantity = 48 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 48 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 48 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11569,7 +12669,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 1 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11611,7 +12715,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11653,7 +12761,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11695,7 +12807,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 5 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11737,7 +12853,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002120 "Dressing"
-//* containedItemQuantity = 20 $200000000014#200000002120 "Penso"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002120 "Penso"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11779,7 +12899,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11821,7 +12945,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11863,7 +12991,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11905,7 +13037,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11947,7 +13083,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 3 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -11989,7 +13129,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12031,7 +13175,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12073,7 +13221,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12115,7 +13267,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 6 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12157,7 +13313,11 @@ Usage: #example
 
 
 * containedItemQuantity = 22 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 22 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 22 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12199,7 +13359,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12241,7 +13405,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12283,7 +13451,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12325,7 +13497,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12367,7 +13543,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12409,7 +13589,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12451,7 +13635,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12493,7 +13681,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12535,7 +13727,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12577,7 +13773,11 @@ Usage: #example
 
 
 * containedItemQuantity = 40 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 40 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 40 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12619,7 +13819,11 @@ Usage: #example
 
 
 * containedItemQuantity = 40 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 40 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 40 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12661,7 +13865,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12703,7 +13911,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12745,7 +13957,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12787,7 +14003,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12829,7 +14049,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12871,7 +14095,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12913,7 +14141,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12955,7 +14187,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -12997,7 +14233,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13039,7 +14279,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13081,7 +14325,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13123,7 +14371,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13165,7 +14417,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13207,7 +14463,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13249,7 +14509,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 10 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13291,7 +14555,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13333,7 +14601,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13375,7 +14647,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13417,7 +14693,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13459,7 +14739,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13501,7 +14785,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13543,7 +14831,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13585,7 +14877,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13627,7 +14923,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 6 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13669,7 +14969,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13711,7 +15015,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13753,7 +15061,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002151 "System"
-//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13795,7 +15107,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002151 "System"
-//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13837,7 +15153,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13879,7 +15199,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13921,7 +15245,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -13963,7 +15291,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14005,7 +15337,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14047,7 +15383,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14089,7 +15429,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14131,7 +15475,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14173,7 +15521,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 5 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14215,7 +15567,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 5 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14257,7 +15613,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14299,7 +15659,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14341,7 +15705,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14383,7 +15751,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14425,7 +15797,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002151 "System"
-//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14467,7 +15843,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002151 "System"
-//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14509,7 +15889,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14551,7 +15935,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 10 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14593,7 +15981,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14635,7 +16027,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14677,7 +16073,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14719,7 +16119,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14761,7 +16165,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14803,7 +16211,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14845,7 +16257,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14887,7 +16303,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14929,7 +16349,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 5 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -14971,7 +16395,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 5 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15013,7 +16441,11 @@ Usage: #example
 
 
 * containedItemQuantity = 12 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15055,7 +16487,11 @@ Usage: #example
 
 
 * containedItemQuantity = 12 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15097,7 +16533,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15139,7 +16579,11 @@ Usage: #example
 
 
 * containedItemQuantity = 12 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 12 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15181,7 +16625,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15223,7 +16671,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15265,7 +16717,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15307,7 +16763,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15349,7 +16809,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15391,7 +16855,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15433,7 +16901,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15475,7 +16947,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15517,7 +16993,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15559,7 +17039,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15601,7 +17085,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15643,7 +17131,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15685,7 +17177,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15727,7 +17223,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15769,7 +17269,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15811,7 +17315,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15853,7 +17361,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15895,7 +17407,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15937,7 +17453,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -15979,7 +17499,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16021,7 +17545,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16063,7 +17591,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16105,7 +17637,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16147,7 +17683,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16189,7 +17729,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16231,7 +17775,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16273,7 +17821,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16315,7 +17867,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16357,7 +17913,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16399,7 +17959,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16441,7 +18005,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16483,7 +18051,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16525,7 +18097,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16567,7 +18143,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16609,7 +18189,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16651,7 +18235,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16693,7 +18281,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16735,7 +18327,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16777,7 +18373,11 @@ Usage: #example
 
 
 * containedItemQuantity = 12 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 12 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 12 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16819,7 +18419,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16861,7 +18465,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16903,7 +18511,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16945,7 +18557,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002151 "System"
-//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -16987,7 +18603,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17029,7 +18649,11 @@ Usage: #example
 
 
 * containedItemQuantity = 15 $200000000014#200000002151 "System"
-//* containedItemQuantity = 15 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 15 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17071,7 +18695,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002151 "System"
-//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17113,7 +18741,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17155,7 +18787,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17197,7 +18833,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17239,7 +18879,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17281,7 +18925,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17323,7 +18971,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17365,7 +19017,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17407,7 +19063,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17449,7 +19109,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 10 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17491,7 +19155,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17533,7 +19201,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17575,7 +19247,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17617,7 +19293,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17659,7 +19339,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17701,7 +19385,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17743,7 +19431,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17785,7 +19477,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17827,7 +19523,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17869,7 +19569,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17911,7 +19615,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17953,7 +19661,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -17995,7 +19707,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18037,7 +19753,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18079,7 +19799,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18121,7 +19845,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18163,7 +19891,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18205,7 +19937,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002151 "System"
-//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18247,7 +19983,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18289,7 +20029,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18331,7 +20075,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18373,7 +20121,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18415,7 +20167,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18457,7 +20213,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18499,7 +20259,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18541,7 +20305,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18583,7 +20351,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18625,7 +20397,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002151 "System"
-//* containedItemQuantity = 3 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18667,7 +20443,11 @@ Usage: #example
 
 
 * containedItemQuantity = 9 $200000000014#200000002151 "System"
-//* containedItemQuantity = 9 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 9 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18709,7 +20489,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002135 "Pen"
-//* containedItemQuantity = 5 $200000000014#200000002135 "Caneta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002135 "Caneta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18751,7 +20535,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18793,7 +20581,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18835,7 +20627,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18877,7 +20673,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18919,7 +20719,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -18961,7 +20765,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19003,7 +20811,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19045,7 +20857,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19087,7 +20903,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19129,7 +20949,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19171,7 +20995,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19213,7 +21041,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19255,7 +21087,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19297,7 +21133,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19339,7 +21179,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19381,7 +21225,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19423,7 +21271,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19465,7 +21317,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19507,7 +21363,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19549,7 +21409,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19591,7 +21455,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19633,7 +21501,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19675,7 +21547,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19717,7 +21593,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19759,7 +21639,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19801,7 +21685,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19843,7 +21731,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19885,7 +21777,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19927,7 +21823,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -19969,7 +21869,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20011,7 +21915,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20053,7 +21961,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20095,7 +22007,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20137,7 +22053,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20179,7 +22099,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20221,7 +22145,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20263,7 +22191,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20305,7 +22237,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20347,7 +22283,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20389,7 +22329,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20431,7 +22375,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20473,7 +22421,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20515,7 +22467,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20557,7 +22513,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20599,7 +22559,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20641,7 +22605,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20683,7 +22651,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20725,7 +22697,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20767,7 +22743,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20809,7 +22789,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20851,7 +22835,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20893,7 +22881,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20935,7 +22927,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -20977,7 +22973,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21019,7 +23019,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21061,7 +23065,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21103,7 +23111,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21145,7 +23157,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21187,7 +23203,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21229,7 +23249,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21271,7 +23295,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21313,7 +23341,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21355,7 +23387,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21397,7 +23433,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21439,7 +23479,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21481,7 +23525,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21523,7 +23571,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21565,7 +23617,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21607,7 +23663,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21649,7 +23709,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21691,7 +23755,11 @@ Usage: #example
 
 
 * containedItemQuantity = 200 $200000000014#200000002163 "Actuation"
-//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21733,7 +23801,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21775,7 +23847,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21817,7 +23893,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21859,7 +23939,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 50 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21901,7 +23985,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21943,7 +24031,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -21985,7 +24077,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22027,7 +24123,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22069,7 +24169,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22111,7 +24215,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 20 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22153,7 +24261,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22195,7 +24307,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22237,7 +24353,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22279,7 +24399,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22321,7 +24445,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22363,7 +24491,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22405,7 +24537,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22447,7 +24583,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22489,7 +24629,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22531,7 +24675,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22573,7 +24721,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22615,7 +24767,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22657,7 +24813,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22699,7 +24859,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22741,7 +24905,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22783,7 +24951,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22825,7 +24997,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22867,7 +25043,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22909,7 +25089,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22951,7 +25135,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -22993,7 +25181,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23035,7 +25227,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23077,7 +25273,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23119,7 +25319,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23161,7 +25365,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23203,7 +25411,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23245,7 +25457,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23287,7 +25503,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23329,7 +25549,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23371,7 +25595,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23413,7 +25641,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23455,7 +25687,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23497,7 +25733,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23539,7 +25779,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23581,7 +25825,11 @@ Usage: #example
 
 
 * containedItemQuantity = 126 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 126 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 126 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23623,7 +25871,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23665,7 +25917,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23707,7 +25963,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23749,7 +26009,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23791,7 +26055,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23833,7 +26101,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23875,7 +26147,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23917,7 +26193,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -23959,7 +26239,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24001,7 +26285,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24043,7 +26331,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24085,7 +26377,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24127,7 +26423,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24169,7 +26469,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 10 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24211,7 +26515,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24253,7 +26561,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24295,7 +26607,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24337,7 +26653,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24379,7 +26699,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24421,7 +26745,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24463,7 +26791,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24505,7 +26837,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24547,7 +26883,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24589,7 +26929,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24631,7 +26975,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24673,7 +27021,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24715,7 +27067,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24757,7 +27113,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24799,7 +27159,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24841,7 +27205,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24883,7 +27251,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24925,7 +27297,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -24967,7 +27343,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25009,7 +27389,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25051,7 +27435,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25093,7 +27481,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25135,7 +27527,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25177,7 +27573,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25219,7 +27619,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25261,7 +27665,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25303,7 +27711,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25345,7 +27757,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25387,7 +27803,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25429,7 +27849,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25471,7 +27895,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25513,7 +27941,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25555,7 +27987,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25597,7 +28033,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25639,7 +28079,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25681,7 +28125,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25723,7 +28171,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25765,7 +28217,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25807,7 +28263,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 20 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25849,7 +28309,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25891,7 +28355,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25933,7 +28401,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 30 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -25975,7 +28447,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26017,7 +28493,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26059,7 +28539,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26101,7 +28585,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26143,7 +28631,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26185,7 +28677,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26227,7 +28723,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26269,7 +28769,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26311,7 +28815,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26353,7 +28861,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26395,7 +28907,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26437,7 +28953,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26479,7 +28999,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26521,7 +29045,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26563,7 +29091,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26605,7 +29137,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26647,7 +29183,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26689,7 +29229,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26731,7 +29275,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26773,7 +29321,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26815,7 +29367,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26857,7 +29413,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26899,7 +29459,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26941,7 +29505,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -26983,7 +29551,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27025,7 +29597,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27067,7 +29643,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27109,7 +29689,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27151,7 +29735,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27193,7 +29781,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27235,7 +29827,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27277,7 +29873,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27319,7 +29919,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27361,7 +29965,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27403,7 +30011,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27445,7 +30057,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27487,7 +30103,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27529,7 +30149,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 10 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27571,7 +30195,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 5 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27613,7 +30241,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 20 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27655,7 +30287,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 30 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27697,7 +30333,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27739,7 +30379,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27781,7 +30425,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27823,7 +30471,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27865,7 +30517,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27907,7 +30563,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27949,7 +30609,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -27991,7 +30655,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28033,7 +30701,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28075,7 +30747,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28117,7 +30793,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28159,7 +30839,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28201,7 +30885,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28243,7 +30931,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28285,7 +30977,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28327,7 +31023,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28369,7 +31069,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28411,7 +31115,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28453,7 +31161,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28495,7 +31207,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28537,7 +31253,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28579,7 +31299,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28621,7 +31345,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28663,7 +31391,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28705,7 +31437,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28747,7 +31483,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28789,7 +31529,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28831,7 +31575,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28873,7 +31621,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28915,7 +31667,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28957,7 +31713,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -28999,7 +31759,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29041,7 +31805,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29083,7 +31851,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29125,7 +31897,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29167,7 +31943,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29209,7 +31989,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29251,7 +32035,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29293,7 +32081,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29335,7 +32127,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29377,7 +32173,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29419,7 +32219,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29461,7 +32265,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29503,7 +32311,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29545,7 +32357,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29587,7 +32403,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29629,7 +32449,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29671,7 +32495,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29713,7 +32541,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29755,7 +32587,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29797,7 +32633,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29839,7 +32679,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29881,7 +32725,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29923,7 +32771,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -29965,7 +32817,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30007,7 +32863,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30049,7 +32909,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30091,7 +32955,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30133,7 +33001,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30175,7 +33047,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30217,7 +33093,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30259,7 +33139,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30301,7 +33185,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30343,7 +33231,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30385,7 +33277,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30427,7 +33323,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30469,7 +33369,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30511,7 +33415,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30553,7 +33461,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30595,7 +33507,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30637,7 +33553,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30679,7 +33599,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30721,7 +33645,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30763,7 +33691,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30805,7 +33737,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30847,7 +33783,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30889,7 +33829,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30931,7 +33875,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -30973,7 +33921,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31015,7 +33967,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31057,7 +34013,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31099,7 +34059,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31141,7 +34105,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31183,7 +34151,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31225,7 +34197,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31267,7 +34243,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31309,7 +34289,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31351,7 +34335,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31393,7 +34381,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31435,7 +34427,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31477,7 +34473,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31519,7 +34519,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31561,7 +34565,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31603,7 +34611,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31645,7 +34657,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31687,7 +34703,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31729,7 +34749,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31771,7 +34795,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31813,7 +34841,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31855,7 +34887,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31897,7 +34933,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31939,7 +34979,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -31981,7 +35025,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32023,7 +35071,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32065,7 +35117,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32107,7 +35163,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32149,7 +35209,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32191,7 +35255,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32233,7 +35301,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32275,7 +35347,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32317,7 +35393,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32359,7 +35439,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32401,7 +35485,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32443,7 +35531,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32485,7 +35577,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32527,7 +35623,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32569,7 +35669,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002114 "Cartridge"
-//* containedItemQuantity = 100 $200000000014#200000002114 "Cartucho"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002114 "Cartucho"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32611,7 +35715,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32653,7 +35761,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32695,7 +35807,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32737,7 +35853,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32779,7 +35899,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32821,7 +35945,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32863,7 +35991,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32905,7 +36037,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32947,7 +36083,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -32989,7 +36129,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33031,7 +36175,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33073,7 +36221,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33115,7 +36267,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33157,7 +36313,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33199,7 +36359,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33241,7 +36405,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33283,7 +36451,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33325,7 +36497,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33367,7 +36543,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33409,7 +36589,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33451,7 +36635,11 @@ Usage: #example
 
 
 * containedItemQuantity = 32 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 32 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 32 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33493,7 +36681,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33535,7 +36727,11 @@ Usage: #example
 
 
 * containedItemQuantity = 32 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 32 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 32 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33577,7 +36773,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33619,7 +36819,11 @@ Usage: #example
 
 
 * containedItemQuantity = 4 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 4 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 4 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33661,7 +36865,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33703,7 +36911,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33745,7 +36957,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33787,7 +37003,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33829,7 +37049,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33871,7 +37095,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33913,7 +37141,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33955,7 +37187,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -33997,7 +37233,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34039,7 +37279,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34081,7 +37325,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34123,7 +37371,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34165,7 +37417,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34207,7 +37463,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34249,7 +37509,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34291,7 +37555,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34333,7 +37601,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34375,7 +37647,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34417,7 +37693,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34459,7 +37739,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34501,7 +37785,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34543,7 +37831,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34585,7 +37877,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34627,7 +37923,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34669,7 +37969,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34711,7 +38015,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34753,7 +38061,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34795,7 +38107,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34837,7 +38153,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34879,7 +38199,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34921,7 +38245,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -34963,7 +38291,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35005,7 +38337,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35047,7 +38383,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35089,7 +38429,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35131,7 +38475,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35173,7 +38521,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35215,7 +38567,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35257,7 +38613,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35299,7 +38659,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35341,7 +38705,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35383,7 +38751,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35425,7 +38797,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35467,7 +38843,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35509,7 +38889,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35551,7 +38935,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35593,7 +38981,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35635,7 +39027,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35677,7 +39073,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35719,7 +39119,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35761,7 +39165,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35803,7 +39211,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35845,7 +39257,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35887,7 +39303,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35929,7 +39349,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -35971,7 +39395,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36013,7 +39441,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36055,7 +39487,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36097,7 +39533,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36139,7 +39579,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36181,7 +39625,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36223,7 +39671,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36265,7 +39717,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36307,7 +39763,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36349,7 +39809,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36391,7 +39855,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36433,7 +39901,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36475,7 +39947,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36517,7 +39993,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36559,7 +40039,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36601,7 +40085,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36643,7 +40131,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36685,7 +40177,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36727,7 +40223,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36769,7 +40269,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36811,7 +40315,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36853,7 +40361,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36895,7 +40407,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36937,7 +40453,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -36979,7 +40499,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37021,7 +40545,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37063,7 +40591,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37105,7 +40637,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37147,7 +40683,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37189,7 +40729,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37231,7 +40775,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37273,7 +40821,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37315,7 +40867,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37357,7 +40913,11 @@ Usage: #example
 
 
 * containedItemQuantity = 32 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 32 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 32 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37399,7 +40959,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37441,7 +41005,11 @@ Usage: #example
 
 
 * containedItemQuantity = 4 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 4 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 4 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37483,7 +41051,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37525,7 +41097,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37567,7 +41143,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37609,7 +41189,11 @@ Usage: #example
 
 
 * containedItemQuantity = 200 $200000000014#200000002163 "Actuation"
-//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 200 $200000000014#200000002163 "Aplicação"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37651,7 +41235,11 @@ Usage: #example
 
 
 * containedItemQuantity = 4 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 4 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 4 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37693,7 +41281,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37735,7 +41327,11 @@ Usage: #example
 
 
 * containedItemQuantity = 32 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 32 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 32 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37777,7 +41373,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37819,7 +41419,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37861,7 +41465,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37903,7 +41511,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37945,7 +41557,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -37987,7 +41603,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38029,7 +41649,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38071,7 +41695,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38113,7 +41741,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38155,7 +41787,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38197,7 +41833,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38239,7 +41879,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38281,7 +41925,11 @@ Usage: #example
 
 
 * containedItemQuantity = 15 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 15 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 15 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38323,7 +41971,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38365,7 +42017,11 @@ Usage: #example
 
 
 * containedItemQuantity = 4 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 4 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 4 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38407,7 +42063,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38449,7 +42109,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38491,7 +42155,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38533,7 +42201,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38575,7 +42247,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38617,7 +42293,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38659,7 +42339,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38701,7 +42385,11 @@ Usage: #example
 
 
 * containedItemQuantity = 126 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 126 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 126 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38743,7 +42431,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38785,7 +42477,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38827,7 +42523,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38869,7 +42569,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38911,7 +42615,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38953,7 +42661,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -38995,7 +42707,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 10 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39037,7 +42753,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 10 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39079,7 +42799,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39121,7 +42845,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39163,7 +42891,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39205,7 +42937,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39247,7 +42983,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39289,7 +43029,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39331,7 +43075,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39373,7 +43121,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39415,7 +43167,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39457,7 +43213,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39499,7 +43259,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39541,7 +43305,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39583,7 +43351,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39625,7 +43397,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39667,7 +43443,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39709,7 +43489,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39751,7 +43535,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39793,7 +43581,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39835,7 +43627,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39877,7 +43673,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39919,7 +43719,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -39961,7 +43765,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 3 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40003,7 +43811,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002114 "Cartridge"
-//* containedItemQuantity = 100 $200000000014#200000002114 "Cartucho"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002114 "Cartucho"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40045,7 +43857,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40087,7 +43903,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40129,7 +43949,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002151 "System"
-//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40171,7 +43995,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002151 "System"
-//* containedItemQuantity = 3 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40213,7 +44041,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40255,7 +44087,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40297,7 +44133,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40339,7 +44179,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40381,7 +44225,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40423,7 +44271,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40465,7 +44317,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40507,7 +44363,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40549,7 +44409,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40591,7 +44455,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40633,7 +44501,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40675,7 +44547,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40717,7 +44593,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40759,7 +44639,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40801,7 +44685,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40843,7 +44731,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40885,7 +44777,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40927,7 +44823,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -40969,7 +44869,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41011,7 +44915,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41053,7 +44961,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41095,7 +45007,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41137,7 +45053,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41179,7 +45099,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41221,7 +45145,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41263,7 +45191,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41305,7 +45237,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41347,7 +45283,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41389,7 +45329,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41431,7 +45375,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 10 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41473,7 +45421,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 100 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41515,7 +45467,11 @@ Usage: #example
 
 
 * containedItemQuantity = 100 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 100 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 100 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41557,7 +45513,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41599,7 +45559,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41641,7 +45605,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41683,7 +45651,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41725,7 +45697,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41767,7 +45743,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41809,7 +45789,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41851,7 +45835,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41893,7 +45881,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41935,7 +45927,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -41977,7 +45973,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42019,7 +46019,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42061,7 +46065,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42103,7 +46111,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42145,7 +46157,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42187,7 +46203,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42229,7 +46249,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42271,7 +46295,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42313,7 +46341,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42355,7 +46387,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42397,7 +46433,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42439,7 +46479,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42481,7 +46525,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42523,7 +46571,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42565,7 +46617,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42607,7 +46663,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42649,7 +46709,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42691,7 +46755,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42733,7 +46801,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42775,7 +46847,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42817,7 +46893,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42859,7 +46939,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42901,7 +46985,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42943,7 +47031,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -42985,7 +47077,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43027,7 +47123,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43069,7 +47169,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43111,7 +47215,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43153,7 +47261,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43195,7 +47307,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43237,7 +47353,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43279,7 +47399,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43321,7 +47445,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43363,7 +47491,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43405,7 +47537,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43447,7 +47583,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43489,7 +47629,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43531,7 +47675,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43573,7 +47721,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43615,7 +47767,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43657,7 +47813,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 5 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43699,7 +47859,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43741,7 +47905,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43783,7 +47951,11 @@ Usage: #example
 
 
 * containedItemQuantity = 25 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 25 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 25 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43825,7 +47997,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43867,7 +48043,11 @@ Usage: #example
 
 
 * containedItemQuantity = 18 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 18 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43909,7 +48089,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43951,7 +48135,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -43993,7 +48181,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44035,7 +48227,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44077,7 +48273,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44119,7 +48319,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44161,7 +48365,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44203,7 +48411,11 @@ Usage: #example
 
 
 * containedItemQuantity = 21 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 21 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44245,7 +48457,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44287,7 +48503,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44329,7 +48549,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44371,7 +48595,11 @@ Usage: #example
 
 
 * containedItemQuantity = 63 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 63 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44413,7 +48641,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44455,7 +48687,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44497,7 +48733,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44539,7 +48779,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44581,7 +48825,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44623,7 +48871,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44665,7 +48917,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44707,7 +48963,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44749,7 +49009,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44791,7 +49055,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44833,7 +49101,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44875,7 +49147,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44917,7 +49193,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -44959,7 +49239,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45001,7 +49285,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45043,7 +49331,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45085,7 +49377,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45127,7 +49423,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45169,7 +49469,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45211,7 +49515,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45253,7 +49561,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45295,7 +49607,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45337,7 +49653,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45379,7 +49699,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45421,7 +49745,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45463,7 +49791,11 @@ Usage: #example
 
 
 * containedItemQuantity = 50 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 50 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45505,7 +49837,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45547,7 +49883,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45589,7 +49929,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45631,7 +49975,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45673,7 +50021,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45715,7 +50067,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45757,7 +50113,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45799,7 +50159,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45841,7 +50205,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45883,7 +50251,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45925,7 +50297,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -45967,7 +50343,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46009,7 +50389,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46051,7 +50435,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46093,7 +50481,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46135,7 +50527,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46177,7 +50573,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46219,7 +50619,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46261,7 +50665,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46303,7 +50711,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46345,7 +50757,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46387,7 +50803,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46429,7 +50849,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46471,7 +50895,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46513,7 +50941,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46555,7 +50987,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46597,7 +51033,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46639,7 +51079,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46681,7 +51125,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46723,7 +51171,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46765,7 +51217,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46807,7 +51263,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46849,7 +51309,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46891,7 +51355,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46933,7 +51401,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -46975,7 +51447,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47017,7 +51493,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47059,7 +51539,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47101,7 +51585,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47143,7 +51631,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47185,7 +51677,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47227,7 +51723,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47269,7 +51769,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47311,7 +51815,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47353,7 +51861,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47395,7 +51907,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47437,7 +51953,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47479,7 +51999,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47521,7 +52045,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47563,7 +52091,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47605,7 +52137,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47647,7 +52183,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47689,7 +52229,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47731,7 +52275,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47773,7 +52321,11 @@ Usage: #example
 
 
 * containedItemQuantity = 168 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 168 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 168 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47815,7 +52367,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47857,7 +52413,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47899,7 +52459,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 30 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47941,7 +52505,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -47983,7 +52551,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48025,7 +52597,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48067,7 +52643,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48109,7 +52689,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48151,7 +52735,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48193,7 +52781,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48235,7 +52827,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48277,7 +52873,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 1 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48319,7 +52919,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48361,7 +52965,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48403,7 +53011,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48445,7 +53057,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48487,7 +53103,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48529,7 +53149,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48571,7 +53195,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48613,7 +53241,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48655,7 +53287,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48697,7 +53333,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48739,7 +53379,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48781,7 +53425,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48823,7 +53471,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 10 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48865,7 +53517,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48907,7 +53563,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48949,7 +53609,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -48991,7 +53655,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49033,7 +53701,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49075,7 +53747,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49117,7 +53793,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49159,7 +53839,11 @@ Usage: #example
 
 
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 15 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 15 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49201,7 +53885,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49243,7 +53931,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49285,7 +53977,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49327,7 +54023,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002164 "Ampoule"
-//* containedItemQuantity = 20 $200000000014#200000002164 "Ampola"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002164 "Ampola"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49369,7 +54069,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49411,7 +54115,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49453,7 +54161,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49495,7 +54207,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49537,7 +54253,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49579,7 +54299,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49621,7 +54345,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49663,7 +54391,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49705,7 +54437,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49747,7 +54483,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49789,7 +54529,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49831,7 +54575,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49873,7 +54621,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49915,7 +54667,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49957,7 +54713,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -49999,7 +54759,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50041,7 +54805,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50083,7 +54851,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50125,7 +54897,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50167,7 +54943,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50209,7 +54989,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50251,7 +55035,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50293,7 +55081,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50335,7 +55127,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50377,7 +55173,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50419,7 +55219,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50461,7 +55265,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50503,7 +55311,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002135 "Pen"
-//* containedItemQuantity = 5 $200000000014#200000002135 "Caneta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002135 "Caneta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50545,7 +55357,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50587,7 +55403,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50629,7 +55449,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50671,7 +55495,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50713,7 +55541,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50755,7 +55587,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50797,7 +55633,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50839,7 +55679,11 @@ Usage: #example
 
 
 * containedItemQuantity = 8 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 8 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 8 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50881,7 +55725,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 30 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50923,7 +55771,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -50965,7 +55817,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51007,7 +55863,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51049,7 +55909,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51091,7 +55955,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51133,7 +56001,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51175,7 +56047,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51217,7 +56093,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51259,7 +56139,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51301,7 +56185,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51343,7 +56231,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51385,7 +56277,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51427,7 +56323,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51469,7 +56369,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51511,7 +56415,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51553,7 +56461,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51595,7 +56507,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51637,7 +56553,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51679,7 +56599,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51721,7 +56645,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51763,7 +56691,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51805,7 +56737,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51847,7 +56783,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51889,7 +56829,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51931,7 +56875,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -51973,7 +56921,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52015,7 +56967,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52057,7 +57013,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52099,7 +57059,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 30 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52141,7 +57105,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52183,7 +57151,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52225,7 +57197,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52267,7 +57243,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52309,7 +57289,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52351,7 +57335,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52393,7 +57381,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52435,7 +57427,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52477,7 +57473,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002135 "Pen"
-//* containedItemQuantity = 3 $200000000014#200000002135 "Caneta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002135 "Caneta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52519,7 +57519,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52561,7 +57565,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52603,7 +57611,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52645,7 +57657,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52687,7 +57703,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52729,7 +57749,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52771,7 +57795,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52813,7 +57841,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52855,7 +57887,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52897,7 +57933,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002135 "Pen"
-//* containedItemQuantity = 1 $200000000014#200000002135 "Caneta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002135 "Caneta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52939,7 +57979,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -52981,7 +58025,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53023,7 +58071,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53065,7 +58117,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53107,7 +58163,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53149,7 +58209,11 @@ Usage: #example
 
 
 * containedItemQuantity = 91 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 91 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 91 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53191,7 +58255,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53233,7 +58301,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53275,7 +58347,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53317,7 +58393,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53359,7 +58439,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53401,7 +58485,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53443,7 +58531,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53485,7 +58577,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53527,7 +58623,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53569,7 +58669,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53611,7 +58715,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53653,7 +58761,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53695,7 +58807,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53737,7 +58853,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53779,7 +58899,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53821,7 +58945,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53863,7 +58991,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53905,7 +59037,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53947,7 +59083,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -53989,7 +59129,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54031,7 +59175,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 1 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54073,7 +59221,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54115,7 +59267,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54157,7 +59313,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54199,7 +59359,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54241,7 +59405,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54283,7 +59451,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54325,7 +59497,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54367,7 +59543,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54409,7 +59589,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54451,7 +59635,11 @@ Usage: #example
 
 
 * containedItemQuantity = 12 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 12 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 12 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54493,7 +59681,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54535,7 +59727,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54577,7 +59773,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54619,7 +59819,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54661,7 +59865,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54703,7 +59911,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54745,7 +59957,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54787,7 +60003,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54829,7 +60049,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54871,7 +60095,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54913,7 +60141,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54955,7 +60187,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -54997,7 +60233,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55039,7 +60279,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55081,7 +60325,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55123,7 +60371,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55165,7 +60417,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55207,7 +60463,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55249,7 +60509,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55291,7 +60555,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55333,7 +60601,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55375,7 +60647,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55417,7 +60693,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55459,7 +60739,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55501,7 +60785,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55543,7 +60831,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55585,7 +60877,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55627,7 +60923,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55669,7 +60969,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55711,7 +61015,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55753,7 +61061,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55795,7 +61107,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55837,7 +61153,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55879,7 +61199,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55921,7 +61245,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -55963,7 +61291,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56005,7 +61337,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002151 "System"
-//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56047,7 +61383,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002151 "System"
-//* containedItemQuantity = 3 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56089,7 +61429,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002151 "System"
-//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56131,7 +61475,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002151 "System"
-//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56173,7 +61521,11 @@ Usage: #example
 
 
 * containedItemQuantity = 3 $200000000014#200000002151 "System"
-//* containedItemQuantity = 3 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 3 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56215,7 +61567,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002151 "System"
-//* containedItemQuantity = 6 $200000000014#200000002151 "Sistema"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002151 "Sistema"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56257,7 +61613,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56299,7 +61659,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56341,7 +61705,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56383,7 +61751,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56425,7 +61797,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56467,7 +61843,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56509,7 +61889,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56551,7 +61935,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56593,7 +61981,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56635,7 +62027,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56677,7 +62073,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56719,7 +62119,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56761,7 +62165,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56803,7 +62211,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56845,7 +62257,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56887,7 +62303,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56929,7 +62349,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -56971,7 +62395,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57013,7 +62441,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57055,7 +62487,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57097,7 +62533,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57139,7 +62579,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57181,7 +62625,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57223,7 +62671,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57265,7 +62717,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57307,7 +62763,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57349,7 +62809,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57391,7 +62855,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57433,7 +62901,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57475,7 +62947,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57517,7 +62993,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57559,7 +63039,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57601,7 +63085,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57643,7 +63131,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57685,7 +63177,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57727,7 +63223,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57769,7 +63269,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57811,7 +63315,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57853,7 +63361,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57895,7 +63407,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57937,7 +63453,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -57979,7 +63499,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58021,7 +63545,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58063,7 +63591,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58105,7 +63637,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58147,7 +63683,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58189,7 +63729,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58231,7 +63775,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58273,7 +63821,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58315,7 +63867,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58357,7 +63913,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58399,7 +63959,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58441,7 +64005,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58483,7 +64051,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58525,7 +64097,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58567,7 +64143,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58609,7 +64189,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58651,7 +64235,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58693,7 +64281,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58735,7 +64327,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58777,7 +64373,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58819,7 +64419,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58861,7 +64465,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58903,7 +64511,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58945,7 +64557,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -58987,7 +64603,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59029,7 +64649,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59071,7 +64695,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59113,7 +64741,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59155,7 +64787,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59197,7 +64833,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59239,7 +64879,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59281,7 +64925,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59323,7 +64971,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59365,7 +65017,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59407,7 +65063,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59449,7 +65109,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59491,7 +65155,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59533,7 +65201,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59575,7 +65247,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59617,7 +65293,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59659,7 +65339,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59701,7 +65385,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59743,7 +65431,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59785,7 +65477,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59827,7 +65523,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59869,7 +65569,11 @@ Usage: #example
 
 
 * containedItemQuantity = 15 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 15 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 15 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59911,7 +65615,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59953,7 +65661,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -59995,7 +65707,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60037,7 +65753,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60079,7 +65799,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60121,7 +65845,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60163,7 +65891,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60205,7 +65937,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60247,7 +65983,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60289,7 +66029,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60331,7 +66075,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002113 "Capsule"
-//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002113 "Cápsula"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60373,7 +66121,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60415,7 +66167,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 10 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60457,7 +66213,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60499,7 +66259,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60541,7 +66305,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60583,7 +66351,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60625,7 +66397,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60667,7 +66443,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60709,7 +66489,11 @@ Usage: #example
 
 
 * containedItemQuantity = 6 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 6 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60751,7 +66535,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60793,7 +66581,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60835,7 +66627,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60877,7 +66673,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60919,7 +66719,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -60961,7 +66765,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61003,7 +66811,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61045,7 +66857,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61087,7 +66903,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61129,7 +66949,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61171,7 +66995,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61213,7 +67041,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61255,7 +67087,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61297,7 +67133,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61339,7 +67179,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61381,7 +67225,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61423,7 +67271,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61465,7 +67317,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61507,7 +67363,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61549,7 +67409,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61591,7 +67455,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61633,7 +67501,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61675,7 +67547,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61717,7 +67593,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002116 "Container"
-//* containedItemQuantity = 1 $200000000014#200000002116 "Recipiente"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002116 "Recipiente"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61759,7 +67639,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61801,7 +67685,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61843,7 +67731,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61885,7 +67777,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61927,7 +67823,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -61969,7 +67869,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62011,7 +67915,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002158 "Vial"
-//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002158 "Frasco para injetáveis"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62053,7 +67961,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62095,7 +68007,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62137,7 +68053,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62179,7 +68099,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62221,7 +68145,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62263,7 +68191,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62305,7 +68237,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62347,7 +68283,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62389,7 +68329,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62431,7 +68375,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62473,7 +68421,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62515,7 +68467,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62557,7 +68513,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002135 "Pen"
-//* containedItemQuantity = 5 $200000000014#200000002135 "Caneta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002135 "Caneta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62599,7 +68559,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62641,7 +68605,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62683,7 +68651,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62725,7 +68697,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62767,7 +68743,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62809,7 +68789,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62851,7 +68835,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62893,7 +68881,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62935,7 +68927,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -62977,7 +68973,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63019,7 +69019,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63061,7 +69065,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63103,7 +69111,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63145,7 +69157,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63187,7 +69203,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63229,7 +69249,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63271,7 +69295,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002143 "Sachet"
-//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002143 "Saqueta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63313,7 +69341,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63355,7 +69387,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63397,7 +69433,11 @@ Usage: #example
 
 
 * containedItemQuantity = 2 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 2 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 2 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63439,7 +69479,11 @@ Usage: #example
 
 
 * containedItemQuantity = 4 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 4 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 4 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63481,7 +69525,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63523,7 +69571,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63565,7 +69617,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63607,7 +69663,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63649,7 +69709,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63691,7 +69755,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63733,7 +69801,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63775,7 +69847,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63817,7 +69893,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63859,7 +69939,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63901,7 +69985,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63943,7 +70031,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -63985,7 +70077,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64027,7 +70123,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64069,7 +70169,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64111,7 +70215,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64153,7 +70261,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64195,7 +70307,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64237,7 +70353,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64279,7 +70399,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64321,7 +70445,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64363,7 +70491,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64405,7 +70537,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64447,7 +70583,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64489,7 +70629,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64531,7 +70675,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64573,7 +70721,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64615,7 +70767,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002150 "Syringe"
-//* containedItemQuantity = 1 $200000000014#200000002150 "Seringa"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002150 "Seringa"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64657,7 +70813,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64699,7 +70859,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64741,7 +70905,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64783,7 +70951,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64825,7 +70997,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64867,7 +71043,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64909,7 +71089,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64951,7 +71135,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -64993,7 +71181,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65035,7 +71227,11 @@ Usage: #example
 
 
 * containedItemQuantity = 10 $200000000014#200000002149 "Suppository"
-//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 10 $200000000014#200000002149 "Supositório"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65077,7 +71273,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65119,7 +71319,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65161,7 +71365,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65203,7 +71411,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65245,7 +71457,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65287,7 +71503,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65329,7 +71549,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65371,7 +71595,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65413,7 +71641,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65455,7 +71687,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65497,7 +71733,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65539,7 +71779,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002156 "Tube"
-//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002156 "Bisnaga"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65581,7 +71825,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65623,7 +71871,11 @@ Usage: #example
 
 
 * containedItemQuantity = 16 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 16 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65665,7 +71917,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65707,7 +71963,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65749,7 +72009,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65791,7 +72055,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65833,7 +72101,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65875,7 +72147,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65917,7 +72193,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -65959,7 +72239,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66001,7 +72285,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66043,7 +72331,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66085,7 +72377,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66127,7 +72423,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66169,7 +72469,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66211,7 +72515,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66253,7 +72561,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66295,7 +72607,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66337,7 +72653,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66379,7 +72699,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66421,7 +72745,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66463,7 +72791,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66505,7 +72837,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66547,7 +72883,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66589,7 +72929,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66631,7 +72975,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66673,7 +73021,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002111 "Bottle"
-//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002111 "Frasco"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66715,7 +73067,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66757,7 +73113,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66799,7 +73159,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66841,7 +73205,11 @@ Usage: #example
 
 
 * containedItemQuantity = 30 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 30 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66883,7 +73251,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66925,7 +73297,11 @@ Usage: #example
 
 
 * containedItemQuantity = 60 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 60 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -66967,7 +73343,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67009,7 +73389,11 @@ Usage: #example
 
 
 * containedItemQuantity = 5 $200000000014#200000002140 "Plaster"
-//* containedItemQuantity = 5 $200000000014#200000002140 "Emplastro"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 5 $200000000014#200000002140 "Emplastro"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67051,7 +73435,11 @@ Usage: #example
 
 
 * containedItemQuantity = 14 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 14 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67093,7 +73481,11 @@ Usage: #example
 
 
 * containedItemQuantity = 56 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 56 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67135,7 +73527,11 @@ Usage: #example
 
 
 * containedItemQuantity = 24 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 24 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67177,7 +73573,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67219,7 +73619,11 @@ Usage: #example
 
 
 * containedItemQuantity = 20 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 20 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67261,7 +73665,11 @@ Usage: #example
 
 
 * containedItemQuantity = 28 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 28 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67303,7 +73711,11 @@ Usage: #example
 
 
 * containedItemQuantity = 84 $200000000014#200000002152 "Tablet"
-//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 84 $200000000014#200000002152 "Comprimido"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 
@@ -67345,7 +73757,11 @@ Usage: #example
 
 
 * containedItemQuantity = 1 $200000000014#200000002135 "Pen"
-//* containedItemQuantity = 1 $200000000014#200000002135 "Caneta"* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
+//* containedItemQuantity = 1 $200000000014#200000002135 "Caneta"
+
+
+
+* marketingStatus.country = $100000000002#100000000501 "Portuguese Republic"
 * marketingStatus.status = $100000072052#100000072083 "Marketed"
 
 

@@ -31,13 +31,13 @@ Usage: #example
 * combinedPharmaceuticalDoseForm = $200000000004#{{ns.spor_ff}} "{{ns.spor_ff|get_data_from_sheet(data["data"],"SPOR_EN","200000000004_descr","200000000004")}}"
 //* combinedPharmaceuticalDoseForm = $200000000004#{{row["Forma Farmacêutica \n(Pharmaceutical form)"]|get_data_from_sheet(data["data"],"Pharm Form | U. of Presenta.","ID_SPOR","Forma Farmacêutica\n(pharmaceutical form)")|trim|int}} "{{row["Forma Farmacêutica \n(Pharmaceutical form)"]}}"
 
-{%- for idx in range(0,ns.atc_ema.count(";")+1)-%} 
+{%- for idx in range(0,ns.atc_ema.count(";")+1)%} 
 
 
 * classification[+] = $who-atc#{{ ns.atc_ema.split(";")[idx]|trim}} "{{ns.atc_ema.split(";")[idx]|trim|get_data_from_sheet(data["data"],"ATC_EXTRA","RMS_descr","Source_ID")}}"
 * classification[+] = $100000093533#{{ ns.atc_spor.split(";")[idx]|trim}} "{{ns.atc_spor.split(";")[idx]|trim|get_data_from_sheet(data["data"],"ATC_EXTRA","RMS_descr","RMS_ID")}}"
 
-{%- endfor %}
+{% endfor %}
 
 
 * name.productName = "{{ row["Nome PMS"]  }}"
@@ -47,6 +47,6 @@ Usage: #example
 
 * name.usage.country.coding[ema].code = #100000000501
 * name.usage.country.coding[ema].display = "Portuguese Republic"
-* name.usage.language = $100000072057#100000072251  "Portuguese"
-
+//* name.usage.language = $100000072057#100000072251  "Portuguese"
+* name.usage.language = urn:ietf:bcp:47#pt "Portuguese"
 {%- endfor %}

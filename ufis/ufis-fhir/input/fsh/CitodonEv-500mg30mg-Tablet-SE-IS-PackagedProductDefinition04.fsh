@@ -14,11 +14,6 @@ InstanceOf: PPLPackagedProductDefinition
 * packaging.material.coding.system = "https://spor.ema.europa.eu/v1/lists/200000003199"
 * packaging.material.coding.code = #200000003529
 * packaging.material.coding.display = "Cardboard"
-* packaging.shelfLifeStorage.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073343"
-* packaging.shelfLifeStorage.type.coding.code = #100000073403
-* packaging.shelfLifeStorage.type.coding.display = "Shelf life of the medicinal product as packaged for sale"
-* packaging.shelfLifeStorage.periodDuration.value = 3
-* packaging.shelfLifeStorage.periodDuration.unit = "years"
 * packaging.packaging.type.coding.system = "https://spor.ema.europa.eu/v1/lists/100000073346"
 * packaging.packaging.type.coding.code = #100000073496
 * packaging.packaging.type.coding.display = "Bottle"
