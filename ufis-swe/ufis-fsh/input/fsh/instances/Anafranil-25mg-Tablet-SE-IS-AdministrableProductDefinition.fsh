@@ -1,0 +1,8 @@
+Instance: Anafranil-25mg-Tablet-SE-IS-AdministrableProductDefinition
+InstanceOf: AdministrableProductDefinition
+Usage: #inline
+* status = #active
+* formOf = Reference(Anafranil-25mg-Tablet-SE-IS-MedicinalProductDefinition)
+* administrableDoseForm = $200000000004#100000073380 "Coated tablet"
+* producedFrom = Reference(Anafranil-25mg-Tablet-SE-IS-ManufacturedItemDefinition)
+* routeOfAdministration.code = $100000073345#100000073619 "Oral use"

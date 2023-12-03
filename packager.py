@@ -7,7 +7,9 @@ import shutil
 
 # FOLDER = "ufis/ufis-fhir/"
 
-FOLDER = "pt-PPLCreator/fhir-data/"
+# FOLDER = "pt-PPLCreator/fhir-data/"
+FOLDER = "ufis-swe/ufis-fhir/"
+
 print(getcwd())
 # mkdir package
 if not exists("package"):
