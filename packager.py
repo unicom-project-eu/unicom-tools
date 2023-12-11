@@ -5,10 +5,10 @@ import subprocess
 import shutil
 
 
-# FOLDER = "ufis/ufis-fhir/"
+FOLDER = "ufis/ufis-fhir/"
 
-# FOLDER = "pt-PPLCreator/fhir-data/"
-FOLDER = "ufis-swe/ufis-fhir/"
+#FOLDER = "pt-PPLCreator/fhir-data/"
+# FOLDER = "ufis-swe/ufis-fhir/"
 
 print(getcwd())
 # mkdir package
