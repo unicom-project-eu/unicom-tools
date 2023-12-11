@@ -32,7 +32,7 @@ def create_org(regauth):
     #  print(value)
     ### get loc value
     if "* holder.identifier.value" in regauth:
-        loc_value = re.search(r"\* holder.identifier.value = \"(\S+)\"", regauth)
+        loc_value = re.search(r"\* holder.identifier.value = \"\s?(\S+)\s?\"", regauth)
         if loc_value:
             loc = loc_value.group(1)
 
@@ -626,9 +626,15 @@ for file in listdir(FOLDER):
         bid = False
         for blids in blacklist_ids:
             if "Instance: " + blids in contents:
-                print(contents)
+                print("Instance on file: " + file)
+                # print(contents)
                 bid = True
-        if not bid:
+
+            if "Reference(" + blids + ")" in contents:
+                print("reference on file: " + file + ": " + blids)
+                # print(contents)
+                # bid = True
+        if not bid and len(contents) > 0:
             f = open(target_folder + file, "w")
             f.write(contents)
             f.close()

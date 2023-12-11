@@ -1311,13 +1311,6 @@ InstanceOf: PPLAdministrableProductDefinition
 * producedFrom = Reference(Aphiahsone-50mcg-Suspension-SE-IS-ManufacturedItemDefinition)
 * routeOfAdministration.code = $100000073345#100000073615 "Nasal use"
 
-Instance: 5518a708-50e4-46eb-bd47-fc7915290566
-InstanceOf: PPLAdministrableProductDefinition
-* status = #active
-* formOf = Reference(7f81d47e-9a74-44b3-8ed7-07990093d878)
-* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
-* unitOfPresentation = $200000000014#200000002152 "Tablet"
-* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
 
 Instance: MorfinMeda-20mg-Tablet-SE-BS-AdministrableProductDef
 InstanceOf: PPLAdministrableProductDefinition
@@ -1763,49 +1756,9 @@ InstanceOf: PPLAdministrableProductDefinition
 * producedFrom = Reference(Taflotan-0.015mg-1ml-eye-drops-solution-EE-MID)
 * routeOfAdministration.code = $100000073345#100000073617 "Ocular use "
 
-Instance: 441340e6-207a-4c61-b22d-de5c482c7090
-InstanceOf: PPLAdministrableProductDefinition
-* status = #active
-* formOf = Reference(bb8c2306-04c5-42df-94c9-aa6d6e68050b)
-* administrableDoseForm = $100000073665#100000073665 "Film-coated tablet"
-* unitOfPresentation = $200000002152#200000002152 "Tablet"
-* routeOfAdministration.code = $100000073619#100000073619 "Oral use"
 
-Instance: JMJ-Monuril-AdminProduct-example
-InstanceOf: PPLAdministrableProductDefinition
-* identifier.system = "https://who-umc.org/phpid"
-* identifier.value = "0xE857DA811B4A6F3BD57810C45D2EA1ED"
-* status = #active
-* formOf = Reference(JMJ-Monuril-product-example)
-* administrableDoseForm.coding[0] = $standardterms#10105000 "Oral Solution"
-* administrableDoseForm.coding[+] = $200000000014#100000073646 "Oral Solution"
-* producedFrom = Reference(JMJ-Monuril-UK-manufacturedItem-example)
-* routeOfAdministration.code.coding[0] = $standardterms#20053000 "Oral use"
-* routeOfAdministration.code.coding[+] = $100000073345#100000073619 "Oral use"
 
-Instance: JMJ-Humalog-Mix50-AdminProduct-example
-InstanceOf: PPLAdministrableProductDefinition
-* identifier.system = "https://who-umc.org/phpid"
-* identifier.value = "0x073AF2E5B92AE19E8B67635AFFB3D6CA"
-* status = #active
-* formOf = Reference(JMJ-Humalog-Mix50-Kwikpen-product-example)
-* administrableDoseForm.coding[0] = $standardterms#11202000 "Suspension for injection"
-* administrableDoseForm.coding[+] = $200000000004#100000073864 "Suspension for injection"
-* producedFrom = Reference(JMJ-Humalog-Kwikpen-manufacturedItem-example)
-* routeOfAdministration.code.coding[0] = $standardterms#20066000 "Subcutaneous use"
-* routeOfAdministration.code.coding[+] = $100000073345#1000000132895 "Subcutaneous use"
 
-Instance: JMJ-Co-amoxiclav-AdminProduct-example
-InstanceOf: PPLAdministrableProductDefinition
-* status = #active
-* formOf = Reference(JMJ-Co-amoxiclav-product-example)
-* administrableDoseForm.coding[0] = $standardterms#10221000 "Film-coated tablet"
-* administrableDoseForm.coding[+] = $200000000004#100000073665 "Film-coated tablet"
-* unitOfPresentation.coding[0] = $standardterms#15054000 "Tablet"
-* unitOfPresentation.coding[+] = $200000000014#200000002152 "Tablet"
-* producedFrom = Reference(JMJ-Co-amoxiclav-manufactured-item-example)
-* routeOfAdministration.code.coding[0] = $standardterms#20053000 "Oral use"
-* routeOfAdministration.code.coding[+] = $100000073345#100000073619 "Oral use"
 
 Instance: Curocef1500mgPulver-A-HL-AdministrableProductDefinition
 InstanceOf: PPLAdministrableProductDefinition
@@ -1816,10 +1769,3 @@ InstanceOf: PPLAdministrableProductDefinition
 * routeOfAdministration[+].code = $100000073345#100000073600 "Intramuscular use"
 * routeOfAdministration[+].code = $100000073345#100000073611 "Intravenous use"
 
-Instance: 71386cf7-93e1-4e42-9810-4cc73e35922c
-InstanceOf: PPLAdministrableProductDefinition
-* status = #active
-* formOf = Reference(d37bfa6f-ea90-4645-8be4-e7c649dd64f2)
-* administrableDoseForm = $200000000004#100000073665 "Film-coated tablet"
-* unitOfPresentation = $200000000014#200000002152 "Tablet"
-* routeOfAdministration.code = $100000073345#100000073619 "Oral use"
