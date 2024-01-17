@@ -1,0 +1,151 @@
+starting...
+RegulatedAuthorization
+RegulatedAuthorization-Locoid01kutanlosning-SE-PLC-RegAutho.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-1094: Resource MedicinalProductDefinition/Locoid01kutanlosning-SE-PLC-RegAutho not found, specified in path: RegulatedAuthorization.subject"
+  } ]
+}
+RegulatedAuthorization
+RegulatedAuthorization-33c2e253-9fa1-4e25-a139-421b08cec073.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[RegulatedAuthorization.subject] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-Zoloft50mgdepottablett-SE-PLC-AdminProductDef.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - Trombyl160mgtablett-SE-PLC-MedicinalProductDef"
+  } ]
+}
+AdministrableProductDefinition
+AdministrableProductDefinition-5518a708-50e4-46eb-bd47-fc7915290566.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[AdministrableProductDefinition.formOf] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+Ingredient
+Ingredient-CefStragen-750mg-Powder-SE-IS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0931: Invalid reference found at path 'Ingredient.for'. Resource type 'ManufacturedProductDefinition' is not valid for this path"
+  } ]
+}
+Ingredient
+Ingredient-aec1db58-eecd-4e7b-a93f-2bab1ad8f768.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+Ingredient
+Ingredient-SimvastatinBluefish-10mg-Tablet-SE-BS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-1094: Resource MedicinalProductDefinition/SimvastatinBluefish-10mg-Tablet-SE-BS-ManufacturedItemDefinition not found, specified in path: Ingredient.for"
+  } ]
+}
+Ingredient
+Ingredient-231a6723-8958-4ea9-adbc-53708a41d62c.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[Ingredient.for] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+Ingredient
+Ingredient-Zoloft50mgdepottablett-SE-PLC-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-1094: Resource AdministrableProductDefinition/Zoloft50mgdepottablett-SE-PLC-AdminProductDef not found, specified in path: Ingredient.for"
+  } ]
+}
+Ingredient
+Ingredient-Zoloft20mgpermlkoncentrat-SE-PLC-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-1094: Resource ManufacturedItemDefinition/Zoloft20mgpermlkoncentrat-SE-PLC-MedicinalProductDef not found, specified in path: Ingredient.for"
+  } ]
+}
+Ingredient
+Ingredient-BuprenorSTADA-5h-Transderm-SE-BS-Ingredient.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0931: Invalid reference found at path 'Ingredient.for'. Resource type 'AdministrableProductDef' is not valid for this path"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-j20170630100099.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-j20170630100020.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-IMAsandoz-400mg-Tablet-SE-IS-PackagedProductDefinition.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0931: Invalid reference found at path 'PackagedProductDefinition.packageFor'. Resource type 'MedicinalProductDefinitionn' is not valid for this path"
+  } ]
+}
+PackagedProductDefinition
+PackagedProductDefinition-IMAkoanaa-100mg-Tablet-SE-IS-PackagedProductDefinition.json
+{
+  "resourceType": "OperationOutcome",
+  "issue": [ {
+    "severity": "error",
+    "code": "processing",
+    "diagnostics": "HAPI-0931: Invalid reference found at path 'PackagedProductDefinition.packageFor'. Resource type 'AdministrableProductDefinition' is not valid for this path"
+  } ]
+}

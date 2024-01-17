@@ -1,0 +1,42 @@
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "Instillagel-209-Gel-SE-AJ-AdministrableProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/Instillagel-209-Gel-SE-AJ-MedicinalProductDefinition"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "code": "100000073726",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Gel"
+      }
+    ]
+  },
+  "producedFrom": [
+    {
+      "reference": "ManufacturedItemDefinition/Instillagel-209-Gel-SE-AJ-ManufacturedItemDefinition"
+    }
+  ],
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073638",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Urethral use"
+          }
+        ]
+      }
+    }
+  ]
+}

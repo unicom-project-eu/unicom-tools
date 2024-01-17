@@ -1,0 +1,42 @@
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "AnafranilRet-75mg-Tablet-SE-IS-AdministrableProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/AnafranilRet-75mg-Tablet-SE-IS-MedicinalProductDefinition"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "code": "100000073683",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Prolonged-release tablet"
+      }
+    ]
+  },
+  "producedFrom": [
+    {
+      "reference": "ManufacturedItemDefinition/AnafranilRet-75mg-Tablet-SE-IS-ManufacturedItemDefinition"
+    }
+  ],
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073619",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Oral use"
+          }
+        ]
+      }
+    }
+  ]
+}

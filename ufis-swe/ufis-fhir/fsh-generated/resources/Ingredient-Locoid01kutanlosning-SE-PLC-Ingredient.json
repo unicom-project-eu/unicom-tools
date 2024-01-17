@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Locoid01kutanlosning-SE-PLC-Ingredient",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Locoid01kutanlosning-SE-PLC-MedicinalProductDef"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Locoid01kutanlosning-SE-PLC-ManufacturedItemDef"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Locoid01kutanlosning-SE-PLC-AdminProductDef"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000085172",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Hydrocortisone butyrate"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "concentrationRatio": {
+          "numerator": {
+            "value": 1,
+            "code": "100000110655",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "100000110654",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "gram(s)"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000092635",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "Hydrocortisone"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 0.84,
+                "code": "100000110655",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "100000110654",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "gram(s)"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

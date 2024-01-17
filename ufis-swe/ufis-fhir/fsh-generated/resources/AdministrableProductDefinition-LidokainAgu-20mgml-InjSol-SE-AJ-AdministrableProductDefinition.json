@@ -1,0 +1,64 @@
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "LidokainAgu-20mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/LidokainAgu-20mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "code": "100000073863",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Solution for injection"
+      }
+    ]
+  },
+  "producedFrom": [
+    {
+      "reference": "ManufacturedItemDefinition/LidokainAgu-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+    }
+  ],
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073595",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Intradermal use"
+          }
+        ]
+      }
+    },
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073633",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Subcutaneous use"
+          }
+        ]
+      }
+    },
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000075554",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Submucosal use"
+          }
+        ]
+      }
+    }
+  ]
+}

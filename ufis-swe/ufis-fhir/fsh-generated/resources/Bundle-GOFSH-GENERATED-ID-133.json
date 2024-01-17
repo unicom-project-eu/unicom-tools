@@ -1,0 +1,455 @@
+{
+  "resourceType": "Bundle",
+  "id": "GOFSH-GENERATED-ID-133",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "MedicinalProductDefinition",
+        "id": "MetforminActavis-850mg-Tablet-SE-BS-MedicinalProductDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/mpId",
+            "value": "SE-100000064-00012786"
+          },
+          {
+            "system": "http://ema.europa.eu/fhir/eurdId",
+            "value": "2001"
+          }
+        ],
+        "combinedPharmaceuticalDoseForm": {
+          "coding": [
+            {
+              "code": "100000073665",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+              "display": "Film-coated tablet"
+            }
+          ]
+        },
+        "domain": {
+          "coding": [
+            {
+              "code": "100000000012",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+              "display": "Human use"
+            }
+          ]
+        },
+        "status": {
+          "coding": [
+            {
+              "code": "200000005004",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+              "display": "Current"
+            }
+          ]
+        },
+        "indication": "Behandling av diabetes mellitus typ 2, speciellt hos överviktiga, där enbart diet och motion inte ger tillräcklig metabolisk kontroll.  Hos vuxna kan metformin användas som monoterapi eller i kombination med andra perorala diabetesmedel eller med insulin.  Hos barn från 10 år och ungdomar kan metformin användas som monoterapi eller i kombination med insulin.   En reduktion av diabetiska komplikationer har visats hos överviktiga vuxna patienter med typ 2 diabetes som behandlades med metformin som förstahandspreparat efter att ha sviktat på dietbehandling (se avsnitt Farmakodynamik).",
+        "legalStatusOfSupply": {
+          "coding": [
+            {
+              "code": "100000072084",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+              "display": "Medicinal product subject to medical prescription"
+            }
+          ]
+        },
+        "classification": [
+          {
+            "coding": [
+              {
+                "code": "100000094031",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+                "display": "A10BA02"
+              }
+            ]
+          }
+        ],
+        "name": [
+          {
+            "productName": "Metformin Actavis 850 mg filmdragerad tablett"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "RegulatedAuthorization",
+        "id": "MetforminActavis-850mg-Tablet-SE-BS-RegulatedAuthorization",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLRegulatedAuthorization"
+          ]
+        },
+        "type": {
+          "coding": [
+            {
+              "system": "https://spor.ema.europa.eu/v1/lists/220000000060",
+              "code": "220000000061",
+              "display": "Marketing Authorisation"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/marketingAuthorizationNumber",
+            "value": "12786"
+          }
+        ],
+        "subject": [
+          {
+            "reference": "MedicinalProductDefinition/MetforminActavis-850mg-Tablet-SE-BS-MedicinalProductDefinition"
+          }
+        ],
+        "region": [
+          {
+            "coding": [
+              {
+                "code": "100000000535",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          }
+        ],
+        "status": {
+          "coding": [
+            {
+              "code": "100000072099",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072049",
+              "display": "Valid"
+            }
+          ]
+        },
+        "statusDate": "1996-09-27",
+        "case": {
+          "type": {
+            "coding": [
+              {
+                "code": "dateOfFirstAuthorisation",
+                "system": "https://ema.europa.eu/fhir/authorisationDateType",
+                "display": "First Authorisation"
+              }
+            ]
+          },
+          "dateDateTime": "1996-09-27"
+        },
+        "holder": {
+          "reference": "Organization/LOC-100001873"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "AdministrableProductDefinition",
+        "id": "MetforminActavis-850mg-Tablet-SE-BS-AdministrableProductDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+          ]
+        },
+        "status": "active",
+        "formOf": [
+          {
+            "reference": "MedicinalProductDefinition/MetforminActavis-850mg-Tablet-SE-BS-MedicinalProductDefinition"
+          }
+        ],
+        "administrableDoseForm": {
+          "coding": [
+            {
+              "code": "100000073665",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Film-coated tablet"
+            }
+          ]
+        },
+        "producedFrom": [
+          {
+            "reference": "ManufacturedItemDefinition/MetforminActavis-850mg-Tablet-SE-BS-ManufacturedItemDefinition"
+          }
+        ],
+        "routeOfAdministration": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "100000073619",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+                  "display": "Oral use"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "MetforminActavis-850mg-Tablet-SE-BS-PackagedProductDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 100,
+            "code": "200000002152",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Tablet"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/MetforminActavis-850mg-Tablet-SE-BS-MedicinalProductDefinition"
+          }
+        ],
+        "description": "Blister, 100 tabletter",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "MetforminActavis-850mg-Tablet-SE-BS-PackagedProductDefinition-02",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "extension": [
+          {
+            "url": "http://ema.europa.eu/fhir/extension/containedItemQuantity"
+          },
+          {
+            "url": "http://ema.europa.eu/fhir/extension/language",
+            "valueCoding": {
+              "code": "100000072288",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072057",
+              "display": "Swedish"
+            }
+          }
+        ],
+        "containedItemQuantity": [
+          {
+            "value": 100,
+            "code": "200000002152",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Tablet"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/MetforminActavis-850mg-Tablet-SE-BS-MedicinalProductDefinition"
+          }
+        ],
+        "description": "Burk, 100 tabletter",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "ManufacturedItemDefinition",
+        "id": "MetforminActavis-850mg-Tablet-SE-BS-ManufacturedItemDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLManufacturedItemDefinition"
+          ]
+        },
+        "status": "active",
+        "manufacturedDoseForm": {
+          "coding": [
+            {
+              "code": "100000073665",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Film-coated tablet"
+            }
+          ]
+        },
+        "unitOfPresentation": {
+          "coding": [
+            {
+              "code": "200000002152",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+              "display": "Tablet"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Ingredient",
+        "id": "MetforminActavis-850mg-Tablet-SE-BS-Ingredient",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+          ]
+        },
+        "status": "active",
+        "for": [
+          {
+            "reference": "MedicinalProductDefinition/MetforminActavis-850mg-Tablet-SE-BS-MedicinalProductDefinition"
+          },
+          {
+            "reference": "ManufacturedItemDefinition/MetforminActavis-850mg-Tablet-SE-BS-ManufacturedItemDefinition"
+          },
+          {
+            "reference": "AdministrableProductDefinition/MetforminActavis-850mg-Tablet-SE-BS-AdministrableProductDef"
+          }
+        ],
+        "role": {
+          "coding": [
+            {
+              "code": "100000072072",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+              "display": "Active"
+            }
+          ]
+        },
+        "substance": {
+          "code": {
+            "concept": {
+              "coding": [
+                {
+                  "code": "100000091366",
+                  "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                  "display": "Metformin hydrochloride"
+                }
+              ]
+            }
+          },
+          "strength": [
+            {
+              "presentationRatio": {
+                "numerator": {
+                  "value": 850,
+                  "code": "100000110655",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "milligram(s)"
+                },
+                "denominator": {
+                  "value": 1,
+                  "code": "200000002152",
+                  "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+                  "unit": "tablet"
+                }
+              },
+              "referenceStrength": [
+                {
+                  "substance": {
+                    "concept": {
+                      "coding": [
+                        {
+                          "code": "100000085448",
+                          "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                          "display": "Metformin"
+                        }
+                      ]
+                    }
+                  },
+                  "strengthRatio": {
+                    "numerator": {
+                      "value": 663,
+                      "code": "100000110655",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "milligram(s)"
+                    },
+                    "denominator": {
+                      "value": 1,
+                      "code": "200000002152",
+                      "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+                      "unit": "tablet"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

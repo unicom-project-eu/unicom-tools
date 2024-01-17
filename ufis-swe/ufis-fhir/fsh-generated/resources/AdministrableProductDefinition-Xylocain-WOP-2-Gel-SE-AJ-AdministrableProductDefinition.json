@@ -1,0 +1,53 @@
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "Xylocain-WOP-2-Gel-SE-AJ-AdministrableProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/Xylocain-WOP-2-Gel-SE-AJ-MedicinalProductDefinition"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "code": "100000073726",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Gel"
+      }
+    ]
+  },
+  "producedFrom": [
+    {
+      "reference": "ManufacturedItemDefinition/Xylocain-WOP-2-Gel-SE-AJ-ManufacturedItemDefinition"
+    }
+  ],
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073628",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Rectal use"
+          }
+        ]
+      }
+    },
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073638",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Urethral use"
+          }
+        ]
+      }
+    }
+  ]
+}

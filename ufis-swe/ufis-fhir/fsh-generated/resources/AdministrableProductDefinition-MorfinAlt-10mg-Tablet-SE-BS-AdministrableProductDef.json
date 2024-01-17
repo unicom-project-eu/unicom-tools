@@ -1,0 +1,42 @@
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "MorfinAlt-10mg-Tablet-SE-BS-AdministrableProductDef",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/MorfinAlt-10mg-Tablet-SE-BS-MedicinalProductDefinition"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "code": "100000073664",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Tablet"
+      }
+    ]
+  },
+  "producedFrom": [
+    {
+      "reference": "ManufacturedItemDefinition/MorfinAlt-10mg-Tablet-SE-BS-ManufacturedItemDefinition"
+    }
+  ],
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073619",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Oral use"
+          }
+        ]
+      }
+    }
+  ]
+}

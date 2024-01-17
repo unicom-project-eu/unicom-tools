@@ -1,0 +1,75 @@
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "LidoAcc-20mgml-InjSol-SE-AJ-AdministrableProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/LidoAcc-20mgml-InjSol-SE-AJ-MedicinalProductDefinition"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "code": "100000073863",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Solution for injection"
+      }
+    ]
+  },
+  "producedFrom": [
+    {
+      "reference": "ManufacturedItemDefinition/LidoAcc-20mgml-InjSol-SE-AJ-ManufacturedItemDefinition"
+    }
+  ],
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073611",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Intravenous use"
+          }
+        ]
+      }
+    },
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073572",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Epidural use"
+          }
+        ]
+      }
+    },
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073633",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Subcutaneous use"
+          }
+        ]
+      }
+    },
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073600",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Intramuscular use"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "MetforminAristo-1000mg-Tablet-SE-BS-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100000084-00043340"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "2001"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073665",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+        "display": "Film-coated tablet"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Behandling av diabetes mellitus typ 2, speciellt hos överviktiga patienter, där enbart diet och motion inte ger tillräcklig metabolisk kontroll. - Hos vuxna kan Metformin Aristo filmdragerad tablett användas som monoterapi eller i kombination med andra perorala diabetesmedel eller med insulin. - Hos barn från 10 år och ungdomar kan Metformin Aristo filmdragerade tabletter användas som monoterapi eller i kombination med insulin.  En reduktion av diabetiska komplikationer har visats hos överviktiga vuxna patienter med typ 2 diabetes som behandlades med metformin som förstahandspreparat efter att ha sviktat på dietbehandling (se avsnitt 5.1).",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000094031",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "A10BA02"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Metformin Aristo 1000 mg filmdragerad tablett"
+    }
+  ]
+}

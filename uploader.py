@@ -7,6 +7,7 @@ import json
 # FOLDER = "ee-PPLCreator-v3/fhir-data/fsh-generated/resources"
 FOLDER = "pt-PPLCreator/fhir-data/fsh-generated/resources"
 FOLDER = "ufis/ufis-fhir/fsh-generated/resources"
+
 filename = FOLDER.split("/")[0]
 
 SERVER = "http://fhir.hl7.pt:8787/fhir/"

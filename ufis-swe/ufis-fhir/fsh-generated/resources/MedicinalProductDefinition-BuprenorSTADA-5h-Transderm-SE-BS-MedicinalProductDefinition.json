@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "BuprenorSTADA-5h-Transderm-SE-BS-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100000843-00052809"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "459"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073741",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+        "display": "Transdermal patch"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Behandling av icke maligna smärtor av måttlig intensitet när en opiod krävs för att uppnå tillräcklig smärtlindring. Buprenorphine Stada är inte lämpligt för behandling av akuta smärttillstånd. Buprenorphine Stada är avsett för vuxna.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072085",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to special medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000097250",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "N02AE01"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Buprenorphine STADA 5 mikrogram/timme depotplåster"
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "resourceType": "Bundle",
+  "id": "GOFSH-GENERATED-ID-93",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "MedicinalProductDefinition",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/mpId",
+            "value": "SE-100002766-00011277"
+          },
+          {
+            "system": "http://ema.europa.eu/fhir/eurdId",
+            "value": "10856"
+          }
+        ],
+        "combinedPharmaceuticalDoseForm": {
+          "coding": [
+            {
+              "code": "100000073713",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+              "display": "Ointment"
+            }
+          ]
+        },
+        "domain": {
+          "coding": [
+            {
+              "code": "100000000012",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+              "display": "Human use"
+            }
+          ]
+        },
+        "status": {
+          "coding": [
+            {
+              "code": "200000005004",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+              "display": "Current"
+            }
+          ]
+        },
+        "indication": "Hydrokortison Evolan 10 mg per g salva indicerat för akuta och kroniska eksem av varierande genes. Anogenital pruritus.",
+        "legalStatusOfSupply": {
+          "coding": [
+            {
+              "code": "200000002239",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+              "display": "Medicinal product subject to medical prescription exempt for some pack sizes"
+            }
+          ]
+        },
+        "classification": [
+          {
+            "coding": [
+              {
+                "code": "100000095413",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+                "display": "D07AA02"
+              }
+            ]
+          }
+        ],
+        "name": [
+          {
+            "productName": "Hydrokortison Evolan 10 mg/g salva"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "RegulatedAuthorization",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-RegAutho",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLRegulatedAuthorization"
+          ]
+        },
+        "type": {
+          "coding": [
+            {
+              "system": "https://spor.ema.europa.eu/v1/lists/220000000060",
+              "code": "220000000061",
+              "display": "Marketing Authorisation"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/marketingAuthorizationNumber",
+            "value": "11277"
+          }
+        ],
+        "subject": [
+          {
+            "reference": "MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "region": [
+          {
+            "coding": [
+              {
+                "code": "100000000535",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          }
+        ],
+        "status": {
+          "coding": [
+            {
+              "code": "100000072099",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072049",
+              "display": "Valid"
+            }
+          ]
+        },
+        "statusDate": "1990-12-21",
+        "case": {
+          "type": {
+            "coding": [
+              {
+                "code": "dateOfFirstAuthorisation",
+                "system": "https://ema.europa.eu/fhir/authorisationDateType",
+                "display": "First Authorisation"
+              }
+            ]
+          },
+          "dateDateTime": "1990-12-21"
+        },
+        "holder": {
+          "reference": "Organization/LOC-100002766"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "AdministrableProductDefinition",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-AdminProductDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+          ]
+        },
+        "status": "active",
+        "formOf": [
+          {
+            "reference": "MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "administrableDoseForm": {
+          "coding": [
+            {
+              "code": "100000073713",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Ointment"
+            }
+          ]
+        },
+        "producedFrom": [
+          {
+            "reference": "ManufacturedItemDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef"
+          }
+        ],
+        "routeOfAdministration": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "100000073566",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+                  "display": "Cutaneous use"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-PackageProductDef01",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 1,
+            "code": "200000002156",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Tube"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "description": "Tub, 100 g",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-PackageProductDef02",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 1,
+            "code": "200000002156",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Tube"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "description": "Tub, 20 g",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-PackageProductDef03",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 1,
+            "code": "200000002156",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Tube"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "description": "Tub, 50 g",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "ManufacturedItemDefinition",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLManufacturedItemDefinition"
+          ]
+        },
+        "status": "active",
+        "manufacturedDoseForm": {
+          "coding": [
+            {
+              "code": "100000073713",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Ointment"
+            }
+          ]
+        },
+        "unitOfPresentation": {
+          "coding": [
+            {
+              "code": "200000002156",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+              "display": "Tube"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Ingredient",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-Ingredient01",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+          ]
+        },
+        "status": "active",
+        "for": [
+          {
+            "reference": "MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef"
+          },
+          {
+            "reference": "ManufacturedItemDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef"
+          },
+          {
+            "reference": "AdministrableProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-AdminProductDef"
+          }
+        ],
+        "role": {
+          "coding": [
+            {
+              "code": "100000072072",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+              "display": "Active"
+            }
+          ]
+        },
+        "substance": {
+          "code": {
+            "concept": {
+              "coding": [
+                {
+                  "code": "100000092635",
+                  "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                  "display": "Hydrocortisone"
+                }
+              ]
+            }
+          },
+          "strength": [
+            {
+              "concentrationRatio": {
+                "numerator": {
+                  "value": 10,
+                  "code": "100000110655",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "milligram(s)"
+                },
+                "denominator": {
+                  "value": 1,
+                  "code": "100000110654",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "gram(s)"
+                }
+              },
+              "referenceStrength": [
+                {
+                  "substance": {
+                    "concept": {
+                      "coding": [
+                        {
+                          "code": "100000092635",
+                          "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                          "display": "Hydrocortisone"
+                        }
+                      ]
+                    }
+                  },
+                  "strengthRatio": {
+                    "numerator": {
+                      "value": 10,
+                      "code": "100000110655",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "milligram(s)"
+                    },
+                    "denominator": {
+                      "value": 1,
+                      "code": "100000110654",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "gram(s)"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Ingredient",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-Ingredient02",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+          ]
+        },
+        "status": "active",
+        "for": [
+          {
+            "reference": "MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef"
+          },
+          {
+            "reference": "ManufacturedItemDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef"
+          },
+          {
+            "reference": "AdministrableProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-AdminProductDef"
+          }
+        ],
+        "role": {
+          "coding": [
+            {
+              "code": "100000072082",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+              "display": "Excipient"
+            }
+          ]
+        },
+        "substance": {
+          "code": {
+            "concept": {
+              "coding": [
+                {
+                  "code": "100000092267",
+                  "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                  "display": "Paraffin, light liquid"
+                }
+              ]
+            }
+          },
+          "strength": [
+            {
+              "concentrationRatio": {
+                "numerator": {
+                  "value": 0,
+                  "code": "100000110655",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "milligram(s)"
+                },
+                "denominator": {
+                  "value": 0,
+                  "code": "100000110756",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "unit(s)"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Ingredient",
+        "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-Ingredient03",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+          ]
+        },
+        "status": "active",
+        "for": [
+          {
+            "reference": "MedicinalProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef"
+          },
+          {
+            "reference": "ManufacturedItemDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-ManufacturedItemDef"
+          },
+          {
+            "reference": "AdministrableProductDefinition/HydrokortisonEvolan10mgpergsalva-SE-PLC-AdminProductDef"
+          }
+        ],
+        "role": {
+          "coding": [
+            {
+              "code": "100000072082",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+              "display": "Excipient"
+            }
+          ]
+        },
+        "substance": {
+          "code": {
+            "concept": {
+              "coding": [
+                {
+                  "code": "100000079000",
+                  "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                  "display": "Paraffin white soft"
+                }
+              ]
+            }
+          },
+          "strength": [
+            {
+              "concentrationRatio": {
+                "numerator": {
+                  "value": 0,
+                  "code": "100000110655",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "milligram(s)"
+                },
+                "denominator": {
+                  "value": 0,
+                  "code": "100000110756",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "unit(s)"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

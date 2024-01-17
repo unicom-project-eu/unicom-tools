@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "DepoMedrolcumLido-4010-SE-AJ-Ingredient02",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/DepoMedrolcumLido-4010-SE-AJ-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/DepoMedrolcumLido-4010-SE-AJ-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/DepoMedrolcumLido-4010-SE-AJ-AdministrableProductDefinition"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000091568",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Methylprednisolone acetate"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "concentrationRatio": {
+          "numerator": {
+            "value": 40,
+            "code": "100000110655",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "100000110662",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "millilitre(s)"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000162747",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "methylprednisolone ph. eur."
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 35.96,
+                "code": "100000110655",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "100000110662",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "millilitre(s)"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

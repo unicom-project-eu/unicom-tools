@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "EnalaprilSandoz-10mg-Tablet-SE-AJ-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100000546-00015985"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "1211"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073664",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Tablet"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "• Behandling av hypertoni • Behandling av symptomatisk hjärtsvikt • Prevention av symptomatisk hjärtsvikt hos patienter med asymptomatisk  vänsterkammardysfunktion (ejektionsfraktion  35 %)  ",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000095104",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "C09AA02"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Enalapril Sandoz 10 mg Tablett"
+    }
+  ]
+}

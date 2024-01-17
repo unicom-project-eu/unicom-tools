@@ -1,0 +1,42 @@
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "Xyloproct-RectalOintment-SE-AJ-AdministrableProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/Xyloproct-RectalOintment-SE-AJ-MedicinalProductDefinition"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "code": "100000073828",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Rectal Ointment"
+      }
+    ]
+  },
+  "producedFrom": [
+    {
+      "reference": "ManufacturedItemDefinition/Xyloproct-RectalOintment-SE-AJ-ManufacturedItemDefinition"
+    }
+  ],
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073628",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Rectal use"
+          }
+        ]
+      }
+    }
+  ]
+}

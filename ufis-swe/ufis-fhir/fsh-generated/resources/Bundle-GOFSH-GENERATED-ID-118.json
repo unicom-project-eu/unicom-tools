@@ -1,0 +1,383 @@
+{
+  "resourceType": "Bundle",
+  "id": "GOFSH-GENERATED-ID-118",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "MedicinalProductDefinition",
+        "id": "Klexane100000IEinjektion-SE-PLC-MedicinalProductDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/mpId",
+            "value": "SE-100004157-00056487"
+          },
+          {
+            "system": "http://ema.europa.eu/fhir/eurdId",
+            "value": "10833"
+          }
+        ],
+        "combinedPharmaceuticalDoseForm": {
+          "coding": [
+            {
+              "code": "100000073863",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+              "display": "Solution for injection"
+            }
+          ]
+        },
+        "domain": {
+          "coding": [
+            {
+              "code": "100000000012",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+              "display": "Human use"
+            }
+          ]
+        },
+        "status": {
+          "coding": [
+            {
+              "code": "200000005004",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+              "display": "Current"
+            }
+          ]
+        },
+        "indication": "Klexane är avsett för vuxna patienter för:  Profylax till kirurgipatienter med måttlig eller hög risk för venös tromboembolism, särskilt till patienter som genomgår ortopedisk, allmän eller cancerkirurgi.  Profylax till patienter med ökad risk för venös tromboembolism och som är tillfälligt immobiliserade pga akut sjukdomstillstånd som t.ex. akut hjärtsvikt, andningsinsufficiens, allvarlig infektion eller reumatologiska sjukdomar.  Behandling av djup ventrombos (DVT) och lungemboli (LE) i de fall trombolytisk behandling eller kirurgi av lungemboli inte är aktuell.  Förlängd behandling av djup ventrombos (DVT) och lungemboli (LE) och profylax mot recidiverande DVT och LE hos patienter med aktiv cancer.  Trombosprofylax vid extrakorporeal cirkulation under hemodialys.  Akut kranskärlssjukdom:  Behandling av instabil angina och icke-Q-vågs-myokardinfarkt (NSTEMI) i kombination med oralt acetylsalicylsyra.  Behandling av akut hjärtinfarkt med ST-höjning (STEMI), inkluderat patienter som behandlas medicinskt eller med koronarangioplastik (PCI).",
+        "legalStatusOfSupply": {
+          "coding": [
+            {
+              "code": "100000072084",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+              "display": "Medicinal product subject to medical prescription"
+            }
+          ]
+        },
+        "classification": [
+          {
+            "coding": [
+              {
+                "code": "100000094266",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+                "display": "B01AB05"
+              }
+            ]
+          }
+        ],
+        "name": [
+          {
+            "productName": "Klexane 100000 (1000 mg)/ml injektionsvätska, lösning"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "RegulatedAuthorization",
+        "id": "Klexane100000IEinjektion-SE-PLC-RegAutho",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLRegulatedAuthorization"
+          ]
+        },
+        "type": {
+          "coding": [
+            {
+              "system": "https://spor.ema.europa.eu/v1/lists/220000000060",
+              "code": "220000000061",
+              "display": "Marketing Authorisation"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/marketingAuthorizationNumber",
+            "value": "56487"
+          }
+        ],
+        "subject": [
+          {
+            "reference": "MedicinalProductDefinition/Klexane100000IEinjektion-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "region": [
+          {
+            "coding": [
+              {
+                "code": "100000000535",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          }
+        ],
+        "status": {
+          "coding": [
+            {
+              "code": "100000072099",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072049",
+              "display": "Valid"
+            }
+          ]
+        },
+        "statusDate": "1998-06-12",
+        "case": {
+          "type": {
+            "coding": [
+              {
+                "code": "dateOfFirstAuthorisation",
+                "system": "https://ema.europa.eu/fhir/authorisationDateType",
+                "display": "First Authorisation"
+              }
+            ]
+          },
+          "dateDateTime": "1998-06-12"
+        },
+        "holder": {
+          "reference": "Organization/LOC-100001079"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "AdministrableProductDefinition",
+        "id": "Klexane100000IEinjektion-SE-PLC-AdminProductDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+          ]
+        },
+        "status": "active",
+        "formOf": [
+          {
+            "reference": "MedicinalProductDefinition/Klexane100000IEinjektion-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "administrableDoseForm": {
+          "coding": [
+            {
+              "code": "100000073863",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Solution for injection"
+            }
+          ]
+        },
+        "producedFrom": [
+          {
+            "reference": "ManufacturedItemDefinition/Klexane100000IEinjektion-SE-PLC-ManufacturedItemDef"
+          }
+        ],
+        "routeOfAdministration": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "100000073611",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+                  "display": "Intravenous use"
+                },
+                {
+                  "code": "100000073633",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+                  "display": "Subcutaneous use"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "Klexane100000IEinjektion-SE-PLC-PackageProductDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 1,
+            "code": "200000002111",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Bottle"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/Klexane100000IEinjektion-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "description": "Injektionsflaska, 1 st",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "ManufacturedItemDefinition",
+        "id": "Klexane100000IEinjektion-SE-PLC-ManufacturedItemDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLManufacturedItemDefinition"
+          ]
+        },
+        "status": "active",
+        "manufacturedDoseForm": {
+          "coding": [
+            {
+              "code": "100000073863",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Solution for injection"
+            }
+          ]
+        },
+        "unitOfPresentation": {
+          "coding": [
+            {
+              "code": "200000002111",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+              "display": "Bottle"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Ingredient",
+        "id": "Klexane100000IEinjektion-SE-PLC-Ingredient",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+          ]
+        },
+        "status": "active",
+        "for": [
+          {
+            "reference": "MedicinalProductDefinition/Klexane100000IEinjektion-SE-PLC-MedicinalProductDef"
+          },
+          {
+            "reference": "ManufacturedItemDefinition/Klexane100000IEinjektion-SE-PLC-ManufacturedItemDef"
+          },
+          {
+            "reference": "AdministrableProductDefinition/Klexane100000IEinjektion-SE-PLC-AdminProductDef"
+          }
+        ],
+        "role": {
+          "coding": [
+            {
+              "code": "100000072072",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+              "display": "Active"
+            }
+          ]
+        },
+        "substance": {
+          "code": {
+            "concept": {
+              "coding": [
+                {
+                  "code": "100000090152",
+                  "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                  "display": "Enoxaparin sodium"
+                }
+              ]
+            }
+          },
+          "strength": [
+            {
+              "concentrationRatio": {
+                "numerator": {
+                  "value": 100000,
+                  "code": "100000110671",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "international unit(s)"
+                },
+                "denominator": {
+                  "value": 10,
+                  "code": "100000110662",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "millilitre(s)"
+                }
+              },
+              "referenceStrength": [
+                {
+                  "substance": {
+                    "concept": {
+                      "coding": [
+                        {
+                          "code": "100000085598",
+                          "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                          "display": "Enoxaparin"
+                        }
+                      ]
+                    }
+                  },
+                  "strengthRatio": {
+                    "numerator": {
+                      "value": 100000,
+                      "code": "100000110655",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "international unit(s)"
+                    },
+                    "denominator": {
+                      "value": 10,
+                      "code": "100000110662",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "millilitre(s)"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

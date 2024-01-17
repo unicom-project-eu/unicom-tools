@@ -1,0 +1,61 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Zeldox20mgmlpulvervatskainjek-SE-PLC-Ingredient02",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-MedicinalProductDef"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-ManufacturedItemDef01"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Zeldox20mgmlpulvervatskainjek-SE-PLC-AdminProductDef"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072082",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Excipient"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000085580",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "BETADEX SULFOBUTYL ETHER SODIUM"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "concentrationRatio": {
+          "numerator": {
+            "value": 0,
+            "code": "100000110655",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 0,
+            "code": "100000110756",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "unit(s)"
+          }
+        }
+      }
+    ]
+  }
+}

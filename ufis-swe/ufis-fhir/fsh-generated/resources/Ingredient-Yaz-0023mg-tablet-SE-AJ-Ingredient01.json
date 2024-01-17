@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Yaz-0023mg-tablet-SE-AJ-Ingredient01",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Yaz-0023mg-tablet-SE-AJ-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Yaz-0023mg-tablet-SE-AJ-ManufacturedItemDefinition01"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Yaz-0023mg-tablet-SE-AJ-AdministrableProductDefinition01"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000091531",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Ethinylestradiol betadex clathrate"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "presentationRatio": {
+          "numerator": {
+            "value": 173.17,
+            "code": "100000110656",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "microgram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "200000002152",
+            "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "tablet"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000091721",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "Ethinylestradiol"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 20,
+                "code": "100000110656",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "microgram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "200000002152",
+                "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                "unit": "tablet"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

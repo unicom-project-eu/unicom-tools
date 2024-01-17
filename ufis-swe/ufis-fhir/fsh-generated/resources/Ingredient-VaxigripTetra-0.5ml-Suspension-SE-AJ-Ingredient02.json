@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "VaxigripTetra-0.5ml-Suspension-SE-AJ-Ingredient02",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/VaxigripTetra-0.5ml-Suspension-SE-AJ-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/VaxigripTetra-0.5ml-Suspension-SE-AJ-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/VaxigripTetra-0.5ml-Suspension-SE-AJ-AdministrableProductDef"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "300000034498",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "A/Victoria/2570/2019 (H1N1)pdm09-like strain (A/Victoria/2570/2019, IVR-215)"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "presentationRatio": {
+          "numerator": {
+            "value": 15,
+            "code": "100000110656",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "microgram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "200000002150",
+            "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "syringe"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "300000034498",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "A/Victoria/2570/2019 (H1N1)pdm09-like strain (A/Victoria/2570/2019, IVR-215)"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 15,
+                "code": "100000110656",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "microgram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "200000002150",
+                "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                "unit": "syringe"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

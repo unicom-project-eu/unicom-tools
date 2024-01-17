@@ -4,7 +4,7 @@ import re
 import shutil
 
 
-org_file = "./ufis-fsh/input/fsh/Organization.fsh"
+org_file = "./ufis-fhir/input/fsh/Organization.fsh"
 f = open(org_file, "w")
 f.truncate()
 f.close()

@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Stesolid-2mg-Tablet-SE-IS-Ingredient",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Stesolid-2mg-Tablet-SE-IS-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Stesolid-2mg-Tablet-SE-IS-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Stesolid-2mg-Tablet-SE-IS-AdministrableProductDefinition"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000092362",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Diazepam"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "presentationRatio": {
+          "numerator": {
+            "value": 2,
+            "code": "100000110655",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "100000110756",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "unit(s)"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000092362",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "Diazepam"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 2,
+                "code": "100000110655",
+                "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "100000110756",
+                "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "unit(s)"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

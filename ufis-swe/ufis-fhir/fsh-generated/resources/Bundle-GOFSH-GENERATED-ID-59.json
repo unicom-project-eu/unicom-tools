@@ -1,0 +1,442 @@
+{
+  "resourceType": "Bundle",
+  "id": "GOFSH-GENERATED-ID-59",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "MedicinalProductDefinition",
+        "id": "Dicuno50mgFilmtablet-SE-PLC-MedicinalProductDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/mpId",
+            "value": "SE-100002026-00042952"
+          },
+          {
+            "system": "http://ema.europa.eu/fhir/eurdId",
+            "value": "1048"
+          }
+        ],
+        "combinedPharmaceuticalDoseForm": {
+          "coding": [
+            {
+              "code": "100000073665",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+              "display": "Film-coated tablet"
+            }
+          ]
+        },
+        "domain": {
+          "coding": [
+            {
+              "code": "100000000012",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+              "display": "Human use"
+            }
+          ]
+        },
+        "status": {
+          "coding": [
+            {
+              "code": "200000005004",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+              "display": "Current"
+            }
+          ]
+        },
+        "indication": "Symtomatisk behandling av akut smärta av lätt till måttlig intensitet. Symtomatisk behandling av akuta anfall  av migränhuvudvärk. ",
+        "legalStatusOfSupply": {
+          "coding": [
+            {
+              "code": "100000072084",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+              "display": "Medicinal product subject to medical prescription"
+            }
+          ]
+        },
+        "classification": [
+          {
+            "coding": [
+              {
+                "code": "100000096906",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+                "display": "M01AB05"
+              }
+            ]
+          }
+        ],
+        "name": [
+          {
+            "productName": "Dicuno 50 mg fildragerad tablett"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "RegulatedAuthorization",
+        "id": "Dicuno50mgFilmtablet-SE-PLC-RegAutho",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLRegulatedAuthorization"
+          ]
+        },
+        "type": {
+          "coding": [
+            {
+              "system": "https://spor.ema.europa.eu/v1/lists/220000000060",
+              "code": "220000000061",
+              "display": "Marketing Authorisation"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/marketingAuthorizationNumber",
+            "value": "42952"
+          }
+        ],
+        "subject": [
+          {
+            "reference": "MedicinalProductDefinition/Dicuno50mgFilmtablet-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "region": [
+          {
+            "coding": [
+              {
+                "code": "100000000535",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          }
+        ],
+        "status": {
+          "coding": [
+            {
+              "code": "100000072099",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072049",
+              "display": "Valid"
+            }
+          ]
+        },
+        "statusDate": "2011-09-16",
+        "case": {
+          "type": {
+            "coding": [
+              {
+                "code": "dateOfFirstAuthorisation",
+                "system": "https://ema.europa.eu/fhir/authorisationDateType",
+                "display": "First Authorisation"
+              }
+            ]
+          },
+          "dateDateTime": "2011-09-16"
+        },
+        "holder": {
+          "reference": "Organization/LOC-100005946"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "AdministrableProductDefinition",
+        "id": "Dicuno50mgFilmtablet-SE-PLC-AdminProductDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+          ]
+        },
+        "status": "active",
+        "formOf": [
+          {
+            "reference": "MedicinalProductDefinition/Dicuno50mgFilmtablet-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "administrableDoseForm": {
+          "coding": [
+            {
+              "code": "100000073665",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Film-coated tablet"
+            }
+          ]
+        },
+        "producedFrom": [
+          {
+            "reference": "ManufacturedItemDefinition/Dicuno50mgFilmtablet-SE-PLC-ManufacturedItemDef"
+          }
+        ],
+        "routeOfAdministration": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "100000073619",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+                  "display": "Oral use"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "Dicuno50mgFilmtablet-SE-PLC-PackageProductDef01",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 100,
+            "code": "200000002152",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Tablet"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/Dicuno50mgFilmtablet-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "description": "Blister, 100 tabletter",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "Dicuno50mgFilmtablet-SE-PLC-PackageProductDef02",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 50,
+            "code": "200000002152",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Tablet"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/DicTratiopharma50mgFilmtablet-SE-PLC-MedicinalProductDef"
+          }
+        ],
+        "description": "Blister, 50 tabletter",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "ManufacturedItemDefinition",
+        "id": "Dicuno50mgFilmtablet-SE-PLC-ManufacturedItemDef",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLManufacturedItemDefinition"
+          ]
+        },
+        "status": "active",
+        "manufacturedDoseForm": {
+          "coding": [
+            {
+              "code": "100000073665",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Film-coated tablet"
+            }
+          ]
+        },
+        "unitOfPresentation": {
+          "coding": [
+            {
+              "code": "200000002152",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+              "display": "Tablet"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Ingredient",
+        "id": "Dicuno50mgFilmtablet-SE-PLC-Ingredient",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+          ]
+        },
+        "status": "active",
+        "for": [
+          {
+            "reference": "MedicinalProductDefinition/Dicuno50mgFilmtablet-SE-PLC-MedicinalProductDef"
+          },
+          {
+            "reference": "ManufacturedItemDefinition/Dicuno50mgFilmtablet-SE-PLC-ManufacturedItemDef"
+          },
+          {
+            "reference": "AdministrableProductDefinition/Dicuno50mgFilmtablet-SE-PLC-AdminProductDef"
+          }
+        ],
+        "role": {
+          "coding": [
+            {
+              "code": "100000072072",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+              "display": "Active"
+            }
+          ]
+        },
+        "substance": {
+          "code": {
+            "concept": {
+              "coding": [
+                {
+                  "code": "100000092368",
+                  "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                  "display": "Diclofenac potassium"
+                }
+              ]
+            }
+          },
+          "strength": [
+            {
+              "presentationRatio": {
+                "numerator": {
+                  "value": 50,
+                  "code": "100000110655",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "milligram(s)"
+                },
+                "denominator": {
+                  "value": 1,
+                  "code": "200000002152",
+                  "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                  "unit": "Tablet"
+                }
+              },
+              "referenceStrength": [
+                {
+                  "substance": {
+                    "concept": {
+                      "coding": [
+                        {
+                          "code": "100000092798",
+                          "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                          "display": "Diclofenac"
+                        }
+                      ]
+                    }
+                  },
+                  "strengthRatio": {
+                    "numerator": {
+                      "value": 44,
+                      "code": "100000110655",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "milligram(s)"
+                    },
+                    "denominator": {
+                      "value": 1,
+                      "code": "200000002152",
+                      "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                      "unit": "Tablet"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "resourceType": "Bundle",
+  "id": "GOFSH-GENERATED-ID-172",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "MedicinalProductDefinition",
+        "id": "Orimox-50mcg-Suspension-SE-IS-MedicinalProductDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/mpId",
+            "value": "SE-100002342-00055400"
+          },
+          {
+            "system": "http://ema.europa.eu/fhir/eurdId",
+            "value": "2085"
+          }
+        ],
+        "combinedPharmaceuticalDoseForm": {
+          "coding": [
+            {
+              "code": "100000073809",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Nasal spray, suspension"
+            }
+          ]
+        },
+        "domain": {
+          "coding": [
+            {
+              "code": "100000000012",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+              "display": "Human use"
+            }
+          ]
+        },
+        "status": {
+          "coding": [
+            {
+              "code": "200000005004",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+              "display": "Current"
+            }
+          ]
+        },
+        "indication": "Orimox nässpray är avsett för vuxna och äldre för behandling av symtom vid säsongsbunden allergisk  eller perenn rinit.",
+        "legalStatusOfSupply": {
+          "coding": [
+            {
+              "code": "100000072076",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+              "display": "Medicinal product not subject to medical prescription"
+            }
+          ]
+        },
+        "classification": [
+          {
+            "coding": [
+              {
+                "code": "100000093533",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000116677",
+                "display": "R01AD09"
+              }
+            ]
+          }
+        ],
+        "name": [
+          {
+            "productName": "Orimox 50 mikrogram/dos Nässpray, suspension"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "RegulatedAuthorization",
+        "id": "Orimox-50mcg-Suspension-SE-IS-RegulatedAuthorization",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLRegulatedAuthorization"
+          ]
+        },
+        "type": {
+          "coding": [
+            {
+              "system": "https://spor.ema.europa.eu/v1/lists/220000000060",
+              "code": "220000000061",
+              "display": "Marketing Authorisation"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/marketingAuthorizationNumber",
+            "value": "55400"
+          }
+        ],
+        "subject": [
+          {
+            "reference": "MedicinalProductDefinition/Orimox-50mcg-Suspension-SE-IS-MedicinalProductDefinition"
+          }
+        ],
+        "region": [
+          {
+            "coding": [
+              {
+                "code": "100000000535",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          }
+        ],
+        "status": {
+          "coding": [
+            {
+              "code": "100000072099",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072049",
+              "display": "Valid"
+            }
+          ]
+        },
+        "statusDate": "2017-06-16",
+        "case": {
+          "type": {
+            "coding": [
+              {
+                "code": "dateOfFirstAuthorisation",
+                "system": "https://ema.europa.eu/fhir/authorisationDateType",
+                "display": "First Authorisation"
+              }
+            ]
+          },
+          "dateDateTime": "2017-06-16"
+        },
+        "holder": {
+          "reference": "Organization/LOC-100005206"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "AdministrableProductDefinition",
+        "id": "Orimox-50mcg-Suspension-SE-IS-AdministrableProductDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+          ]
+        },
+        "status": "active",
+        "formOf": [
+          {
+            "reference": "MedicinalProductDefinition/Orimox-50mcg-Suspension-SE-IS-MedicinalProductDefinition"
+          }
+        ],
+        "administrableDoseForm": {
+          "coding": [
+            {
+              "code": "100000174018",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Suspension for spray"
+            }
+          ]
+        },
+        "producedFrom": [
+          {
+            "reference": "ManufacturedItemDefinition/Orimox-50mcg-Suspension-SE-IS-ManufacturedItemDefinition"
+          }
+        ],
+        "routeOfAdministration": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "100000073615",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+                  "display": "Nasal use"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "Orimox-50mcg-Suspension-SE-IS-PackagedProductDefinition01",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 1,
+            "code": "200000002111",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Bottle"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/Orimox-50mcg-Suspension-SE-IS-MedicinalProductDefinition"
+          }
+        ],
+        "description": "Flaska med dospump, 140 doser",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "Orimox-50mcg-Suspension-SE-IS-PackagedProductDefinition02",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 1,
+            "code": "200000002111",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Bottle"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/Orimox-50mcg-Suspension-SE-IS-MedicinalProductDefinition"
+          }
+        ],
+        "description": "Flaska med dospump, 60 doser",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "ManufacturedItemDefinition",
+        "id": "Orimox-50mcg-Suspension-SE-IS-ManufacturedItemDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLManufacturedItemDefinition"
+          ]
+        },
+        "status": "active",
+        "manufacturedDoseForm": {
+          "coding": [
+            {
+              "code": "100000073809",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Nasal spray, suspension"
+            }
+          ]
+        },
+        "unitOfPresentation": {
+          "coding": [
+            {
+              "code": "200000002111",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+              "display": "Bottle"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Ingredient",
+        "id": "Orimox-50mcg-Suspension-SE-IS-Ingredient",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+          ]
+        },
+        "status": "active",
+        "for": [
+          {
+            "reference": "MedicinalProductDefinition/Orimox-50mcg-Suspension-SE-IS-MedicinalProductDefinition"
+          },
+          {
+            "reference": "ManufacturedItemDefinition/Orimox-50mcg-Suspension-SE-IS-ManufacturedItemDefinition"
+          },
+          {
+            "reference": "AdministrableProductDefinition/Orimox-50mcg-Suspension-SE-IS-AdministrableProductDefinition"
+          }
+        ],
+        "role": {
+          "coding": [
+            {
+              "code": "100000072072",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+              "display": "Active"
+            }
+          ]
+        },
+        "substance": {
+          "code": {
+            "concept": {
+              "coding": [
+                {
+                  "code": "100000137366",
+                  "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                  "display": "Mometasone furoate monohydrate"
+                }
+              ]
+            }
+          },
+          "strength": [
+            {
+              "concentrationRatio": {
+                "numerator": {
+                  "value": 52,
+                  "code": "100000110920",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "microgram(s)/dose"
+                },
+                "denominator": {
+                  "value": 1,
+                  "code": "200000025238",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "dose"
+                }
+              },
+              "referenceStrength": [
+                {
+                  "substance": {
+                    "concept": {
+                      "coding": [
+                        {
+                          "code": "100000091860",
+                          "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                          "display": "Mometasone furoate"
+                        }
+                      ]
+                    }
+                  },
+                  "strengthRatio": {
+                    "numerator": {
+                      "value": 50,
+                      "code": "100000110920",
+                      "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "microgram(s)/dose"
+                    },
+                    "denominator": {
+                      "value": 1,
+                      "code": "200000025238",
+                      "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "dose"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

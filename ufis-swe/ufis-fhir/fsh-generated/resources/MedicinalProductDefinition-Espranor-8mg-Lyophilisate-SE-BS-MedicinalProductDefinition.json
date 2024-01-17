@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Espranor-8mg-Lyophilisate-SE-BS-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-XXXXXXXXX-00051208"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "461"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073682",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Oral lyophilisate"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Substitutionsbehandling för opioidberoende, inom ramen för en medicinsk, social och psykologisk behandling. Behandling med Espranor frystorkad tablett är avsedd för vuxna och ungdomar i åldern 15 år och äldre som har samtyckt till behandling av sitt beroende.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072085",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to special medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000097495",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000116677",
+          "display": "N07BC01"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Espranor 8 mg frystorkad tablett"
+    }
+  ]
+}

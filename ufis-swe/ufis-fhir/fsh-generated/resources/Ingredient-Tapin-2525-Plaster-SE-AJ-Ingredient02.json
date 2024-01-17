@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Tapin-2525-Plaster-SE-AJ-Ingredient02",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Tapin-2525-Plaster-SE-AJ-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Tapin-2525-Plaster-SE-AJ-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Tapin-2525-Plaster-SE-AJ-AdministrableProductDefinition"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000092015",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Prilocaine"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "presentationRatio": {
+          "numerator": {
+            "value": 25,
+            "code": "100000110655",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "200000002140",
+            "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "plaster"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000092015",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "Prilocaine"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 25,
+                "code": "100000110655",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "200000002140",
+                "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                "unit": "plaster"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

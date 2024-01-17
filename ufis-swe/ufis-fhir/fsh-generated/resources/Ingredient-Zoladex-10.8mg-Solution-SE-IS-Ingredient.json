@@ -1,0 +1,89 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Zoladex-10.8mg-Solution-SE-IS-Ingredient",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Zoladex-10.8mg-Solution-SE-IS-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Zoladex-10.8mg-Solution-SE-IS-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Zoladex-10.8mg-Solution-SE-IS-AdministrableProductDefinition"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000086673",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Goserelin acetate"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "concentrationRatio": {
+          "numerator": {
+            "code": "100000165006",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000000008",
+            "unit": "quantity sufficient"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "200000025238",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "dose"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000084238",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "Goserelin"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 10.8,
+                "code": "100000110655",
+                "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "200000025238",
+                "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "dose"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

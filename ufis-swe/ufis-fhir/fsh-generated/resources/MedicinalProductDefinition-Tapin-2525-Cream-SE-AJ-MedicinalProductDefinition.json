@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Tapin-2525-Cream-SE-AJ-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100002342-00023074"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "1867"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073712",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Cream"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Tapin kräm är avsett för: Ytanestesi av huden i samband med: nålstick t.ex. vid inläggning av perifer venkateter eller vid blodprovstagning ytliga kirurgiska ingrepp, hos vuxna och den pediatriska populationen Ytanestesi av genitalslemhinnan, t.ex. före ytliga kirurgiska ingrepp eller före lokalbedövning hos vuxna och ungdomar ≥12 år. Ytanestesi av bensår för att underlätta mekanisk rengöring/debridering endast hos vuxna.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "200000002239",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to prescription exempt for some pack sizes"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000097205",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "N01BB20"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Tapin 25 mg/g + 25 mg/g Kräm"
+    }
+  ]
+}

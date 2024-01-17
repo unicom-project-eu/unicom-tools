@@ -1,0 +1,16 @@
+{
+  "resourceType": "Organization",
+  "id": "LOC-123456789",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLOrganization"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "https://spor.ema.europa.eu/v1/locations",
+      "value": "LOC-123456789"
+    }
+  ],
+  "name": "Novartis Sverige AB"
+}

@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Isotracin-10mg-Capsule-SE-IS-Ingredient",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Isotracin-10mg-Capsule-SE-IS-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Isotracin-10mg-Capsule-SE-IS-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Isotracin-10mg-Capsule-SE-IS-AdministrableProductDefinition"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000089811",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Isotretinoin"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "concentrationRatio": {
+          "numerator": {
+            "value": 20,
+            "code": "100000110655",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "100000110756",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "unit(s)"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000089811",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "Isotretinoin"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 20,
+                "code": "100000110655",
+                "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "100000110756",
+                "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "unit(s)"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

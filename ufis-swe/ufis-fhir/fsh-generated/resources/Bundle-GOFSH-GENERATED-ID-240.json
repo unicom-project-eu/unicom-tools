@@ -1,0 +1,440 @@
+{
+  "resourceType": "Bundle",
+  "id": "GOFSH-GENERATED-ID-240",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "MedicinalProductDefinition",
+        "id": "Xylocain-WOP-2-Gel-SE-AJ-MedicinalProductDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/mpId",
+            "value": "SE-100001718-00010445"
+          },
+          {
+            "system": "http://ema.europa.eu/fhir/eurdId",
+            "value": "10933"
+          }
+        ],
+        "combinedPharmaceuticalDoseForm": {
+          "coding": [
+            {
+              "code": "100000073726",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Gel"
+            }
+          ]
+        },
+        "domain": {
+          "coding": [
+            {
+              "code": "100000000012",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+              "display": "Human use"
+            }
+          ]
+        },
+        "status": {
+          "coding": [
+            {
+              "code": "200000005004",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+              "display": "Current"
+            }
+          ]
+        },
+        "indication": "Ytanestesi av uretra vid kateterisering, sondering samt andra endouretrala ingrepp.  Ytanestesi vid ano-, rekto- och sigmoidoskopi samt vid rektal palpation. Smärtsamma cystiter. Xylocain gel är avsett för vuxna och barn i alla åldrar.",
+        "legalStatusOfSupply": {
+          "coding": [
+            {
+              "code": "100000072084",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+              "display": "Medicinal product subject to medical prescription"
+            }
+          ]
+        },
+        "classification": [
+          {
+            "coding": [
+              {
+                "code": "100000097196",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+                "display": "N01BB02"
+              }
+            ]
+          }
+        ],
+        "name": [
+          {
+            "productName": "Xylocain utan konserveringsmedel 2% Gel"
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "RegulatedAuthorization",
+        "id": "Xylocain-WOP-2-Gel-SE-AJ-RegulatedAuthorization",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLRegulatedAuthorization"
+          ]
+        },
+        "type": {
+          "coding": [
+            {
+              "system": "https://spor.ema.europa.eu/v1/lists/220000000060",
+              "code": "220000000061",
+              "display": "Marketing Authorisation"
+            }
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/fhir/marketingAuthorizationNumber",
+            "value": "10445"
+          }
+        ],
+        "subject": [
+          {
+            "reference": "MedicinalProductDefinition/Xylocain-WOP-2-Gel-SE-AJ-MedicinalProductDefinition"
+          }
+        ],
+        "region": [
+          {
+            "coding": [
+              {
+                "code": "100000000535",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          }
+        ],
+        "status": {
+          "coding": [
+            {
+              "code": "100000072099",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072049",
+              "display": "Valid"
+            }
+          ]
+        },
+        "statusDate": "1986-08-29",
+        "case": {
+          "type": {
+            "coding": [
+              {
+                "code": "dateOfFirstAuthorisation",
+                "system": "https://ema.europa.eu/fhir/authorisationDateType",
+                "display": "First Authorisation"
+              }
+            ]
+          },
+          "dateDateTime": "1986-08-29"
+        },
+        "holder": {
+          "reference": "Organization/LOC-100001575"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "AdministrableProductDefinition",
+        "id": "Xylocain-WOP-2-Gel-SE-AJ-AdministrableProductDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+          ]
+        },
+        "status": "active",
+        "formOf": [
+          {
+            "reference": "MedicinalProductDefinition/Xylocain-WOP-2-Gel-SE-AJ-MedicinalProductDefinition"
+          }
+        ],
+        "administrableDoseForm": {
+          "coding": [
+            {
+              "code": "100000073726",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Gel"
+            }
+          ]
+        },
+        "producedFrom": [
+          {
+            "reference": "ManufacturedItemDefinition/Xylocain-WOP-2-Gel-SE-AJ-ManufacturedItemDefinition"
+          }
+        ],
+        "routeOfAdministration": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "100000073628",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+                  "display": "Rectal use"
+                }
+              ]
+            }
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "100000073638",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+                  "display": "Urethral use"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "PackagedProductDefinition",
+        "id": "Xylocain-WOP-2-Gel-SE-AJ-PackagedProductDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+          ]
+        },
+        "identifier": [
+          {
+            "system": "http://ema.europa.eu/example/pcid"
+          }
+        ],
+        "packaging": {
+          "type": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+                "code": "100000073498",
+                "display": "Box"
+              }
+            ]
+          },
+          "quantity": 1
+        },
+        "containedItemQuantity": [
+          {
+            "value": 10,
+            "code": "200000002150",
+            "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Syringe"
+          }
+        ],
+        "packageFor": [
+          {
+            "reference": "MedicinalProductDefinition/Xylocain-WOP-2-Gel-SE-AJ-MedicinalProductDefinition"
+          }
+        ],
+        "description": "Steril plastspruta för engångsbruk, 10 x 10 g",
+        "marketingStatus": [
+          {
+            "country": {
+              "coding": [
+                {
+                  "code": "100000000535",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                  "display": "Sweden"
+                }
+              ]
+            },
+            "status": {
+              "coding": [
+                {
+                  "code": "100000072083",
+                  "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+                  "display": "Marketed"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "ManufacturedItemDefinition",
+        "id": "Xylocain-WOP-2-Gel-SE-AJ-ManufacturedItemDefinition",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLManufacturedItemDefinition"
+          ]
+        },
+        "status": "active",
+        "manufacturedDoseForm": {
+          "coding": [
+            {
+              "code": "100000073726",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+              "display": "Gel"
+            }
+          ]
+        },
+        "unitOfPresentation": {
+          "coding": [
+            {
+              "code": "200000002150",
+              "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+              "display": "Syringe"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Ingredient",
+        "id": "Xylocain-WOP-2-Gel-SE-AJ-Ingredient",
+        "meta": {
+          "profile": [
+            "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+          ]
+        },
+        "status": "active",
+        "for": [
+          {
+            "reference": "MedicinalProductDefinition/Xylocain-WOP-2-Gel-SE-AJ-MedicinalProductDefinition"
+          },
+          {
+            "reference": "ManufacturedItemDefinition/Xylocain-WOP-2-Gel-SE-AJ-ManufacturedItemDefinition"
+          },
+          {
+            "reference": "AdministrableProductDefinition/Xylocain-WOP-2-Gel-SE-AJ-AdministrableProductDefinition"
+          }
+        ],
+        "role": {
+          "coding": [
+            {
+              "code": "100000072072",
+              "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+              "display": "Active"
+            }
+          ]
+        },
+        "substance": {
+          "code": {
+            "concept": {
+              "coding": [
+                {
+                  "code": "100000090563",
+                  "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                  "display": "lidocaine hydrochloride monohydrate"
+                }
+              ]
+            }
+          },
+          "strength": [
+            {
+              "concentrationRatio": {
+                "numerator": {
+                  "value": 21.33,
+                  "code": "100000110655",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "milligram(s)"
+                },
+                "denominator": {
+                  "value": 1,
+                  "code": "100000110654",
+                  "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                  "unit": "gram(s)"
+                }
+              },
+              "referenceStrength": [
+                {
+                  "substance": {
+                    "concept": {
+                      "coding": [
+                        {
+                          "code": "100000139489",
+                          "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                          "display": "lidocaine hydrochloride"
+                        }
+                      ]
+                    }
+                  },
+                  "strengthRatio": {
+                    "numerator": {
+                      "value": 20,
+                      "code": "100000110655",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "milligram(s)",
+                      "_comparator": {
+                        "extension": [
+                          {
+                            "url": "http://ema.europa.eu/fhir/extension/comparator",
+                            "valueCoding": {
+                              "code": "100000000049",
+                              "system": "https://spor.ema.europa.eu/v1/lists/100000000008",
+                              "display": "equal to"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "denominator": {
+                      "value": 1,
+                      "code": "100000110654",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "gram(s)"
+                    }
+                  }
+                },
+                {
+                  "substance": {
+                    "concept": {
+                      "coding": [
+                        {
+                          "code": "100000091713",
+                          "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                          "display": "lidocaine"
+                        }
+                      ]
+                    }
+                  },
+                  "strengthRatio": {
+                    "numerator": {
+                      "value": 17.31,
+                      "code": "100000110655",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "milligram(s)",
+                      "_comparator": {
+                        "extension": [
+                          {
+                            "url": "http://ema.europa.eu/fhir/extension/comparator",
+                            "valueCoding": {
+                              "code": "100000000049",
+                              "system": "https://spor.ema.europa.eu/v1/lists/100000000008",
+                              "display": "equal to"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "denominator": {
+                      "value": 1,
+                      "code": "100000110654",
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                      "unit": "gram(s)"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

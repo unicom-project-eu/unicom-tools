@@ -133,8 +133,15 @@ temp/
 */dev.py
 $*
 
-fsh-generated/
 ~$*
 
 
 .DS_Store
+ee-PPLCreator/fhir-data/fsh-generated/
+ee-PPLCreator-v2/fhir-data/fsh-generated/
+ee-PPLCreator-v3/fhir-data/fsh-generated/
+ita-PPLCreator/fhir-data/fsh-generated/
+pt-PPLCreator/fhir-data/fsh-generated/
+ufis/ufis-fhir/fsh-generated/
+ufis-swe/ufis-fsh/fsh-generated/
+

@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Tapin-2525-Plaster-SE-AJ-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100002342-00049407"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "1867"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073714",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Medicated plaster"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Lidokain/prilokain plåster används vid: Ytanestesi av intakt hud i samband med: nålstick, t.ex. intravenösa katetrar eller blodprovstagning ytliga kirurgiska ingrepp, hos vuxna och den pediatriska populationen.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "200000002239",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription exempt for some pack sizes"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000097205",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "N01BB20"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Tapin 25 mg/25 mg Medicinskt plåster"
+    }
+  ]
+}

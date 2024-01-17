@@ -1,0 +1,94 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Fragmin-10000IEml-Solution-SE-IS-Ingredient",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Fragmin-10000IEml-Solution-SE-IS-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Fragmin-10000IEml-Solution-SE-IS-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Fragmin-10000IEml-Solution-SE-IS-AdministrableProductDefinition"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000091301",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "dalteparin sodium"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "concentrationRatio": {
+          "numerator": {
+            "extension": [
+              {
+                "url": "http://terminology.hl7.org/CodeSystem/v3-NullFlavor"
+              }
+            ],
+            "code": "100000110671",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "international unit(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "100000110662",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "millilitre(s)"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000127573",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "dalteparin"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 10000,
+                "code": "100000110671",
+                "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "international unit(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "100000110662",
+                "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "millilitre(s)"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

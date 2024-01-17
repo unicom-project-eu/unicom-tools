@@ -1,0 +1,65 @@
+{
+  "resourceType": "PackagedProductDefinition",
+  "id": "j20170630100020",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/pcId",
+      "value": "SE-100002602-00000001-002"
+    }
+  ],
+  "packaging": {
+    "type": {
+      "coding": [
+        {
+          "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+          "code": "100000073498",
+          "display": "Box"
+        }
+      ]
+    },
+    "quantity": 1
+  },
+  "language": "EN",
+  "containedItemQuantity": [
+    {
+      "value": 10,
+      "unit": "tablets"
+    }
+  ],
+  "packageFor": [
+    {
+      "reference": "7f81d47e-9a74-44b3-8ed7-07990093d878"
+    }
+  ],
+  "description": "Blister 10 tablets",
+  "marketingStatus": [
+    {
+      "country": {
+        "coding": [
+          {
+            "code": "100000000535",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+            "display": "Sweden"
+          }
+        ]
+      },
+      "status": {
+        "coding": [
+          {
+            "code": "100000072074",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+            "display": "Not marketed"
+          }
+        ]
+      },
+      "dateRange": {
+        "start": "2017-06-15"
+      }
+    }
+  ]
+}

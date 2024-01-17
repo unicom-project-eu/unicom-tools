@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Losec-10mg-Tablet-SE-BS-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100000214-00013670"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "2215"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073667",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+        "display": "Gastro-resistent tablet"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Losec enterotabletter används för:  Vuxna • Behandling av duodenalsår • Förebyggande mot recidiverande duodenalsår • Behandling av ventrikelsår • Förebyggande mot recidiverande ventrikelsår • Eradikering av Helicobacter pylori (H. pylori) i kombination med lämplig antibiotikaterapi vid behandling av peptiska sår • Behandling av NSAID relaterade ventrikel  och duodenalsår • Förebyggande mot NSAID relaterade ventrikel  och duodenalsår hos riskpatienter • Behandling av refluxesofagit • Långtidsbehandling av patienter med läkt refluxesofagit • Behandling av symtomatisk gastroesofageal refluxsjukdom • Behandling av Zollinger Ellisons syndrom  Användning hos barn Barn över 1 års ålder och ≥ 10 kg • Behandling av refluxesofagit • Symtomatisk behandling av halsbränna och sura uppstötningar vid gastroesofageal refluxsjukdom.  Barn och ungdomar över 4 års ålder • I kombination med antibiotika vid behandling av duodenalsår orsakade av H. pylori.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "200000002239",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription exempt for somepack sizes"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000093631",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000116677",
+          "display": "A02BC01"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Losec 10 mg Gastro-resistent tablet"
+    }
+  ]
+}

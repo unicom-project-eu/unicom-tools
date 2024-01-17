@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Instillagel-209-Gel-SE-AJ-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100003544-00010132"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "10933"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073726",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Gel"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Kateterisering, sondering och andra endouretrala ingrepp på män.  Vissa typer av cystoskopering. Alla uretrala ingrepp och manipulationer på kvinnor. Lokalbehandling av smärtsamma cystiter. Instillagel är avsett för vuxna och barn från och med 2 års ålder (se avsnitt 4.2 och 4.3).",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000097196",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "N01BB02"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Instillagel 20,9 mg/ml Gel"
+    }
+  ]
+}

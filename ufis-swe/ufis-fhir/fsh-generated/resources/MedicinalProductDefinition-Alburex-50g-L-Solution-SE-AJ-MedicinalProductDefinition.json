@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Alburex-50g-L-Solution-SE-AJ-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100000398-00050242"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "10836"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073870",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "solution for infusion"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Återställande och upprätthållande av cirkulerande blodvolym vid volymbrist och när användning av en kolloid är lämpligt. Val av albumin istället för en artificiell kolloid kan göras med hänsyn till patientens kliniska tillstånd och aktuella behandlingsrekommendationer.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000094427",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "B05AA01"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Alburex 50 g/l infusionsvätska, lösning"
+    }
+  ]
+}

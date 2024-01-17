@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Klexane100000IEinjektion-SE-PLC-MedicinalProductDef",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100004157-00056487"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "10833"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073863",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+        "display": "Solution for injection"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Klexane är avsett för vuxna patienter för:  Profylax till kirurgipatienter med måttlig eller hög risk för venös tromboembolism, särskilt till patienter som genomgår ortopedisk, allmän eller cancerkirurgi.  Profylax till patienter med ökad risk för venös tromboembolism och som är tillfälligt immobiliserade pga akut sjukdomstillstånd som t.ex. akut hjärtsvikt, andningsinsufficiens, allvarlig infektion eller reumatologiska sjukdomar.  Behandling av djup ventrombos (DVT) och lungemboli (LE) i de fall trombolytisk behandling eller kirurgi av lungemboli inte är aktuell.  Förlängd behandling av djup ventrombos (DVT) och lungemboli (LE) och profylax mot recidiverande DVT och LE hos patienter med aktiv cancer.  Trombosprofylax vid extrakorporeal cirkulation under hemodialys.  Akut kranskärlssjukdom:  Behandling av instabil angina och icke-Q-vågs-myokardinfarkt (NSTEMI) i kombination med oralt acetylsalicylsyra.  Behandling av akut hjärtinfarkt med ST-höjning (STEMI), inkluderat patienter som behandlas medicinskt eller med koronarangioplastik (PCI).",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000094266",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "B01AB05"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Klexane 100000 (1000 mg)/ml injektionsvätska, lösning"
+    }
+  ]
+}

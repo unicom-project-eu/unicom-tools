@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "InfluvacTetra-0.5ml-Suspension-SE-AJ-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100002180-00055200"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "1744"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000074063",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000007",
+        "display": "Suspension for injection in pre-filled syringe"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Influensaprofylax, speciellt för dem som löper ökad risk för influensarelaterade komplikationer. Influvac Tetra är indicerat för vuxna och barn från 6 månaders ålder. Användningen av Influvac Tetra ska bedömas på basis av officiella rekommendationer.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000096563",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "J07BB02"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Influvac Tetra Injektionsvätska, suspension, förfylld spruta"
+    }
+  ]
+}

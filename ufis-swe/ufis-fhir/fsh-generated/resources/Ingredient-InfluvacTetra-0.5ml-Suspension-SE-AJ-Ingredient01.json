@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "InfluvacTetra-0.5ml-Suspension-SE-AJ-Ingredient01",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/InfluvacTetra-0.5ml-Suspension-SE-AJ-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/InfluvacTetra-0.5ml-Suspension-SE-AJ-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/InfluvacTetra-0.5ml-Suspension-SE-AJ-AdministrableProductDef"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "300000036060",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "A/Cambodia/e0826360/2020 (H3N2)-like strain (A/Cambodia/e0826360/2020 IVR-224)"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "presentationRatio": {
+          "numerator": {
+            "value": 15,
+            "code": "100000110656",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "microgram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "200000002150",
+            "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "syringe"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "300000036060",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "A/Cambodia/e0826360/2020 (H3N2)-like strain (A/Cambodia/e0826360/2020 IVR-224)"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 15,
+                "code": "100000110656",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "microgram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "200000002150",
+                "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                "unit": "syringe"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

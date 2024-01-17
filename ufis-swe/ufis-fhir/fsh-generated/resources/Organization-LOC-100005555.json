@@ -1,0 +1,16 @@
+{
+  "resourceType": "Organization",
+  "id": "LOC-100005555",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLOrganization"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "https://spor.ema.europa.eu/v1/locations",
+      "value": "LOC-100005555"
+    }
+  ],
+  "name": "Perrigo Sverige AB"
+}

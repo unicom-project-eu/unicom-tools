@@ -1,0 +1,42 @@
+{
+  "resourceType": "AdministrableProductDefinition",
+  "id": "DepoMedrolcumLido-4010-SE-AJ-AdministrableProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLAdministrableProductDefinition"
+    ]
+  },
+  "status": "active",
+  "formOf": [
+    {
+      "reference": "MedicinalProductDefinition/DepoMedrolcumLido-4010-SE-AJ-MedicinalProductDefinition"
+    }
+  ],
+  "administrableDoseForm": {
+    "coding": [
+      {
+        "code": "100000073864",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Suspension for injection"
+      }
+    ]
+  },
+  "producedFrom": [
+    {
+      "reference": "ManufacturedItemDefinition/DepoMedrolcumLido-4010-SE-AJ-ManufacturedItemDefinition"
+    }
+  ],
+  "routeOfAdministration": [
+    {
+      "code": {
+        "coding": [
+          {
+            "code": "100000073623",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000073345",
+            "display": "Periarticular use"
+          }
+        ]
+      }
+    }
+  ]
+}

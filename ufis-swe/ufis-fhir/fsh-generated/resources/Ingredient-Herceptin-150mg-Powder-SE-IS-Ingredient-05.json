@@ -1,0 +1,61 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Herceptin-150mg-Powder-SE-IS-Ingredient-05",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Herceptin-150mg-Powder-SE-IS-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Herceptin-150mg-Powder-SE-IS-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Herceptin-150mg-Powder-SE-IS-AdministrableProductDefinition"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072082",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Excipient"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000078318",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Trehalose dihydrate"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "concentrationRatio": {
+          "numerator": {
+            "value": 0,
+            "code": "100000110655",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 0,
+            "code": "100000110756",
+            "system": "http://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "unit(s)"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "resourceType": "Ingredient",
+  "id": "DiklofenakOrifarm25Enterotablett-SE-PLC-Ingredient",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/DiklofenakOrifarm25Enterotablett-SE-PLC-MedProdDef"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/DiklofenakOrifarm25Enterotablett-SE-PLC-ManItemDef"
+    },
+    {
+      "reference": "AdministrableProductDefinition/DiklofenakOrifarm25Enterotablett-SE-PLC-AdminProdDef"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000092272",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "Diclofenac sodium"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "presentationRatio": {
+          "numerator": {
+            "value": 25,
+            "code": "100000110655",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "200000002152",
+            "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "tablet"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000092798",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "diclofenac"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 20.7,
+                "code": "100000110655",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)"
+              },
+              "denominator": {
+                "value": 1,
+                "code": "200000002152",
+                "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                "unit": "tablet"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

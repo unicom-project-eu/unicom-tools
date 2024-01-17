@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "CiklosporinIVAX25mgkapselmjuk-SE-PLC-MedicinalProductDef",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100001594-00019567"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "745"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073660",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+        "display": "Capsule, soft"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Transplantationsindikationer Organtransplantation För prevention av transplantatavstötning efter organtransplantation. Behandling av cellmedierad transplantatavstötning hos patienter, som tidigare fått annan immunsuppressiv behandling.   Benmärgstransplantation För prevention av transplantatavstötning efter allogen benmärgs- och stamcellstransplantation. Profylax eller behandling av graft-versus-host disease (GVHD).   Andra indikationer än vid transplantation Endogen uveit  Behandling av synhotande, intermediär eller posterior uveit av icke-infektiöst ursprung hos patienter där konventionell behandling sviktat eller orsakat oacceptabla biverkningar.   Behandling av Behçets uveit med upprepade inflammationer som drabbar retina hos patienter utan neurologiska manifestationer.   Nefrotiskt syndrom  Steroidberoende eller steroidresistent nefrotiskt syndrom orsakat av primär glomerulär sjukdom som “minimalchange” nefropati, , fokal och segmentel glomeruloskleros, eller membranös glomerulonefrit.  Ciklosporin Ivax kan användas för att inducera och upprätthålla remission. Det kan också användas för att upprätthålla steroidinducerad remission och möjliggöra utsättning av steroidbehandling.   Psoriasis  Behandling av svår psoriasis, hos patienter där konventionell behandling är olämplig eller ineffektiv.   Atopisk dermatit  Ciklosporin Ivax är indicerat för patienter med svår atopisk dermatit när systemisk behandling krävs.   Reumatoid artrit  Behandling av svår, aktiv reumatoid artrit.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000096879",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "L04AD01"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Ciklosporin IVAX 25 mg kapsel, mjuk"
+    }
+  ]
+}

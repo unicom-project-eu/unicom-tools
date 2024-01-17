@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Fragmin-2500IE-Solution-SE-IS-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100001390-00010755"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "922"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000074047",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000007",
+        "display": "Solution for injection in pre-filled syringe"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Behandling av akut djup ventrombos och lungemboli när trombolytisk behandling eller  kirurgi inte är aktuell. Trombosprofylax-antikoagulation vid extrakorporeal cirkulation under hemodialys och  hemofiltration. Trombosprofylax vid kirurgi. Profylax till patienter med kraftigt ökad risk för venös tromboembolism och som är tillfälligt  immobiliserade pga akut sjukdomstillstånd som t ex hjärtinsufficiens, andningsinsufficiens,  allvarlig infektion. Instabil kranskärlssjukdom (instabil angina och icke Q-vågsinfarkt).  Cancerpatienter: Behandling och sekundärprevention av djup ventrombos och lungemboli.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000093533",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000116677",
+          "display": "B01AB04"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Fragmin® 2500 IE Injektionsvätska, lösning i förfylld spruta"
+    }
+  ]
+}

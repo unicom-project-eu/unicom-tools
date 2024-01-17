@@ -1,0 +1,62 @@
+{
+  "resourceType": "PackagedProductDefinition",
+  "id": "Glytrin04mgdossublingualspray-SE-PLC-PackageProductDef",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLPackagedProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/example/pcid"
+    }
+  ],
+  "packaging": {
+    "type": {
+      "coding": [
+        {
+          "system": "https://spor.ema.europa.eu/v1/lists/100000073346",
+          "code": "100000073498",
+          "display": "Box"
+        }
+      ]
+    },
+    "quantity": 1
+  },
+  "containedItemQuantity": [
+    {
+      "value": 1,
+      "code": "200000022801",
+      "system": "http://spor.ema.europa.eu/v1/lists/200000000014",
+      "unit": "Canister"
+    }
+  ],
+  "packageFor": [
+    {
+      "reference": "MedicinalProductDefinition/Glytrin04mgdossublingualspray-SE-PLC-MedicinalProductDef"
+    }
+  ],
+  "description": "Spraybehållare, 200 doser",
+  "marketingStatus": [
+    {
+      "country": {
+        "coding": [
+          {
+            "code": "100000000535",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+            "display": "Sweden"
+          }
+        ]
+      },
+      "status": {
+        "coding": [
+          {
+            "code": "100000072083",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000072052",
+            "display": "Marketed"
+          }
+        ]
+      }
+    }
+  ]
+}

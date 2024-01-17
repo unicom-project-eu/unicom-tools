@@ -1,0 +1,144 @@
+{
+  "resourceType": "Ingredient",
+  "id": "Elvanse-50mg-Capsule-SE-AJ-Ingredient",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLIngredient"
+    ]
+  },
+  "status": "active",
+  "for": [
+    {
+      "reference": "MedicinalProductDefinition/Elvanse-50mg-Capsule-SE-AJ-MedicinalProductDefinition"
+    },
+    {
+      "reference": "ManufacturedItemDefinition/Elvanse-50mg-Capsule-SE-AJ-ManufacturedItemDefinition"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Elvanse-50mg-Capsule-SE-AJ-AdministrableProductDefinition01"
+    },
+    {
+      "reference": "AdministrableProductDefinition/Elvanse-50mg-Capsule-SE-AJ-AdministrableProductDefinition02"
+    }
+  ],
+  "role": {
+    "coding": [
+      {
+        "code": "100000072072",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072050",
+        "display": "Active"
+      }
+    ]
+  },
+  "substance": {
+    "code": {
+      "concept": {
+        "coding": [
+          {
+            "code": "100000124520",
+            "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+            "display": "lisdexamfetamine dimesylate"
+          }
+        ]
+      }
+    },
+    "strength": [
+      {
+        "presentationRatio": {
+          "numerator": {
+            "value": 50,
+            "code": "100000110655",
+            "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+            "unit": "milligram(s)"
+          },
+          "denominator": {
+            "value": 1,
+            "code": "200000002113",
+            "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+            "unit": "Capsule"
+          }
+        },
+        "referenceStrength": [
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000124476",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "lisdexamfetamine"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 28.83,
+                "code": "100000110655",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)",
+                "_comparator": {
+                  "extension": [
+                    {
+                      "url": "http://ema.europa.eu/fhir/extension/comparator",
+                      "valueCoding": {
+                        "code": "100000000049",
+                        "system": "https://spor.ema.europa.eu/v1/lists/100000000008",
+                        "display": "equal to"
+                      }
+                    }
+                  ]
+                }
+              },
+              "denominator": {
+                "value": 1,
+                "code": "200000002113",
+                "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                "unit": "Capsule"
+              }
+            }
+          },
+          {
+            "substance": {
+              "concept": {
+                "coding": [
+                  {
+                    "code": "100000088421",
+                    "system": "https://spor.azure-api.net/sms/api/v2/SubstanceDefinition",
+                    "display": "dexamfetamine"
+                  }
+                ]
+              }
+            },
+            "strengthRatio": {
+              "numerator": {
+                "value": 14.8,
+                "code": "100000110655",
+                "system": "https://spor.ema.europa.eu/v1/lists/100000110633",
+                "unit": "milligram(s)",
+                "_comparator": {
+                  "extension": [
+                    {
+                      "url": "http://ema.europa.eu/fhir/extension/comparator",
+                      "valueCoding": {
+                        "code": "100000000049",
+                        "system": "https://spor.ema.europa.eu/v1/lists/100000000008",
+                        "display": "equal to"
+                      }
+                    }
+                  ]
+                }
+              },
+              "denominator": {
+                "value": 1,
+                "code": "200000002113",
+                "system": "https://spor.ema.europa.eu/v1/lists/200000000014",
+                "unit": "Capsule"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

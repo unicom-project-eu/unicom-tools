@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "DicTratiopharma50mgFilmtablet-SE-PLC-MedicinalProductDef",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100001437-00016703"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "1048"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073665",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+        "display": "Film-coated tablet"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Diclofenac T ratiopharm 50 mg fildragerad tablett är indicerad för symtomatisk korttidsbehandling av följande akuta tillstånd: Reumatiska tillstånd i mjukdelsvävnad, posttraumatisk och postoperativ inflammation och smärta, även inom odontologin, primär dysmenorré. Akut behandling av migrän med eller utan aura.  Diclofenac T ratiopharm tabletter är ej indicerade för barn under 16 år på grund av mängden diklofenak i varje tablett.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000096906",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "M01AB05"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Diclofenac T ratiopharm 50 mg fildragerad tablett"
+    }
+  ]
+}

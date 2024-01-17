@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "Zeldox20mgmlpulvervatskainjek-SE-PLC-MedicinalProductDef",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100023206-00015002"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "3146"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073868",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+        "display": "Powder and solvent for solution for injection"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Ziprasidon injektionsvätska, lösning är indicerat för snabb kontroll av agiterade patienter med schizofreni, när peroral terapi inte är lämpligt, under maximalt tre på varandra följande dagar.   Behandling med ziprasidon injektionsvätska, lösning bör upphöra och peroralt ziprasidon initieras så snart det är kliniskt lämpligt.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000097488",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "N05AE04"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Zeldox 20 mg/ml pulver och vätska till injektionsvätska, lösning"
+    }
+  ]
+}

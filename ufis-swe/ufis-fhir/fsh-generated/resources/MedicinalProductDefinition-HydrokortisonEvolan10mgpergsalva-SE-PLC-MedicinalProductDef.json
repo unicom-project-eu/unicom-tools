@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "HydrokortisonEvolan10mgpergsalva-SE-PLC-MedicinalProductDef",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100002766-00011277"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "10856"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073713",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004~200000000006~200000000007~200000000008",
+        "display": "Ointment"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Hydrokortison Evolan 10 mg per g salva indicerat för akuta och kroniska eksem av varierande genes. Anogenital pruritus.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "200000002239",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription exempt for some pack sizes"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000095413",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "D07AA02"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Hydrokortison Evolan 10 mg/g salva"
+    }
+  ]
+}

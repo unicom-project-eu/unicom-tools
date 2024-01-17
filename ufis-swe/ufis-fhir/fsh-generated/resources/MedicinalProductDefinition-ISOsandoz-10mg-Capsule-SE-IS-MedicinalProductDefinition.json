@@ -1,0 +1,81 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "ISOsandoz-10mg-Capsule-SE-IS-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100000848-00058873"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "10488"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000073660",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000004",
+        "display": "Capsule, soft"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "Human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "Svåra former av akne (till exempel nodulär eller konglobat akne eller akne med risk för permanent  ärrbildning) som inte kontrolleras med adekvat standardbehandling med systemiska antibakteriella  läkemedel och lokalbehandling.",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "additionalMonitoringIndicator": {
+    "coding": [
+      {
+        "code": "200000003918",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000003554",
+        "display": "The medicinal product is included or removed from the list of medicinal products that are subject to additional monitoring (as applicable)."
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000093533",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000116677",
+          "display": "D10BA01"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "Isotretinoin Sandoz 10 mg Kapsel, mjuk"
+    }
+  ]
+}

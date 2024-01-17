@@ -1,0 +1,72 @@
+{
+  "resourceType": "MedicinalProductDefinition",
+  "id": "VaxigripTetra-0.5ml-Suspension-SE-AJ-MedicinalProductDefinition",
+  "meta": {
+    "profile": [
+      "http://unicom-project.eu/fhir/StructureDefinition/PPLMedicinalProductDefinition"
+    ]
+  },
+  "identifier": [
+    {
+      "system": "http://ema.europa.eu/fhir/mpId",
+      "value": "SE-100005958-00053400"
+    },
+    {
+      "system": "http://ema.europa.eu/fhir/eurdId",
+      "value": "10298"
+    }
+  ],
+  "combinedPharmaceuticalDoseForm": {
+    "coding": [
+      {
+        "code": "100000074063",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000000007",
+        "display": "Suspension for injection in pre-filled syringe"
+      }
+    ]
+  },
+  "domain": {
+    "coding": [
+      {
+        "code": "100000000012",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000000004",
+        "display": "human use"
+      }
+    ]
+  },
+  "status": {
+    "coding": [
+      {
+        "code": "200000005004",
+        "system": "https://spor.ema.europa.eu/v1/lists/200000005003",
+        "display": "Current"
+      }
+    ]
+  },
+  "indication": "VaxigripTetra är avsett för att förebygga influensa orsakad av de två subtyper av influensa A virus och  två typer av influensa B virus som finns i vaccinet för: - aktiv immunisering av vuxna, inklusive gravida kvinnor, och barn från 6 månader och uppåt - passivt skydd av nyfödda och spädbarn under 6 månader efter vaccinering av gravida kvinnor (se  avsnitt 4.4, 4.6 och 5.1) Användning av VaxigripTetra ska bedömas på basis av officiella rekommendationer. ",
+  "legalStatusOfSupply": {
+    "coding": [
+      {
+        "code": "100000072084",
+        "system": "https://spor.ema.europa.eu/v1/lists/100000072051",
+        "display": "Medicinal product subject to medical prescription"
+      }
+    ]
+  },
+  "classification": [
+    {
+      "coding": [
+        {
+          "code": "100000096563",
+          "system": "https://spor.ema.europa.eu/v1/lists/100000093533",
+          "display": "J07BB02"
+        }
+      ]
+    }
+  ],
+  "name": [
+    {
+      "productName": "VaxigripTetra Injektionsvätska, suspension, förfylld spruta"
+    }
+  ]
+}
