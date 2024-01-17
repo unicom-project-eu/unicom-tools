@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
 * classification = $100000093533#100000097305 "N02BE01"
 * name.productName = "Alvedon 250 mg Munsönderfallande tablett"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

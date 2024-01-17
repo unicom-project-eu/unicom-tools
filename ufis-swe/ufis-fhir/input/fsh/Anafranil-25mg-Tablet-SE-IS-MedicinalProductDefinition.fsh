@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 * classification = $100000116677#100000093533 "N06AA04"
 * name.productName = "Anafranil® 25 mg Dragerad tablett"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072085 "Medicinal product subject to special medical prescription"
 * classification = $100000093533#100000097250 "N02AE01"
 * name.productName = "Buprenorphine STADA 20 mikrogram/timme depotplåster"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

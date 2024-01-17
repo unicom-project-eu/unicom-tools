@@ -13,3 +13,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * classification = $100000116677#100000093533 "N02AJ06"
 * name.productName = "Paracetamol/Kodein Evolan 500 mg/30 mg Tablett"
 * characteristic.type = $200000003186#200000003187 "combined therapeutic medicine / device"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

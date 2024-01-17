@@ -22,6 +22,32 @@
             "value": "1552"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Nitroglycerin Abcur, infusionsvätska, lösning 1 mg/ml"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -68,11 +94,6 @@
                 "display": "C01DA02"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Nitroglycerin Abcur, infusionsvätska, lösning 1 mg/ml"
           }
         ]
       }

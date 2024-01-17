@@ -22,6 +22,32 @@
             "value": "3010"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Herceptin®"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -86,11 +112,6 @@
                 "display": "Concerned Member State"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Herceptin®"
           }
         ]
       }

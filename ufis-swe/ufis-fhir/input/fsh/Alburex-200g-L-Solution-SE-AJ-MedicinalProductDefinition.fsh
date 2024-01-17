@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 * classification = $100000093533#100000094427 "B05AA01"
 * name.productName = "Alburex 200 g/l Infusionsvätska, lösning"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

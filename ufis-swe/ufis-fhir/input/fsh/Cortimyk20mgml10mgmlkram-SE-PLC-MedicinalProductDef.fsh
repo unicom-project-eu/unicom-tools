@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to medical prescription exempt for some pack sizes"
 * classification = $100000093533#100000095248 "D01AC20"
 * name.productName = "Cortimyk 20 mg/g + 10 mg/g kräm"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

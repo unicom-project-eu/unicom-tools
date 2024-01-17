@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 * classification = $100000093533#100000094611 "C01DA02"
 * name.productName = "Nitroglycerin Abcur, infusionsvätska, lösning 1 mg/ml"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

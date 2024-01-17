@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 * classification = $100000093533#100000098543 "S01FA56"
 * name.productName = "Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml Injektionsvätska, lösning"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

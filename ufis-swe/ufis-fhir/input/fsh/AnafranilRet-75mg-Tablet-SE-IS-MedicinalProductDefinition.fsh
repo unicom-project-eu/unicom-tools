@@ -14,3 +14,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * name.productName = "Anafranil® Retard 75 mg Depottablett"
 * characteristic.type = $200000000010#200000002078 "Prolonged"
 * characteristic.type.text = "Depottablett"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

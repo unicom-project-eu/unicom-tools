@@ -22,6 +22,32 @@
             "value": "2001"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Metformin Aristo 1000 mg filmdragerad tablett"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -68,11 +94,6 @@
                 "display": "A10BA02"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Metformin Aristo 1000 mg filmdragerad tablett"
           }
         ]
       }

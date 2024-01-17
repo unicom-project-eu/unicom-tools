@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
 * classification = $100000093533#100000094927 "C05AA01"
 * name.productName = "Xyloproct Rektalsalva"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

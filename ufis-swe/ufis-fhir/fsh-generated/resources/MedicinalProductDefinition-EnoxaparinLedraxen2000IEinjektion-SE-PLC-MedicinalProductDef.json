@@ -16,6 +16,32 @@
       "value": "10833"
     }
   ],
+  "name": [
+    {
+      "usage": [
+        {
+          "country": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          },
+          "language": {
+            "coding": [
+              {
+                "code": "sv",
+                "system": "urn:ietf:bcp:47",
+                "display": "Swedish"
+              }
+            ]
+          }
+        }
+      ],
+      "productName": "Enoxaparin Ledraxen 2000 IE (20 mg)/0,2 ml injektionsvätska, lösning i förfylld spruta"
+    }
+  ],
   "combinedPharmaceuticalDoseForm": {
     "coding": [
       {
@@ -62,11 +88,6 @@
           "display": "B01AB05"
         }
       ]
-    }
-  ],
-  "name": [
-    {
-      "productName": "Enoxaparin Ledraxen 2000 IE (20 mg)/0,2 ml injektionsvätska, lösning i förfylld spruta"
     }
   ]
 }

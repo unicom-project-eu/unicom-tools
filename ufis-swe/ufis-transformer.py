@@ -313,6 +313,7 @@ for file in listdir(FOLDER):
                 "https://hl7.org/fhir/publication-status",
                 "http://hl7.org/fhir/publication-status",
             )
+            contents += '\n* name.usage.country.coding.display = "Sweden"\n* name.usage.language = urn:ietf:bcp:47#sv "Swedish"\n'
 
         ####### INGREDIENT ############################################################################################################
         if "InstanceOf: Ingredient" in contents:

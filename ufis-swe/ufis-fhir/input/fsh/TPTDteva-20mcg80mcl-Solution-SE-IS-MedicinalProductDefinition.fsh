@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 * classification = $100000116677#100000093533 "H05AA02"
 * name.productName = "Teriparatide Teva 20 mikrogram/80 mikroliter Injektionsvätska, lösning i förf. injektionspenna"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

@@ -22,6 +22,32 @@
             "value": "811"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Anafranil® 12,5 mg/ml Injektionsvätska, lösning"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -68,11 +94,6 @@
                 "display": "N06AA04"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Anafranil® 12,5 mg/ml Injektionsvätska, lösning"
           }
         ]
       }

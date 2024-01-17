@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal preoduct subject to medical prescription"
 * classification = $100000093533#100000097207 "N01BB52"
 * name.productName = "Xylocain Dental Adrenalin 20 mg/ml + 12,5 mikrogram/ml Injektionsvätska, lösning"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

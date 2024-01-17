@@ -129,23 +129,3 @@ PackagedProductDefinition-j20170630100020.json
     "diagnostics": "HAPI-0505: Invalid resource reference found at path[PackagedProductDefinition.packageFor] - Does not contain resource type - 7f81d47e-9a74-44b3-8ed7-07990093d878"
   } ]
 }
-PackagedProductDefinition
-PackagedProductDefinition-IMAsandoz-400mg-Tablet-SE-IS-PackagedProductDefinition.json
-{
-  "resourceType": "OperationOutcome",
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0931: Invalid reference found at path 'PackagedProductDefinition.packageFor'. Resource type 'MedicinalProductDefinitionn' is not valid for this path"
-  } ]
-}
-PackagedProductDefinition
-PackagedProductDefinition-IMAkoanaa-100mg-Tablet-SE-IS-PackagedProductDefinition.json
-{
-  "resourceType": "OperationOutcome",
-  "issue": [ {
-    "severity": "error",
-    "code": "processing",
-    "diagnostics": "HAPI-0931: Invalid reference found at path 'PackagedProductDefinition.packageFor'. Resource type 'AdministrableProductDefinition' is not valid for this path"
-  } ]
-}

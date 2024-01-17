@@ -22,6 +22,32 @@
             "value": "2052"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Cortimyk 20 mg/g + 10 mg/g kräm"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -68,11 +94,6 @@
                 "display": "D01AC20"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Cortimyk 20 mg/g + 10 mg/g kräm"
           }
         ]
       }

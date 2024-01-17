@@ -22,6 +22,32 @@
             "value": "174"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Amlodipine Vitabalans 5 mg Tablett"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -68,11 +94,6 @@
                 "display": "C08CA01"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Amlodipine Vitabalans 5 mg Tablett"
           }
         ]
       }

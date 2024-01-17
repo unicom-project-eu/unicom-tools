@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
 * classification = $100000093533#100000098045 "R02AA20"
 * name.productName = "Triolif Honung & Citron Sugtablett"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

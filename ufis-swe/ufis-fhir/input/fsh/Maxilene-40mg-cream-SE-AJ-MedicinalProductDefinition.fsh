@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to prescription exempt for some pack sizes"
 * classification = $100000093533#100000095332 "D04AB01"
 * name.productName = "Maxilene 40 mg/g Kräm"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

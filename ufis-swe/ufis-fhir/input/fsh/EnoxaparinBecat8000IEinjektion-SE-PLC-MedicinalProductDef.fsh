@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 * classification = $100000093533#100000094266 "B01AB05"
 * name.productName = "Enoxaparin Becat 8000 IE (80 mg)/0,8 ml injektionsvätska, lösning i förfylld spruta"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

@@ -22,6 +22,32 @@
             "value": "2085"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Mometason Teva 50 mikrogram/dos Nässpray, suspension"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -68,11 +94,6 @@
                 "display": "R01AD09"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Mometason Teva 50 mikrogram/dos Nässpray, suspension"
           }
         ]
       }

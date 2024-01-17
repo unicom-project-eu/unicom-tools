@@ -16,6 +16,32 @@
       "value": "10855"
     }
   ],
+  "name": [
+    {
+      "usage": [
+        {
+          "country": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          },
+          "language": {
+            "coding": [
+              {
+                "code": "sv",
+                "system": "urn:ietf:bcp:47",
+                "display": "Swedish"
+              }
+            ]
+          }
+        }
+      ],
+      "productName": "Solu-Cortef 100 mg pulver och vätska till injektionsvätska, lösning"
+    }
+  ],
   "combinedPharmaceuticalDoseForm": {
     "coding": [
       {
@@ -62,11 +88,6 @@
           "display": "H02AB09"
         }
       ]
-    }
-  ],
-  "name": [
-    {
-      "productName": "Solu-Cortef 100 mg pulver och vätska till injektionsvätska, lösning"
     }
   ]
 }

@@ -16,6 +16,32 @@
       "value": "2289"
     }
   ],
+  "name": [
+    {
+      "usage": [
+        {
+          "country": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          },
+          "language": {
+            "coding": [
+              {
+                "code": "sv",
+                "system": "urn:ietf:bcp:47",
+                "display": "Swedish"
+              }
+            ]
+          }
+        }
+      ],
+      "productName": "Alvedon 500 mg Brustablett"
+    }
+  ],
   "combinedPharmaceuticalDoseForm": {
     "coding": [
       {
@@ -62,11 +88,6 @@
           "display": "N02BE01"
         }
       ]
-    }
-  ],
-  "name": [
-    {
-      "productName": "Alvedon 500 mg Brustablett"
     }
   ]
 }

@@ -13,3 +13,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * additionalMonitoringIndicator = $200000003554#200000003918 "The medicinal product is included or removed from the list of medicinal products that are subject to additional monitoring (as applicable)."
 * classification = $100000116677#100000093533 "D10BA01"
 * name.productName = "Isotretinoin Orifarm 20 mg Kapsel, mjuk"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

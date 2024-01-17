@@ -16,6 +16,32 @@
       "value": "2289"
     }
   ],
+  "name": [
+    {
+      "usage": [
+        {
+          "country": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          },
+          "language": {
+            "coding": [
+              {
+                "code": "sv",
+                "system": "urn:ietf:bcp:47",
+                "display": "Swedish"
+              }
+            ]
+          }
+        }
+      ],
+      "productName": "Pinex Jordgubb 250 mg Granulat i dospåse"
+    }
+  ],
   "combinedPharmaceuticalDoseForm": {
     "coding": [
       {
@@ -62,11 +88,6 @@
           "display": "N02BE01"
         }
       ]
-    }
-  ],
-  "name": [
-    {
-      "productName": "Pinex Jordgubb 250 mg Granulat i dospåse"
     }
   ]
 }

@@ -14,3 +14,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * classification[+] = $100000154442#100000155059 "Centralised procedure"
 * classification[+] = $100000160962#100000160967 "Concerned Member State"
 * name.productName = "Herceptin®"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

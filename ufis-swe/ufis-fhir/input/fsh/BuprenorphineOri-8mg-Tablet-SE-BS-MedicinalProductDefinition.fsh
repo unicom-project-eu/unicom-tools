@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072085 "Medicinal product subject to special medical prescription"
 * classification = $100000093533#100000097495 "N07BC01"
 * name.productName = "Buprenorphine Orifarm 8 mg resoriblett, sublingual"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

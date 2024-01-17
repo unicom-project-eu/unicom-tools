@@ -23,6 +23,32 @@
             "value": "10836"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Alburex 50 g/l infusionsvätska, lösning"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -69,11 +95,6 @@
                 "display": "B05AA01"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Alburex 50 g/l infusionsvätska, lösning"
           }
         ]
       }

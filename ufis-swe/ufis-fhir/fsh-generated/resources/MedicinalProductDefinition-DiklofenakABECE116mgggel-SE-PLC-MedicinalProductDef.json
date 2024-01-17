@@ -16,6 +16,32 @@
       "value": "10342"
     }
   ],
+  "name": [
+    {
+      "usage": [
+        {
+          "country": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          },
+          "language": {
+            "coding": [
+              {
+                "code": "sv",
+                "system": "urn:ietf:bcp:47",
+                "display": "Swedish"
+              }
+            ]
+          }
+        }
+      ],
+      "productName": "Diklofenak ABECE 11,6 mg/g gel"
+    }
+  ],
   "combinedPharmaceuticalDoseForm": {
     "coding": [
       {
@@ -62,11 +88,6 @@
           "display": "M02AA15"
         }
       ]
-    }
-  ],
-  "name": [
-    {
-      "productName": "Diklofenak ABECE 11,6 mg/g gel"
     }
   ]
 }

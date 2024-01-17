@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to prescription"
 * classification = $100000093533#100000097205 "N01BB20"
 * name.productName = "Lidokain/Prilokain Alternova 25 mg/g + 25 mg/g Kräm"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

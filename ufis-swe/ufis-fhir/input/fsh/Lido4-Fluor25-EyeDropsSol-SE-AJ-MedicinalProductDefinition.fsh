@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072084 "Medicinal product subject to medical prescription"
 * classification = $100000093533#100000098587 "S01JA51"
 * name.productName = "Lidokain-Fluorescein Bausch & Lomb 4% + 0,25% Ögondroppar, lösning i endosbehållare"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072085 "Medicinal product subject to special medical prescription"
 * classification = $100000116677#100000097495 "N07BC01"
 * name.productName = "Espranor 2 mg frystorkad tablett"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

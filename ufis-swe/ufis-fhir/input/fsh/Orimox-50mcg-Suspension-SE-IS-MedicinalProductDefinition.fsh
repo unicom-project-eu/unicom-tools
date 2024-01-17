@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
 * classification = $100000116677#100000093533 "R01AD09"
 * name.productName = "Orimox 50 mikrogram/dos Nässpray, suspension"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

@@ -22,6 +22,32 @@
             "value": "615"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Cefuroxim Stragen 1,5 g Pulver till injektions-/infusionsvätska, lösning"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -68,11 +94,6 @@
                 "display": "J01DC02"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Cefuroxim Stragen 1,5 g Pulver till injektions-/infusionsvätska, lösning"
           }
         ]
       }

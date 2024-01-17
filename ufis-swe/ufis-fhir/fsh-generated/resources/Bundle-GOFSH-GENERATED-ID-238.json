@@ -22,6 +22,32 @@
             "value": "1233"
           }
         ],
+        "name": [
+          {
+            "usage": [
+              {
+                "country": {
+                  "coding": [
+                    {
+                      "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                      "display": "Sweden"
+                    }
+                  ]
+                },
+                "language": {
+                  "coding": [
+                    {
+                      "code": "sv",
+                      "system": "urn:ietf:bcp:47",
+                      "display": "Swedish"
+                    }
+                  ]
+                }
+              }
+            ],
+            "productName": "Xylocain Dental Adrenalin 20 mg/ml + 12,5 mikrogram/ml Injektionsvätska, lösning"
+          }
+        ],
         "combinedPharmaceuticalDoseForm": {
           "coding": [
             {
@@ -68,11 +94,6 @@
                 "display": "N01BB52"
               }
             ]
-          }
-        ],
-        "name": [
-          {
-            "productName": "Xylocain Dental Adrenalin 20 mg/ml + 12,5 mikrogram/ml Injektionsvätska, lösning"
           }
         ]
       }

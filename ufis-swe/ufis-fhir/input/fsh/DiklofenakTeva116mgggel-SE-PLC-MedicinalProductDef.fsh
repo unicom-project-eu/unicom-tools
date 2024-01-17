@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#100000072076 "Medicinal product not subject to medical prescription"
 * classification = $100000093533#100000097012 "M02AA15"
 * name.productName = "Diklofenak Teva 11,6 mg/g gel"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

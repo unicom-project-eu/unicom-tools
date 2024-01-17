@@ -16,6 +16,32 @@
       "value": "1879"
     }
   ],
+  "name": [
+    {
+      "usage": [
+        {
+          "country": {
+            "coding": [
+              {
+                "system": "https://spor.ema.europa.eu/v1/lists/100000000002",
+                "display": "Sweden"
+              }
+            ]
+          },
+          "language": {
+            "coding": [
+              {
+                "code": "sv",
+                "system": "urn:ietf:bcp:47",
+                "display": "Swedish"
+              }
+            ]
+          }
+        }
+      ],
+      "productName": "Depo-Medrol cum lidocain 40 mg/ml+10 mg/ml Injektionsvätska, suspension"
+    }
+  ],
   "combinedPharmaceuticalDoseForm": {
     "coding": [
       {
@@ -62,11 +88,6 @@
           "display": "H02AB04"
         }
       ]
-    }
-  ],
-  "name": [
-    {
-      "productName": "Depo-Medrol cum lidocain 40 mg/ml+10 mg/ml Injektionsvätska, suspension"
     }
   ]
 }

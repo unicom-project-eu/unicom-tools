@@ -12,3 +12,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * legalStatusOfSupply = $100000072051#200000002239 "Medicinal product subject to medical prescription exempt for somepack sizes"
 * classification = $100000116677#100000093631 "A02BC01"
 * name.productName = "Losec 10 mg Gastro-resistent tablet"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"

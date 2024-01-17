@@ -16,3 +16,5 @@ InstanceOf: PPLMedicinalProductDefinition
 * classification[=].coding[+] = $100000160962#200000027126 "PRAC Co-Rapporteur"
 * name.productName = "ABASAGLAR 100 enheter/ml Injektionsvätska, lösning i cylinderampull"
 * characteristic.type = $100000155526#100000155530 "Biological Medicinal Product"
+* name.usage.country.coding.display = "Sweden"
+* name.usage.language = urn:ietf:bcp:47#sv "Swedish"
