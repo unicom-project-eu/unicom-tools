@@ -6,13 +6,13 @@ URL_BASE = "http://fhir.hl7.pt:8787/fhir/"
 
 RESOURCES_TO_DELETE = [
     "Composition",
-    "ClinicalUseDefinition",
-    "Ingredient",
-    "PackagedProductDefinition",
-    "AdministrableProductDefinition",
-    "RegulatedAuthorization",
-    "ManufacturedItemDefinition",
-    "Organization",
+   # "ClinicalUseDefinition",
+   # "Ingredient",
+   # "PackagedProductDefinition",
+   # "AdministrableProductDefinition",
+   # "RegulatedAuthorization",
+   # "ManufacturedItemDefinition",
+   # "Organization",
     "MedicinalProductDefinition",
 ]
 h = {"Cache-Control": "no-cache", "Pragma": "no-cache"}

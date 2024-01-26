@@ -1,37 +1,28 @@
-from os import listdir, mkdir
+from os import listdir, mkdir, remove
 import hashlib
 import re
 import shutil
 
 
-org_file = "./ufis-fhir/input/fsh/Organization.fsh"
+org_file = "../../ufis-swe-ig/input/fsh/Organization.fsh"
+target_folder = "../../ufis-swe-ig/input/fsh/"
+FOLDER = "./gofsh/input/fsh/instances"
+##TODO
+shutil.rmtree(target_folder)
+mkdir(target_folder)
+# clean the target folder
 f = open(org_file, "w")
 f.truncate()
 f.close()
 
 list_of_locs = []
 
-blacklist_ids = [
-    "JMJ-Co-amoxiclav-product-example",
-    "JMJ-Humalog-Kwikpen-product-example",
-    "JMJ-Humalog-Mix50-Kwikpen-product-example",
-    "JMJ-Monuril-product-example",
-    "d37bfa6f-ea90-4645-8be4-e7c649dd64f2",
-    "bb8c2306-04c5-42df-94c9-aa6d6e68050b",  # PT
-    "7f81d47e-9a74-44b3-8ed7-07990093d878",
-]
 
-target_folder = "./ufis-fhir/input/fsh/"
-shutil.rmtree(target_folder)
-mkdir(target_folder)
 # FOLDER = "ee-PPLCreator-v2/fhir-data/fsh-generated/resources"
-FOLDER = "./ufis-fsh/input/fsh/instances"
-##TODO
-# clean the target folder
 
 
 def create_org(regauth):
-    print(regauth)
+    # print(regauth)
     instance_value = re.search(r"Instance:\s*(\S+)", regauth)
     if instance_value:
         value = instance_value.group(1)
@@ -81,7 +72,7 @@ Description: "Marketing Authorisation Holder / Organisation"
 
 
 for file in listdir(FOLDER):
-    # print(file)
+    print(file)
     res = file.split("-")[-1].split(".")[0]
     # print(res)
 
@@ -139,7 +130,22 @@ for file in listdir(FOLDER):
         contents = contents.replace("$100000073345_1", "$100000073345")
         contents = contents.replace("$atc_1", "$atc")
         contents = contents.replace("$SubstanceDefinition_1", "$SubstanceDefinition")
-
+        contents = contents.replace("-AdministrableProductDefinition", "-APD")
+        contents = contents.replace("-ManufacturedItemDefinition", "-MID")
+        contents = contents.replace("-PackagedProductDefinition", "-PPD")
+        contents = contents.replace("-MedicinalProductDefinition", "-MPD")
+        contents = contents.replace("-Ingredient", "-ING")
+        contents = contents.replace("-AdministrableProductDef", "-APD")
+        contents = contents.replace("-ManufacturedItemDef", "-MID")
+        contents = contents.replace("-PackagedProductDef", "-PPD")
+        contents = contents.replace("-PackageProductDef", "-PPD")
+        contents = contents.replace("-MedicinalProductDef", "-MPD")
+        contents = contents.replace("-RegulatedAuthorization", "-RA")
+        contents = contents.replace(
+            '$100000000002#100000000535 "Sweden"',
+            '$100000000002#100000000535 "Kingdom of Sweden"',
+        )
+        # contents = contents.replace()
         contents = contents.replace("[0].", "[+].")
 
         if '.coding.code = "' in contents:  ###gofsh error?
@@ -332,6 +338,12 @@ for file in listdir(FOLDER):
 * substance.strength.presentationRatio.numerator.comparator.extension.valueCoding = $100000000008#100000000049 "equal to"\n""",
                 "",
             )
+            contents = contents.replace(
+                """* substance.strength.referenceStrength[=].strengthRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"
+* substance.strength.referenceStrength[=].strengthRatio.numerator.comparator.extension.valueCoding = $100000000008#100000000049 "equal to"\n""",
+                "",
+            )
+
             contents = contents.replace(
                 """* substance.strength.referenceStrength.strengthRatio.numerator.comparator.extension.url = "http://ema.europa.eu/fhir/extension/comparator"\n""",
                 "",
@@ -612,23 +624,27 @@ for file in listdir(FOLDER):
                 "",
             )
             contents = re.sub(r"\* entry\[=\].request.url = \"(.+)\"", "", contents)
+        # print(target_folder + file)
+        f = open(target_folder + file, "w")
+        f.write(contents)
+        f.close()
 
-            # contents = re.sub(
-            #     r"\* packaging.shelfLifeStorage\[=\].periodDuration.value = (.+)\n\* packaging.shelfLifeStorage\[=\].periodDuration.unit = \"(.+)\"",
-            #     r"\* packaging.shelfLifeStorage\[=\].periodDuration = \1 '\2'",
-            #     contents,
-            # )
-
-        # blacklist
-        bid = False
-        for blids in blacklist_ids:
-            if "Instance: " + blids in contents:
-                print(contents)
-                bid = True
-        if not bid:
-            f = open(target_folder + file, "w")
-            f.write(contents)
-            f.close()
+### clean up not needed files
+blacklist_ids = [
+    "Fragmin-10000IEml-Solution-SE-IS-MedicinalProductDef-BBDL.fsh",
+    "Fragmin-10000IEml-Solution-SE-IS-MedicinalProductDef.fsh",
+    "JMJ-Humalog-Mix50-Kwikpen-product-example",
+    "JMJ-Monuril-product-example",
+    "d37bfa6f-ea90-4645-8be4-e7c649dd64f2",
+    "bb8c2306-04c5-42df-94c9-aa6d6e68050b",  # PT
+    "7f81d47e-9a74-44b3-8ed7-07990093d878",
+]
+for file in listdir(target_folder):
+    # print(file)
+    res = file.split("-")[-1].split(".")[0]
+    if "-SE-" not in file or file in blacklist_ids:
+        remove(target_folder + file)
+        print("remove", file)
 
 
 ###aliases
